@@ -1,13 +1,13 @@
 import { ResearchResponse } from './types'
 
-// Use Next.js API routes (which proxy to the backend)
-// This avoids CORS issues
+// API base URL - uses environment variable in production, local proxy in development
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || ''
 
 export async function sendResearchQuery(
   query: string,
   context?: string
 ): Promise<ResearchResponse> {
-  const response = await fetch('/api/research', {
+  const response = await fetch(`${API_BASE_URL}/api/research`, {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
@@ -30,7 +30,7 @@ export async function sendQuickQuery(
   query: string,
   context?: string
 ): Promise<ResearchResponse> {
-  const response = await fetch('/api/query', {
+  const response = await fetch(`${API_BASE_URL}/api/query`, {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
