@@ -79,16 +79,11 @@ class CitationVerifier:
 
     def extract_quotes(self, text: str) -> list[str]:
         """Extract all quoted text from generated content."""
-        logger.info(f"Extracting quotes from text of length {len(text)}")
-        logger.info(f"Text preview: {text[:300]}...")
-
-        # Match double quotes, handling escaped quotes
+        # Match regular double quotes
         quotes = re.findall(r'"([^"]+)"', text)
-        logger.info(f"Found {len(quotes)} regular quotes")
 
-        # Also match smart quotes (Unicode: U+201C and U+201D)
+        # Also match smart/curly quotes (Unicode: U+201C and U+201D)
         smart_quotes = re.findall(r'\u201c([^\u201d]+)\u201d', text)
-        logger.info(f"Found {len(smart_quotes)} smart quotes")
         quotes.extend(smart_quotes)
         # Deduplicate while preserving order, filter out non-quote content
         seen = set()
@@ -187,12 +182,7 @@ class CitationVerifier:
             Tuple of (fixed_text, verified_citations, unverified_quotes)
         """
         quotes = self.extract_quotes(generated_text)
-        logger.info(f"Extracted {len(quotes)} quotes from generated text")
-        logger.info(f"Source chunks: {len(source_chunks)}")
-        if quotes:
-            logger.info(f"First quote: {quotes[0][:100]}...")
-        if source_chunks:
-            logger.info(f"First chunk content: {source_chunks[0].get('content', '')[:100]}...")
+        logger.debug(f"Extracted {len(quotes)} quotes from {len(source_chunks)} source chunks")
 
         verified_citations = []
         unverified_quotes = []
@@ -203,7 +193,6 @@ class CitationVerifier:
 
             if result:
                 chunk, similarity = result
-                logger.info(f"Quote matched with similarity {similarity:.2f}: {quote[:50]}...")
                 citation = self.create_citation(quote, chunk, similarity)
                 verified_citations.append(citation)
 
@@ -212,12 +201,11 @@ class CitationVerifier:
                     fixed_text, quote, citation
                 )
             else:
-                logger.warning(f"Quote NOT matched: {quote[:80]}...")
                 unverified_quotes.append(quote)
                 # Flag unverified quotes
                 fixed_text = self._flag_unverified(fixed_text, quote)
 
-        logger.info(f"Verification complete: {len(verified_citations)} verified, {len(unverified_quotes)} unverified")
+        logger.info(f"Citation verification: {len(verified_citations)} verified, {len(unverified_quotes)} unverified")
         return fixed_text, verified_citations, unverified_quotes
 
     def _ensure_citation_format(
