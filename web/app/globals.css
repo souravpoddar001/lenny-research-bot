@@ -149,6 +149,21 @@
   color: var(--color-amber);
 }
 
+/* Citation timestamp links (e.g., [00:08:54]) */
+.prose-chat a.citation-link,
+.prose-chat a[href*="youtube.com"] {
+  @apply no-underline px-1.5 py-0.5 rounded text-xs font-medium;
+  background: var(--color-violet-subtle);
+  color: var(--color-violet);
+}
+
+.prose-chat a.citation-link:hover,
+.prose-chat a[href*="youtube.com"]:hover {
+  background: var(--color-violet);
+  color: white;
+  box-shadow: 0 0 8px -2px rgba(139, 92, 246, 0.5);
+}
+
 .prose-chat code {
   @apply px-1.5 py-0.5 rounded text-sm font-mono;
   background: var(--color-surface-elevated);
