@@ -79,10 +79,17 @@ class CitationVerifier:
 
     def extract_quotes(self, text: str) -> list[str]:
         """Extract all quoted text from generated content."""
+        logger.info(f"Extracting quotes from text of length {len(text)}")
+        logger.info(f"Text preview: {text[:300]}...")
+
         # Match double quotes, handling escaped quotes
         quotes = re.findall(r'"([^"]+)"', text)
-        # Also match smart quotes
-        quotes.extend(re.findall(r'"([^"]+)"', text))
+        logger.info(f"Found {len(quotes)} regular quotes")
+
+        # Also match smart quotes (Unicode: U+201C and U+201D)
+        smart_quotes = re.findall(r'\u201c([^\u201d]+)\u201d', text)
+        logger.info(f"Found {len(smart_quotes)} smart quotes")
+        quotes.extend(smart_quotes)
         # Deduplicate while preserving order, filter out non-quote content
         seen = set()
         unique_quotes = []
