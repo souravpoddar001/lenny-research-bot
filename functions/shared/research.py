@@ -44,14 +44,18 @@ class ResearchOutput:
     sources: list[dict]
     unverified_quotes: list[str] = field(default_factory=list)
     query_plan: Optional[QueryPlan] = None
+    executive_summary: Optional[dict] = None
 
     def to_dict(self) -> dict:
-        return {
+        result = {
             "content": self.content,
             "citations": [c.to_dict() for c in self.citations],
             "sources": self.sources,
             "unverified_quotes": self.unverified_quotes,
         }
+        if self.executive_summary:
+            result["executive_summary"] = self.executive_summary
+        return result
 
 
 class DeepResearchPipeline:
