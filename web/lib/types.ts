@@ -1,5 +1,26 @@
 // Core data types for Lenny's Research Bot
 
+export type SupportingPoint = {
+  id: string
+  label: string
+  description: string
+  color: string
+}
+
+export type KeyQuote = {
+  text: string
+  speaker: string
+  timestamp: string
+  youtube_link: string
+  supports: string  // References SupportingPoint.id
+}
+
+export type ExecutiveSummary = {
+  main_insight: string
+  supporting_points: SupportingPoint[]
+  key_quotes: KeyQuote[]
+}
+
 export type Citation = {
   id: string
   quote: string
@@ -25,6 +46,7 @@ export type Message = {
   citations?: Citation[]
   sources?: Source[]
   suggestedFollowups?: string[]
+  executiveSummary?: ExecutiveSummary
   timestamp: Date
 }
 
@@ -36,4 +58,5 @@ export type ResearchResponse = {
   sources: Source[]
   unverified_quotes?: string[]
   suggested_followups?: string[]
+  executive_summary?: ExecutiveSummary
 }
