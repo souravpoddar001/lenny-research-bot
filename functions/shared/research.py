@@ -118,6 +118,21 @@ Write a comprehensive article based on the provided transcript excerpts. Require
    - Focus on actionable insights
    - Synthesize across multiple sources when relevant
 
+4. EXECUTIVE SUMMARY (REQUIRED):
+   After the article, output a JSON block tagged with ```executive_summary containing:
+   - main_insight: One sentence core takeaway (max 80 chars)
+   - supporting_points: Array of 3-4 objects with:
+     - id: "sp1", "sp2", etc.
+     - label: Short label (2-4 words)
+     - description: One sentence explanation
+     - color: Use these in order: "#8B5CF6", "#F59E0B", "#10B981", "#3B82F6"
+   - key_quotes: Array of 2-3 best quotes with:
+     - text: The exact quote (max 100 chars, truncate with ... if needed)
+     - speaker: Speaker name
+     - timestamp: HH:MM:SS format
+     - youtube_link: Will be filled in by system
+     - supports: Which supporting point id this evidences
+
 Write the article now based on the context provided."""
 
     SYNTHESIS_PROMPT_REPORT = """You are a research assistant creating a structured report from Lenny's Podcast insights.
@@ -149,6 +164,21 @@ Create a research report based on the provided transcript excerpts. Requirements
    - Evidence-based claims only
    - Clear attribution
 
+4. EXECUTIVE SUMMARY (REQUIRED):
+   After the report, output a JSON block tagged with ```executive_summary containing:
+   - main_insight: One sentence core takeaway (max 80 chars)
+   - supporting_points: Array of 3-4 objects with:
+     - id: "sp1", "sp2", etc.
+     - label: Short label (2-4 words)
+     - description: One sentence explanation
+     - color: Use these in order: "#8B5CF6", "#F59E0B", "#10B981", "#3B82F6"
+   - key_quotes: Array of 2-3 best quotes with:
+     - text: The exact quote (max 100 chars, truncate with ... if needed)
+     - speaker: Speaker name
+     - timestamp: HH:MM:SS format
+     - youtube_link: Will be filled in by system
+     - supports: Which supporting point id this evidences
+
 Write the report now based on the context provided."""
 
     SYNTHESIS_PROMPT_QA = """You are a research assistant answering questions based on Lenny's Podcast transcripts.
@@ -170,6 +200,21 @@ Answer the question directly based on the provided transcript excerpts. Requirem
    - Concise but thorough
    - Focus on the specific question asked
    - Acknowledge if information is limited
+
+4. EXECUTIVE SUMMARY (REQUIRED):
+   After the answer, output a JSON block tagged with ```executive_summary containing:
+   - main_insight: One sentence core takeaway (max 80 chars)
+   - supporting_points: Array of 3-4 objects with:
+     - id: "sp1", "sp2", etc.
+     - label: Short label (2-4 words)
+     - description: One sentence explanation
+     - color: Use these in order: "#8B5CF6", "#F59E0B", "#10B981", "#3B82F6"
+   - key_quotes: Array of 2-3 best quotes with:
+     - text: The exact quote (max 100 chars, truncate with ... if needed)
+     - speaker: Speaker name
+     - timestamp: HH:MM:SS format
+     - youtube_link: Will be filled in by system
+     - supports: Which supporting point id this evidences
 
 Answer the question now based on the context provided."""
 
