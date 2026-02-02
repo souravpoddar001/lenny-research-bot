@@ -119,19 +119,50 @@ Write a comprehensive article based on the provided transcript excerpts. Require
    - Synthesize across multiple sources when relevant
 
 4. EXECUTIVE SUMMARY (REQUIRED):
-   After the article, output a JSON block tagged with ```executive_summary containing:
-   - main_insight: One sentence core takeaway (max 80 chars)
-   - supporting_points: Array of 3-4 objects with:
+   After the article, output a JSON block tagged with ```executive_summary
+
+   QUALITY REQUIREMENTS - READ CAREFULLY:
+
+   a) MAIN INSIGHT must be:
+      - Self-explanatory: Reader learns something valuable WITHOUT reading the article
+      - Specific and surprising, not generic platitudes
+      - A complete thought, never truncated
+      - BAD: "Great PMs drive clarity and impact" (vague, obvious)
+      - BAD: "The key to success is understanding your users and..." (truncated)
+      - GOOD: "The best PMs say no to 90% of features—their job is to kill ideas, not add them"
+      - GOOD: "Hire for slope over intercept: a fast learner beats an expert every time"
+
+   b) SUPPORTING POINT LABELS must be:
+      - Self-explanatory to someone who knows NOTHING about the topic
+      - No jargon or undefined terms - if you say "growth model", explain what it does
+      - Specific insights that complete "I learned that..."
+      - BAD: "Team alignment", "Outcome focus" (buzzwords)
+      - BAD: "Use a spreadsheet growth model as common currency" (jargon - what does this mean?)
+      - BAD: "Leverage the flywheel effect" (undefined term)
+      - GOOD: "Kill features before they kill you"
+      - GOOD: "Your first 10 customers will define your entire product direction"
+      - GOOD: "Track one metric per growth stage, not dashboards"
+
+   c) KEY QUOTES must be:
+      - Complete thoughts that teach something on their own
+      - Never fragments or truncated with "..."
+      - If a quote is too long, pick a DIFFERENT quote—don't truncate
+      - BAD: "So avoid availability or confirmation bias." (fragment, no context)
+      - GOOD: "The best product managers I know are the ones who kill the most ideas, not the ones who come up with the most."
+
+   JSON Structure:
+   - main_insight: Single most valuable takeaway (80-150 chars, must be complete)
+   - supporting_points: Array of 3-4 objects:
      - id: "sp1", "sp2", etc.
-     - label: Short label (2-4 words)
-     - description: One sentence explanation
-     - color: Use these in order: "#8B5CF6", "#F59E0B", "#10B981", "#3B82F6"
-   - key_quotes: Array of 2-3 best quotes with:
-     - text: The exact quote (max 100 chars, truncate with ... if needed)
+     - label: Specific insight headline (5-10 words, completes "I learned that...")
+     - description: Why this matters (one sentence)
+     - color: Use in order: "#8B5CF6", "#F59E0B", "#10B981", "#3B82F6"
+   - key_quotes: Array of 2-3 quotes:
+     - text: Complete thought that teaches (60-150 chars, NO truncation)
      - speaker: Speaker name
      - timestamp: HH:MM:SS format
      - youtube_link: Will be filled in by system
-     - supports: Which supporting point id this evidences
+     - supports: Which supporting_point id this evidences
 
 Write the article now based on the context provided."""
 
@@ -165,19 +196,44 @@ Create a research report based on the provided transcript excerpts. Requirements
    - Clear attribution
 
 4. EXECUTIVE SUMMARY (REQUIRED):
-   After the report, output a JSON block tagged with ```executive_summary containing:
-   - main_insight: One sentence core takeaway (max 80 chars)
-   - supporting_points: Array of 3-4 objects with:
+   After the report, output a JSON block tagged with ```executive_summary
+
+   QUALITY REQUIREMENTS - READ CAREFULLY:
+
+   a) MAIN INSIGHT must be:
+      - Self-explanatory: Reader learns something valuable WITHOUT reading the report
+      - Specific and surprising, not generic platitudes
+      - A complete thought, never truncated
+      - BAD: "Great PMs drive clarity and impact" (vague, obvious)
+      - GOOD: "The best PMs say no to 90% of features—their job is to kill ideas, not add them"
+
+   b) SUPPORTING POINT LABELS must be:
+      - Self-explanatory to someone who knows NOTHING about the topic
+      - No jargon or undefined terms - if you say "growth model", explain what it does
+      - Specific insights that complete "I learned that..."
+      - BAD: "Team alignment", "Outcome focus" (buzzwords)
+      - BAD: "Use a spreadsheet growth model as common currency" (jargon - what does this mean?)
+      - GOOD: "Kill features before they kill you"
+      - GOOD: "Track one metric per growth stage, not dashboards"
+
+   c) KEY QUOTES must be:
+      - Complete thoughts that teach something on their own
+      - Never fragments or truncated with "..."
+      - If a quote is too long, pick a DIFFERENT quote—don't truncate
+
+   JSON Structure:
+   - main_insight: Single most valuable takeaway (80-150 chars, must be complete)
+   - supporting_points: Array of 3-4 objects:
      - id: "sp1", "sp2", etc.
-     - label: Short label (2-4 words)
-     - description: One sentence explanation
-     - color: Use these in order: "#8B5CF6", "#F59E0B", "#10B981", "#3B82F6"
-   - key_quotes: Array of 2-3 best quotes with:
-     - text: The exact quote (max 100 chars, truncate with ... if needed)
+     - label: Specific insight headline (5-10 words, completes "I learned that...")
+     - description: Why this matters (one sentence)
+     - color: Use in order: "#8B5CF6", "#F59E0B", "#10B981", "#3B82F6"
+   - key_quotes: Array of 2-3 quotes:
+     - text: Complete thought that teaches (60-150 chars, NO truncation)
      - speaker: Speaker name
      - timestamp: HH:MM:SS format
      - youtube_link: Will be filled in by system
-     - supports: Which supporting point id this evidences
+     - supports: Which supporting_point id this evidences
 
 Write the report now based on the context provided."""
 
@@ -202,19 +258,44 @@ Answer the question directly based on the provided transcript excerpts. Requirem
    - Acknowledge if information is limited
 
 4. EXECUTIVE SUMMARY (REQUIRED):
-   After the answer, output a JSON block tagged with ```executive_summary containing:
-   - main_insight: One sentence core takeaway (max 80 chars)
-   - supporting_points: Array of 3-4 objects with:
+   After the answer, output a JSON block tagged with ```executive_summary
+
+   QUALITY REQUIREMENTS - READ CAREFULLY:
+
+   a) MAIN INSIGHT must be:
+      - Self-explanatory: Reader learns the answer WITHOUT reading further
+      - Specific and direct, not vague
+      - A complete thought, never truncated
+      - BAD: "PMs should focus on outcomes and..." (truncated, vague)
+      - GOOD: "The best PMs say no to 90% of features—their job is to kill ideas, not add them"
+
+   b) SUPPORTING POINT LABELS must be:
+      - Self-explanatory to someone who knows NOTHING about the topic
+      - No jargon or undefined terms - if you say "growth model", explain what it does
+      - Specific insights that complete "I learned that..."
+      - BAD: "Team alignment", "Outcome focus" (buzzwords)
+      - BAD: "Use a spreadsheet growth model as common currency" (jargon - what does this mean?)
+      - GOOD: "Kill features before they kill you"
+      - GOOD: "Track one metric per growth stage, not dashboards"
+
+   c) KEY QUOTES must be:
+      - Complete thoughts that teach something on their own
+      - Never fragments or truncated with "..."
+      - If a quote is too long, pick a DIFFERENT quote—don't truncate
+
+   JSON Structure:
+   - main_insight: Single most valuable takeaway (80-150 chars, must be complete)
+   - supporting_points: Array of 3-4 objects:
      - id: "sp1", "sp2", etc.
-     - label: Short label (2-4 words)
-     - description: One sentence explanation
-     - color: Use these in order: "#8B5CF6", "#F59E0B", "#10B981", "#3B82F6"
-   - key_quotes: Array of 2-3 best quotes with:
-     - text: The exact quote (max 100 chars, truncate with ... if needed)
+     - label: Specific insight headline (5-10 words, completes "I learned that...")
+     - description: Why this matters (one sentence)
+     - color: Use in order: "#8B5CF6", "#F59E0B", "#10B981", "#3B82F6"
+   - key_quotes: Array of 2-3 quotes:
+     - text: Complete thought that teaches (60-150 chars, NO truncation)
      - speaker: Speaker name
      - timestamp: HH:MM:SS format
      - youtube_link: Will be filled in by system
-     - supports: Which supporting point id this evidences
+     - supports: Which supporting_point id this evidences
 
 Answer the question now based on the context provided."""
 
