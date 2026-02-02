@@ -558,10 +558,27 @@ Answer the question now based on the context provided."""
 
         content = response.choices[0].message.content
 
+        # Parse executive summary from response
+        content, executive_summary = self._parse_executive_summary(content)
+
         # Verify and fix citations
         fixed_content, citations, unverified = self.citation_verifier.verify_and_fix(
             content, chunks
         )
+
+        # Update executive summary with youtube links now that we have citations
+        if executive_summary:
+            citation_map = {c.timestamp: c.to_youtube_link() for c in citations}
+            for quote in executive_summary.get('key_quotes', []):
+                timestamp = quote.get('timestamp', '')
+                if timestamp in citation_map:
+                    quote['youtube_link'] = citation_map[timestamp]
+                elif not quote.get('youtube_link'):
+                    # Try to find by speaker
+                    for c in citations:
+                        if c.speaker == quote.get('speaker'):
+                            quote['youtube_link'] = c.to_youtube_link()
+                            break
 
         # Add sources section
         sources_section = self.citation_verifier.format_citations_section(citations)
@@ -573,6 +590,7 @@ Answer the question now based on the context provided."""
             sources=self._extract_sources(chunks),
             unverified_quotes=unverified,
             query_plan=plan,
+            executive_summary=executive_summary,
         )
 
     def _format_context(self, chunks: list[dict]) -> str:
@@ -591,6 +609,33 @@ Timestamp: {chunk.get('timestamp_start', '00:00:00')}
             formatted_parts.append(part)
 
         return "\n\n".join(formatted_parts)
+
+    def _parse_executive_summary(self, content: str) -> tuple[str, Optional[dict]]:
+        """
+        Parse executive summary JSON from LLM response.
+
+        Returns:
+            Tuple of (content_without_json, executive_summary_dict)
+        """
+        import re
+
+        # Look for ```executive_summary or ```json tagged block
+        pattern = r'```(?:executive_summary|json)\s*(\{[\s\S]*?\})\s*```'
+        match = re.search(pattern, content)
+
+        if not match:
+            return content, None
+
+        # Extract JSON and clean content
+        json_str = match.group(1)
+        clean_content = content[:match.start()].rstrip()
+
+        try:
+            summary = json.loads(json_str)
+            return clean_content, summary
+        except json.JSONDecodeError:
+            logger.warning("Failed to parse executive summary JSON")
+            return content, None
 
     def _extract_sources(self, chunks: list[dict]) -> list[dict]:
         """Extract unique sources from chunks."""
