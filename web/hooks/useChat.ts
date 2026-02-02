@@ -99,6 +99,7 @@ export function useChat() {
           citations: citationsWithIds,
           sources: response.sources,
           suggestedFollowups,
+          executiveSummary: response.executive_summary,
           timestamp: new Date(),
         }
 
