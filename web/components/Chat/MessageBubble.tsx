@@ -3,7 +3,8 @@
 import { useMemo } from 'react'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
-import { Message, Citation } from '@/lib/types'
+import { Message, Citation, ExecutiveSummary as ExecutiveSummaryType } from '@/lib/types'
+import { ExecutiveSummary } from './ExecutiveSummary'
 
 // Helper to escape special regex characters
 function escapeRegex(str: string): string {
@@ -25,6 +26,7 @@ export function MessageBubble({ message, onCitationClick, isLatest }: MessageBub
     <AssistantMessage
       content={message.content}
       citations={message.citations || []}
+      executiveSummary={message.executiveSummary}
       onCitationClick={onCitationClick}
       isLatest={isLatest}
     />
@@ -52,11 +54,13 @@ function UserMessage({ content }: { content: string }) {
 function AssistantMessage({
   content,
   citations,
+  executiveSummary,
   onCitationClick,
   isLatest,
 }: {
   content: string
   citations: Citation[]
+  executiveSummary?: ExecutiveSummaryType
   onCitationClick: (citationId: string) => void
   isLatest?: boolean
 }) {
@@ -90,6 +94,9 @@ function AssistantMessage({
   return (
     <div className={`py-6 px-4 ${isLatest ? 'message-enter' : ''}`}>
       <div className="max-w-3xl mx-auto">
+        {/* Executive Summary */}
+        {executiveSummary && <ExecutiveSummary summary={executiveSummary} />}
+
         {/* Main content */}
         <div className="prose-chat">
           <ReactMarkdown
