@@ -5,9 +5,12 @@ Ensures all quotes in generated content exist in source material.
 """
 
 import re
+import logging
 from dataclasses import dataclass
 from typing import Optional
 from rapidfuzz import fuzz
+
+logger = logging.getLogger(__name__)
 
 
 @dataclass
@@ -177,6 +180,13 @@ class CitationVerifier:
             Tuple of (fixed_text, verified_citations, unverified_quotes)
         """
         quotes = self.extract_quotes(generated_text)
+        logger.info(f"Extracted {len(quotes)} quotes from generated text")
+        logger.info(f"Source chunks: {len(source_chunks)}")
+        if quotes:
+            logger.info(f"First quote: {quotes[0][:100]}...")
+        if source_chunks:
+            logger.info(f"First chunk content: {source_chunks[0].get('content', '')[:100]}...")
+
         verified_citations = []
         unverified_quotes = []
         fixed_text = generated_text
@@ -186,6 +196,7 @@ class CitationVerifier:
 
             if result:
                 chunk, similarity = result
+                logger.info(f"Quote matched with similarity {similarity:.2f}: {quote[:50]}...")
                 citation = self.create_citation(quote, chunk, similarity)
                 verified_citations.append(citation)
 
@@ -194,10 +205,12 @@ class CitationVerifier:
                     fixed_text, quote, citation
                 )
             else:
+                logger.warning(f"Quote NOT matched: {quote[:80]}...")
                 unverified_quotes.append(quote)
                 # Flag unverified quotes
                 fixed_text = self._flag_unverified(fixed_text, quote)
 
+        logger.info(f"Verification complete: {len(verified_citations)} verified, {len(unverified_quotes)} unverified")
         return fixed_text, verified_citations, unverified_quotes
 
     def _ensure_citation_format(
