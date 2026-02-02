@@ -1,0 +1,242 @@
+{
+  "episode_id": "jeremy-henrickson",
+  "topics": [
+    {
+      "topic_id": "jeremy-henrickson_t1",
+      "title": "Introduction and Background",
+      "summary": "Jeremy\u2019s leadership philosophy is previewed, followed by Lenny\u2019s introduction of Jeremy\u2019s roles at Rippling and Coinbase and what the episode will cover (velocity at scale, fast decisions, going deep, hiring, MVPs, complex use cases).",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:26",
+      "speakers": [
+        "Jeremy Henrickson",
+        "Lenny"
+      ],
+      "themes": [
+        "Leadership",
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jeremy-henrickson_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Miro and Mixpanel, including links and brief product pitches.",
+      "timestamp_start": "00:01:27",
+      "timestamp_end": "00:03:29",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jeremy-henrickson_t3",
+      "title": "Coinbase hypergrowth during the 2017 crypto boom",
+      "summary": "Jeremy describes Coinbase\u2019s 40x usage growth, the operational chaos of scaling systems under extreme demand, and the importance of trusted teammates during constant incidents.",
+      "timestamp_start": "00:03:30",
+      "timestamp_end": "00:05:24",
+      "speakers": [
+        "Lenny",
+        "Jeremy Henrickson"
+      ],
+      "themes": [
+        "Scaling",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jeremy-henrickson_t4",
+      "title": "Staying focused amid volatility and security constraints",
+      "summary": "They discuss how Coinbase maintained focus: treating it as a technical/customer-money problem, keeping security as the top constraint, and balancing urgent firefighting with a 6\u2011month scaling plan.",
+      "timestamp_start": "00:05:25",
+      "timestamp_end": "00:07:31",
+      "speakers": [
+        "Lenny",
+        "Jeremy Henrickson"
+      ],
+      "themes": [
+        "Execution",
+        "Risk & Security"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jeremy-henrickson_t5",
+      "title": "Handling uncertainty and learning through intense periods",
+      "summary": "Jeremy explains decision-making under deep uncertainty (e.g., which crypto assets matter) and reflects on the career-accelerating learning that comes from high-stress, high-growth \u201ccrucible\u201d moments.",
+      "timestamp_start": "00:07:32",
+      "timestamp_end": "00:09:11",
+      "speakers": [
+        "Lenny",
+        "Jeremy Henrickson"
+      ],
+      "themes": [
+        "Leadership",
+        "Decision-Making"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jeremy-henrickson_t6",
+      "title": "Maintaining velocity at scale: teams, platforms, deep dives",
+      "summary": "Jeremy outlines core levers for speed at scale: small teams with clear missions, investing in platforms to reduce complexity, leaders going deep in the trenches, and continuously matching team skills to the product\u2019s lifecycle stage.",
+      "timestamp_start": "00:09:12",
+      "timestamp_end": "00:12:06",
+      "speakers": [
+        "Lenny",
+        "Jeremy Henrickson"
+      ],
+      "themes": [
+        "Scaling",
+        "Execution",
+        "Org Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jeremy-henrickson_t7",
+      "title": "Rippling\u2019s small-team model for launching new products",
+      "summary": "A concrete example (Time & Attendance) illustrates Rippling\u2019s approach: start with a tiny, monomaniacally focused team; keep leadership visibility high; and replicate the pattern across many new product bets.",
+      "timestamp_start": "00:12:07",
+      "timestamp_end": "00:14:28",
+      "speakers": [
+        "Lenny",
+        "Jeremy Henrickson"
+      ],
+      "themes": [
+        "Org Design",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jeremy-henrickson_t8",
+      "title": "The \u201cfounder engineer + designer\u201d incubation process",
+      "summary": "Jeremy details the repeatable lifecycle: pick an entrepreneurial lead engineer (internal or external), pair with a designer steeped in Rippling\u2019s platform, recruit a small zero-to-one team, ship in ~6\u20139 months, then scale headcount as needed.",
+      "timestamp_start": "00:14:29",
+      "timestamp_end": "00:18:02",
+      "speakers": [
+        "Lenny",
+        "Jeremy Henrickson"
+      ],
+      "themes": [
+        "Product Development",
+        "Org Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jeremy-henrickson_t9",
+      "title": "Why Rippling avoids MVPs and designs complex-first",
+      "summary": "Jeremy argues MVPs can constrain creativity and lock in wrong architecture; instead, teams design for the hardest enterprise/global cases upfront while still choosing what to support in v1 to preserve long-term speed.",
+      "timestamp_start": "00:18:03",
+      "timestamp_end": "00:23:16",
+      "speakers": [
+        "Lenny",
+        "Jeremy Henrickson"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Product Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jeremy-henrickson_t10",
+      "title": "Compound startup and single system-of-record differentiation",
+      "summary": "They unpack Rippling as many businesses on one platform: a unified system of record enables workflows, permissions, and data consistency that point-solution vendors can\u2019t match, creating durable differentiation.",
+      "timestamp_start": "00:23:17",
+      "timestamp_end": "00:27:08",
+      "speakers": [
+        "Lenny",
+        "Jeremy Henrickson"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Platform"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jeremy-henrickson_t11",
+      "title": "Culture of fast decision-making and leadership principles",
+      "summary": "Jeremy describes Rippling\u2019s unusually high tempo: make decisions immediately when possible, enforce planning deadlines, and codify behaviors via leadership principles derived from observing who succeeds at the company.",
+      "timestamp_start": "00:27:09",
+      "timestamp_end": "00:31:22",
+      "speakers": [
+        "Lenny",
+        "Jeremy Henrickson"
+      ],
+      "themes": [
+        "Culture",
+        "Decision-Making"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jeremy-henrickson_t12",
+      "title": "Sponsor Break",
+      "summary": "Lenny promotes lennysjobs.com/talent for hiring and job-seeking, describing the curated talent pool and how companies and candidates can use it.",
+      "timestamp_start": "00:31:23",
+      "timestamp_end": "00:32:26",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Operations"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jeremy-henrickson_t13",
+      "title": "How to move faster: clarity, \u201cgo and see,\u201d deep expertise",
+      "summary": "Jeremy advises leaders to be explicit about priorities and non-priorities, and to \u201cgo and see\u201d by getting to ground truth with builders and domain details; he emphasizes product leaders becoming world experts and keeping the product org thin.",
+      "timestamp_start": "00:32:27",
+      "timestamp_end": "00:38:41",
+      "speakers": [
+        "Lenny",
+        "Jeremy Henrickson"
+      ],
+      "themes": [
+        "Leadership",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jeremy-henrickson_t14",
+      "title": "Leaders are right a lot: decision quality as a core skill",
+      "summary": "They discuss why Rippling values leaders who make correct calls under ambiguity; Jeremy frames it as a hard-to-teach but critical product leadership capability that allocates company time and energy effectively.",
+      "timestamp_start": "00:38:42",
+      "timestamp_end": "00:40:34",
+      "speakers": [
+        "Lenny",
+        "Jeremy Henrickson"
+      ],
+      "themes": [
+        "Leadership",
+        "Decision-Making"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jeremy-henrickson_t15",
+      "title": "Global expansion: choosing countries and starting earlier",
+      "summary": "Jeremy explains how Rippling prioritized countries using existing customer demand data plus difficulty/strategic value, and argues companies should expand internationally earlier than they think due to hidden complexity and accelerating globalization post-COVID.",
+      "timestamp_start": "00:40:35",
+      "timestamp_end": "00:43:35",
+      "speakers": [
+        "Lenny",
+        "Jeremy Henrickson"
+      ],
+      "themes": [
+        "Global Expansion",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "episode_id": "julie-zhuo-20",
+  "topics": [
+    {
+      "topic_id": "julie-zhuo-20_t1",
+      "title": "AI, org flattening, and managers as ICs",
+      "summary": "Lenny and Julie discuss orgs flattening, middle managers being cut, and how AI enables individuals to do more work themselves. Julie argues management remains critical, but the nature of resources shifts from people to models/tools.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:27",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Julie Zhuo"
+      ],
+      "themes": [
+        "AI & Agents",
+        "Management & Leadership",
+        "Org Design & Team Structure"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "julie-zhuo-20_t2",
+      "title": "Managing change: the willow tree metaphor",
+      "summary": "Julie frames modern management as managing accelerating change\u2014being sturdy while flexible. She uses the willow tree metaphor to describe resilience amid uncertainty.",
+      "timestamp_start": "00:00:39",
+      "timestamp_end": "00:01:00",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Julie Zhuo"
+      ],
+      "themes": [
+        "Management & Leadership",
+        "Change Management",
+        "Career Growth"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "julie-zhuo-20_t3",
+      "title": "Diagnose with data, treat with design",
+      "summary": "Julie explains her philosophy that data helps identify problems/opportunities, while design creates solutions. She notes many fast-growing companies still underuse data until growth slows and reality forces better instrumentation.",
+      "timestamp_start": "00:01:00",
+      "timestamp_end": "00:01:27",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Julie Zhuo"
+      ],
+      "themes": [
+        "Data & Analytics",
+        "Product Strategy",
+        "Design"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "julie-zhuo-20_t4",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Julie Zhuo, her background at Facebook, her book The Making of a Manager, and her startup Sundial. He previews episode topics and mentions subscriber perks.",
+      "timestamp_start": "00:01:27",
+      "timestamp_end": "00:03:20",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Introduction",
+        "Career Growth",
+        "Startups & Founding"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "julie-zhuo-20_t5",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Mercury (banking for startups) and DX (developer intelligence platform for AI-era productivity insights).",
+      "timestamp_start": "00:03:20",
+      "timestamp_end": "00:05:26",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "julie-zhuo-20_t6",
+      "title": "Reunion, podcast growth, and the fireplace Easter egg",
+      "summary": "Julie and Lenny reflect on the first-ever episode, the shift to video, and Lenny\u2019s recurring fireplace/mirror Easter egg. They also note the podcast\u2019s massive download growth.",
+      "timestamp_start": "00:05:26",
+      "timestamp_end": "00:07:01",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Julie Zhuo"
+      ],
+      "themes": [
+        "Introduction",
+        "Community & Content",
+        "Career Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "julie-zhuo-20_t7",
+      "title": "Re-releasing The Making of a Manager",
+      "summary": "Julie shares why she wrote the book (to become a better manager) and what surprised her about its broad impact. They position it as a modern counterpart to classic management texts.",
+      "timestamp_start": "00:07:01",
+      "timestamp_end": "00:08:29",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Julie Zhuo"
+      ],
+      "themes": [
+        "Management & Leadership",
+        "Career Growth",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "julie-zhuo-20_t8",
+      "title": "Everyone becomes a manager of AI agents",
+      "summary": "They explore how managing people maps to managing agentic systems: setting goals, understanding strengths of different models, and designing processes/tools. Julie emphasizes clear outcomes and context as core leverage.",
+      "timestamp_start": "00:08:29",
+      "timestamp_end": "00:14:01",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Julie Zhuo"
+      ],
+      "themes": [
+        "AI & Agents",
+        "Management & Leadership",
+        "Execution & Process"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "julie-zhuo-20_t9",
+      "title": "Builders, smaller teams, and no-PM experiments",
+      "summary": "Julie argues AI dissolves traditional role boundaries, enabling smaller teams of \u201cbuilders.\u201d She explains why Sundial often avoids hiring PMs to prevent delegation-by-role and push engineers to own product thinking.",
+      "timestamp_start": "00:14:01",
+      "timestamp_end": "00:21:31",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Julie Zhuo"
+      ],
+      "themes": [
+        "Org Design & Team Structure",
+        "AI & Agents",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "julie-zhuo-20_t10",
+      "title": "AI tools accelerating work and learning",
+      "summary": "Julie describes how AI expands cross-functional capability (engineering, prototyping, analysis) and highlights AI as a personalized teacher. She shares examples of engineers learning analysis context and using AI to test understanding.",
+      "timestamp_start": "00:21:31",
+      "timestamp_end": "00:26:40",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Julie Zhuo"
+      ],
+      "themes": [
+        "AI & Agents",
+        "Career Growth",
+        "Execution & Process"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "julie-zhuo-20_t11",
+      "title": "Why fast-growing AI companies underuse data",
+      "summary": "Julie explains that hypergrowth often outpaces data infrastructure, so companies run on instincts until growth slows. She also notes new product paradigms (conversational UX) require new analytics methods to infer intent and success.",
+      "timestamp_start": "00:26:40",
+      "timestamp_end": "00:31:40",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Julie Zhuo"
+      ],
+      "themes": [
+        "Data & Analytics",
+        "AI & Agents",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "julie-zhuo-20_t12",
+      "title": "Designers vs data: misconceptions and balance",
+      "summary": "Julie addresses designer skepticism about data, reiterating data informs reality but doesn\u2019t dictate solutions. She warns against \u201cA/B testing your way\u201d to greatness while advocating thoughtful metric choice and interpretation.",
+      "timestamp_start": "00:31:40",
+      "timestamp_end": "00:37:03",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Julie Zhuo"
+      ],
+      "themes": [
+        "Design",
+        "Data & Analytics",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "julie-zhuo-20_t13",
+      "title": "AI-era management: uncertainty, fear, and communication",
+      "summary": "Julie says the biggest shift is the accelerating rate of change and the anxiety it creates about careers and relevance. Managers must communicate clearly, acknowledge fear, and help teams adapt without spiraling into chaos.",
+      "timestamp_start": "00:37:03",
+      "timestamp_end": "00:42:11",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Julie Zhuo"
+      ],
+      "themes": [
+        "Management & Leadership",
+        "Change Management",
+        "AI & Agents"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "julie-zhuo-20_t14",
+      "title": "Timeless advice: manage yourself and dimensionality",
+      "summary": "Julie emphasizes self-management as foundational for new managers, including understanding strengths/weaknesses without tying them to identity. She introduces \u201cdimensionality\u201d as a way to receive feedback objectively and grow.",
+      "timestamp_start": "00:42:14",
+      "timestamp_end": "00:44:48",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Julie Zhuo"
+      ],
+      "themes": [
+        "Management & Leadership",
+        "Career Growth",
+        "Communication"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

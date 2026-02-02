@@ -1,0 +1,251 @@
+{
+  "episode_id": "marty-cagan",
+  "topics": [
+    {
+      "topic_id": "marty-cagan_t1",
+      "title": "Introduction and Background",
+      "summary": "Marty opens with concerns about overhiring and inflated roles, and Lenny introduces Marty\u2019s background, new book (TRANSFORMED), and the episode\u2019s focus on \"product management theater\" and empowered teams.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:43",
+      "speakers": [
+        "Marty Cagan",
+        "Lenny"
+      ],
+      "themes": [
+        "Product Management",
+        "Product Leadership",
+        "Careers"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "marty-cagan_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Sprig (product insights platform) and Eppo (A/B testing and feature management).",
+      "timestamp_start": "00:01:43",
+      "timestamp_end": "00:04:49",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Other"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "marty-cagan_t3",
+      "title": "Why Marty is getting \"spicier\"",
+      "summary": "Marty explains he\u2019s intentionally dialing up rhetoric due to converging industry disruptions and clarifies SVPG\u2019s focus on principles common to top product companies versus Lenny\u2019s broader perspective-sharing approach.",
+      "timestamp_start": "00:04:49",
+      "timestamp_end": "00:12:08",
+      "speakers": [
+        "Lenny",
+        "Marty Cagan"
+      ],
+      "themes": [
+        "Product Leadership",
+        "Product Management",
+        "Industry Trends"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "marty-cagan_t4",
+      "title": "Defining product management theater",
+      "summary": "Marty outlines macro forces (pandemic overhiring, higher cost of capital, GenAI uncertainty, bloated org roles, remote-work impacts) and argues many companies have excessive process/roles with little outcome to show, prompting cuts and \"theater\".",
+      "timestamp_start": "00:12:08",
+      "timestamp_end": "00:18:33",
+      "speakers": [
+        "Lenny",
+        "Marty Cagan"
+      ],
+      "themes": [
+        "Industry Trends",
+        "Product Leadership",
+        "Org Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "marty-cagan_t5",
+      "title": "Why PMs are disliked in some companies",
+      "summary": "Lenny notes a trend of companies wanting \"no PMs\"; Marty argues this usually reflects feature teams where PMs act like project managers and add limited value, making them easy targets for skepticism and layoffs.",
+      "timestamp_start": "00:18:33",
+      "timestamp_end": "00:20:46",
+      "speakers": [
+        "Lenny",
+        "Marty Cagan"
+      ],
+      "themes": [
+        "Product Management",
+        "Careers",
+        "Org Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "marty-cagan_t6",
+      "title": "Feature teams versus empowered product teams",
+      "summary": "Marty contrasts feature teams (roadmap of outputs, dates, shipping features) with empowered product teams (given problems/outcomes, measured by solving them), framing the shift as \"time to money\" over \"time to market\".",
+      "timestamp_start": "00:20:46",
+      "timestamp_end": "00:24:00",
+      "speakers": [
+        "Lenny",
+        "Marty Cagan"
+      ],
+      "themes": [
+        "Product Management",
+        "Product Strategy",
+        "Org Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "marty-cagan_t7",
+      "title": "What \"theater\" looks like in practice",
+      "summary": "They discuss PMs carrying the title without the skills/responsibilities; Marty argues many can upskill if motivated, moving from facilitation/project management to real product work.",
+      "timestamp_start": "00:24:00",
+      "timestamp_end": "00:24:48",
+      "speakers": [
+        "Lenny",
+        "Marty Cagan"
+      ],
+      "themes": [
+        "Product Management",
+        "Careers"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "marty-cagan_t8",
+      "title": "Core PM skills: value and viability ownership",
+      "summary": "Marty details what real PMs do: deep customer knowledge, data fluency, market understanding, and representing constraints (legal, compliance, monetization, GTM), contrasting this with backlog/Jira-focused \"product owner\" training.",
+      "timestamp_start": "00:24:48",
+      "timestamp_end": "00:29:27",
+      "speakers": [
+        "Lenny",
+        "Marty Cagan"
+      ],
+      "themes": [
+        "Product Management",
+        "Careers",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "marty-cagan_t9",
+      "title": "Reckoning for delivery/feature-team PM roles",
+      "summary": "Lenny cites Marty\u2019s warning that delivery/feature-team PM roles face a reckoning, amplified by GenAI; Marty argues the path forward is raising skills and exercising agency to change how teams operate, even bottom-up.",
+      "timestamp_start": "00:29:27",
+      "timestamp_end": "00:32:05",
+      "speakers": [
+        "Lenny",
+        "Marty Cagan"
+      ],
+      "themes": [
+        "Careers",
+        "Industry Trends",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "marty-cagan_t10",
+      "title": "How to upskill amid bad advice and certifications",
+      "summary": "Marty criticizes popular PM certifications and online content for reinforcing project-management models; he advises PMs to take ownership of learning, be discerning about sources, and develop critical thinking.",
+      "timestamp_start": "00:32:05",
+      "timestamp_end": "00:38:04",
+      "speakers": [
+        "Lenny",
+        "Marty Cagan"
+      ],
+      "themes": [
+        "Careers",
+        "Product Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "marty-cagan_t11",
+      "title": "Silicon Valley bubble versus how most companies work",
+      "summary": "Lenny shares disbelief from working at a strong product company; Marty recounts his own \"bubble\" realization and SVPG\u2019s mission to spread effective practices beyond Silicon Valley.",
+      "timestamp_start": "00:38:04",
+      "timestamp_end": "00:40:18",
+      "speakers": [
+        "Lenny",
+        "Marty Cagan"
+      ],
+      "themes": [
+        "Industry Trends",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "marty-cagan_t12",
+      "title": "Is it ever okay to be a feature factory?",
+      "summary": "They debate whether sales-driven B2B companies can accept feature-factory dynamics; Marty argues it leads to poor products and that empowered teams can do everything feature teams do\u2014and more\u2014while caring about customers.",
+      "timestamp_start": "00:40:18",
+      "timestamp_end": "00:43:31",
+      "speakers": [
+        "Lenny",
+        "Marty Cagan"
+      ],
+      "themes": [
+        "Product Management",
+        "Product Leadership",
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "marty-cagan_t13",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Vanta (security and compliance automation).",
+      "timestamp_start": "00:43:31",
+      "timestamp_end": "00:44:22",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Other"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "marty-cagan_t14",
+      "title": "Meta: strategy from leaders, empowerment in teams",
+      "summary": "Lenny asks about Meta seeming bottom-up but described as top-down; Marty clarifies that strong product orgs have leaders set strategy/bets while teams are empowered to discover solutions\u2014this isn\u2019t \"top-down roadmaps\".",
+      "timestamp_start": "00:44:22",
+      "timestamp_end": "00:47:06",
+      "speakers": [
+        "Lenny",
+        "Marty Cagan"
+      ],
+      "themes": [
+        "Product Leadership",
+        "Product Strategy",
+        "Org Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "marty-cagan_t15",
+      "title": "PM role shifts and GenAI changing techniques",
+      "summary": "They discuss whether PM work is shifting post-easy-money era; Marty distinguishes optimization/growth-hacking from true discovery and notes GenAI is rapidly changing techniques, warning against over-trusting AI outputs and recommending thinking first, then using AI to refine.",
+      "timestamp_start": "00:47:06",
+      "timestamp_end": "00:52:07",
+      "speakers": [
+        "Lenny",
+        "Marty Cagan"
+      ],
+      "themes": [
+        "Industry Trends",
+        "Product Management",
+        "AI"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

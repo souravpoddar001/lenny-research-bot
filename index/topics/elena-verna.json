@@ -1,0 +1,170 @@
+{
+  "episode_id": "elena-verna",
+  "topics": [
+    {
+      "topic_id": "elena-verna_t1",
+      "title": "Introduction and background on growth misinformation",
+      "summary": "Elena frames growth as a young discipline with lots of out-of-context \u201cgrowth hacks,\u201d leading to repeated failures and high churn in growth leadership roles.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:08:31",
+      "speakers": [
+        "Elena Verna",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Growth Strategy",
+        "Leadership & Hiring"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elena-verna_t2",
+      "title": "Tactic #1: Hiring growth too early",
+      "summary": "Elena argues founders must lead early growth until there\u2019s real product-market fit and enough data volume for experimentation; otherwise a growth hire is premature and set up to fail.",
+      "timestamp_start": "00:08:34",
+      "timestamp_end": "00:12:24",
+      "speakers": [
+        "Elena Verna",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Leadership & Hiring",
+        "Product-Market Fit",
+        "Growth Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elena-verna_t3",
+      "title": "Sales-led vs product-led timing for growth hires",
+      "summary": "They discuss when to hire sales vs growth depending on whether monetization is sales-led or self-serve/product-led, and how growth becomes more relevant as product takes on funnel responsibilities.",
+      "timestamp_start": "00:12:24",
+      "timestamp_end": "00:15:13",
+      "speakers": [
+        "Elena Verna",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Leadership & Hiring",
+        "Growth Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elena-verna_t4",
+      "title": "Tactic #2: Hiring growth to reverse decline",
+      "summary": "Elena warns that bringing in a head of growth to fix a slowing/declining business rarely works; growth can optimize but can\u2019t solve deeper product or GTM issues causing the slowdown.",
+      "timestamp_start": "00:15:16",
+      "timestamp_end": "00:19:18",
+      "speakers": [
+        "Elena Verna",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Growth Strategy",
+        "Product Strategy",
+        "Leadership & Hiring"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elena-verna_t5",
+      "title": "Tactic #3: Rebrands and homepage redesigns for growth",
+      "summary": "Elena says marketing-site redesigns/rebrands almost always hurt performance initially and rarely drive acquisition; if you do them, plan for a dip and months of post-launch optimization.",
+      "timestamp_start": "00:19:23",
+      "timestamp_end": "00:25:08",
+      "speakers": [
+        "Elena Verna",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Marketing",
+        "Experimentation",
+        "Growth Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elena-verna_t6",
+      "title": "Tactic #4: Copying competitors and misusing benchmarks",
+      "summary": "Competitive research is useful for inspiration and pattern-spotting, but copying flows blindly fails because contexts differ; benchmarks are also risky due to inconsistent metric definitions.",
+      "timestamp_start": "00:25:13",
+      "timestamp_end": "00:34:00",
+      "speakers": [
+        "Elena Verna",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Competitive Strategy",
+        "Analytics & Metrics",
+        "Growth Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elena-verna_t7",
+      "title": "Tactic #5: Treating problems as unique (starting from scratch)",
+      "summary": "Elena argues most growth problems are common and should be solved by learning from others, reusing patterns/frameworks, and asking experts\u2014rather than reinventing solutions with high opportunity cost.",
+      "timestamp_start": "00:34:02",
+      "timestamp_end": "00:41:01",
+      "speakers": [
+        "Elena Verna",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Growth Strategy",
+        "Learning & Development",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elena-verna_t8",
+      "title": "Sponsor Break",
+      "summary": "OneSchema ad read and short discussion about CSV imports and integration reliability.",
+      "timestamp_start": "00:41:01",
+      "timestamp_end": "00:42:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Christina Gilbert"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elena-verna_t9",
+      "title": "Recap of tactics one through five",
+      "summary": "Lenny summarizes the first five \u201ctactics that never work,\u201d reinforcing the key takeaways around hiring timing, decline dynamics, redesign pitfalls, competitor copying, and not reinventing the wheel.",
+      "timestamp_start": "00:42:33",
+      "timestamp_end": "00:43:55",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Elena Verna"
+      ],
+      "themes": [
+        "Growth Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "elena-verna_t10",
+      "title": "Tactic #6: Growth teams over-prioritizing SEO/SEM",
+      "summary": "Elena argues growth teams should prioritize building owned/earned acquisition channels (virality, word-of-mouth, UGC) over relying on algorithm-driven platforms where costs rise and control is limited.",
+      "timestamp_start": "00:43:57",
+      "timestamp_end": "00:48:46",
+      "speakers": [
+        "Elena Verna",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Acquisition",
+        "Product-Led Growth",
+        "Growth Strategy"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "episode_id": "marc-benioff",
+  "topics": [
+    {
+      "topic_id": "marc-benioff_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny tees up Salesforce\u2019s legendary launch, Marc\u2019s view on stock as a distraction, and the urgency of AI/agents. Lenny introduces Marc and previews major topics for the episode.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:49",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Marc Benioff"
+      ],
+      "themes": [
+        "Introduction",
+        "Leadership",
+        "AI"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "marc-benioff_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Cloudinary and Enterpret, describing their products and offers for listeners.",
+      "timestamp_start": "00:01:49",
+      "timestamp_end": "00:03:57",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "marc-benioff_t3",
+      "title": "Domain names, Oracle years, and early internet bets",
+      "summary": "Marc explains how a decade at Oracle and a break in Hawaii led him to buy visionary domain names (including Salesforce.com) as bets on where the internet was heading.",
+      "timestamp_start": "00:03:57",
+      "timestamp_end": "00:06:00",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Marc Benioff"
+      ],
+      "themes": [
+        "Entrepreneurship",
+        "Strategy",
+        "Technology"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "marc-benioff_t4",
+      "title": "Steve Jobs, App Store origin, and gifting appstore.com",
+      "summary": "Marc recounts his relationship with Steve Jobs, the advice to build an \u201capplication economy,\u201d the creation of AppExchange, and ultimately gifting appstore.com and the trademark to Apple.",
+      "timestamp_start": "00:06:00",
+      "timestamp_end": "00:12:59",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Marc Benioff"
+      ],
+      "themes": [
+        "Leadership",
+        "Entrepreneurship",
+        "Product"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "marc-benioff_t5",
+      "title": "Generosity, mentorship, and Jobs\u2019 view of enterprise software",
+      "summary": "They reflect on Jobs\u2019 generosity and mentorship, including personal anecdotes and his skepticism (and humor) about Marc choosing enterprise software\u2014despite supporting him.",
+      "timestamp_start": "00:12:59",
+      "timestamp_end": "00:15:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Marc Benioff"
+      ],
+      "themes": [
+        "Leadership",
+        "Career",
+        "Entrepreneurship"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "marc-benioff_t6",
+      "title": "Salesforce launch stunts and breaking through noise",
+      "summary": "Marc relives the \u201cNo Software\u201d era, including hiring actors to protest Siebel and staging a fake news crew, as a way to cut through market noise and create attention.",
+      "timestamp_start": "00:15:12",
+      "timestamp_end": "00:18:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Marc Benioff"
+      ],
+      "themes": [
+        "Marketing",
+        "Entrepreneurship",
+        "Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "marc-benioff_t7",
+      "title": "Launching Agentforce: tactics, distribution, and competitive positioning",
+      "summary": "Marc connects early launch lessons to today\u2019s Agentforce push: go all-in, test many channels, amplify what works, expand sales capacity, and position aggressively against competitors like Microsoft.",
+      "timestamp_start": "00:18:12",
+      "timestamp_end": "00:25:51",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Marc Benioff"
+      ],
+      "themes": [
+        "AI",
+        "Go-to-Market",
+        "Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "marc-benioff_t8",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Coda and a startup offer for six free months of the team plan.",
+      "timestamp_start": "00:25:51",
+      "timestamp_end": "00:26:57",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "marc-benioff_t9",
+      "title": "Beginner\u2019s mind, mindfulness, and creating space for insight",
+      "summary": "Marc explains how meditation and \u201cbeginner\u2019s mind\u201d help avoid expert blind spots, using Kyoto Zen temples as an example of finding environments that enable clarity and creativity.",
+      "timestamp_start": "00:26:57",
+      "timestamp_end": "00:29:41",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Marc Benioff"
+      ],
+      "themes": [
+        "Leadership",
+        "Mindset",
+        "Creativity"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "marc-benioff_t10",
+      "title": "Staying on top: stock distraction and startup mindset at scale",
+      "summary": "Lenny asks why Salesforce keeps winning despite complexity and challengers; Marc says he ignores the stock and insists Salesforce must operate like a startup, especially entering \u201cdigital labor\u201d with Agentforce.",
+      "timestamp_start": "00:29:41",
+      "timestamp_end": "00:31:47",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Marc Benioff"
+      ],
+      "themes": [
+        "Leadership",
+        "Strategy",
+        "Company Building"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "marc-benioff_t11",
+      "title": "What agents are: Minority Report to healthcare workflows",
+      "summary": "Marc defines agents as personalized, memory-rich software that acts on your behalf, and gives concrete healthcare examples (follow-ups, reminders, triage) where agents can reduce cost and burnout.",
+      "timestamp_start": "00:31:47",
+      "timestamp_end": "00:36:09",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Marc Benioff"
+      ],
+      "themes": [
+        "AI",
+        "Product",
+        "Healthcare"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "marc-benioff_t12",
+      "title": "AI\u2019s inflection point and Salesforce\u2019s platform layers",
+      "summary": "Marc describes repeated \u201cexistential\u201d AI moments and outlines Salesforce\u2019s progression: automate touchpoints, aggregate/federate data (Data Cloud), add an agentic layer, and eventually connect to robots/drones.",
+      "timestamp_start": "00:36:09",
+      "timestamp_end": "00:39:21",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Marc Benioff"
+      ],
+      "themes": [
+        "AI",
+        "Platform",
+        "Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "marc-benioff_t13",
+      "title": "Einstein branding, show-and-tell, and path to Agentforce",
+      "summary": "They discuss why \u201cEinstein\u201d fit Salesforce\u2019s AI narrative (and Marc\u2019s early domain bet), with a brief show-and-tell of Einstein swag and how it set the foundation for Agentforce.",
+      "timestamp_start": "00:39:21",
+      "timestamp_end": "00:40:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Marc Benioff"
+      ],
+      "themes": [
+        "AI",
+        "Branding",
+        "Product"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "marc-benioff_t14",
+      "title": "Workforce shifts: fewer support roles, more sales hiring",
+      "summary": "Marc explains how Agentforce reduces support workload (and thus support staffing) while increasing the need for account executives to drive growth, with uneven impacts across different communities and job types.",
+      "timestamp_start": "00:40:12",
+      "timestamp_end": "00:42:31",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Marc Benioff"
+      ],
+      "themes": [
+        "AI",
+        "Future of Work",
+        "Operations"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "marc-benioff_t15",
+      "title": "Product vs sales-led debate and being an orchestra leader",
+      "summary": "Marc pushes back on the idea Salesforce is simply sales-led, arguing founders must lead the whole \u201csymphony\u201d (product, sales, marketing, stakeholders). He uses the Data Cloud-to-Agentforce pivot and Airkit acquisition as an example of adapting fast.",
+      "timestamp_start": "00:42:31",
+      "timestamp_end": "00:46:02",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Marc Benioff"
+      ],
+      "themes": [
+        "Leadership",
+        "Go-to-Market",
+        "Company Building"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "marc-benioff_t16",
+      "title": "Fail Corner: pandemic overhiring and painful layoffs",
+      "summary": "Marc shares a low point: post-pandemic overhiring led to Salesforce\u2019s first major layoff (~10%), intense criticism, and a difficult transformation that ultimately helped reset the company.",
+      "timestamp_start": "00:46:02",
+      "timestamp_end": "00:48:51",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Marc Benioff"
+      ],
+      "themes": [
+        "Leadership",
+        "Failure",
+        "Operations"
+      ],
+      "quote_count": 0
+    }
+  ]
+}

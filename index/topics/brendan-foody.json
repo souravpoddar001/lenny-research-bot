@@ -1,0 +1,304 @@
+{
+  "episode_id": "brendan-foody",
+  "topics": [
+    {
+      "topic_id": "brendan-foody_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Brendan Foody and Mercor, highlighting its record-breaking growth, fundraising, and what the episode will cover (evals, AI training labor, future of work).",
+      "timestamp_start": "00:01:24",
+      "timestamp_end": "00:03:01",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Company Building",
+        "AI",
+        "Startups"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "brendan-foody_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for WorkOS and Jira Product Discovery.",
+      "timestamp_start": "00:03:01",
+      "timestamp_end": "00:05:42",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "brendan-foody_t3",
+      "title": "The era of evals explained",
+      "summary": "Brendan frames evals as the PRD for AI models: researchers iterate on eval sets, and RL makes progress fast once success is measurable. The big blocker to automating workflows is defining and measuring success.",
+      "timestamp_start": "00:05:42",
+      "timestamp_end": "00:07:25",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brendan Foody"
+      ],
+      "themes": [
+        "AI",
+        "Product Management",
+        "Evaluation"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "brendan-foody_t4",
+      "title": "How enterprises should approach evals",
+      "summary": "Brendan advises companies to build systematic tests for how AI automates their value chain (e.g., architecture deliverables). Measuring success is the prerequisite to deploying AI broadly inside a business.",
+      "timestamp_start": "00:07:25",
+      "timestamp_end": "00:08:21",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brendan Foody"
+      ],
+      "themes": [
+        "Enterprise",
+        "AI",
+        "Evaluation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "brendan-foody_t5",
+      "title": "Evals as marketing and sales collateral",
+      "summary": "They discuss the idea that evals are not only internal requirements but also how labs and app companies demonstrate capability. The shift is from academic benchmarks to practical, domain-specific evals customers care about.",
+      "timestamp_start": "00:08:21",
+      "timestamp_end": "00:09:26",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brendan Foody"
+      ],
+      "themes": [
+        "AI",
+        "Go-to-Market",
+        "Evaluation"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "brendan-foody_t6",
+      "title": "AI training market landscape and Mercor origin",
+      "summary": "Brendan explains Mercor\u2019s beginnings as an AI-driven hiring automation product, then the pivot after seeing labs\u2019 need for vetted experts. He describes the transition from low-skill crowdsourcing to high-skill sourcing and assessment.",
+      "timestamp_start": "00:09:26",
+      "timestamp_end": "00:11:21",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brendan Foody"
+      ],
+      "themes": [
+        "Startups",
+        "AI",
+        "Labor Markets"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "brendan-foody_t7",
+      "title": "Why expert eval labor is so valuable",
+      "summary": "Brendan argues labs\u2019 main bottleneck is measuring success (evals/verifiers) across domains, and top companies will pay heavily to improve capabilities. Mercor sits at this bottleneck by supplying expert professionals.",
+      "timestamp_start": "00:11:21",
+      "timestamp_end": "00:13:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brendan Foody"
+      ],
+      "themes": [
+        "AI",
+        "Evaluation",
+        "Business Models"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "brendan-foody_t8",
+      "title": "What experts do day-to-day: rubrics and verifiers",
+      "summary": "Concrete example: lawyers create rubrics for contract redlining to score model outputs and provide training signals. They connect evals to RL environments and clarify that it\u2019s the same underlying artifact used for testing and training.",
+      "timestamp_start": "00:13:12",
+      "timestamp_end": "00:15:08",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brendan Foody"
+      ],
+      "themes": [
+        "AI",
+        "Evaluation",
+        "Reinforcement Learning"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "brendan-foody_t9",
+      "title": "From SFT and RLHF to AI feedback",
+      "summary": "Brendan outlines historical data types (SFT and RLHF) and the move toward reinforcement learning from AI feedback, where humans define success criteria and AI scales evaluation. This is more data-efficient and scalable for labs.",
+      "timestamp_start": "00:15:08",
+      "timestamp_end": "00:17:10",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brendan Foody"
+      ],
+      "themes": [
+        "AI",
+        "Reinforcement Learning",
+        "Evaluation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "brendan-foody_t10",
+      "title": "How long humans will be needed for evals",
+      "summary": "They debate timelines to superintelligence; Brendan believes models still fail at many basics and will need evals for tool use and long-horizon tasks for a long time. He frames this as a major new category of work, not just displacement.",
+      "timestamp_start": "00:17:10",
+      "timestamp_end": "00:20:22",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brendan Foody"
+      ],
+      "themes": [
+        "Future of Work",
+        "AI",
+        "Labor Markets"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "brendan-foody_t11",
+      "title": "Skills and jobs that remain valuable",
+      "summary": "Brendan recommends focusing on elastic-demand domains (like software) where productivity gains increase output, and on learning to leverage AI tools directly. He argues assessments should encourage tool use (build something in an hour) rather than ban it.",
+      "timestamp_start": "00:20:22",
+      "timestamp_end": "00:25:54",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brendan Foody"
+      ],
+      "themes": [
+        "Career",
+        "Future of Work",
+        "AI"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "brendan-foody_t12",
+      "title": "Unified labor markets and AI-driven hiring",
+      "summary": "Brendan explains Mercor\u2019s original thesis: labor markets are disaggregated due to manual matching, and AI can enable a global unified market. Lenny notes AI increases application volume, forcing smarter filtering and selection.",
+      "timestamp_start": "00:25:54",
+      "timestamp_end": "00:28:56",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brendan Foody"
+      ],
+      "themes": [
+        "Labor Markets",
+        "Hiring",
+        "AI"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "brendan-foody_t13",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Enterpret.",
+      "timestamp_start": "00:28:56",
+      "timestamp_end": "00:29:55",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "brendan-foody_t14",
+      "title": "Post-training experts, scale, and competition",
+      "summary": "They clarify Mercor\u2019s work is largely post-training (reasoning and prioritization), discuss the scale (tens of thousands active), and contrast high-skill expert sourcing with older low-skill crowdsourcing incumbents. Brendan also compares to expert networks like AlphaSights and GLG.",
+      "timestamp_start": "00:29:55",
+      "timestamp_end": "00:33:50",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brendan Foody"
+      ],
+      "themes": [
+        "AI",
+        "Labor Markets",
+        "Competition"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "brendan-foody_t15",
+      "title": "Creative vs technical experts and talent economics",
+      "summary": "Brendan describes demand across both professional and creative domains (e.g., comedy writers, screenwriters), turnaround speed, and the \u2018top 10% drive most impact\u2019 dynamic. They cover engagement models (often part-time) and pay rates (median ~$95/hr up to $500/hr).",
+      "timestamp_start": "00:33:50",
+      "timestamp_end": "00:38:02",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brendan Foody"
+      ],
+      "themes": [
+        "Talent",
+        "AI",
+        "Labor Markets"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "brendan-foody_t16",
+      "title": "Why some models excel: reward design and evals",
+      "summary": "Lenny asks why Anthropic is strong at coding; Brendan points to reinforcement learning, careful reward definition, and preventing reward hacking\u2014returning to the mantra that model quality tracks eval quality.",
+      "timestamp_start": "00:38:02",
+      "timestamp_end": "00:38:58",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brendan Foody"
+      ],
+      "themes": [
+        "AI",
+        "Evaluation",
+        "Reinforcement Learning"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "brendan-foody_t17",
+      "title": "How Mercor achieved hypergrowth",
+      "summary": "Brendan shares operating principles: follow leading indicators in fast-moving markets and obsess over customer experience (minimal sales/marketing, heavy product focus). He recounts early signals (xAI meeting, incumbent failures) and lessons on finding \u2018easy to sell\u2019 pull vs forcing PMF.",
+      "timestamp_start": "00:38:58",
+      "timestamp_end": "00:45:50",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brendan Foody"
+      ],
+      "themes": [
+        "Company Building",
+        "Product-Market Fit",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "brendan-foody_t18",
+      "title": "Company values and operating tenets (partial)",
+      "summary": "Brendan begins outlining Mercor\u2019s internal values, starting with a \u2018can-do attitude\u2019 and setting extremely ambitious goals that shape execution. The segment cuts off mid-thought as he starts giving examples.",
+      "timestamp_start": "00:45:50",
+      "timestamp_end": "00:46:25",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brendan Foody"
+      ],
+      "themes": [
+        "Company Building",
+        "Leadership",
+        "Culture"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

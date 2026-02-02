@@ -1,0 +1,234 @@
+{
+  "episode_id": "camille-ricketts",
+  "topics": [
+    {
+      "topic_id": "camille-ricketts_t1",
+      "title": "Content market fit as product market fit",
+      "summary": "Camille explains that content needs its own \u201cmarket fit\u201d: clearly define the audience, their anxieties, and what they need to succeed, then build content that directly addresses those needs.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:38",
+      "speakers": [
+        "Camille Ricketts"
+      ],
+      "themes": [
+        "Content Marketing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "camille-ricketts_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the show and Camille\u2019s background (Notion, First Round Review, Kiva, Tesla), and frames the episode around community-led growth and content marketing.",
+      "timestamp_start": "00:00:38",
+      "timestamp_end": "00:02:02",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Community-led Growth",
+        "Content Marketing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "camille-ricketts_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Eppo (A/B testing), Flatfile (CSV/data onboarding), and later Vanta (SOC 2 compliance).",
+      "timestamp_start": "00:02:02",
+      "timestamp_end": "00:31:04",
+      "speakers": [
+        "Lenny",
+        "Ashley"
+      ],
+      "themes": [
+        "Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "camille-ricketts_t4",
+      "title": "Camille\u2019s career path: journalism to Notion",
+      "summary": "Camille walks through her path from the Wall Street Journal to Tesla, First Round Capital (launching First Round Review), and joining Notion as the first marketing hire.",
+      "timestamp_start": "00:04:27",
+      "timestamp_end": "00:05:44",
+      "speakers": [
+        "Lenny",
+        "Camille Ricketts"
+      ],
+      "themes": [
+        "Career"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "camille-ricketts_t5",
+      "title": "Lessons from Tesla and working with Elon",
+      "summary": "Camille shares what it was like supporting Elon Musk in press interactions, emphasizing being extremely prepared and communicating an emotionally compelling mission.",
+      "timestamp_start": "00:05:44",
+      "timestamp_end": "00:07:39",
+      "speakers": [
+        "Lenny",
+        "Camille Ricketts"
+      ],
+      "themes": [
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "camille-ricketts_t6",
+      "title": "Early Notion: employee 11 and startup life",
+      "summary": "Camille describes joining Notion as employee #11, the early office vibe, and how the team\u2019s shared hardships (no HVAC/lighting) became cherished memories.",
+      "timestamp_start": "00:07:39",
+      "timestamp_end": "00:10:04",
+      "speakers": [
+        "Lenny",
+        "Camille Ricketts"
+      ],
+      "themes": [
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "camille-ricketts_t7",
+      "title": "Notion outage: crisis response and community support",
+      "summary": "Camille recounts the January 2021 outage, the scramble to communicate status updates, and how user empathy on social channels reinforced Notion\u2019s importance and the value of community.",
+      "timestamp_start": "00:10:04",
+      "timestamp_end": "00:12:16",
+      "speakers": [
+        "Lenny",
+        "Camille Ricketts"
+      ],
+      "themes": [
+        "Community-led Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "camille-ricketts_t8",
+      "title": "Defining community-led growth and measuring discovery",
+      "summary": "Camille defines community-led growth as community-driven ubiquity that de-risks adoption and enables moving upmarket; she highlights net-new website visitors as a key \u201cdiscovery\u201d metric and notes influencer attribution as more measurable.",
+      "timestamp_start": "00:12:16",
+      "timestamp_end": "00:16:36",
+      "speakers": [
+        "Lenny",
+        "Camille Ricketts"
+      ],
+      "themes": [
+        "Community-led Growth",
+        "Metrics"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "camille-ricketts_t9",
+      "title": "What worked at Notion: ambassadors, events, influencers",
+      "summary": "Camille details the biggest community levers: ambassador programs, in-person events (global scale), and influencer marketing; she explains aligning incentives by helping community members achieve their own goals.",
+      "timestamp_start": "00:16:36",
+      "timestamp_end": "00:18:24",
+      "speakers": [
+        "Lenny",
+        "Camille Ricketts"
+      ],
+      "themes": [
+        "Community-led Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "camille-ricketts_t10",
+      "title": "ROI, founder belief, and when community fits",
+      "summary": "They discuss when to invest in community, why early-stage over-measurement can be harmful, and why community works best for freemium/PLG products with a shareable \u201catomic unit\u201d (e.g., templates).",
+      "timestamp_start": "00:18:24",
+      "timestamp_end": "00:21:34",
+      "speakers": [
+        "Lenny",
+        "Camille Ricketts"
+      ],
+      "themes": [
+        "Community-led Growth",
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "camille-ricketts_t11",
+      "title": "Notion creator economy: templates and consultants",
+      "summary": "Camille explains how Notion users built real businesses selling templates and consulting, and how nurturing these paths strengthened adoption\u2014especially inside companies relying on expert implementers.",
+      "timestamp_start": "00:21:34",
+      "timestamp_end": "00:23:12",
+      "speakers": [
+        "Lenny",
+        "Camille Ricketts"
+      ],
+      "themes": [
+        "Community-led Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "camille-ricketts_t12",
+      "title": "Ambassadors vs champions: program structures",
+      "summary": "Camille distinguishes ambassadors (passionate builders/sharers) from champions (power users inside customer companies), describing Slack-based communities that create peer support, feedback loops, and customer success leverage.",
+      "timestamp_start": "00:23:12",
+      "timestamp_end": "00:26:21",
+      "speakers": [
+        "Lenny",
+        "Camille Ricketts"
+      ],
+      "themes": [
+        "Community-led Growth",
+        "Customer Success"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "camille-ricketts_t13",
+      "title": "How to build community: listen, don\u2019t prescribe",
+      "summary": "Camille emphasizes avoiding one-size-fits-all community design, doing deep 1:1 listening, and choosing between ubiquity vs near-term revenue depending on company goals and motion.",
+      "timestamp_start": "00:26:21",
+      "timestamp_end": "00:29:47",
+      "speakers": [
+        "Lenny",
+        "Camille Ricketts"
+      ],
+      "themes": [
+        "Community-led Growth",
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "camille-ricketts_t14",
+      "title": "Community examples and a two-by-two framework",
+      "summary": "Camille cites Figma and Stripe (Atlas) as community-led exemplars and introduces a 2x2 (PMF vs pre-PMF; enterprise vs consumer) to choose the right community form, including CABs, champions, and consultants.",
+      "timestamp_start": "00:31:04",
+      "timestamp_end": "00:37:43",
+      "speakers": [
+        "Lenny",
+        "Camille Ricketts"
+      ],
+      "themes": [
+        "Community-led Growth",
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "camille-ricketts_t15",
+      "title": "Designing an ambassador program and keeping it healthy",
+      "summary": "Camille explains how Notion started with ~20 highly vocal users, rewarded them with early feature access, AMAs, event support, and promotion; she advises slow, intentional growth and shares \u201ccommandments\u201d like not chasing metrics too early.",
+      "timestamp_start": "00:37:43",
+      "timestamp_end": "00:45:31",
+      "speakers": [
+        "Lenny",
+        "Camille Ricketts"
+      ],
+      "themes": [
+        "Community-led Growth"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

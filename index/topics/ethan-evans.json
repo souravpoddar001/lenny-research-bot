@@ -1,0 +1,176 @@
+{
+  "episode_id": "ethan-evans",
+  "topics": [
+    {
+      "topic_id": "ethan-evans_t1",
+      "title": "Invention takes little time, long execution",
+      "summary": "Ethan frames invention as needing only occasional focused time, while the real work is years of execution and iteration (Prime, Kindle). He argues a few good ideas can make you seem highly inventive.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:09",
+      "speakers": [
+        "Ethan Evans"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership",
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ethan-evans_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Ethan Evans\u2019 Amazon background, leadership experience, patents, and current coaching work, plus a preview of key topics (Magic Loop, Bezos failure story, interviews, leadership principles).",
+      "timestamp_start": "00:00:38",
+      "timestamp_end": "00:01:14",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ethan-evans_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Sidebar (peer leadership groups) and Sprig (AI-powered product research/insights platform).",
+      "timestamp_start": "00:01:50",
+      "timestamp_end": "00:04:26",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ethan-evans_t4",
+      "title": "The Magic Loop overview and five steps",
+      "summary": "Ethan explains why the Magic Loop resonated and walks through the five steps: do your job well, ask how to help, do what\u2019s asked, align help with your goals, and repeat. They discuss why it\u2019s \u201cmagic\u201d and how it works even with busy/mediocre managers.",
+      "timestamp_start": "00:04:26",
+      "timestamp_end": "00:12:46",
+      "speakers": [
+        "Lenny",
+        "Ethan Evans"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ethan-evans_t5",
+      "title": "Magic Loop proof, levels, and advanced mode",
+      "summary": "Ethan shares outcomes from entry-level to executive growth, and explains how the loop evolves at senior levels into proactive problem-finding and execution. They emphasize trust-building, clarifying goals, and using the loop even when not seeking promotion.",
+      "timestamp_start": "00:12:46",
+      "timestamp_end": "00:23:09",
+      "speakers": [
+        "Lenny",
+        "Ethan Evans"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ethan-evans_t6",
+      "title": "Getting unstuck at senior manager to director",
+      "summary": "They discuss why L7/M2 leaders stall (org bottlenecks, lean economy) and what changes are required to move up: influence, strategic thinking, and letting go of details. Ethan advises practicing next-level skills and positioning yourself as the obvious pick when opportunities arise.",
+      "timestamp_start": "00:23:09",
+      "timestamp_end": "00:28:47",
+      "speakers": [
+        "Lenny",
+        "Ethan Evans"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ethan-evans_t7",
+      "title": "Systematic inventiveness and idea generation practice",
+      "summary": "Ethan connects Amazon\u2019s culture to being an \u201cinvention machine,\u201d explains how he learned to invent systematically (expertise + dedicated thinking time), and shares a drone-delivery \u2018aircraft carrier truck\u2019 patent example. He argues you only need occasional focused sessions to generate ideas, then years to execute.",
+      "timestamp_start": "00:28:47",
+      "timestamp_end": "00:36:06",
+      "speakers": [
+        "Lenny",
+        "Ethan Evans"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Leadership",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ethan-evans_t8",
+      "title": "Interviewing: enthusiasm, presence, and impact",
+      "summary": "Ethan shares what stands out in interviews: professional presence, visible enthusiasm (especially on Zoom), and communicating business impact\u2014not just tasks. He recommends being fully present on camera and prioritizing energy and clarity over over-optimizing content.",
+      "timestamp_start": "00:36:06",
+      "timestamp_end": "00:39:29",
+      "speakers": [
+        "Lenny",
+        "Ethan Evans"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ethan-evans_t9",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Arcade, a no-code interactive demo platform, including a customer conversion/engagement case study and discount offer.",
+      "timestamp_start": "00:39:29",
+      "timestamp_end": "00:40:44",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ethan-evans_t10",
+      "title": "Failure corner: Appstore launch breaks for Bezos",
+      "summary": "Ethan recounts a high-stakes Amazon Appstore launch where a key \u2018Test Drive\u2019 feature failed, triggering escalating scrutiny from Jeff Bezos and senior leaders. He describes responding by owning the failure, providing hourly updates, and getting emergency help from AWS engineers to stabilize the system.",
+      "timestamp_start": "00:40:44",
+      "timestamp_end": "00:47:32",
+      "speakers": [
+        "Lenny",
+        "Ethan Evans"
+      ],
+      "themes": [
+        "Leadership",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ethan-evans_t11",
+      "title": "Rebuilding trust: facing Bezos after the incident",
+      "summary": "After the launch, Bezos continues testing and reporting issues; Ethan chooses to attend a meeting rather than avoid him. Bezos acknowledges the hard week and they have a human conversation, signaling forgiveness but the need to re-earn trust.",
+      "timestamp_start": "00:47:32",
+      "timestamp_end": "00:49:05",
+      "speakers": [
+        "Ethan Evans"
+      ],
+      "themes": [
+        "Leadership",
+        "Career Growth"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

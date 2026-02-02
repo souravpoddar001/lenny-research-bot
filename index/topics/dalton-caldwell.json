@@ -1,0 +1,254 @@
+{
+  "episode_id": "dalton-caldwell",
+  "topics": [
+    {
+      "topic_id": "dalton-caldwell_t1",
+      "title": "Introduction and Background",
+      "summary": "Cold open highlights Dalton\u2019s core mantras (\"don\u2019t die\"), tarpit ideas, pivoting, and YC\u2019s interest areas, followed by Lenny\u2019s full guest introduction and episode overview.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:50",
+      "speakers": [
+        "Dalton Caldwell",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Founder Resilience",
+        "Pivoting",
+        "Startup Ideas"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dalton-caldwell_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Eppo (experimentation platform) and Vanta (security/compliance automation).",
+      "timestamp_start": "00:01:50",
+      "timestamp_end": "00:04:45",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dalton-caldwell_t3",
+      "title": "Simple fundamentals: sell, make money, don\u2019t die",
+      "summary": "Dalton explains why elite performers still need basic reminders: fundamentals and repetition matter most, and his mantra \"don\u2019t die\" keeps founders focused on survival and execution.",
+      "timestamp_start": "00:04:45",
+      "timestamp_end": "00:07:04",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dalton Caldwell"
+      ],
+      "themes": [
+        "Founder Resilience",
+        "Startup Execution",
+        "Fundraising"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "dalton-caldwell_t4",
+      "title": "How not to die\u2014and when to quit",
+      "summary": "Dalton argues most successful startups required irrational persistence through near-death moments (e.g., Airbnb), but offers a counterbalance: if it\u2019s harming your life, relationships, or you no longer love the work/customers, shutting down can be the right call.",
+      "timestamp_start": "00:07:04",
+      "timestamp_end": "00:11:30",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dalton Caldwell"
+      ],
+      "themes": [
+        "Founder Resilience",
+        "Mental Health",
+        "Startup Failure"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dalton-caldwell_t5",
+      "title": "Everyone struggles: Brex and Retool turnaround story",
+      "summary": "Dalton recounts a YC batch where founders felt the whole batch was failing; two of the most \u201cdoomed\u201d companies (Vyond and Cashew) pivoted into Brex and Retool, illustrating how mid-batch snapshots can be misleading.",
+      "timestamp_start": "00:11:30",
+      "timestamp_end": "00:14:45",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dalton Caldwell"
+      ],
+      "themes": [
+        "Pivoting",
+        "Founder Resilience",
+        "Startup Failure"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "dalton-caldwell_t6",
+      "title": "What makes a great pivot",
+      "summary": "Dalton describes strong pivots as moving \u201cwarmer\u201d toward founders\u2019 real expertise and leveraging lessons from prior attempts, with examples including Brex, Retool, Zip, and Segment\u2019s multi-step evolution.",
+      "timestamp_start": "00:14:45",
+      "timestamp_end": "00:17:53",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dalton Caldwell"
+      ],
+      "themes": [
+        "Pivoting",
+        "Founder-Market Fit",
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "dalton-caldwell_t7",
+      "title": "When to pivot: ideas left in the tank",
+      "summary": "A practical heuristic: if growth isn\u2019t working but you still have many credible experiments to try, keep going; if you\u2019re out of real ideas and grasping at generic tactics, it\u2019s likely time to pivot.",
+      "timestamp_start": "00:17:53",
+      "timestamp_end": "00:19:03",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dalton Caldwell"
+      ],
+      "themes": [
+        "Pivoting",
+        "Growth",
+        "Startup Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dalton-caldwell_t8",
+      "title": "Zip\u2019s pivot process: hated incumbents in big markets",
+      "summary": "Dalton shares bespoke guidance for Zip: identify large, entrenched, customer-hated incumbents (often public or PE-owned) and build a better product\u2014leading them into procurement software where they executed extremely well.",
+      "timestamp_start": "00:19:03",
+      "timestamp_end": "00:21:22",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dalton Caldwell"
+      ],
+      "themes": [
+        "Startup Ideas",
+        "Product Strategy",
+        "Competition"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "dalton-caldwell_t9",
+      "title": "Avoiding copycat ideas: change your information diet",
+      "summary": "Dalton explains why founders converge on the same ideas (shared media/social circles) and encourages going off the beaten path via personal experience and niche interests; he notes how \u201cunfashionable\u201d sectors (e.g., trucking) become crowded after early wins.",
+      "timestamp_start": "00:21:22",
+      "timestamp_end": "00:23:45",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dalton Caldwell"
+      ],
+      "themes": [
+        "Startup Ideas",
+        "Founder-Market Fit",
+        "Competition"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "dalton-caldwell_t10",
+      "title": "Tarpit ideas: why some \u201cgreat\u201d ideas trap founders",
+      "summary": "Dalton defines tarpit ideas as deceptively attractive problems that generate strong validation and enthusiasm yet repeatedly fail (e.g., apps to coordinate hanging out); he and Lenny share examples like music discovery and Foursquare-era clones.",
+      "timestamp_start": "00:23:45",
+      "timestamp_end": "00:26:50",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dalton Caldwell"
+      ],
+      "themes": [
+        "Startup Ideas",
+        "Product-Market Fit",
+        "Startup Failure"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dalton-caldwell_t11",
+      "title": "Why investors say no and TAM at early stage",
+      "summary": "Dalton advises founders to think like investors: they have limited shots and say no even to \u201cpretty good\u201d deals; he also argues TAM matters more at later stages, while early-stage investing should focus more on team, execution, and growth than pedantic market sizing.",
+      "timestamp_start": "00:26:50",
+      "timestamp_end": "00:32:15",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dalton Caldwell"
+      ],
+      "themes": [
+        "Fundraising",
+        "Market Size",
+        "Investor Psychology"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dalton-caldwell_t12",
+      "title": "Product leadership: don\u2019t overdelegate or overhire early",
+      "summary": "Dalton warns against hiring senior execs/PMs too early and taking your eye off product; founders must stay close to customers and quality, cutting lower-leverage activities (like excessive investor networking) to prioritize product obsession.",
+      "timestamp_start": "00:32:15",
+      "timestamp_end": "00:35:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dalton Caldwell"
+      ],
+      "themes": [
+        "Hiring",
+        "Product Strategy",
+        "Startup Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dalton-caldwell_t13",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Coda, highlighting planning workflows, templates, and a startup credit offer.",
+      "timestamp_start": "00:35:12",
+      "timestamp_end": "00:36:54",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dalton-caldwell_t14",
+      "title": "Why startups fail: losing hope and founder conflict",
+      "summary": "Dalton agrees customer discovery is critical but reframes failure as founders losing hope\u2014often amid cofounder conflict and running out of conviction/ideas\u2014more than simply running out of money; he notes nearly all founders experience moments where it feels over.",
+      "timestamp_start": "00:36:54",
+      "timestamp_end": "00:40:21",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dalton Caldwell"
+      ],
+      "themes": [
+        "Startup Failure",
+        "Founder Resilience",
+        "Co-founder Dynamics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dalton-caldwell_t15",
+      "title": "How to talk to customers: in-person reps and calendar time",
+      "summary": "Dalton pushes for real customer conversations (often in-person) rather than hiding behind ads/analytics, suggesting a heuristic of dedicating ~20\u201330% of calendar time to customer meetings; examples include Brex/Retool selling within YC, Zip\u2019s outreach grind, and PostHog\u2019s open-source pull.",
+      "timestamp_start": "00:40:21",
+      "timestamp_end": "00:45:53",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dalton Caldwell"
+      ],
+      "themes": [
+        "Customer Discovery",
+        "Go-to-Market",
+        "Product-Market Fit"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

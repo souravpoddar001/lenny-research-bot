@@ -1,0 +1,242 @@
+{
+  "episode_id": "karina-nguyen",
+  "topics": [
+    {
+      "topic_id": "karina-nguyen_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Karina Nguyen and her work at OpenAI and Anthropic, framing the episode around how frontier AI products and models are built and where work is heading.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:02",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Karina Nguyen"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Future of Work",
+        "Careers"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "karina-nguyen_t2",
+      "title": "Sponsor Break: Enterpret and Vanta",
+      "summary": "Sponsor messages covering Enterpret\u2019s customer-feedback analytics platform and Vanta\u2019s compliance automation, including listener discounts.",
+      "timestamp_start": "00:02:02",
+      "timestamp_end": "00:04:41",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Christina Cacioppo"
+      ],
+      "themes": [
+        "Startups",
+        "Product Management",
+        "Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "karina-nguyen_t3",
+      "title": "Why model training is an art",
+      "summary": "Karina explains common misunderstandings about model creation: training is like debugging software, heavily driven by data quality and balancing helpfulness vs safety. She shares an example where conflicting training signals (no body vs function calls) confuse the model.",
+      "timestamp_start": "00:04:45",
+      "timestamp_end": "00:08:09",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Karina Nguyen"
+      ],
+      "themes": [
+        "AI Research",
+        "AI Safety",
+        "LLM Training"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "karina-nguyen_t4",
+      "title": "Data walls, post-training, and synthetic data",
+      "summary": "They discuss the 'running out of data' concern, with Karina arguing post-training and reinforcement learning over tasks can scale beyond pretraining limits. She notes the bottleneck shifting toward better evaluations as benchmarks saturate.",
+      "timestamp_start": "00:08:09",
+      "timestamp_end": "00:12:52",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Karina Nguyen"
+      ],
+      "themes": [
+        "LLM Training",
+        "AI Research",
+        "Evaluation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "karina-nguyen_t5",
+      "title": "How Canvas was trained with synthetic behaviors",
+      "summary": "Karina breaks down Canvas development into three core trained behaviors: when to trigger Canvas, how to perform targeted vs full-document edits, and how to generate useful inline comments. She describes using o1 to generate synthetic conversations/documents and measuring progress with robust evals.",
+      "timestamp_start": "00:12:52",
+      "timestamp_end": "00:18:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Karina Nguyen"
+      ],
+      "themes": [
+        "AI Product Development",
+        "LLM Training",
+        "Evaluation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "karina-nguyen_t6",
+      "title": "Day-to-day work: prompting, debugging, and roles",
+      "summary": "Karina describes spending time prompting models to discover failure modes and ideas, then translating that into training and eval work. She also notes her shift from mostly IC research to more mentorship/management while still coding and running experiments.",
+      "timestamp_start": "00:18:33",
+      "timestamp_end": "00:20:21",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Karina Nguyen"
+      ],
+      "themes": [
+        "AI Research",
+        "Careers",
+        "AI Product Development"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "karina-nguyen_t7",
+      "title": "Evals in product development workflows",
+      "summary": "They explore how product teams define 'correct' behavior via deterministic pass/fail checks (e.g., scheduling) and human preference testing (win rates). Karina explains practical artifacts like spreadsheets that can serve both evaluation and training inputs.",
+      "timestamp_start": "00:20:21",
+      "timestamp_end": "00:24:35",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Karina Nguyen"
+      ],
+      "themes": [
+        "Evaluation",
+        "Product Management",
+        "AI Product Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "karina-nguyen_t8",
+      "title": "Prompting as prototyping and micro-experiences",
+      "summary": "Karina argues prompting is a new prototyping medium for PMs/designers, citing examples like file uploads, personalized starter prompts, and conversation title generation tuned to a user\u2019s style.",
+      "timestamp_start": "00:24:35",
+      "timestamp_end": "00:26:54",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Karina Nguyen"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Product Management",
+        "Design"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "karina-nguyen_t9",
+      "title": "How OpenAI ships tools like Tasks",
+      "summary": "Karina explains how features like Tasks and Canvas start from a spec/prototype, then become tool schemas (e.g., JSON extraction for time/instructions), staffed by cross-functional teams, and iterated quickly. She emphasizes synthetic data for scalable iteration and shifting datasets based on beta user behavior.",
+      "timestamp_start": "00:26:54",
+      "timestamp_end": "00:32:34",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Karina Nguyen"
+      ],
+      "themes": [
+        "AI Product Development",
+        "LLM Training",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "karina-nguyen_t10",
+      "title": "Sponsor Break: Loom",
+      "summary": "Sponsor message describing Loom\u2019s screen-recording product for async communication, editing, and AI features, with a listener link.",
+      "timestamp_start": "00:32:35",
+      "timestamp_end": "00:33:34",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Productivity",
+        "Startups",
+        "Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "karina-nguyen_t11",
+      "title": "Researchers vs model designers at OpenAI",
+      "summary": "Karina distinguishes product research from longer-horizon research: developing general methods, building more sophisticated evals for generalization, and tackling open problems like increasing diversity in synthetic data.",
+      "timestamp_start": "00:33:34",
+      "timestamp_end": "00:35:34",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Karina Nguyen"
+      ],
+      "themes": [
+        "AI Research",
+        "Evaluation",
+        "LLM Training"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "karina-nguyen_t12",
+      "title": "How work changes as intelligence gets cheaper",
+      "summary": "Karina predicts the cost of reasoning will keep dropping via distillation and smarter small models, expanding access and unblocking intelligence-bottlenecked work in healthcare, education, and research. She reflects on shifting from engineering to research after seeing rapid coding gains.",
+      "timestamp_start": "00:35:34",
+      "timestamp_end": "00:42:16",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Karina Nguyen"
+      ],
+      "themes": [
+        "Future of Work",
+        "AI Research",
+        "Careers"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "karina-nguyen_t13",
+      "title": "Soft skills and creativity as durable advantages",
+      "summary": "They discuss which skills will matter most for product teams: creative idea generation, listening to users, rapid iteration, prioritization, and collaboration. Karina argues aesthetics and truly creative writing/design remain hard to train, and that management and compute allocation are key bottlenecks in AI progress.",
+      "timestamp_start": "00:42:16",
+      "timestamp_end": "00:49:19",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Karina Nguyen"
+      ],
+      "themes": [
+        "Future of Work",
+        "Product Management",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "karina-nguyen_t14",
+      "title": "AI strategy, self-improvement, and organizational scaling",
+      "summary": "Karina agrees AI can increasingly synthesize large inputs (feedback, metrics) into strategic recommendations and may become self-improving by generating plans and training data. They close on the idea that organizational effectiveness and management decisions can bottleneck frontier progress.",
+      "timestamp_start": "00:49:19",
+      "timestamp_end": "00:53:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Karina Nguyen"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Future of Work",
+        "Leadership"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

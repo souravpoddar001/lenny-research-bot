@@ -1,0 +1,209 @@
+{
+  "episode_id": "shishir-mehrotra",
+  "topics": [
+    {
+      "topic_id": "shishir-mehrotra_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Shishir Mehrotra (Coda CEO; ex-YouTube/Google, Microsoft; Spotify board) and previews key episode topics like growth loops, team rituals, Eigenquestions, and reference checks.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:03:48",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Introduction"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "shishir-mehrotra_t2",
+      "title": "Sponsor: Coda and Flatfile",
+      "summary": "Sponsor reads highlighting Coda\u2019s sharing loops and a listener credit offer, plus Flatfile\u2019s CSV import/onboarding pitch and offer.",
+      "timestamp_start": "00:01:29",
+      "timestamp_end": "00:03:34",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Casey",
+        "Ashley"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "shishir-mehrotra_t3",
+      "title": "First CEO guest and writing culture",
+      "summary": "Lenny explains why Shishir is the first CEO guest; they discuss Coda\u2019s internal contest encouraging external writing/publishing and who\u2019s \u201cwinning.\u201d",
+      "timestamp_start": "00:03:48",
+      "timestamp_end": "00:07:41",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Shishir Mehrotra"
+      ],
+      "themes": [
+        "Hiring & Talent",
+        "Productivity & Collaboration"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "shishir-mehrotra_t4",
+      "title": "Shishir\u2019s most popular docs and bundling",
+      "summary": "Shishir shares his top-performing Coda docs (Eigenquestions; bundling/\u201cFour Mitzvot Bundling\u201d) and how writing the bundling piece connected to Spotify leadership conversations.",
+      "timestamp_start": "00:07:41",
+      "timestamp_end": "00:08:47",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Shishir Mehrotra"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "shishir-mehrotra_t5",
+      "title": "Blue Loops and Black Loops framework",
+      "summary": "Shishir explains Coda\u2019s two growth loops: Black Loop (create\u2192share\u2192create within teams) and Blue Loop (publish to the world), including why maker-only billing removes friction at the share moment.",
+      "timestamp_start": "00:08:47",
+      "timestamp_end": "00:14:31",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Shishir Mehrotra"
+      ],
+      "themes": [
+        "Growth",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "shishir-mehrotra_t6",
+      "title": "Finding loops and structuring growth thinking",
+      "summary": "They discuss how founders can discover their own loops (vs funnels), how the Coda diagram emerged, and why candidate conversations can sharpen the narrative and reveal the real growth mechanics.",
+      "timestamp_start": "00:14:31",
+      "timestamp_end": "00:19:48",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Shishir Mehrotra"
+      ],
+      "themes": [
+        "Growth",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "shishir-mehrotra_t7",
+      "title": "User quality by loop and platform dynamics",
+      "summary": "Shishir compares activation/retention across entry paths (shared docs highest, published templates next, top-of-funnel hardest) and explains the platform challenge of ceding narrative control to sharers/publishers.",
+      "timestamp_start": "00:19:48",
+      "timestamp_end": "00:24:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Shishir Mehrotra"
+      ],
+      "themes": [
+        "Growth",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "shishir-mehrotra_t8",
+      "title": "Rituals of Great Teams book origin",
+      "summary": "Shishir describes how a Masters of Scale appearance and Bing Gordon\u2019s \u201cgolden rituals\u201d concept sparked a dinner series and then a book, using Coda\u2019s Dory/Pulse as a core example of culture in action.",
+      "timestamp_start": "00:24:12",
+      "timestamp_end": "00:31:17",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Shishir Mehrotra"
+      ],
+      "themes": [
+        "Company Building",
+        "Career & Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "shishir-mehrotra_t9",
+      "title": "Memorable rituals: Reset and offer-call chorus",
+      "summary": "Shishir shares standout rituals: Arianna Huffington\u2019s meeting \u201cReset\u201d (personal one-minute breathing video) and Gusto\u2019s offer calls where all interviewers join to celebrate and sell the candidate on joining.",
+      "timestamp_start": "00:31:17",
+      "timestamp_end": "00:34:31",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Shishir Mehrotra"
+      ],
+      "themes": [
+        "Company Building",
+        "Hiring & Talent"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "shishir-mehrotra_t10",
+      "title": "Adopting rituals at Coda: decision roles in Pulse",
+      "summary": "A concrete example of importing a ritual detail from Coinbase\u2019s RAPIDs: adding explicit decision roles and pre-filled expectations to Pulse to reduce groupthink without drifting into consensus paralysis.",
+      "timestamp_start": "00:34:31",
+      "timestamp_end": "00:38:05",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Shishir Mehrotra"
+      ],
+      "themes": [
+        "Company Building",
+        "Decision Making"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "shishir-mehrotra_t11",
+      "title": "Open-source book drafting and community editing",
+      "summary": "Shishir explains publishing chapters to a \u2018brain trust\u2019 for feedback, both to improve quality and to keep the original dinner-series spirit of shared learning.",
+      "timestamp_start": "00:38:05",
+      "timestamp_end": "00:39:23",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Shishir Mehrotra"
+      ],
+      "themes": [
+        "Company Building",
+        "Career & Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "shishir-mehrotra_t12",
+      "title": "Sponsor Break: Eppo experimentation platform",
+      "summary": "Sponsor read for Eppo, an A/B testing platform built by Airbnb alumni, emphasizing faster analysis, slicing results, and support for modern experimentation stacks.",
+      "timestamp_start": "00:39:23",
+      "timestamp_end": "00:40:36",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "shishir-mehrotra_t13",
+      "title": "How rituals form and how to change them",
+      "summary": "They discuss how rituals emerge organically vs being designed, when rituals should evolve with company stage or \u2018wartime,\u2019 and Shishir recommends the Heath brothers\u2019 Switch framework: direct the rider, motivate the elephant, shape the path (name it, teach it, template it).",
+      "timestamp_start": "00:40:36",
+      "timestamp_end": "00:44:45",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Shishir Mehrotra"
+      ],
+      "themes": [
+        "Company Building",
+        "Career & Leadership"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

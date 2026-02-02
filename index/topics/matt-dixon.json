@@ -1,0 +1,203 @@
+{
+  "episode_id": "matt-dixon",
+  "topics": [
+    {
+      "topic_id": "matt-dixon_t1",
+      "title": "Introduction and Background",
+      "summary": "Cold open highlights: most deals are lost to indecision (not competitors), FOMO tactics often backfire, and Matt previews the JOLT method and Challenger framing. Lenny introduces Matt\u2019s credentials and sets expectations for a high-density, actionable episode.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:59",
+      "speakers": [
+        "Matt Dixon",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sales",
+        "Go-to-Market",
+        "Decision-Making"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "matt-dixon_t2",
+      "title": "Research behind Challenger and JOLT",
+      "summary": "Matt explains the datasets and methods behind both books: Challenger\u2019s global survey/performance study of 6,000 sellers (expanded over time) and JOLT\u2019s ML analysis of 2.5M recorded sales calls enabled by the shift to virtual selling in 2020.",
+      "timestamp_start": "00:02:01",
+      "timestamp_end": "00:06:14",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt Dixon"
+      ],
+      "themes": [
+        "Sales",
+        "Research",
+        "Go-to-Market"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "matt-dixon_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Enterpret (unifying customer feedback with AI models and revenue impact) and Webflow (faster web building and optimization for conversion).",
+      "timestamp_start": "00:06:14",
+      "timestamp_end": "00:08:05",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "matt-dixon_t4",
+      "title": "No-decision losses and pipeline impact",
+      "summary": "Matt quantifies the problem: 40\u201360% of qualified pipeline can end as \u201cclosed lost\u2014no decision,\u201d often via ghosting. The research focus becomes why customers stall after showing intent and what top sellers do differently.",
+      "timestamp_start": "00:08:05",
+      "timestamp_end": "00:10:13",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt Dixon"
+      ],
+      "themes": [
+        "Sales",
+        "Pipeline Management",
+        "Decision-Making"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "matt-dixon_t5",
+      "title": "Intent vs action: where deals slip",
+      "summary": "Matt breaks the buying journey into status quo \u2192 vision/intent \u2192 action, and shows many deals die between intent and action as customers re-open earlier concerns. He describes common seller reactions (FOMO/FUD/discount urgency) and why they often fail.",
+      "timestamp_start": "00:10:24",
+      "timestamp_end": "00:14:06",
+      "speakers": [
+        "Matt Dixon",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sales",
+        "Decision-Making",
+        "Go-to-Market"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "matt-dixon_t6",
+      "title": "Why FOMO backfires: omission bias and FOMU",
+      "summary": "The key finding: dialing up FOMO backfires 87% of the time in late-stage hesitation. Matt explains that 56% of no-decision losses come from fear of failure (omission bias)\u2014buyers fear being blamed for a bad decision more than missing out, so sellers must build confidence and safety.",
+      "timestamp_start": "00:14:06",
+      "timestamp_end": "00:18:16",
+      "speakers": [
+        "Matt Dixon",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Decision-Making",
+        "Sales",
+        "Behavioral Science"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "matt-dixon_t7",
+      "title": "Concrete examples: startups, brands, and risk",
+      "summary": "Using software-buying examples, Matt explains why \u201cnobody got fired for buying IBM\u201d matters and why startups must overcome perceived risk. He outlines three fear-of-failure drivers: choosing/configuring correctly, learning negative info after signing, and failing to realize ROI.",
+      "timestamp_start": "00:18:16",
+      "timestamp_end": "00:24:47",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt Dixon"
+      ],
+      "themes": [
+        "Sales",
+        "Go-to-Market",
+        "Risk Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "matt-dixon_t8",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Heap (automatic product analytics capturing all user activity to answer behavior questions quickly and prioritize improvements).",
+      "timestamp_start": "00:24:58",
+      "timestamp_end": "00:26:02",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "matt-dixon_t9",
+      "title": "Introducing the JOLT method overview",
+      "summary": "Matt introduces JOLT as a framework to move stuck buyers forward: Judge indecision, Offer a recommendation, Limit exploration, and Take risk off the table. He emphasizes it\u2019s iterative rather than strictly linear.",
+      "timestamp_start": "00:26:02",
+      "timestamp_end": "00:27:14",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt Dixon"
+      ],
+      "themes": [
+        "Sales",
+        "Decision-Making",
+        "Frameworks"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "matt-dixon_t10",
+      "title": "J: Judge indecision with pings and echoes",
+      "summary": "Matt explains why indecision is hard to detect (Dunning\u2013Kruger and embarrassment) and shares a practical technique: \u201cpings and echoes,\u201d where sellers normalize common anxieties and listen for the buyer\u2019s reflection to surface the real blocker (choices, research, ROI risk).",
+      "timestamp_start": "00:27:14",
+      "timestamp_end": "00:34:28",
+      "speakers": [
+        "Matt Dixon",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sales",
+        "Decision-Making",
+        "Communication"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "matt-dixon_t11",
+      "title": "O: Offer recommendations to reduce choice overload",
+      "summary": "Matt argues options help early but hurt late; too many choices increase no-decision and post-decision dysfunction. High performers shift from pure diagnosis to guided recommendations (delegation effect), sharing the burden of decision risk much like a great waiter does.",
+      "timestamp_start": "00:34:46",
+      "timestamp_end": "00:38:35",
+      "speakers": [
+        "Matt Dixon",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sales",
+        "Decision-Making",
+        "Behavioral Science"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "matt-dixon_t12",
+      "title": "L: Limit exploration by building trust and expertise",
+      "summary": "Matt describes buyers stuck in endless research due to fear of surprises and distrust of sellers. Top reps earn trust through radical transparency (admitting weaknesses/fit limits) and demonstrate enough expertise themselves (not hiding behind a \u201cclown car\u201d of specialists) to be trusted as a guide.",
+      "timestamp_start": "00:38:45",
+      "timestamp_end": "00:41:21",
+      "speakers": [
+        "Matt Dixon",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sales",
+        "Trust",
+        "Communication"
+      ],
+      "quote_count": 0
+    }
+  ]
+}

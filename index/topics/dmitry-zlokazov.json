@@ -1,0 +1,322 @@
+{
+  "episode_id": "dmitry-zlokazov",
+  "topics": [
+    {
+      "topic_id": "dmitry-zlokazov_t1",
+      "title": "Introduction and Background",
+      "summary": "Cold open highlights Revolut\u2019s emphasis on raw intellect, wow-quality execution, and the idea that \u201c99% done is closer to 0%.\u201d Lenny introduces Dmitry and frames the episode around how Revolut hires and develops standout PMs.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:08",
+      "speakers": [
+        "Dmitry Zlokazov",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Hiring & Talent",
+        "Product Quality & UX",
+        "Execution & Delivery"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "dmitry-zlokazov_t2",
+      "title": "Sponsor Break: Stripe",
+      "summary": "Stripe ad covering Billing, Optimized Checkout, Link, and Stripe\u2019s scale and customer base.",
+      "timestamp_start": "00:02:08",
+      "timestamp_end": "00:03:46",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "dmitry-zlokazov_t3",
+      "title": "What Revolut is and why it won",
+      "summary": "Dmitry explains Revolut\u2019s origin as a multi-currency card solving painful FX fees in Europe\u2019s fragmented banking landscape, then expanding into transfers, crypto, savings, and more.",
+      "timestamp_start": "00:03:46",
+      "timestamp_end": "00:06:27",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dmitry Zlokazov"
+      ],
+      "themes": [
+        "Company Strategy",
+        "Product Strategy",
+        "Fintech & Banking"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "dmitry-zlokazov_t4",
+      "title": "Product owners as \u201clocal CEOs\u201d",
+      "summary": "Revolut calls PMs \u201cproduct owners\u201d to emphasize end-to-end ownership: running cross-functional teams, owning metrics, roadmap, and execution. Dmitry describes the line-manager vs functional-manager model in flat, autonomous teams.",
+      "timestamp_start": "00:06:40",
+      "timestamp_end": "00:09:28",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dmitry Zlokazov"
+      ],
+      "themes": [
+        "Org Design & Team Structure",
+        "Product Leadership",
+        "Execution & Delivery"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dmitry-zlokazov_t5",
+      "title": "Three product owner archetypes and core skills",
+      "summary": "Dmitry outlines UX, technical, and data science product owners, noting most skills overlap: problem solving, customer empathy, deep technical understanding, and business acumen. People can shift between tracks as needed.",
+      "timestamp_start": "00:09:41",
+      "timestamp_end": "00:12:41",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dmitry Zlokazov"
+      ],
+      "themes": [
+        "Product Management",
+        "Hiring & Talent",
+        "Org Design & Team Structure"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dmitry-zlokazov_t6",
+      "title": "Going deep: regulatory launches and scalable processes",
+      "summary": "An example of \u201cdepth\u201d via launching local bank branches across countries: compliance, reporting, payment systems, and nested projects. Teams zoom in to reverse-engineer success, then zoom out to formalize scalable, repeatable frameworks.",
+      "timestamp_start": "00:12:41",
+      "timestamp_end": "00:15:05",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dmitry Zlokazov"
+      ],
+      "themes": [
+        "Execution & Delivery",
+        "Fintech & Banking",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dmitry-zlokazov_t7",
+      "title": "Obsession with building \u201cwow\u201d products",
+      "summary": "Dmitry argues fintech often neglects delight; Revolut invests heavily in UX polish, aesthetics, speed, and friction reduction so customers feel cared for. This trains product owners to notice nuances and manage complex context and second-order effects.",
+      "timestamp_start": "00:15:05",
+      "timestamp_end": "00:18:27",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dmitry Zlokazov"
+      ],
+      "themes": [
+        "Product Quality & UX",
+        "Product Strategy",
+        "Customer Research & Empathy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dmitry-zlokazov_t8",
+      "title": "How wow quality is enforced: founder reviews",
+      "summary": "Revolut\u2019s founders remain hands-on: weekly product reviews, direct feedback, and scrutiny of edge cases. Dmitry says founders effectively review 100% of shipped screens, creating a consistently high bar across teams.",
+      "timestamp_start": "00:18:27",
+      "timestamp_end": "00:20:20",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dmitry Zlokazov"
+      ],
+      "themes": [
+        "Product Quality & UX",
+        "Product Leadership",
+        "Execution & Delivery"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dmitry-zlokazov_t9",
+      "title": "Customer feedback loops at massive scale",
+      "summary": "Unlike enterprise contexts, Revolut teams are often power users and can easily reach customers among 50M+ users. Dmitry emphasizes direct, unfiltered customer contact and describes tools enabling quick interviews, surveys, and design tests.",
+      "timestamp_start": "00:20:20",
+      "timestamp_end": "00:24:32",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dmitry Zlokazov"
+      ],
+      "themes": [
+        "Customer Research & Empathy",
+        "Product Management",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dmitry-zlokazov_t10",
+      "title": "Hiring philosophy: raw intellect over experience",
+      "summary": "Dmitry explains why Revolut prioritizes hunger, builder mindset, and raw intellect over seniority: experienced hires can ramp slowly, resist change, or rely on past wins. Startup/tech co-founder profiles often thrive due to speed and problem ownership.",
+      "timestamp_start": "00:24:32",
+      "timestamp_end": "00:30:06",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dmitry Zlokazov"
+      ],
+      "themes": [
+        "Hiring & Talent",
+        "Product Leadership",
+        "Execution & Delivery"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dmitry-zlokazov_t11",
+      "title": "Sourcing tactics and recruiting in sprints",
+      "summary": "Recruiting runs like sprints with weekly check-ins: target specific companies, products, or schools depending on current needs. A key tactic is sourcing from teams behind products Revolut admires, assuming strong product builders sit there.",
+      "timestamp_start": "00:29:14",
+      "timestamp_end": "00:30:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dmitry Zlokazov"
+      ],
+      "themes": [
+        "Hiring & Talent",
+        "Org Design & Team Structure",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dmitry-zlokazov_t12",
+      "title": "Sponsor Break: Stripe (repeat)",
+      "summary": "Second Stripe ad reiterating Stripe\u2019s role in monetization, Billing flexibility, and global scale.",
+      "timestamp_start": "00:30:33",
+      "timestamp_end": "00:31:33",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "dmitry-zlokazov_t13",
+      "title": "Leadership approach: deep dives to drive discipline",
+      "summary": "Dmitry describes a contrarian management style: among ~100 parallel initiatives, he picks 7\u201310 to scrutinize extremely deeply (even code-level). This signals priorities, raises quality discipline across teams, and preserves autonomy without micromanagement.",
+      "timestamp_start": "00:31:33",
+      "timestamp_end": "00:38:48",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dmitry Zlokazov"
+      ],
+      "themes": [
+        "Product Leadership",
+        "Execution & Delivery",
+        "Org Design & Team Structure"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dmitry-zlokazov_t14",
+      "title": "Scaling breadth: platform leverage across 50 countries",
+      "summary": "They avoid custom solutions by investing in scalable platforms, enabling small teams to ship globally. Dmitry contrasts Revolut\u2019s lean credit org shipping monthly across many countries with incumbent banks needing far larger teams for one market.",
+      "timestamp_start": "00:38:48",
+      "timestamp_end": "00:41:07",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dmitry Zlokazov"
+      ],
+      "themes": [
+        "Platform & Infrastructure",
+        "Execution & Delivery",
+        "Fintech & Banking"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dmitry-zlokazov_t15",
+      "title": "Product breadth and market opportunity",
+      "summary": "Lenny lists Revolut\u2019s expanding suite (trading, crypto, loans, BNPL, mortgages, etc.) across jurisdictions; Dmitry frames the huge remaining growth runway. They touch on hiring needs and why the company believes it can scale dramatically further.",
+      "timestamp_start": "00:41:07",
+      "timestamp_end": "00:44:39",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dmitry Zlokazov"
+      ],
+      "themes": [
+        "Company Strategy",
+        "Fintech & Banking",
+        "Hiring & Talent"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dmitry-zlokazov_t16",
+      "title": "Launching new products: new bets framework",
+      "summary": "Dmitry explains how new ideas get greenlit with minimal bureaucracy: small teams build fast, validate with early feedback, but don\u2019t scale until metrics and retention are strong. Revolut can then rapidly distribute to its massive customer base.",
+      "timestamp_start": "00:44:39",
+      "timestamp_end": "00:47:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dmitry Zlokazov"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Experimentation & MVPs",
+        "Execution & Delivery"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dmitry-zlokazov_t17",
+      "title": "No scrappy MVPs: narrow scope, high polish",
+      "summary": "Revolut will reduce functionality for v1 but won\u2019t compromise on UX quality, aesthetics, and delight. Dmitry argues this removes ambiguity when traction is low: you can test the idea without \u201cmaybe the product just sucks\u201d confounding results.",
+      "timestamp_start": "00:47:33",
+      "timestamp_end": "00:48:56",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dmitry Zlokazov"
+      ],
+      "themes": [
+        "Product Quality & UX",
+        "Experimentation & MVPs",
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "dmitry-zlokazov_t18",
+      "title": "Table stakes vs delighters in banking UX",
+      "summary": "They discuss how some features are mandatory (e.g., savings) but Revolut aims to be best-in-class on rates and flexibility while layering delighters like multi-currency savings, goals, automation, and seamless crypto-to-spend experiences.",
+      "timestamp_start": "00:48:56",
+      "timestamp_end": "00:52:09",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dmitry Zlokazov"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Product Quality & UX",
+        "Fintech & Banking"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dmitry-zlokazov_t19",
+      "title": "Summary of Revolut PM \u201cforge\u201d and execution mindset",
+      "summary": "Lenny summarizes key drivers of Revolut\u2019s PM outcomes: ownership, depth, wow quality, and learning from detail-obsessed leaders; Dmitry adds customer empathy, technical depth, and regulatory navigation. They close on hands-on execution and the mantra that 99% done is closer to 0% than 100%.",
+      "timestamp_start": "00:52:09",
+      "timestamp_end": "00:56:29",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dmitry Zlokazov"
+      ],
+      "themes": [
+        "Product Leadership",
+        "Execution & Delivery",
+        "Hiring & Talent"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

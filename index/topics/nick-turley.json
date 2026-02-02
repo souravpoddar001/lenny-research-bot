@@ -1,0 +1,253 @@
+{
+  "episode_id": "nick-turley",
+  "topics": [
+    {
+      "topic_id": "nick-turley_t1",
+      "title": "Introduction and Background",
+      "summary": "Cold open highlights Nick Turley\u2019s path to OpenAI and the accidental origins of ChatGPT, plus a quick tease of GPT-5 and long-term product direction.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:15",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nick Turley"
+      ],
+      "themes": [
+        "Company & Product Strategy",
+        "Product Management",
+        "AI Product Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nick-turley_t2",
+      "title": "Show intro and guest setup",
+      "summary": "Lenny introduces Nick, frames ChatGPT\u2019s scale and impact, and previews topics including the newly launched GPT-5.",
+      "timestamp_start": "00:01:15",
+      "timestamp_end": "00:02:21",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Company & Product Strategy",
+        "AI Product Development",
+        "Product Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "nick-turley_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Orkes (Conductor orchestration) and Vanta (security compliance automation), including a brief interview with Vanta\u2019s CEO.",
+      "timestamp_start": "00:02:21",
+      "timestamp_end": "00:04:50",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Christina Cacioppo"
+      ],
+      "themes": [
+        "Company & Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nick-turley_t4",
+      "title": "GPT-5 launch: what it is and why",
+      "summary": "Nick explains GPT-5\u2019s user-facing step-change: better \u201cvibes,\u201d state-of-the-art capability (especially coding and writing), dynamic reasoning, faster responses, and broad free availability.",
+      "timestamp_start": "00:04:55",
+      "timestamp_end": "00:08:46",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nick Turley"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Company & Product Strategy",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nick-turley_t5",
+      "title": "How long GPT-5 takes to build",
+      "summary": "Nick describes GPT-5 as the culmination of multiple parallel efforts (reasoning, post-training, etc.), making it hard to define a single start date.",
+      "timestamp_start": "00:08:46",
+      "timestamp_end": "00:09:14",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nick Turley"
+      ],
+      "themes": [
+        "AI Product Development"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "nick-turley_t6",
+      "title": "Long-term vision: super assistant with context and actions",
+      "summary": "Nick outlines the vision for a personalized AI that understands your goals and life context, gains tool/action capabilities, and builds an ongoing relationship (memory) to become \u201cyour AI.\u201d",
+      "timestamp_start": "00:09:14",
+      "timestamp_end": "00:12:16",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nick Turley"
+      ],
+      "themes": [
+        "Company & Product Strategy",
+        "AI Product Development",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nick-turley_t7",
+      "title": "Assistant vs replacement: keeping humans in control",
+      "summary": "They discuss fear around AI and OpenAI\u2019s focus on user control, especially for agentic behaviors\u2014using transparency and confirmations to keep users in the driver\u2019s seat.",
+      "timestamp_start": "00:12:16",
+      "timestamp_end": "00:13:53",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nick Turley"
+      ],
+      "themes": [
+        "AI Safety & Responsibility",
+        "AI Product Development",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nick-turley_t8",
+      "title": "Origins of ChatGPT: hackathon to accidental product",
+      "summary": "Nick recounts why OpenAI built a consumer product (faster iteration and direct feedback), how a volunteer hackathon team shipped an open-ended chat experience, and how unexpected retention turned it into a real product.",
+      "timestamp_start": "00:13:53",
+      "timestamp_end": "00:17:14",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nick Turley"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Product Management",
+        "Company & Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nick-turley_t9",
+      "title": "Scaling reality: responsibility, reflection, and learning",
+      "summary": "Nick reflects on the humbling scale of ChatGPT, the need to pause to observe emergent use and risks, and his practice of weekly unplugged thinking time to stay effective.",
+      "timestamp_start": "00:17:14",
+      "timestamp_end": "00:20:45",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nick Turley"
+      ],
+      "themes": [
+        "Product Management",
+        "Company & Product Strategy",
+        "AI Safety & Responsibility"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nick-turley_t10",
+      "title": "Operating with urgency: pace as a product advantage",
+      "summary": "Nick explains how fast learning drove early decisions (including a daily release sync) and how he views his role as setting the team\u2019s \u201cresting heartbeat\u201d for execution speed.",
+      "timestamp_start": "00:20:45",
+      "timestamp_end": "00:23:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nick Turley"
+      ],
+      "themes": [
+        "Product Management",
+        "Company & Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nick-turley_t11",
+      "title": "\u201cMaximally accelerated\u201d and when not to accelerate",
+      "summary": "Nick unpacks the \u201cmaximally accelerated\u201d forcing function to identify critical path work, while emphasizing that safety requires deliberate process (red teaming, system cards, external input).",
+      "timestamp_start": "00:23:12",
+      "timestamp_end": "00:26:11",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nick Turley"
+      ],
+      "themes": [
+        "Product Management",
+        "AI Safety & Responsibility",
+        "AI Product Development"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "nick-turley_t12",
+      "title": "Retention drivers: model-as-product, capabilities, and UX",
+      "summary": "Nick discusses strong retention and the \u201csmile curve,\u201d attributing it to improving the model on key use cases and behavior (\u201cvibes\u201d), adding capabilities like search and memory, and classic product friction removal (e.g., no-login).",
+      "timestamp_start": "00:26:11",
+      "timestamp_end": "00:31:52",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nick Turley"
+      ],
+      "themes": [
+        "Product Management",
+        "AI Product Development",
+        "Company & Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nick-turley_t13",
+      "title": "Shipping in 10 days and iterating like software",
+      "summary": "Nick clarifies the 10-day sprint from decision-to-ship, contrasts old big-bang model releases with iterative post-training/product iteration, and shares the aspiration to ship improvements daily while avoiding regressions.",
+      "timestamp_start": "00:31:52",
+      "timestamp_end": "00:33:48",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nick Turley"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Product Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "nick-turley_t14",
+      "title": "Beyond chat: natural language yes, chatbot no",
+      "summary": "They debate whether chat is the long-term interface; Nick argues natural language will persist but turn-by-turn chat is limiting, and envisions AIs that can generate/operate richer UIs within existing tools.",
+      "timestamp_start": "00:33:48",
+      "timestamp_end": "00:36:31",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nick Turley"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Company & Product Strategy",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nick-turley_t15",
+      "title": "Accidental early decisions: naming, free, pricing, enterprise",
+      "summary": "Nick shares \u201chistory-making accidents\u201d: last-minute naming (ChatGPT), making it free, subscriptions as a demand-throttling mechanism (priced via a quick Van Westendorp survey), the $200 tier rationale, and enterprise born from workplace bans\u2014now millions of business users.",
+      "timestamp_start": "00:36:31",
+      "timestamp_end": "00:43:45",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nick Turley"
+      ],
+      "themes": [
+        "Company & Product Strategy",
+        "Product Management",
+        "AI Product Development"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

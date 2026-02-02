@@ -1,0 +1,371 @@
+{
+  "episode_id": "lulu-cheng-meservey",
+  "topics": [
+    {
+      "topic_id": "lulu-cheng-meservey_t1",
+      "title": "Cold open: cultural erogenous zones concept",
+      "summary": "Lulu introduces the idea of finding an audience\u2019s \u201ccultural erogenous zones\u201d and bridging from what they already care about (X) to what you\u2019re selling (Y), rather than trying to change passions from scratch.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:18",
+      "speakers": [
+        "Lulu Cheng Meservey"
+      ],
+      "themes": [
+        "Messaging",
+        "Audience",
+        "Positioning"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lulu-cheng-meservey_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Lulu, her roles (Substack, Activision Blizzard), and what the episode will cover: making ideas spread, going direct, and taking comms risks.",
+      "timestamp_start": "00:01:18",
+      "timestamp_end": "00:02:21",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career",
+        "PR",
+        "Growth"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "lulu-cheng-meservey_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for AssemblyAI and Public.com treasury accounts.",
+      "timestamp_start": "00:02:21",
+      "timestamp_end": "00:04:39",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lulu-cheng-meservey_t4",
+      "title": "What makes ideas spread and stick",
+      "summary": "Lulu explains that spreadable ideas are memorable and give people a reason to repeat them (humor, identity, helping others), using jokes, analogies, repetition, vivid imagery, and stories over adjectives.",
+      "timestamp_start": "00:04:41",
+      "timestamp_end": "00:06:17",
+      "speakers": [
+        "Lenny",
+        "Lulu Cheng Meservey"
+      ],
+      "themes": [
+        "Virality",
+        "Messaging",
+        "Storytelling"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lulu-cheng-meservey_t5",
+      "title": "Examples: sticky phrases and memeable imagery",
+      "summary": "They discuss examples like \u201cbinders of women\u201d and classic tech slogans, highlighting how unusual phrasing and clear mental images drive repetition (and can backfire).",
+      "timestamp_start": "00:06:17",
+      "timestamp_end": "00:07:19",
+      "speakers": [
+        "Lenny",
+        "Lulu Cheng Meservey"
+      ],
+      "themes": [
+        "Messaging",
+        "Storytelling",
+        "Virality"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lulu-cheng-meservey_t6",
+      "title": "How to craft a simple, repeatable tagline",
+      "summary": "Lulu gives a process: boil the mission to one sentence a second-grader understands, remove clich\u00e9s, and add imagery/analogy to reduce cognitive load and increase recall.",
+      "timestamp_start": "00:07:19",
+      "timestamp_end": "00:08:36",
+      "speakers": [
+        "Lenny",
+        "Lulu Cheng Meservey"
+      ],
+      "themes": [
+        "Messaging",
+        "Positioning",
+        "Brand"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "lulu-cheng-meservey_t7",
+      "title": "A comms misstep: esoteric metaphor in a thread",
+      "summary": "Lulu shares a Substack-era thread that mostly worked, but one poetic, context-less line (\u201cneither\u2026 is the sea\u201d) confused readers\u2014illustrating the danger of inside references.",
+      "timestamp_start": "00:08:36",
+      "timestamp_end": "00:11:08",
+      "speakers": [
+        "Lenny",
+        "Lulu Cheng Meservey"
+      ],
+      "themes": [
+        "PR",
+        "Messaging",
+        "Learning"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lulu-cheng-meservey_t8",
+      "title": "Why comms should take calculated risks",
+      "summary": "Lulu argues startups\u2019 enemy is the status quo; doing nothing is the safest but most damaging path. She advocates mistakes of commission (learnable) over omission (invisible).",
+      "timestamp_start": "00:11:08",
+      "timestamp_end": "00:12:54",
+      "speakers": [
+        "Lenny",
+        "Lulu Cheng Meservey"
+      ],
+      "themes": [
+        "PR",
+        "Strategy",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lulu-cheng-meservey_t9",
+      "title": "Risk that worked: defending free expression stance",
+      "summary": "She describes taking a public stand as Substack faced criticism, the risks involved (timing, controversy, execution), and why it resonated with core creators.",
+      "timestamp_start": "00:12:54",
+      "timestamp_end": "00:14:00",
+      "speakers": [
+        "Lenny",
+        "Lulu Cheng Meservey"
+      ],
+      "themes": [
+        "PR",
+        "Messaging",
+        "Brand"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lulu-cheng-meservey_t10",
+      "title": "Deep dive: cultural erogenous zones framework",
+      "summary": "Lulu defines the framework: identify what audiences already care about, accept non-audiences, and build an \u201cAPI/bridge\u201d from their passion to your product\u2019s value.",
+      "timestamp_start": "00:14:00",
+      "timestamp_end": "00:16:09",
+      "speakers": [
+        "Lenny",
+        "Lulu Cheng Meservey"
+      ],
+      "themes": [
+        "Audience",
+        "Messaging",
+        "Positioning"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lulu-cheng-meservey_t11",
+      "title": "Example: reframing education as national security",
+      "summary": "Lulu shares Kamala Harris\u2019s example of linking K-12 reading levels to military readiness\u2014an illustration of connecting Y to an audience\u2019s X to earn attention.",
+      "timestamp_start": "00:16:09",
+      "timestamp_end": "00:17:28",
+      "speakers": [
+        "Lenny",
+        "Lulu Cheng Meservey"
+      ],
+      "themes": [
+        "Messaging",
+        "Audience",
+        "Storytelling"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "lulu-cheng-meservey_t12",
+      "title": "Underdog playbook: build distribution and influencers",
+      "summary": "For startups, Lulu recommends not relying on institutional gatekeepers; instead build owned distribution, identify centers of gravity (influencers), and spread outward via concentric circles.",
+      "timestamp_start": "00:17:28",
+      "timestamp_end": "00:20:25",
+      "speakers": [
+        "Lenny",
+        "Lulu Cheng Meservey"
+      ],
+      "themes": [
+        "Startups",
+        "Distribution",
+        "PR"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lulu-cheng-meservey_t13",
+      "title": "Concentric circles: sequencing audiences for control",
+      "summary": "They map circles from employees to power users to broader media/investors, explaining why you can\u2019t skip inner circles and how early buy-in creates organic evangelism.",
+      "timestamp_start": "00:20:25",
+      "timestamp_end": "00:25:44",
+      "speakers": [
+        "Lenny",
+        "Lulu Cheng Meservey"
+      ],
+      "themes": [
+        "Audience",
+        "Distribution",
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lulu-cheng-meservey_t14",
+      "title": "One-page doc: map audiences, zones, and channels",
+      "summary": "Lulu outlines a practical template: list and rank 5\u20136 audiences by influence/credibility, define their erogenous zones, and identify where they live intellectually (pods, subreddits, etc.).",
+      "timestamp_start": "00:25:44",
+      "timestamp_end": "00:28:54",
+      "speakers": [
+        "Lenny",
+        "Lulu Cheng Meservey"
+      ],
+      "themes": [
+        "Messaging",
+        "Audience",
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lulu-cheng-meservey_t15",
+      "title": "Comms equation: business goal to beliefs to channels",
+      "summary": "She proposes a disciplined \u201cmath\u201d approach: start with a business goal, define required actions and audiences, determine beliefs needed to act, then choose delivery channels and messengers.",
+      "timestamp_start": "00:28:54",
+      "timestamp_end": "00:31:24",
+      "speakers": [
+        "Lenny",
+        "Lulu Cheng Meservey"
+      ],
+      "themes": [
+        "Strategy",
+        "Messaging",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lulu-cheng-meservey_t16",
+      "title": "Pressure = force/area: focus to increase impact",
+      "summary": "Lulu adapts a physics analogy: with limited effort (force), reduce surface area (narrow targeting) to increase pressure (impact), especially for early-stage startups.",
+      "timestamp_start": "00:31:24",
+      "timestamp_end": "00:34:38",
+      "speakers": [
+        "Lenny",
+        "Lulu Cheng Meservey"
+      ],
+      "themes": [
+        "Startups",
+        "Positioning",
+        "Messaging"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lulu-cheng-meservey_t17",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Vanta (SOC 2 compliance automation).",
+      "timestamp_start": "00:34:38",
+      "timestamp_end": "00:35:56",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lulu-cheng-meservey_t18",
+      "title": "Applying pressure framework: effort, credibility, ROI",
+      "summary": "They clarify \u201cforce\u201d as time/money/credibility, and discuss why spending small effort on the most important people can trigger outsized word-of-mouth returns.",
+      "timestamp_start": "00:35:56",
+      "timestamp_end": "00:37:24",
+      "speakers": [
+        "Lenny",
+        "Lulu Cheng Meservey"
+      ],
+      "themes": [
+        "Strategy",
+        "Distribution",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lulu-cheng-meservey_t19",
+      "title": "Niche first, then expand; Balaji example",
+      "summary": "Lulu argues startups should win a tiny corner first; she cites Balaji\u2019s Network State launch as focused distribution to true fans who then evangelize broadly.",
+      "timestamp_start": "00:37:24",
+      "timestamp_end": "00:40:57",
+      "speakers": [
+        "Lenny",
+        "Lulu Cheng Meservey"
+      ],
+      "themes": [
+        "Startups",
+        "Distribution",
+        "Virality"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lulu-cheng-meservey_t20",
+      "title": "Why comms fails: too broad or too corporate",
+      "summary": "They diagnose common failure modes: trying to appeal to everyone (dilution) and speaking like a faceless corporation instead of a trusted human (Ryan Petersen/Flexport example).",
+      "timestamp_start": "00:40:57",
+      "timestamp_end": "00:42:58",
+      "speakers": [
+        "Lenny",
+        "Lulu Cheng Meservey"
+      ],
+      "themes": [
+        "PR",
+        "Messaging",
+        "Brand"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lulu-cheng-meservey_t21",
+      "title": "Going direct: founder-led channels and picking one",
+      "summary": "Lulu explains \u201cgo direct\u201d as authentic first-person communication tied to a real person, building owned audience early, and choosing the medium that fits the founder\u2019s strengths (tweets vs longform vs video).",
+      "timestamp_start": "00:42:58",
+      "timestamp_end": "00:46:58",
+      "speakers": [
+        "Lenny",
+        "Lulu Cheng Meservey"
+      ],
+      "themes": [
+        "Distribution",
+        "PR",
+        "Brand"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lulu-cheng-meservey_t22",
+      "title": "Do founders need Twitter? Platform choice and LinkedIn",
+      "summary": "Lulu says not every founder needs Twitter; it depends on mission, controversy, and recruiting dynamics. They discuss LinkedIn\u2019s effectiveness for career content and its underutilization.",
+      "timestamp_start": "00:46:58",
+      "timestamp_end": "00:48:14",
+      "speakers": [
+        "Lenny",
+        "Lulu Cheng Meservey"
+      ],
+      "themes": [
+        "Distribution",
+        "Audience",
+        "Growth"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "episode_id": "michael-truell",
+  "topics": [
+    {
+      "topic_id": "michael-truell_t1",
+      "title": "Introduction and Background",
+      "summary": "Cold open highlights Cursor\u2019s ambition (\u201cafter code\u201d), surprising lessons (custom models), hiring pace, and rapid ARR growth. Lenny introduces Michael Truell and frames the episode\u2019s main arcs: Cursor\u2019s origin, future of programming, and product/company lessons.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:14",
+      "speakers": [
+        "Michael Truell",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Future of Software Development",
+        "Company Building",
+        "AI Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "michael-truell_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Eppo (experimentation platform) and Vanta (security/compliance automation).",
+      "timestamp_start": "00:02:14",
+      "timestamp_end": "00:04:26",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "michael-truell_t3",
+      "title": "What comes after code",
+      "summary": "Michael outlines Cursor\u2019s vision: programming shifts from writing formal languages to specifying intent in a more human-readable, precise representation\u2014avoiding both \u201cnothing changes\u201d and pure chatbot-based development.",
+      "timestamp_start": "00:04:26",
+      "timestamp_end": "00:08:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Michael Truell"
+      ],
+      "themes": [
+        "Future of Software Development",
+        "AI Product Strategy",
+        "Human-AI Collaboration"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "michael-truell_t4",
+      "title": "Skills that matter: taste and logic design",
+      "summary": "They discuss how engineers\u2019 value shifts toward \u201ctaste\u201d and high-level logic design\u2014defining what to build and how it should work\u2014while AI reduces the need for painstaking low-level implementation and constant carefulness.",
+      "timestamp_start": "00:08:33",
+      "timestamp_end": "00:12:39",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Michael Truell"
+      ],
+      "themes": [
+        "Careers and Skills",
+        "Future of Software Development",
+        "Human-AI Collaboration"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "michael-truell_t5",
+      "title": "Origin story: from mechanical engineering to Cursor",
+      "summary": "Michael shares Cursor\u2019s beginnings: inspired by early Copilot and scaling laws, the team first pursued mechanical engineering automation but pivoted after data/model challenges and realizing they were more passionate about transforming programming.",
+      "timestamp_start": "00:12:39",
+      "timestamp_end": "00:18:30",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Michael Truell"
+      ],
+      "themes": [
+        "Company Building",
+        "AI Product Strategy",
+        "Founder Decisions"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "michael-truell_t6",
+      "title": "Why build an IDE, not just agents or models",
+      "summary": "Michael explains choosing an IDE-centered approach to keep humans in control and because existing editors\u2019 extensibility is limited. He argues programming workflows and UI will change significantly, requiring ownership of the full application.",
+      "timestamp_start": "00:18:30",
+      "timestamp_end": "00:21:04",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Michael Truell"
+      ],
+      "themes": [
+        "AI Product Strategy",
+        "Human-AI Collaboration",
+        "Developer Tools"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "michael-truell_t7",
+      "title": "Foreground vs background agents and task fit",
+      "summary": "They explore how \u201cSlack-style\u201d background agents may help for well-specified tasks (e.g., bug fixes), but most work benefits from tight loops where users pull AI work into the IDE, iterate quickly, and maintain precision and control.",
+      "timestamp_start": "00:21:04",
+      "timestamp_end": "00:24:27",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Michael Truell"
+      ],
+      "themes": [
+        "Human-AI Collaboration",
+        "AI Product Strategy",
+        "Developer Workflow"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "michael-truell_t8",
+      "title": "Early build and launch: hand-rolled editor to VS Code",
+      "summary": "Michael recounts building the first Cursor editor from scratch, dogfooding within weeks, launching publicly within months, and then switching to a VS Code base after early user feedback and rapid iteration in public.",
+      "timestamp_start": "00:24:27",
+      "timestamp_end": "00:26:44",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Michael Truell"
+      ],
+      "themes": [
+        "Company Building",
+        "Product Development",
+        "Developer Tools"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "michael-truell_t9",
+      "title": "Growth dynamics: exponential, product-led, and focus",
+      "summary": "They discuss Cursor\u2019s unusually fast ARR growth, Michael\u2019s view that it felt slow early on due to exponential dynamics, and the team\u2019s emphasis on sustained product improvement over sales/marketing\u2014plus the challenge of prioritization.",
+      "timestamp_start": "00:26:44",
+      "timestamp_end": "00:30:30",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Michael Truell"
+      ],
+      "themes": [
+        "Growth",
+        "Product-Led Growth",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "michael-truell_t10",
+      "title": "Sponsor Break",
+      "summary": "Sponsor segment featuring OneSchema and its AI-powered FileFeeds for automating messy CSV/Excel ingestion, validation, and integrations (SFTP/S3/email).",
+      "timestamp_start": "00:30:30",
+      "timestamp_end": "00:32:05",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Speaker 3"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "michael-truell_t11",
+      "title": "Counterintuitive lesson: custom model development is essential",
+      "summary": "Michael says they didn\u2019t expect to train models, but found targeted custom models crucial; now \u201cevery magic moment\u201d uses a custom model, built by complementing (not replacing) frontier foundation models.",
+      "timestamp_start": "00:32:05",
+      "timestamp_end": "00:34:05",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Michael Truell"
+      ],
+      "themes": [
+        "AI Product Strategy",
+        "Machine Learning",
+        "Competitive Advantage"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "michael-truell_t12",
+      "title": "Cursor\u2019s model stack: autocomplete, retrieval, and diff filling",
+      "summary": "Michael details where Cursor uses its own models: ultra-fast, low-cost multi-file autocomplete; codebase search/retrieval to feed frontier models; and smaller models that convert high-level plans into concrete code diffs for speed and quality.",
+      "timestamp_start": "00:34:05",
+      "timestamp_end": "00:38:42",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Michael Truell"
+      ],
+      "themes": [
+        "Machine Learning",
+        "AI Product Strategy",
+        "Developer Tools"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "michael-truell_t13",
+      "title": "Defensibility and moats: keep building the best product",
+      "summary": "They discuss AI moats: Michael argues the ceiling is high and leapfrogs are always possible, so defensibility comes from sustained R&D scale and continuous product superiority\u2014more like search engines than classic enterprise lock-in.",
+      "timestamp_start": "00:38:42",
+      "timestamp_end": "00:41:48",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Michael Truell"
+      ],
+      "themes": [
+        "Competition and Moats",
+        "AI Product Strategy",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "michael-truell_t14",
+      "title": "Market structure: one general winner plus niches",
+      "summary": "Michael predicts the market is far larger than historical IDE tooling because AI can automate deep knowledge work; he expects many niche tools but ultimately one dominant general platform for building most software.",
+      "timestamp_start": "00:41:48",
+      "timestamp_end": "00:44:10",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Michael Truell"
+      ],
+      "themes": [
+        "Market Landscape",
+        "Future of Software Development",
+        "AI Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "michael-truell_t15",
+      "title": "Why Microsoft Copilot hasn\u2019t dominated",
+      "summary": "Michael suggests the space is unfriendly to incumbents because switching is easy and innovation matters; he also cites historical execution factors like team changes and coordination complexity inside large orgs.",
+      "timestamp_start": "00:44:10",
+      "timestamp_end": "00:46:15",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Michael Truell"
+      ],
+      "themes": [
+        "Competition and Moats",
+        "Market Landscape",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "michael-truell_t16",
+      "title": "Onboarding question: tips for new Cursor users (cut off)",
+      "summary": "Lenny asks what tips Michael would whisper to first-time users to get the most out of Cursor; Michael begins to answer but the transcript ends mid-sentence.",
+      "timestamp_start": "00:46:15",
+      "timestamp_end": "00:46:32",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Michael Truell"
+      ],
+      "themes": [
+        "Product Usage",
+        "Developer Workflow",
+        "AI Product Strategy"
+      ],
+      "quote_count": 3
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "episode_id": "jake-knapp-john-zeratsky-20",
+  "topics": [
+    {
+      "topic_id": "jake-knapp-john-zeratsky-20_t1",
+      "title": "Introduction and why teams miss the basics",
+      "summary": "Jake and John describe common early-stage failure modes: teams don\u2019t align on fundamentals (target customer, problem, competitors) or they never test assumptions. Lenny frames the conversation around the Foundation Sprint as a practical \u201cmissing manual.\u201d",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:28",
+      "speakers": [
+        "Jake Knapp",
+        "John Zeratsky",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Startups",
+        "Product Strategy",
+        "Customer Research"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jake-knapp-john-zeratsky-20_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Brex (startup banking/treasury) and Paragon (building and maintaining integrations for AI products).",
+      "timestamp_start": "00:02:28",
+      "timestamp_end": "00:04:41",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brandon Foo"
+      ],
+      "themes": [
+        "Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jake-knapp-john-zeratsky-20_t3",
+      "title": "Foundation Sprint origin from Design Sprint",
+      "summary": "Jake recounts how a calendar-cleared week at Google led to a prototype that became Google Meet, inspiring the repeatable Design Sprint. He explains how the 5-day sprint recipe evolved at Google and then at Google Ventures with John.",
+      "timestamp_start": "00:04:41",
+      "timestamp_end": "00:09:25",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jake Knapp"
+      ],
+      "themes": [
+        "Product Development",
+        "Startups",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jake-knapp-john-zeratsky-20_t4",
+      "title": "Why a new sprint for pre-seed teams",
+      "summary": "John explains that truly early-stage startups lacked foundational clarity (problem, ideal customer, differentiation, real competitors), making Design Sprints less effective without upfront alignment. This gap led to creating the Foundation Sprint at Character Capital (2021\u20132022).",
+      "timestamp_start": "00:09:25",
+      "timestamp_end": "00:11:08",
+      "speakers": [
+        "Lenny Rachitsky",
+        "John Zeratsky"
+      ],
+      "themes": [
+        "Startups",
+        "Product Strategy",
+        "Customer Research"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jake-knapp-john-zeratsky-20_t5",
+      "title": "Foundation Sprint structure and timeboxing",
+      "summary": "Jake outlines the 10-hour Foundation Sprint (often split across two days) followed by 2\u20133+ weeks of Design Sprints to test the hypothesis. The key idea is clearing calendars to make high-leverage decisions and run focused experiments.",
+      "timestamp_start": "00:11:24",
+      "timestamp_end": "00:14:41",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jake Knapp"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Product Development",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jake-knapp-john-zeratsky-20_t6",
+      "title": "Three phases: basics, differentiation, approach",
+      "summary": "Jake breaks the Foundation Sprint into basics (customer/problem/competition/alternatives), differentiation (why you win), and approach (implementation paths). The output is a simple \u201cMad Libs\u201d founding hypothesis sentence to test.",
+      "timestamp_start": "00:14:41",
+      "timestamp_end": "00:16:59",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jake Knapp"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Startups",
+        "Customer Research"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jake-knapp-john-zeratsky-20_t7",
+      "title": "Example setup: Latchet and Character Labs",
+      "summary": "They introduce Latchet (ex-Substack founders) building growth tools for artisans selling online, and explain Character Labs as a sprint-driven, accelerator-like program. John highlights the founders\u2019 builder instinct and the value of delaying code to clarify and validate first.",
+      "timestamp_start": "00:16:59",
+      "timestamp_end": "00:20:41",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jake Knapp",
+        "John Zeratsky"
+      ],
+      "themes": [
+        "Startups",
+        "Product Development",
+        "Customer Research"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jake-knapp-john-zeratsky-20_t8",
+      "title": "Basics phase mechanics: work alone together",
+      "summary": "Jake walks through the basics board: silent writing, note-and-vote, and a single decider to lock decisions quickly. They capture customer, problem, competitors/alternatives, and team advantages to create shared clarity.",
+      "timestamp_start": "00:20:41",
+      "timestamp_end": "00:23:18",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jake Knapp"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Customer Research",
+        "Team Collaboration"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jake-knapp-john-zeratsky-20_t9",
+      "title": "Why basics matter: surprises and alignment",
+      "summary": "Lenny probes why \u201cobvious\u201d basics still pay off; Jake and John explain the value is surfacing mismatched assumptions and expanding the competitive set beyond direct rivals. They emphasize identifying true advantages as fuel for differentiation.",
+      "timestamp_start": "00:23:18",
+      "timestamp_end": "00:28:52",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jake Knapp",
+        "John Zeratsky"
+      ],
+      "themes": [
+        "Customer Research",
+        "Product Strategy",
+        "Team Collaboration"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jake-knapp-john-zeratsky-20_t10",
+      "title": "Differentiation phase and the two-by-two",
+      "summary": "Jake explains differentiation as the heart of the sprint: crafting a clear customer promise that beats alternatives. They generate classic and custom differentiators, score against competitors, and produce a two-by-two where competitors sit in \u201cLoserville.\u201d",
+      "timestamp_start": "00:28:52",
+      "timestamp_end": "00:34:42",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jake Knapp"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Marketing",
+        "Customer Research"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jake-knapp-john-zeratsky-20_t11",
+      "title": "Why most two-by-twos are wrong",
+      "summary": "Jake argues typical two-by-twos feel like consultant fluff because they\u2019re made for decks, focus on tech not customers, lack team input, and aren\u2019t validated. Done early with team alignment and testing, the chart becomes a durable North Star for product decisions.",
+      "timestamp_start": "00:34:42",
+      "timestamp_end": "00:38:28",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jake Knapp"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Marketing",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jake-knapp-john-zeratsky-20_t12",
+      "title": "Classic differentiators list and pricing discussion",
+      "summary": "Jake shares the standard differentiator set (fast, smart, easy, free/expensive, focused, simple, integrated) as a warm-up before custom axes. John notes price is rarely durable, except when AI enables radically cheaper solutions (e.g., AI-designed pesticides).",
+      "timestamp_start": "00:38:28",
+      "timestamp_end": "00:43:38",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jake Knapp",
+        "John Zeratsky"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Pricing",
+        "AI"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jake-knapp-john-zeratsky-20_t13",
+      "title": "Being honest: you can\u2019t win on everything",
+      "summary": "John emphasizes that realistic scoring shows startups won\u2019t lead on every axis, and that\u2019s okay\u2014winning requires 1\u20132 radical advantages customers care about. This honesty improves positioning and avoids misleading \u201cbetter at everything\u201d narratives.",
+      "timestamp_start": "00:43:38",
+      "timestamp_end": "00:44:44",
+      "speakers": [
+        "Lenny Rachitsky",
+        "John Zeratsky"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Marketing",
+        "Startups"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

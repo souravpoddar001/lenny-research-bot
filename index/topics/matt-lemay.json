@@ -1,0 +1,274 @@
+{
+  "episode_id": "matt-lemay",
+  "topics": [
+    {
+      "topic_id": "matt-lemay_t1",
+      "title": "Introduction and Background",
+      "summary": "Cold open highlights layoffs, \"work around the work,\" and the core career-saving question: would you fund your own team as CEO. Lenny introduces Matt LeMay, his books, and the episode\u2019s focus on impact-first product teams.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:07",
+      "speakers": [
+        "Matt LeMay",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Career Growth",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-lemay_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Enterpret (customer intelligence platform) and Pragmatic Institute (Future of Product Management Summit).",
+      "timestamp_start": "00:02:29",
+      "timestamp_end": "00:04:12",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Tools & Technology"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-lemay_t3",
+      "title": "Matt\u2019s music background and product parallels",
+      "summary": "Matt shares his Pitchfork and touring musician background, connecting music-making to product work through collaboration and the value of diverse perspectives\u2014especially in an AI era.",
+      "timestamp_start": "00:04:26",
+      "timestamp_end": "00:06:44",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt LeMay"
+      ],
+      "themes": [
+        "Leadership",
+        "Collaboration",
+        "Product Culture"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "matt-lemay_t4",
+      "title": "Why impact-first: aligning to business outcomes",
+      "summary": "Matt explains why teams must tie work to business-critical outcomes: that\u2019s how companies evaluate investment in teams, especially amid layoffs and tighter capital environments.",
+      "timestamp_start": "00:06:51",
+      "timestamp_end": "00:10:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt LeMay"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Business Impact",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-lemay_t5",
+      "title": "Impact on resumes and credit-taking dynamics",
+      "summary": "They discuss why demonstrating measurable impact matters for hiring and career mobility, and how PMs\u2019 tendency to deflect credit can obscure contributions\u2014making team-level impact framing useful.",
+      "timestamp_start": "00:10:12",
+      "timestamp_end": "00:11:49",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt LeMay"
+      ],
+      "themes": [
+        "Career Growth",
+        "Business Impact",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "matt-lemay_t6",
+      "title": "The CEO funding question as a reality check",
+      "summary": "Matt introduces a stress-test question: if you were CEO, would you fully fund your team? The discussion explores how this reframes team cost/ROI and prompts proactive changes to goals, scope, and stakeholder alignment.",
+      "timestamp_start": "00:12:17",
+      "timestamp_end": "00:15:04",
+      "speakers": [
+        "Matt LeMay",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Business Impact",
+        "Leadership",
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "matt-lemay_t7",
+      "title": "PM as mini-CEO, but for the whole team",
+      "summary": "They debate the \"mini CEO\" framing: Matt argues the PM\u2019s job is enabling the entire team to think commercially, noting engineers/designers often surface impact insights first when empowered.",
+      "timestamp_start": "00:15:15",
+      "timestamp_end": "00:17:29",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt LeMay"
+      ],
+      "themes": [
+        "Leadership",
+        "Collaboration",
+        "Product Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "matt-lemay_t8",
+      "title": "What businesses expect: value exchange and context",
+      "summary": "Matt uses Melissa Perri\u2019s definition of product as facilitating a value exchange and emphasizes understanding what success means for your specific business model (runway, investors, public markets, promises to shareholders).",
+      "timestamp_start": "00:17:34",
+      "timestamp_end": "00:20:01",
+      "speakers": [
+        "Matt LeMay",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Business Impact",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-lemay_t9",
+      "title": "Best practices trap: sweating the middle layer",
+      "summary": "They critique over-focus on OKRs, strategy artifacts, and cascading frameworks that disconnect day-to-day work from real impact. Matt argues teams often can\u2019t explain how low-level goals add up to top-level business outcomes.",
+      "timestamp_start": "00:20:01",
+      "timestamp_end": "00:23:37",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt LeMay"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Execution",
+        "Business Impact"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-lemay_t10",
+      "title": "Low Impact PM Death Spiral explained",
+      "summary": "Matt describes how teams drift into low-impact \"rhinestone\" work that adds complexity, increases dependencies, and spawns coordination layers\u2014making high-impact work harder and reinforcing the cycle until layoffs break it.",
+      "timestamp_start": "00:23:55",
+      "timestamp_end": "00:27:47",
+      "speakers": [
+        "Matt LeMay",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Execution",
+        "Organizational Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-lemay_t11",
+      "title": "Courage to pursue high-impact work: Mailchimp story",
+      "summary": "A Mailchimp case study shows teams rallying around a core business metric (first email sent), overcoming fear of touching the commercial engine, and succeeding through simplification and subtraction rather than flashy features.",
+      "timestamp_start": "00:27:47",
+      "timestamp_end": "00:32:48",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt LeMay"
+      ],
+      "themes": [
+        "Business Impact",
+        "Execution",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-lemay_t12",
+      "title": "Accountability, uncertainty, and happier commercial PMs",
+      "summary": "Matt reframes impact work as accepting uncertainty: external factors always affect outcomes, and best-practice compliance won\u2019t save a failing business. He notes commercially minded PMs he interviewed were often happier and more balanced.",
+      "timestamp_start": "00:32:48",
+      "timestamp_end": "00:36:12",
+      "speakers": [
+        "Matt LeMay",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership",
+        "Business Impact"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-lemay_t13",
+      "title": "If impact bets fail: transparency and learning",
+      "summary": "They discuss how proactive, honest communication about forecasts and constraints can help the business plan better, even when goals must be revised. Lenny adds that pushback can earn respect or reveal a poor-fit company culture.",
+      "timestamp_start": "00:36:12",
+      "timestamp_end": "00:38:56",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt LeMay"
+      ],
+      "themes": [
+        "Leadership",
+        "Business Impact",
+        "Career Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "matt-lemay_t14",
+      "title": "Business model clarity reveals company ethics and fit",
+      "summary": "Matt argues understanding the business model and incentives reveals what the company truly optimizes for\u2014often more than mission statements\u2014and helps individuals decide whether they want to contribute to that version of success.",
+      "timestamp_start": "00:38:56",
+      "timestamp_end": "00:40:05",
+      "speakers": [
+        "Matt LeMay",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Business Impact",
+        "Career Growth",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-lemay_t15",
+      "title": "Sponsor Break and shifting to actionable steps",
+      "summary": "Sponsor message for Anthropic\u2019s Claude, then the conversation pivots to practical actions teams can take regardless of company maturity, emphasizing \"no excuses\" and working with constraints rather than fighting them.",
+      "timestamp_start": "00:40:07",
+      "timestamp_end": "00:44:50",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt LeMay"
+      ],
+      "themes": [
+        "Tools & Technology",
+        "Product Strategy",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-lemay_t16",
+      "title": "Three steps preview: start with team goals",
+      "summary": "Matt begins outlining his three-step approach to becoming an impact-first product team, starting with setting team goals close to company goals (no more than one step removed).",
+      "timestamp_start": "00:44:23",
+      "timestamp_end": "00:44:59",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt LeMay"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Business Impact",
+        "Execution"
+      ],
+      "quote_count": 3
+    }
+  ]
+}

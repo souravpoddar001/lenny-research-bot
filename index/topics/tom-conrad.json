@@ -1,0 +1,220 @@
+{
+  "episode_id": "tom-conrad",
+  "topics": [
+    {
+      "topic_id": "tom-conrad_t1",
+      "title": "Introduction and Background",
+      "summary": "Tom Conrad argues not everyone should be a founder and previews lessons from both big successes and high-profile failures. Lenny introduces Tom\u2019s background across Apple, Pandora, Snap, Sonos, Pets.com, Quibi, and his current role at Zero.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:01",
+      "speakers": [
+        "Tom Conrad",
+        "Speaker 1"
+      ],
+      "themes": [
+        "Career",
+        "Leadership",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tom-conrad_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Coda and Jira Product Discovery, focusing on consolidating team workflows and improving product prioritization/roadmapping.",
+      "timestamp_start": "00:02:01",
+      "timestamp_end": "00:04:40",
+      "speakers": [
+        "Lenny",
+        "Speaker 1"
+      ],
+      "themes": [
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tom-conrad_t3",
+      "title": "Apple Finder feature: spring-loaded folders story",
+      "summary": "Tom recounts joining Apple as a young engineer and building the hover-to-open folder behavior in the Finder. The key lesson: small \u201ctemporary\u201d design/engineering shortcuts can persist for decades across rewrites and platforms.",
+      "timestamp_start": "00:04:40",
+      "timestamp_end": "00:10:55",
+      "speakers": [
+        "Lenny",
+        "Tom Conrad"
+      ],
+      "themes": [
+        "Product Management",
+        "Engineering",
+        "Career"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "tom-conrad_t4",
+      "title": "Choosing where to work: product vs people",
+      "summary": "Tom explains how his early focus on loving the product evolved into prioritizing the people and collaboration environment. He notes satisfaction correlates more with team and mission than external success metrics.",
+      "timestamp_start": "00:11:05",
+      "timestamp_end": "00:12:43",
+      "speakers": [
+        "Lenny",
+        "Tom Conrad"
+      ],
+      "themes": [
+        "Career",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "tom-conrad_t5",
+      "title": "Assessing teams: trust your gut in interviews",
+      "summary": "Tom advises that most people can sense misalignment in values or working styles during hiring, but rationalize it away. The practical guidance: notice your instincts and don\u2019t ignore early signals.",
+      "timestamp_start": "00:12:43",
+      "timestamp_end": "00:14:37",
+      "speakers": [
+        "Lenny",
+        "Tom Conrad"
+      ],
+      "themes": [
+        "Career",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tom-conrad_t6",
+      "title": "Pets.com: overfunding, timing, and arms races",
+      "summary": "Tom reflects on Pets.com\u2019s rapid rise and shutdown, emphasizing how excess capital can drive irrational competitive spending and create unwinnable dynamics. He also argues the business model wasn\u2019t inherently dumb\u2014timing (early internet era) mattered, as shown by Chewy\u2019s later success.",
+      "timestamp_start": "00:14:37",
+      "timestamp_end": "00:18:29",
+      "speakers": [
+        "Lenny",
+        "Tom Conrad"
+      ],
+      "themes": [
+        "Startups",
+        "Business Models",
+        "Career"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tom-conrad_t7",
+      "title": "Quibi origin: rekindling love for building products",
+      "summary": "Tom describes leaving Snap, considering a totally different career, then being pulled into Quibi (NewTV) after repeated conversations with Meg Whitman and Jeffrey Katzenberg. He shares how building from scratch reignited his passion despite the eventual outcome.",
+      "timestamp_start": "00:18:29",
+      "timestamp_end": "00:23:35",
+      "speakers": [
+        "Lenny",
+        "Tom Conrad"
+      ],
+      "themes": [
+        "Career",
+        "Startups",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tom-conrad_t8",
+      "title": "Quibi failure analysis: the business math was wrong",
+      "summary": "Tom introduces the idea that companies are \u201cmath problems\u201d where product execution can\u2019t fix a broken underlying equation. He explains Quibi\u2019s bet on producing enough bespoke premium content for a couple billion dollars collapsed\u2014especially after COVID disrupted production\u2014implying it would have required far more capital and time to iterate.",
+      "timestamp_start": "00:23:35",
+      "timestamp_end": "00:28:27",
+      "speakers": [
+        "Lenny",
+        "Tom Conrad"
+      ],
+      "themes": [
+        "Business Models",
+        "Product Management",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tom-conrad_t9",
+      "title": "Quibi distribution assumptions and CPO pushback lessons",
+      "summary": "They discuss how Quibi\u2019s model depended on immediate top-10 App Store scale and Hollywood-style marketing translating to app downloads\u2014an improbable assumption. Tom notes he would have pushed harder on distribution realities and the inability to \u201citerate slowly\u201d given massive content burn.",
+      "timestamp_start": "00:28:27",
+      "timestamp_end": "00:34:18",
+      "speakers": [
+        "Lenny",
+        "Tom Conrad"
+      ],
+      "themes": [
+        "Leadership",
+        "Business Models",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tom-conrad_t10",
+      "title": "NewTV recruiting anecdote and pivot to successes",
+      "summary": "Lenny finds an old NewTV recruiter email, underscoring how close career paths can be. They transition from failures to discussing notable successes across Tom\u2019s career.",
+      "timestamp_start": "00:34:18",
+      "timestamp_end": "00:35:56",
+      "speakers": [
+        "Lenny",
+        "Tom Conrad"
+      ],
+      "themes": [
+        "Career"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "tom-conrad_t11",
+      "title": "Apple vs Berkeley Systems: generalist to deep specialist",
+      "summary": "Tom contrasts Apple\u2019s culture of broad cross-functional contribution with Berkeley Systems\u2019 focus on executing your core role. Working on You Don\u2019t Know Jack helped him go deep, become a stronger engineering manager, and build real technical chops.",
+      "timestamp_start": "00:35:56",
+      "timestamp_end": "00:40:24",
+      "speakers": [
+        "Lenny",
+        "Tom Conrad"
+      ],
+      "themes": [
+        "Career",
+        "Engineering",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tom-conrad_t12",
+      "title": "Pandora: luck, early culture, and authentic customer support",
+      "summary": "Tom shares how a chance connection led him to Savage Beast/Pandora and how early company practices (everyone receiving support emails, no scripts, direct human responses) fueled word-of-mouth growth. He frames Pandora as foundational to his product and leadership approach.",
+      "timestamp_start": "00:40:24",
+      "timestamp_end": "00:48:25",
+      "speakers": [
+        "Lenny",
+        "Tom Conrad"
+      ],
+      "themes": [
+        "Product Management",
+        "Startups",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tom-conrad_t13",
+      "title": "Pandora vs Spotify: capital, licensing, and strategic misread",
+      "summary": "Tom explains why Pandora struggled to become the dominant streaming winner: less investor enthusiasm/capital than later entrants and a strategic bet on disrupting radio rather than embracing on-demand streaming. He highlights licensing regime constraints and the need for direct label deals as the industry shifted.",
+      "timestamp_start": "00:48:25",
+      "timestamp_end": "00:52:29",
+      "speakers": [
+        "Lenny",
+        "Tom Conrad"
+      ],
+      "themes": [
+        "Business Models",
+        "Strategy",
+        "Startups"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

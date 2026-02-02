@@ -1,0 +1,416 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ============================================
+   LENNY'S RESEARCH BOT - Design System
+   Editorial warmth meets modern chat
+   ============================================ */
+
+@layer base {
+  :root {
+    /* Light theme */
+    --color-bg: #FAFAF9;
+    --color-surface: #FFFFFF;
+    --color-surface-elevated: #FFFFFF;
+    --color-border: #E7E5E4;
+    --color-border-subtle: #F5F5F4;
+    --color-text-primary: #1C1917;
+    --color-text-secondary: #57534E;
+    --color-text-muted: #A8A29E;
+
+    /* Accents */
+    --color-amber: #F59E0B;
+    --color-amber-hover: #D97706;
+    --color-amber-subtle: #FEF3C7;
+    --color-amber-glow: rgba(245, 158, 11, 0.15);
+    --color-violet: #8B5CF6;
+    --color-violet-hover: #7C3AED;
+    --color-violet-subtle: #EDE9FE;
+  }
+
+  .dark {
+    --color-bg: #0C0A09;
+    --color-surface: #1C1917;
+    --color-surface-elevated: #292524;
+    --color-border: #292524;
+    --color-border-subtle: #1C1917;
+    --color-text-primary: #FAFAF9;
+    --color-text-secondary: #A8A29E;
+    --color-text-muted: #57534E;
+
+    /* Dark mode accents - slightly brighter */
+    --color-amber: #FBBF24;
+    --color-amber-hover: #F59E0B;
+    --color-amber-subtle: rgba(251, 191, 36, 0.15);
+    --color-amber-glow: rgba(251, 191, 36, 0.2);
+    --color-violet: #A78BFA;
+    --color-violet-hover: #8B5CF6;
+    --color-violet-subtle: rgba(167, 139, 250, 0.15);
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply font-body antialiased;
+    background: var(--color-bg);
+    color: var(--color-text-primary);
+  }
+
+  /* Smooth theme transitions */
+  *, *::before, *::after {
+    transition-property: background-color, border-color;
+    transition-duration: 150ms;
+    transition-timing-function: ease-out;
+  }
+}
+
+/* ============================================
+   Typography
+   ============================================ */
+
+@layer components {
+  .heading-display {
+    @apply font-display font-semibold tracking-tight;
+  }
+
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* ============================================
+   Chat Message Prose Styling
+   ============================================ */
+
+.prose-chat {
+  @apply text-base leading-relaxed;
+  color: var(--color-text-primary);
+}
+
+.prose-chat h2 {
+  @apply font-display text-xl font-semibold mt-8 mb-4 first:mt-0;
+  color: var(--color-text-primary);
+}
+
+.prose-chat h3 {
+  @apply font-display text-lg font-medium mt-6 mb-3;
+  color: var(--color-text-primary);
+}
+
+.prose-chat p {
+  @apply mb-4 last:mb-0;
+}
+
+.prose-chat blockquote {
+  @apply my-4 pl-4 py-3 rounded-r-lg border-l-4;
+  border-color: var(--color-amber);
+  background: var(--color-amber-subtle);
+}
+
+.prose-chat blockquote p {
+  @apply mb-0 italic;
+  color: var(--color-text-secondary);
+}
+
+.prose-chat ul,
+.prose-chat ol {
+  @apply mb-4 pl-6 space-y-2;
+}
+
+.prose-chat li {
+  @apply relative;
+}
+
+.prose-chat ul li::before {
+  content: '';
+  @apply absolute left-[-1.25rem] top-[0.6rem] w-1.5 h-1.5 rounded-full;
+  background: var(--color-amber);
+}
+
+.prose-chat ol {
+  counter-reset: list-counter;
+}
+
+.prose-chat ol li {
+  counter-increment: list-counter;
+}
+
+.prose-chat ol li::before {
+  content: counter(list-counter) '.';
+  @apply absolute left-[-1.5rem] font-medium;
+  color: var(--color-amber);
+}
+
+.prose-chat a {
+  @apply underline underline-offset-2 decoration-amber-500/50 hover:decoration-amber-500 transition-colors;
+  color: var(--color-amber);
+}
+
+.prose-chat code {
+  @apply px-1.5 py-0.5 rounded text-sm font-mono;
+  background: var(--color-surface-elevated);
+  color: var(--color-text-secondary);
+}
+
+.prose-chat pre {
+  @apply my-4 p-4 rounded-lg overflow-x-auto;
+  background: var(--color-surface-elevated);
+}
+
+.prose-chat pre code {
+  @apply p-0 bg-transparent;
+}
+
+.prose-chat strong {
+  @apply font-semibold;
+  color: var(--color-text-primary);
+}
+
+/* ============================================
+   Citation Markers in Text
+   ============================================ */
+
+.citation-marker {
+  @apply inline-flex items-center justify-center
+         min-w-[1.375rem] h-[1.375rem]
+         px-1.5 mx-0.5
+         text-xs font-medium
+         rounded-full cursor-pointer
+         transition-all duration-200;
+  background: var(--color-violet-subtle);
+  color: var(--color-violet);
+}
+
+.citation-marker:hover {
+  background: var(--color-violet);
+  color: white;
+  transform: scale(1.1);
+  box-shadow: 0 0 12px -3px rgba(139, 92, 246, 0.5);
+}
+
+/* ============================================
+   Loading Animation
+   ============================================ */
+
+.loading-step {
+  @apply flex items-center gap-3 py-2;
+}
+
+.loading-step-indicator {
+  @apply w-5 h-5 rounded-full flex items-center justify-center text-xs font-medium;
+  transition: all 0.3s ease-out;
+}
+
+.loading-step-indicator.pending {
+  @apply border-2;
+  border-color: var(--color-border);
+  background: transparent;
+}
+
+.loading-step-indicator.active {
+  background: var(--color-amber);
+  color: white;
+  animation: pulse-glow 1.5s ease-in-out infinite;
+}
+
+.loading-step-indicator.complete {
+  background: var(--color-amber);
+  color: white;
+}
+
+@keyframes pulse-glow {
+  0%, 100% {
+    box-shadow: 0 0 0 0 rgba(245, 158, 11, 0.4);
+  }
+  50% {
+    box-shadow: 0 0 0 8px rgba(245, 158, 11, 0);
+  }
+}
+
+.loading-step-text {
+  @apply text-sm;
+  color: var(--color-text-muted);
+  transition: color 0.2s ease-out;
+}
+
+.loading-step-text.active {
+  color: var(--color-text-primary);
+  font-weight: 500;
+}
+
+.loading-step-text.complete {
+  color: var(--color-text-secondary);
+}
+
+/* ============================================
+   Scrollbar Styling
+   ============================================ */
+
+.custom-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-border) transparent;
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: var(--color-border);
+  border-radius: 3px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: var(--color-text-muted);
+}
+
+/* ============================================
+   Sidebar Overlay
+   ============================================ */
+
+.sidebar-overlay {
+  @apply fixed inset-0 z-40;
+  background: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(2px);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease-out;
+}
+
+.sidebar-overlay.open {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+/* ============================================
+   Input Focus Glow
+   ============================================ */
+
+.input-glow:focus-within {
+  box-shadow: 0 0 0 3px var(--color-amber-glow),
+              0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+/* ============================================
+   Chip/Pill Buttons
+   ============================================ */
+
+.chip {
+  @apply inline-flex items-center px-3 py-1.5
+         text-sm rounded-full
+         border transition-all duration-200;
+  border-color: var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text-secondary);
+}
+
+.chip:hover {
+  border-color: var(--color-amber);
+  color: var(--color-amber);
+  background: var(--color-amber-subtle);
+}
+
+.chip-amber {
+  border-color: var(--color-amber);
+  color: var(--color-amber);
+}
+
+.chip-amber:hover {
+  background: var(--color-amber);
+  color: white;
+}
+
+/* ============================================
+   Message Animations
+   ============================================ */
+
+.message-enter {
+  animation: messageEnter 0.4s ease-out forwards;
+}
+
+@keyframes messageEnter {
+  0% {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Staggered children animation */
+.stagger-children > * {
+  opacity: 0;
+  animation: fadeInUp 0.4s ease-out forwards;
+}
+
+.stagger-children > *:nth-child(1) { animation-delay: 0ms; }
+.stagger-children > *:nth-child(2) { animation-delay: 50ms; }
+.stagger-children > *:nth-child(3) { animation-delay: 100ms; }
+.stagger-children > *:nth-child(4) { animation-delay: 150ms; }
+.stagger-children > *:nth-child(5) { animation-delay: 200ms; }
+
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ============================================
+   YouTube Thumbnail Hover
+   ============================================ */
+
+.youtube-thumb {
+  @apply relative overflow-hidden rounded-lg;
+}
+
+.youtube-thumb::after {
+  content: '';
+  @apply absolute inset-0 flex items-center justify-center;
+  background: rgba(0, 0, 0, 0.4);
+  opacity: 0;
+  transition: opacity 0.2s ease-out;
+}
+
+.youtube-thumb:hover::after {
+  opacity: 1;
+}
+
+.youtube-play-icon {
+  @apply absolute inset-0 flex items-center justify-center z-10;
+  opacity: 0;
+  transition: opacity 0.2s ease-out;
+}
+
+.youtube-thumb:hover .youtube-play-icon {
+  opacity: 1;
+}
+
+/* ============================================
+   Loading Dots Animation
+   ============================================ */
+
+.loading-dots::after {
+  content: '';
+  animation: loadingDots 1.5s steps(4, end) infinite;
+}
+
+@keyframes loadingDots {
+  0%, 20% { content: ''; }
+  40% { content: '.'; }
+  60% { content: '..'; }
+  80%, 100% { content: '...'; }
+}

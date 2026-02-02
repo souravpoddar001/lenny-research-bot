@@ -1,0 +1,237 @@
+{
+  "episode_id": "ian-mcallister",
+  "topics": [
+    {
+      "topic_id": "ian-mcallister_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the podcast, Ian\u2019s background (Amazon, Airbnb, Uber), and the two main conversation threads: what separates top PMs and Amazon\u2019s working-backwards process.",
+      "timestamp_start": "00:00:22",
+      "timestamp_end": "00:01:32",
+      "speakers": [
+        "Lenny",
+        "Ian McAllister"
+      ],
+      "themes": [
+        "Career",
+        "Product Management",
+        "Amazon Working Backwards"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ian-mcallister_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Mixpanel and Athletic Greens (AG1).",
+      "timestamp_start": "00:01:32",
+      "timestamp_end": "00:03:55",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ian-mcallister_t3",
+      "title": "Impact of Ian\u2019s \u201cTop 1% PM\u201d post",
+      "summary": "Lenny shares how Ian\u2019s post influenced him; Ian explains he didn\u2019t anticipate its reach and wrote it largely to structure his own thinking.",
+      "timestamp_start": "00:03:55",
+      "timestamp_end": "00:05:23",
+      "speakers": [
+        "Lenny",
+        "Ian McAllister"
+      ],
+      "themes": [
+        "Product Management",
+        "Career",
+        "Writing"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "ian-mcallister_t4",
+      "title": "Power of writing and online connections",
+      "summary": "Ian describes how writing (including his working-backwards explainer) created industry relationships and opportunities; they discuss writing as a tool for clearer thinking and communication.",
+      "timestamp_start": "00:05:23",
+      "timestamp_end": "00:08:15",
+      "speakers": [
+        "Lenny",
+        "Ian McAllister"
+      ],
+      "themes": [
+        "Writing",
+        "Career",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ian-mcallister_t5",
+      "title": "Ian\u2019s career journey across major companies",
+      "summary": "Ian walks through his path from marketing and software development to Microsoft, 12 years at Amazon, Airbnb, and his current Uber role leading vehicles platform work (EVs and autonomy).",
+      "timestamp_start": "00:08:15",
+      "timestamp_end": "00:10:45",
+      "speakers": [
+        "Lenny",
+        "Ian McAllister"
+      ],
+      "themes": [
+        "Career",
+        "Product Management",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ian-mcallister_t6",
+      "title": "Attributes of top 1% product managers",
+      "summary": "Ian lists the core traits from his post (e.g., think big, communicate, simplify, prioritize, execute) plus newer additions like earning trust, digging for data, pushing back, adapting to change, and focusing on impact.",
+      "timestamp_start": "00:10:56",
+      "timestamp_end": "00:14:33",
+      "speakers": [
+        "Lenny",
+        "Ian McAllister"
+      ],
+      "themes": [
+        "Product Management",
+        "Leadership",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ian-mcallister_t7",
+      "title": "Top skills for new PMs",
+      "summary": "For early-career PMs, Ian emphasizes communication, prioritization, and execution, sharing examples of learning to answer clearly and how prioritization drives outsized impact.",
+      "timestamp_start": "00:14:33",
+      "timestamp_end": "00:20:32",
+      "speakers": [
+        "Lenny",
+        "Ian McAllister"
+      ],
+      "themes": [
+        "Product Management",
+        "Communication",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ian-mcallister_t8",
+      "title": "Tactical ways to improve communication and prioritization",
+      "summary": "Ian suggests practical habits like \u201canswer first, then explain,\u201d self-grading after meetings, seeking feedback, and using structured practices (e.g., his Operator\u2019s Manual; working backwards) to improve decision-making.",
+      "timestamp_start": "00:20:32",
+      "timestamp_end": "00:23:06",
+      "speakers": [
+        "Lenny",
+        "Ian McAllister"
+      ],
+      "themes": [
+        "Communication",
+        "Product Management",
+        "Amazon Working Backwards"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ian-mcallister_t9",
+      "title": "Top skills for senior PMs",
+      "summary": "For senior PMs, Ian highlights thinking big, earning trust as a leadership currency, and being driven by impact rather than promotion; they discuss how expectations shift with seniority.",
+      "timestamp_start": "00:23:06",
+      "timestamp_end": "00:28:11",
+      "speakers": [
+        "Lenny",
+        "Ian McAllister"
+      ],
+      "themes": [
+        "Leadership",
+        "Product Management",
+        "Career"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ian-mcallister_t10",
+      "title": "Thinking like an owner and broadening scope",
+      "summary": "Ian explains \u201cthinking big\u201d as expanding beyond the PM box\u2014owning whatever blocks success across functions until someone else can own it\u2014connecting to the idea of thinking like an owner.",
+      "timestamp_start": "00:28:11",
+      "timestamp_end": "00:31:43",
+      "speakers": [
+        "Lenny",
+        "Ian McAllister"
+      ],
+      "themes": [
+        "Leadership",
+        "Product Management",
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ian-mcallister_t11",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Assembly AI.",
+      "timestamp_start": "00:31:55",
+      "timestamp_end": "00:33:08",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ian-mcallister_t12",
+      "title": "Earning trust: lessons and Airbnb reflection",
+      "summary": "Ian expands on earning trust through alignment and relationship-building, sharing a retrospective example from Airbnb where deeper partnership with support leadership could have improved execution.",
+      "timestamp_start": "00:33:08",
+      "timestamp_end": "00:37:27",
+      "speakers": [
+        "Lenny",
+        "Ian McAllister"
+      ],
+      "themes": [
+        "Leadership",
+        "Trust",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ian-mcallister_t13",
+      "title": "Why Amazon retains people and builds operators",
+      "summary": "Ian explains Amazon\u2019s fit-driven culture, learning environment, and mechanisms (docs, reviews, WBR) that develop operational rigor and continuous improvement, setting up the working-backwards discussion.",
+      "timestamp_start": "00:37:27",
+      "timestamp_end": "00:39:52",
+      "speakers": [
+        "Lenny",
+        "Ian McAllister"
+      ],
+      "themes": [
+        "Amazon Culture",
+        "Leadership",
+        "Career"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ian-mcallister_t14",
+      "title": "Lessons from Jeff Bezos and Jeff Wilke",
+      "summary": "Ian shares learnings from Bezos (encouragement, working backwards discipline like having a clear problem paragraph) and Wilke (operator mindset, WBR cadence, metrics-driven accountability).",
+      "timestamp_start": "00:39:52",
+      "timestamp_end": "00:44:17",
+      "speakers": [
+        "Lenny",
+        "Ian McAllister"
+      ],
+      "themes": [
+        "Amazon Culture",
+        "Amazon Working Backwards",
+        "Leadership"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "episode_id": "katie-dill",
+  "topics": [
+    {
+      "topic_id": "katie-dill_t1",
+      "title": "Beauty enhances functionality and builds trust",
+      "summary": "Katie argues beauty and functionality aren\u2019t opposites: beauty improves usability, approachability, and trust by signaling care and attention to detail.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:32",
+      "speakers": [
+        "Katie Dill"
+      ],
+      "themes": [
+        "Design",
+        "Product Quality",
+        "User Experience"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "katie-dill_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Katie\u2019s roles at Stripe, Lyft, and Airbnb and previews topics like scaling design teams, operationalizing quality, and design\u2019s impact on growth.",
+      "timestamp_start": "00:00:55",
+      "timestamp_end": "00:02:05",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Leadership",
+        "Design",
+        "Career"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "katie-dill_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Sidebar (peer groups/personal board of directors) and Jira Product Discovery (prioritization and roadmapping tool).",
+      "timestamp_start": "00:02:05",
+      "timestamp_end": "00:04:27",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Other"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "katie-dill_t4",
+      "title": "Airbnb design team intervention and trust lesson",
+      "summary": "Katie recounts an early Airbnb \u201cintervention\u201d where designers delivered blunt feedback; she realized she hadn\u2019t earned trust and shifted from \u201ccoming in swinging\u201d to listening and bringing the team along, improving engagement scores.",
+      "timestamp_start": "00:04:52",
+      "timestamp_end": "00:09:42",
+      "speakers": [
+        "Lenny",
+        "Katie Dill"
+      ],
+      "themes": [
+        "Leadership",
+        "Team Building",
+        "Feedback"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "katie-dill_t5",
+      "title": "Org design: sitting together and dual identity",
+      "summary": "They discuss co-locating cross-functional teams while also building a strong design community\u2014wearing both the \u201cDesign\u201d and product-area \u201cT-shirt.\u201d",
+      "timestamp_start": "00:09:42",
+      "timestamp_end": "00:10:56",
+      "speakers": [
+        "Lenny",
+        "Katie Dill"
+      ],
+      "themes": [
+        "Org Design",
+        "Collaboration",
+        "Design"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "katie-dill_t6",
+      "title": "Making the ROI case for design quality",
+      "summary": "Katie breaks down levels of quality, explains why teams over-prioritize measurable features, and argues \u201cquality is growth,\u201d citing Stripe examples like onboarding improvements and checkout changes driving a 10.5% revenue lift.",
+      "timestamp_start": "00:10:56",
+      "timestamp_end": "00:18:46",
+      "speakers": [
+        "Lenny",
+        "Katie Dill"
+      ],
+      "themes": [
+        "Growth",
+        "Design",
+        "Product Quality"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "katie-dill_t7",
+      "title": "Design goals vs business goals is a false split",
+      "summary": "Katie pushes back on separating business and design goals, emphasizing shared outcomes and the need for multidisciplinary checks and balances (emotion/trust vs metric hacks).",
+      "timestamp_start": "00:18:46",
+      "timestamp_end": "00:21:40",
+      "speakers": [
+        "Lenny",
+        "Katie Dill"
+      ],
+      "themes": [
+        "Collaboration",
+        "Design",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "katie-dill_t8",
+      "title": "Defining beauty: trust, emotion, and pride",
+      "summary": "Katie defines beauty as functional and partially objective, referencing Sagmeister/Walsh\u2019s book and examples like Penn Station vs Grand Central; she ties beauty to trust, usability, pride, and attracting talent (plus a The Bear craft analogy).",
+      "timestamp_start": "00:21:40",
+      "timestamp_end": "00:26:20",
+      "speakers": [
+        "Lenny",
+        "Katie Dill"
+      ],
+      "themes": [
+        "Design",
+        "User Experience",
+        "Brand"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "katie-dill_t9",
+      "title": "How Stripe builds a high-craft website",
+      "summary": "Katie explains Stripe\u2019s website quality comes from tight design\u2013engineering\u2013product collaboration, including a structure where web engineers and designers report into the same org to iterate rapidly at a high bar.",
+      "timestamp_start": "00:26:20",
+      "timestamp_end": "00:28:44",
+      "speakers": [
+        "Lenny",
+        "Katie Dill"
+      ],
+      "themes": [
+        "Design Ops",
+        "Collaboration",
+        "Product Quality"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "katie-dill_t10",
+      "title": "Operationalizing quality: vision, editing, courage, journeys",
+      "summary": "Katie shares principles learned from other leaders: quality is a group effort, requires vision/alignment, strong editing, and courage to say \u201cnot good enough,\u201d plus a journey-based view of user experience.",
+      "timestamp_start": "00:28:44",
+      "timestamp_end": "00:33:16",
+      "speakers": [
+        "Lenny",
+        "Katie Dill"
+      ],
+      "themes": [
+        "Product Quality",
+        "Leadership",
+        "Process"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "katie-dill_t11",
+      "title": "Stripe\u2019s \u201cwalk the store\u201d essential journeys program",
+      "summary": "To prevent quality regression, Stripe defined ~15 critical user journeys with accountable leaders who regularly \u201cwalk the store,\u201d friction-log issues across the end-to-end journey (search \u2192 web \u2192 docs \u2192 dashboard), score them, and calibrate scores in reviews.",
+      "timestamp_start": "00:33:16",
+      "timestamp_end": "00:39:12",
+      "speakers": [
+        "Lenny",
+        "Katie Dill"
+      ],
+      "themes": [
+        "Product Quality",
+        "Process",
+        "User Experience"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "katie-dill_t12",
+      "title": "Cadence, participants, and scoring mechanics",
+      "summary": "They cover practicalities: quarterly scoring with more frequent informal walkthroughs, doing reviews as a cross-functional trio, leadership calibration in PQR, friction logs with severity tags, and a color-based qualitative rubric to avoid false precision.",
+      "timestamp_start": "00:39:12",
+      "timestamp_end": "00:46:25",
+      "speakers": [
+        "Lenny",
+        "Katie Dill"
+      ],
+      "themes": [
+        "Process",
+        "Collaboration",
+        "Product Quality"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "katie-dill_t13",
+      "title": "Prioritizing quality fixes vs roadmap commitments",
+      "summary": "Katie explains Stripe relies less on rigid time-percentage formulas and more on hiring for judgment and pride, plus clear top-level advocacy and cross-functional planning to ensure quality work is continuously prioritized.",
+      "timestamp_start": "00:46:25",
+      "timestamp_end": "00:48:30",
+      "speakers": [
+        "Lenny",
+        "Katie Dill"
+      ],
+      "themes": [
+        "Product Quality",
+        "Culture",
+        "Leadership"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

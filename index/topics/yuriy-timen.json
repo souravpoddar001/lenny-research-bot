@@ -1,0 +1,249 @@
+{
+  "episode_id": "yuriy-timen",
+  "topics": [
+    {
+      "topic_id": "yuriy-timen_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Yuriy Timen\u2019s background (Grammarly growth lead, now advisor) and previews a highly tactical episode on growing subscription products.",
+      "timestamp_start": "00:00:40",
+      "timestamp_end": "00:01:36",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Growth Strategy"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "yuriy-timen_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Flatfile (data onboarding/CSV import) and Modern Treasury (payments ops platform).",
+      "timestamp_start": "00:01:36",
+      "timestamp_end": "00:03:50",
+      "speakers": [
+        "Lenny",
+        "Ashley"
+      ],
+      "themes": [
+        "Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "yuriy-timen_t3",
+      "title": "Yuriy\u2019s advising work and capacity",
+      "summary": "Yuriy and Lenny cover Yuriy\u2019s Grammarly tenure, the types of companies he advises (e.g., Canva, Airtable, Hims, Otter, Flo), and how he structures his advising workload (3\u20133.5 days/week, ~4\u20135 companies max).",
+      "timestamp_start": "00:03:50",
+      "timestamp_end": "00:09:45",
+      "speakers": [
+        "Lenny",
+        "Yuriy Timen"
+      ],
+      "themes": [
+        "Career",
+        "Growth Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "yuriy-timen_t4",
+      "title": "Growth archetypes for subscription businesses",
+      "summary": "Yuriy outlines common growth \u201cbuckets\u201d for subscription companies: paid growth when LTVs are strong, virality/referrals when network effects exist, and SEO when there\u2019s a long-tail or programmatic opportunity (e.g., Canva templates).",
+      "timestamp_start": "00:09:45",
+      "timestamp_end": "00:13:21",
+      "speakers": [
+        "Lenny",
+        "Yuriy Timen"
+      ],
+      "themes": [
+        "Growth Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "yuriy-timen_t5",
+      "title": "When virality and referrals actually work",
+      "summary": "They discuss signals for investing in virality: inherent product network effects (collaboration tools, marketplaces) versus \u201cmanufactured\u201d virality, plus cases where strong brand love enables referrals even without network effects.",
+      "timestamp_start": "00:13:21",
+      "timestamp_end": "00:16:33",
+      "speakers": [
+        "Lenny",
+        "Yuriy Timen"
+      ],
+      "themes": [
+        "Virality"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "yuriy-timen_t6",
+      "title": "SEO readiness: editorial, programmatic, data angles",
+      "summary": "Yuriy shares a practical framework for deciding whether to invest in SEO, emphasizing unique differentiation via editorial content, programmatic pages, or proprietary data, and recommends time-boxed experiments (e.g., 3 months).",
+      "timestamp_start": "00:16:50",
+      "timestamp_end": "00:20:14",
+      "speakers": [
+        "Lenny",
+        "Yuriy Timen"
+      ],
+      "themes": [
+        "SEO"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "yuriy-timen_t7",
+      "title": "SEO execution: audits, specialists, and Graphite",
+      "summary": "They cover why SEO is specialized, why an external audit can be high leverage, and Yuriy recommends Ethan Smith/Graphite as a strong (higher-end) SEO resource.",
+      "timestamp_start": "00:20:14",
+      "timestamp_end": "00:23:28",
+      "speakers": [
+        "Lenny",
+        "Yuriy Timen"
+      ],
+      "themes": [
+        "SEO"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "yuriy-timen_t8",
+      "title": "Paid growth shifts: payback windows and attribution",
+      "summary": "Yuriy explains how market conditions and iOS tracking changes are tightening acceptable payback windows (e.g., 12 months to ~6 months), increasing intolerance for un-attributed spend, and creating opportunities for disciplined advertisers as competition drops.",
+      "timestamp_start": "00:23:28",
+      "timestamp_end": "00:28:09",
+      "speakers": [
+        "Lenny",
+        "Yuriy Timen"
+      ],
+      "themes": [
+        "Paid Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "yuriy-timen_t9",
+      "title": "Attribution tools: MMM and incrementality testing",
+      "summary": "They discuss the resurgence of Media Mix Modeling and the need for causal measurement via incrementality experiments, with tool mentions including Recast, Measured, and Incremental.",
+      "timestamp_start": "00:28:09",
+      "timestamp_end": "00:32:00",
+      "speakers": [
+        "Lenny",
+        "Yuriy Timen"
+      ],
+      "themes": [
+        "Paid Growth",
+        "Analytics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "yuriy-timen_t10",
+      "title": "Focus vs spreading thin across channels",
+      "summary": "Yuriy advises balancing focus with rapid iteration: avoid betting everything on one channel too early, but also avoid shallow tests across many channels that lead to false negatives (e.g., \u201cwe tried YouTube\u201d).",
+      "timestamp_start": "00:32:00",
+      "timestamp_end": "00:34:51",
+      "speakers": [
+        "Lenny",
+        "Yuriy Timen"
+      ],
+      "themes": [
+        "Growth Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "yuriy-timen_t11",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Eppo, an experimentation/A-B testing platform for modern growth teams.",
+      "timestamp_start": "00:34:51",
+      "timestamp_end": "00:36:01",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Experimentation"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "yuriy-timen_t12",
+      "title": "Knowing when to stop: guardrails and judgment",
+      "summary": "Yuriy explains how to set objective test thresholds for some channels (impressions, creative angles, CTR benchmarks) while acknowledging other bets require judgment and periodic reevaluation rather than permanent abandonment.",
+      "timestamp_start": "00:36:01",
+      "timestamp_end": "00:37:54",
+      "speakers": [
+        "Lenny",
+        "Yuriy Timen"
+      ],
+      "themes": [
+        "Experimentation",
+        "Growth Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "yuriy-timen_t13",
+      "title": "The 80/20 reality and diversification timing",
+      "summary": "They discuss how most companies rely heavily on one dominant growth engine (even at later stages), when to resist premature diversification, and when channel concentration becomes a serious risk (e.g., paid-heavy vs SEO-heavy dependence).",
+      "timestamp_start": "00:37:54",
+      "timestamp_end": "00:42:13",
+      "speakers": [
+        "Lenny",
+        "Yuriy Timen"
+      ],
+      "themes": [
+        "Growth Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "yuriy-timen_t14",
+      "title": "Why \u201clater-stage\u201d tactics are moving earlier",
+      "summary": "Yuriy describes how the funding environment shifted priorities from growth-at-all-costs (favoring paid) to runway and sustainability, making longer-horizon investments like SEO more attractive earlier in a company\u2019s lifecycle.",
+      "timestamp_start": "00:42:13",
+      "timestamp_end": "00:46:02",
+      "speakers": [
+        "Lenny",
+        "Yuriy Timen"
+      ],
+      "themes": [
+        "Growth Strategy",
+        "SEO"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "yuriy-timen_t15",
+      "title": "Paid as learning vs paid as scalable engine",
+      "summary": "Yuriy distinguishes using paid for rapid messaging/positioning learnings versus using it as a profitable acquisition channel, and shares benchmark heuristics for prosumer funnels (site\u2192signup and free\u2192paid conversion).",
+      "timestamp_start": "00:46:02",
+      "timestamp_end": "00:50:39",
+      "speakers": [
+        "Lenny",
+        "Yuriy Timen"
+      ],
+      "themes": [
+        "Paid Growth",
+        "Conversion"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "yuriy-timen_t16",
+      "title": "Onboarding as a major growth lever",
+      "summary": "Yuriy argues onboarding improvements are almost always high ROI for complex prosumer products, since guiding users to the right first experience prevents overwhelm and accelerates time-to-value.",
+      "timestamp_start": "00:50:39",
+      "timestamp_end": "00:52:19",
+      "speakers": [
+        "Lenny",
+        "Yuriy Timen"
+      ],
+      "themes": [
+        "Onboarding",
+        "Activation"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

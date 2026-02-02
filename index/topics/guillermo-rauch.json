@@ -1,0 +1,305 @@
+{
+  "episode_id": "guillermo-rauch",
+  "topics": [
+    {
+      "topic_id": "guillermo-rauch_t1",
+      "title": "Introduction and background",
+      "summary": "Guillermo shares a user\u2019s colorful description of v0 and previews how AI will reshape building products, including the importance of taste and a future where AI becomes synonymous with software.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:38",
+      "speakers": [
+        "Guillermo Rauch",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Future of Work",
+        "Product Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "guillermo-rauch_t2",
+      "title": "Show intro and sponsor reads",
+      "summary": "Lenny introduces Guillermo and the episode\u2019s focus, followed by sponsor messages for WorkOS and Vanta.",
+      "timestamp_start": "00:01:38",
+      "timestamp_end": "00:04:50",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "guillermo-rauch_t3",
+      "title": "Vercel, Next.js, and v0\u2019s mission",
+      "summary": "Guillermo explains Vercel\u2019s scale and ecosystem (Next.js powering major apps) and positions v0 as a way to expand who can build and ship high-quality web products.",
+      "timestamp_start": "00:04:50",
+      "timestamp_end": "00:07:04",
+      "speakers": [
+        "Guillermo Rauch",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Developer Tools",
+        "AI Product Development",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "guillermo-rauch_t4",
+      "title": "Origins of v0 and TAM expansion",
+      "summary": "They discuss how v0 fits Vercel\u2019s long-running focus on making hard web development easier, aiming to unlock ~100M potential builders beyond traditional developers.",
+      "timestamp_start": "00:07:04",
+      "timestamp_end": "00:09:30",
+      "speakers": [
+        "Guillermo Rauch",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Developer Tools",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "guillermo-rauch_t5",
+      "title": "Model stack choices and why web works",
+      "summary": "Guillermo describes starting with OpenAI and using multiple models in pipelines, noting that LLMs were already strong at Vercel\u2019s open-source stack and hinting at why web dev/design is a good fit for LLMs.",
+      "timestamp_start": "00:09:30",
+      "timestamp_end": "00:11:34",
+      "speakers": [
+        "Guillermo Rauch",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Infrastructure",
+        "Developer Tools",
+        "AI Product Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "guillermo-rauch_t6",
+      "title": "v0 traction and community-driven building",
+      "summary": "Guillermo shares usage scale (1.3M+ users) and introduces v0 Community, where thousands of shared artifacts can be forked to reduce prompting friction and compound improvements.",
+      "timestamp_start": "00:11:34",
+      "timestamp_end": "00:14:25",
+      "speakers": [
+        "Guillermo Rauch",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Open Source",
+        "Developer Tools"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "guillermo-rauch_t7",
+      "title": "From social coding to social product building",
+      "summary": "They connect v0\u2019s sharing/forking model to GitHub\u2019s \u201csocial coding,\u201d reframing the workflow as intent-first (chat) producing code, and preview tighter Git-style workflows.",
+      "timestamp_start": "00:14:25",
+      "timestamp_end": "00:15:55",
+      "speakers": [
+        "Guillermo Rauch",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Open Source",
+        "Developer Tools",
+        "AI Product Development"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "guillermo-rauch_t8",
+      "title": "How AI changes product teams and collaboration",
+      "summary": "Guillermo predicts product/customer conversations will increasingly be mediated by live artifacts, reducing cross-functional bottlenecks and enabling more full-stack designers/PMs to ship directly.",
+      "timestamp_start": "00:15:55",
+      "timestamp_end": "00:19:07",
+      "speakers": [
+        "Guillermo Rauch",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Future of Work",
+        "Product Management",
+        "AI Product Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "guillermo-rauch_t9",
+      "title": "Engineering careers: what changes, what remains",
+      "summary": "They discuss which engineering tasks become \u201ctranslation\u201d work that LLMs absorb (e.g., CSS/layout) versus the enduring value of understanding systems under the hood to steer models effectively.",
+      "timestamp_start": "00:19:07",
+      "timestamp_end": "00:24:14",
+      "speakers": [
+        "Guillermo Rauch",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Future of Work",
+        "Software Engineering",
+        "AI Product Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "guillermo-rauch_t10",
+      "title": "Skills for kids: math, eloquence, and audience",
+      "summary": "Guillermo outlines what he\u2019s teaching his five kids: strong fundamentals (math/logic), language/eloquence to steer tools, and presentation/audience-building as software creation becomes cheaper.",
+      "timestamp_start": "00:24:14",
+      "timestamp_end": "00:29:19",
+      "speakers": [
+        "Guillermo Rauch",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Future of Work",
+        "Learning & Education",
+        "AI Product Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "guillermo-rauch_t11",
+      "title": "Should you learn to code and where to start",
+      "summary": "He argues for learning how things work via reading/understanding generated code, recommends JavaScript/React as the web\u2019s lingua franca, and highlights foundational infrastructure as a durable engineering moat.",
+      "timestamp_start": "00:29:19",
+      "timestamp_end": "00:33:23",
+      "speakers": [
+        "Guillermo Rauch",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Software Engineering",
+        "Learning & Education",
+        "AI Infrastructure"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "guillermo-rauch_t12",
+      "title": "v0 in real orgs: PMs building and shipping",
+      "summary": "Guillermo describes how v0 expands \u201cwho is an engineer,\u201d with marketing/sales/PMs producing high-fidelity interactive specs and flows that compress decision cycles and increase iteration quality.",
+      "timestamp_start": "00:33:23",
+      "timestamp_end": "00:35:05",
+      "speakers": [
+        "Guillermo Rauch",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Management",
+        "Future of Work",
+        "AI Product Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "guillermo-rauch_t13",
+      "title": "From prototypes to enterprise and real businesses",
+      "summary": "They discuss v0\u2019s trajectory beyond prototyping, citing enterprise teams building v0-native, people selling client sites, and full-stack deployment on Vercel for massive scale.",
+      "timestamp_start": "00:35:05",
+      "timestamp_end": "00:36:42",
+      "speakers": [
+        "Guillermo Rauch",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Startups",
+        "AI Product Development",
+        "Developer Tools"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "guillermo-rauch_t14",
+      "title": "How to succeed with v0: prompting and iteration",
+      "summary": "Guillermo gives practical tips: be ambitious, provide inspiration references, use community forks to avoid blank-page prompts, stay open-minded, and iterate\u2014sometimes simply asking it to \u201ctry something else.\u201d",
+      "timestamp_start": "00:36:42",
+      "timestamp_end": "00:38:43",
+      "speakers": [
+        "Guillermo Rauch",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Product Management",
+        "Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "guillermo-rauch_t15",
+      "title": "Flight radar case study and AI \u201csparks\u201d",
+      "summary": "Guillermo recounts building a high-performance flight radar in under two hours on a $20 plan, including performance tuning and geodesic details, illustrating AI\u2019s superhuman moments despite imperfections.",
+      "timestamp_start": "00:38:43",
+      "timestamp_end": "00:44:39",
+      "speakers": [
+        "Guillermo Rauch",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Software Engineering",
+        "Developer Tools"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "guillermo-rauch_t16",
+      "title": "Sponsor break: LinkedIn Ads",
+      "summary": "A sponsor message about targeting the right B2B audience using LinkedIn Ads.",
+      "timestamp_start": "00:44:40",
+      "timestamp_end": "00:45:48",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "guillermo-rauch_t17",
+      "title": "Getting unstuck: escape hatches and multi-AI workflows",
+      "summary": "They discuss core skills for AI building (what to build, design, unblocking), the importance of \u201cescape hatches\u201d like viewing/editing code, and using other models (e.g., o1) to debug v0 outputs.",
+      "timestamp_start": "00:45:48",
+      "timestamp_end": "00:49:44",
+      "speakers": [
+        "Guillermo Rauch",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Developer Tools",
+        "AI Product Development",
+        "Software Engineering"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "guillermo-rauch_t18",
+      "title": "Live v0 demo begins: generating a sales form",
+      "summary": "Guillermo starts a live demo by prompting v0 to create a contact sales form, showing prompt enhancement, model \u201cthinking,\u201d generated files, and how it uses modern UI primitives like shadcn/ui with Next.js.",
+      "timestamp_start": "00:49:44",
+      "timestamp_end": "00:52:15",
+      "speakers": [
+        "Guillermo Rauch",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Developer Tools",
+        "Design"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

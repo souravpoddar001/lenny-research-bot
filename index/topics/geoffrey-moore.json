@@ -1,0 +1,280 @@
+{
+  "episode_id": "geoffrey-moore",
+  "topics": [
+    {
+      "topic_id": "geoffrey-moore_t1",
+      "title": "Chasm focus: adjacency and bonfire analogy",
+      "summary": "Moore explains why grabbing random customers in the chasm fails, using the match/log/bonfire analogy. He introduces adjacency as the mechanism for building momentum from a focused starting point.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:32",
+      "speakers": [
+        "Geoffrey Moore"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Product-Market Fit",
+        "Startup Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "geoffrey-moore_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Geoffrey Moore and previews key topics: narrow beachheads, bowling pin strategy, stage-specific GTM playbooks, common chasm mistakes, and selling to different personas.",
+      "timestamp_start": "00:00:32",
+      "timestamp_end": "00:01:34",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Startup Strategy",
+        "Product-Market Fit"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "geoffrey-moore_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for CommandBar (AI in-product help) and WorkOS (enterprise SaaS features and AuthKit).",
+      "timestamp_start": "00:01:34",
+      "timestamp_end": "00:04:03",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "geoffrey-moore_t4",
+      "title": "What people still misunderstand about frameworks",
+      "summary": "Moore shares common misuses of Crossing the Chasm frameworks\u2014especially overly broad \u201cbeachheads\u201d\u2014and emphasizes outside-in thinking and realistic application of models.",
+      "timestamp_start": "00:04:03",
+      "timestamp_end": "00:05:59",
+      "speakers": [
+        "Lenny",
+        "Geoffrey Moore"
+      ],
+      "themes": [
+        "Startup Strategy",
+        "Go-to-Market"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "geoffrey-moore_t5",
+      "title": "Why narrow beachheads create market power",
+      "summary": "Moore explains that ecosystems form around market leaders, so startups must pick a small enough segment to become #1 quickly (fish-to-pond ratio). Pragmatists follow peers, so concentration of wins matters more than scattered customers.",
+      "timestamp_start": "00:05:59",
+      "timestamp_end": "00:09:29",
+      "speakers": [
+        "Lenny",
+        "Geoffrey Moore"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Startup Strategy",
+        "Product-Market Fit"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "geoffrey-moore_t6",
+      "title": "Selling shift: visionaries vs pragmatists",
+      "summary": "They discuss the key messaging transition: from \u201cwe believe what you believe\u201d (early adopters) to \u201cwe need what you have\u201d (pragmatists). This frames why references and proof replace vision-led selling after the chasm.",
+      "timestamp_start": "00:09:29",
+      "timestamp_end": "00:10:41",
+      "speakers": [
+        "Lenny",
+        "Geoffrey Moore"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Sales"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "geoffrey-moore_t7",
+      "title": "Four lifecycle playbooks: early, bowling alley, tornado, Main Street",
+      "summary": "Moore outlines the four inflection points: early market (project-heavy), crossing the chasm/bowling alley (solution focus), tornado (go broad and standardize), and Main Street (commoditization and services innovation).",
+      "timestamp_start": "00:10:41",
+      "timestamp_end": "00:15:45",
+      "speakers": [
+        "Lenny",
+        "Geoffrey Moore"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Startup Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "geoffrey-moore_t8",
+      "title": "Bonfire and bowling alley; Documentum example",
+      "summary": "Moore revisits the bonfire metaphor and explains the bowling pin/adjacency expansion strategy. He illustrates with Documentum\u2019s progression from pharma to adjacent regulated industries and then finance.",
+      "timestamp_start": "00:15:45",
+      "timestamp_end": "00:18:36",
+      "speakers": [
+        "Lenny",
+        "Geoffrey Moore"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Startup Strategy",
+        "Case Studies"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "geoffrey-moore_t9",
+      "title": "How to define an ICP segment precisely",
+      "summary": "Moore gives a concrete segmentation recipe\u2014same geography, industry, profession, and a compelling use case\u2014plus the \u201cbig enough to matter, small enough to lead, fits your crown jewels\u201d test and fish-to-pond ratio logic.",
+      "timestamp_start": "00:18:36",
+      "timestamp_end": "00:22:19",
+      "speakers": [
+        "Lenny",
+        "Geoffrey Moore"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Product-Market Fit",
+        "Startup Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "geoffrey-moore_t10",
+      "title": "Marquee customers: timing, value, and pitfalls",
+      "summary": "They discuss why a visible marquee customer matters, why revenue isn\u2019t the key threshold, and how to avoid big-company traps by finding the right visionary executive sponsor persona.",
+      "timestamp_start": "00:22:19",
+      "timestamp_end": "00:25:20",
+      "speakers": [
+        "Lenny",
+        "Geoffrey Moore"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Sales",
+        "Startup Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "geoffrey-moore_t11",
+      "title": "Early-stage approach: projects, bootstrapping, and VC triggers",
+      "summary": "Moore recommends starting with project/consultative work to learn and reach cashflow breakeven, using VC mainly when tech is capital-intensive or the market is moving too fast to self-fund.",
+      "timestamp_start": "00:25:20",
+      "timestamp_end": "00:27:35",
+      "speakers": [
+        "Lenny",
+        "Geoffrey Moore"
+      ],
+      "themes": [
+        "Startup Strategy",
+        "Fundraising",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "geoffrey-moore_t12",
+      "title": "Crossing the chasm execution: commitment and focus",
+      "summary": "Moore argues chasm-crossing can be done within a single funding round by value-pricing and over-committing to solve one urgent problem. They discuss founder obsession with customer success and \u201cradiating references.\u201d",
+      "timestamp_start": "00:27:35",
+      "timestamp_end": "00:30:52",
+      "speakers": [
+        "Lenny",
+        "Geoffrey Moore"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Startup Strategy",
+        "Sales"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "geoffrey-moore_t13",
+      "title": "What the chasm is and why pragmatists stall",
+      "summary": "Moore explains the core chasm dynamic: pragmatists require peer references and don\u2019t trust visionary buyers, creating a coordination problem (\u201cjunior high dance\u201d). They note persona varies by decision context.",
+      "timestamp_start": "00:30:52",
+      "timestamp_end": "00:34:34",
+      "speakers": [
+        "Lenny",
+        "Geoffrey Moore"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Sales"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "geoffrey-moore_t14",
+      "title": "Product readiness and compelling reason to buy",
+      "summary": "Moore contrasts early-market \u201cmagic ingredient/10x\u201d prototypes with pragmatists\u2019 need for stability and risk reduction. He explains that urgency (compelling reason to buy) is what forces organizations to move despite slow decision processes.",
+      "timestamp_start": "00:34:34",
+      "timestamp_end": "00:37:15",
+      "speakers": [
+        "Lenny",
+        "Geoffrey Moore"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Go-to-Market",
+        "Sales"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "geoffrey-moore_t15",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Arcade, an interactive demo platform, including an example of improved conversion and engagement.",
+      "timestamp_start": "00:37:15",
+      "timestamp_end": "00:38:30",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "geoffrey-moore_t16",
+      "title": "Compelling reason to buy vs compelling pitch",
+      "summary": "They clarify that the compelling reason to buy is the customer\u2019s urgent pain (e.g., ransomware, healthcare, churn), not a clever sales pitch. Moore emphasizes bowling-alley selling is about diagnosing the customer\u2019s problem, not demoing the product.",
+      "timestamp_start": "00:38:30",
+      "timestamp_end": "00:43:45",
+      "speakers": [
+        "Lenny",
+        "Geoffrey Moore"
+      ],
+      "themes": [
+        "Sales",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "geoffrey-moore_t17",
+      "title": "Stage-specific GTM playbooks and how to recognize them",
+      "summary": "Moore begins walking through how to identify your stage and match the GTM playbook: early market requires a real tech wizard, a demo, and a trapped-value vision; bowling alley requires tight segmentation and deep problem-domain learning.",
+      "timestamp_start": "00:43:45",
+      "timestamp_end": "00:47:32",
+      "speakers": [
+        "Lenny",
+        "Geoffrey Moore"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Startup Strategy"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

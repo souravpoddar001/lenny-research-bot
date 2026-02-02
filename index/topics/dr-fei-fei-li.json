@@ -1,0 +1,232 @@
+{
+  "episode_id": "dr-fei-fei-li",
+  "topics": [
+    {
+      "topic_id": "dr-fei-fei-li_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Dr. Fei-Fei Li\u2019s impact on modern AI (ImageNet, Stanford HAI, Google Cloud) and frames the episode\u2019s focus: AI history, human impact, and world models, including the launch of Marble.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:03:37",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dr. Fei Fei Li"
+      ],
+      "themes": [
+        "AI History",
+        "AI Research",
+        "Human-Centered AI"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dr-fei-fei-li_t2",
+      "title": "Sponsor Break",
+      "summary": "Ads for Figma Make and Justworks.",
+      "timestamp_start": "00:03:37",
+      "timestamp_end": "00:05:31",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dr-fei-fei-li_t3",
+      "title": "AI optimism, humanism, and societal responsibility",
+      "summary": "Fei-Fei explains her non-utopian optimism: AI\u2019s impact is real but shaped by human choices, and society must act responsibly because AI affects individuals, communities, and future generations.",
+      "timestamp_start": "00:05:31",
+      "timestamp_end": "00:09:37",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dr. Fei Fei Li"
+      ],
+      "themes": [
+        "AI Ethics & Governance",
+        "Human-Centered AI",
+        "Future of Work"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dr-fei-fei-li_t4",
+      "title": "AI\u2019s evolution: from Turing to machine learning",
+      "summary": "Fei-Fei gives a concise history of AI from the 1950s Dartmouth workshop through expert systems and early neural nets to the rise of statistical machine learning in the 1990s/2000s.",
+      "timestamp_start": "00:09:37",
+      "timestamp_end": "00:14:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dr. Fei Fei Li"
+      ],
+      "themes": [
+        "AI History",
+        "AI Research"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dr-fei-fei-li_t5",
+      "title": "ImageNet: big data as the missing ingredient",
+      "summary": "She describes choosing visual intelligence and object recognition as a \u201cnorth star,\u201d realizing models lacked training data, and building ImageNet (15M images, 22k concepts) to unlock learning at scale.",
+      "timestamp_start": "00:14:33",
+      "timestamp_end": "00:18:05",
+      "speakers": [
+        "Dr. Fei Fei Li",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Research",
+        "Computer Vision",
+        "Datasets & Data Labeling"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dr-fei-fei-li_t6",
+      "title": "2012 deep learning inflection and core recipe",
+      "summary": "Fei-Fei recounts the 2012 ImageNet breakthrough (Hinton\u2019s team, two GPUs) and the enduring trio behind modern AI\u2014big data, neural networks, and GPU compute\u2014connecting it to today\u2019s LLMs.",
+      "timestamp_start": "00:18:05",
+      "timestamp_end": "00:21:25",
+      "speakers": [
+        "Dr. Fei Fei Li",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Deep Learning",
+        "AI History",
+        "Compute Infrastructure"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dr-fei-fei-li_t7",
+      "title": "When \u201cAI\u201d was a dirty word in industry",
+      "summary": "They discuss how companies avoided the term AI around 2015\u20132016, with 2017 marking a shift toward branding as \u201cAI companies,\u201d contrasting sharply with today\u2019s AI-everywhere landscape.",
+      "timestamp_start": "00:21:25",
+      "timestamp_end": "00:23:54",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dr. Fei Fei Li"
+      ],
+      "themes": [
+        "AI Industry",
+        "AI History"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dr-fei-fei-li_t8",
+      "title": "AGI skepticism and limits of current systems",
+      "summary": "Fei-Fei critiques AGI as loosely defined and more marketing than science, emphasizing that current AI still fails at basic perception/reasoning tasks and lacks creativity, abstraction, and emotional intelligence.",
+      "timestamp_start": "00:23:54",
+      "timestamp_end": "00:29:51",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dr. Fei Fei Li"
+      ],
+      "themes": [
+        "AGI & General Intelligence",
+        "AI Research"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dr-fei-fei-li_t9",
+      "title": "World models and spatial intelligence: what and why",
+      "summary": "Fei-Fei explains world models as systems that generate, let users navigate, interact with, and reason about 3D worlds; she argues spatial intelligence is essential beyond language for embodied tasks and real-world understanding.",
+      "timestamp_start": "00:29:51",
+      "timestamp_end": "00:39:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dr. Fei Fei Li"
+      ],
+      "themes": [
+        "World Models",
+        "Embodied AI & Robotics",
+        "Computer Vision"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dr-fei-fei-li_t10",
+      "title": "Sponsor Break",
+      "summary": "Ad for Sinch and RCS messaging.",
+      "timestamp_start": "00:39:33",
+      "timestamp_end": "00:40:45",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dr-fei-fei-li_t11",
+      "title": "The bitter lesson and why robotics is harder",
+      "summary": "Fei-Fei discusses Sutton\u2019s \u201cbitter lesson\u201d (scale wins) and why robotics complicates it: data/action alignment is harder than language, real-world embodiment adds hardware and safety constraints, and progress may resemble long self-driving timelines.",
+      "timestamp_start": "00:40:45",
+      "timestamp_end": "00:47:28",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dr. Fei Fei Li"
+      ],
+      "themes": [
+        "Embodied AI & Robotics",
+        "AI Research",
+        "Datasets & Data Labeling"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dr-fei-fei-li_t12",
+      "title": "Awe at human intelligence and energy efficiency",
+      "summary": "Fei-Fei reflects that building AI increases her respect for humans: the brain runs on ~20 watts yet supports remarkable perception and action.",
+      "timestamp_start": "00:47:28",
+      "timestamp_end": "00:48:03",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dr. Fei Fei Li"
+      ],
+      "themes": [
+        "Human-Centered AI"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "dr-fei-fei-li_t13",
+      "title": "Marble launch: first large world model product",
+      "summary": "Fei-Fei introduces Marble from World Labs: a \u201cprompt-to-worlds\u201d app built on a frontier model that generates navigable 3D environments; they discuss the deliberate \u201cdot\u201d visualization and early product philosophy.",
+      "timestamp_start": "00:48:03",
+      "timestamp_end": "00:52:48",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dr. Fei Fei Li"
+      ],
+      "themes": [
+        "World Models",
+        "AI Products",
+        "Computer Graphics & 3D"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dr-fei-fei-li_t14",
+      "title": "Early Marble use cases: VFX, games, robotics, therapy",
+      "summary": "Fei-Fei shares early adoption: virtual production (claimed ~40x faster), game/VR world building, robotics simulation data generation, and unexpected research uses like psychology experiments and exposure therapy scenarios.",
+      "timestamp_start": "00:52:48",
+      "timestamp_end": "00:57:24",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dr. Fei Fei Li"
+      ],
+      "themes": [
+        "World Models",
+        "Embodied AI & Robotics",
+        "AI Products"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

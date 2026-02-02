@@ -1,0 +1,251 @@
+{
+  "episode_id": "nikita-bier",
+  "topics": [
+    {
+      "topic_id": "nikita-bier_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Nikita Bier and frames the episode around unpacking how Nikita repeatedly built viral consumer apps. Nikita tees up his contrarian view on product management and emphasizes both luck and tactical execution.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:04:32",
+      "speakers": [
+        "Nikita Bier",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Changing PM Landscape",
+        "Viral Growth",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nikita-bier_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Webflow and Vanta.",
+      "timestamp_start": "00:04:32",
+      "timestamp_end": "00:06:36",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nikita-bier_t3",
+      "title": "Politify and pivot away from govtech",
+      "summary": "Nikita shares how Politify went viral and led to government contracts, Techstars, and a near-deal with the Obama administration. A government shutdown and distaste for selling to governments pushed him to pivot toward consumer products.",
+      "timestamp_start": "00:06:36",
+      "timestamp_end": "00:10:55",
+      "speakers": [
+        "Nikita Bier",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Founder Journey",
+        "Viral Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nikita-bier_t4",
+      "title": "Why teens matter for social app growth",
+      "summary": "Nikita explains why teen cohorts are uniquely powerful for network effects: malleable habits, high invite rates, and daily in-person contact. He contrasts this with adults, who often require paid acquisition and struggle to form dense graphs.",
+      "timestamp_start": "00:10:55",
+      "timestamp_end": "00:12:56",
+      "speakers": [
+        "Nikita Bier",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Viral Growth",
+        "Product Strategy",
+        "Changing PM Landscape"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nikita-bier_t5",
+      "title": "Pivoting to mobile and learning through failures",
+      "summary": "Nikita describes the hard mental shift from web to mobile, where every tap is scarce and design precision matters. He recounts launching ~15 apps (many duds) and building a repeatable testing muscle that eventually led to tbh.",
+      "timestamp_start": "00:12:56",
+      "timestamp_end": "00:20:08",
+      "speakers": [
+        "Nikita Bier",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Viral Growth",
+        "Changing PM Landscape"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nikita-bier_t6",
+      "title": "tbh launch: near shutdown to breakout virality",
+      "summary": "On the brink of dissolving the company, Nikita launches tbh by seeding a Georgia school and watches adoption explode, servers crash, and charts climb. He shares the intensity of scaling, funding pressure, and a cinematic moment showing real-time installs on a map.",
+      "timestamp_start": "00:20:08",
+      "timestamp_end": "00:24:50",
+      "speakers": [
+        "Nikita Bier",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Viral Growth",
+        "Founder Journey",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nikita-bier_t7",
+      "title": "tbh product insight: latent demand and positivity",
+      "summary": "Nikita connects the Snapchat TBH trend with Sarahah\u2019s anonymous messaging craze (even while in Arabic) as proof of latent demand. He explains the key twist: constrain expression to positive, authored polls to avoid toxicity while increasing message volume.",
+      "timestamp_start": "00:24:50",
+      "timestamp_end": "00:29:27",
+      "speakers": [
+        "Nikita Bier",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Viral Growth",
+        "Product Strategy",
+        "Changing PM Landscape"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nikita-bier_t8",
+      "title": "Seeding and testing tactics: saturation and live chat",
+      "summary": "Nikita clarifies the leaked \u201cschool seeding\u201d playbook was primarily for testing: saturate a school with repeated exposure via targeted ads and Instagram following to remove confounding variables. He also advocates 24/7 in-app live chat to accelerate feedback loops and improve word-of-mouth.",
+      "timestamp_start": "00:29:27",
+      "timestamp_end": "00:34:09",
+      "speakers": [
+        "Nikita Bier",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Viral Growth",
+        "Product Strategy",
+        "Changing PM Landscape"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nikita-bier_t9",
+      "title": "What real product-market fit feels like",
+      "summary": "Nikita describes the operational chaos of breakout consumer success\u2014systems breaking every few days, ruthless prioritization, and even geofencing to control growth. He shares a binary view of PMF: if it\u2019s working, you\u2019ll know from unmistakable pull and extreme usage patterns.",
+      "timestamp_start": "00:34:09",
+      "timestamp_end": "00:36:59",
+      "speakers": [
+        "Nikita Bier",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Viral Growth",
+        "Founder Journey"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nikita-bier_t10",
+      "title": "Selling to Facebook and life inside big tech",
+      "summary": "Nikita recounts the draining acquisition process and then contrasts Facebook\u2019s rigorous growth science with how PMs can be detached from pixels and design. He discusses building multiple standalone apps internally, plus the challenges of honesty, incentives, and regulatory overhead in large orgs.",
+      "timestamp_start": "00:36:59",
+      "timestamp_end": "00:44:38",
+      "speakers": [
+        "Nikita Bier",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Changing PM Landscape",
+        "Product Strategy",
+        "Founder Journey"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nikita-bier_t11",
+      "title": "Why incumbents are slow to copy startups",
+      "summary": "Nikita argues big companies often take 12\u201324 months to respond to competitive threats due to internal processes, risk aversion, and incentive structures. He explains why copying proven hits is easier to defend than pursuing first-principles bets.",
+      "timestamp_start": "00:44:38",
+      "timestamp_end": "00:47:42",
+      "speakers": [
+        "Nikita Bier",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Changing PM Landscape",
+        "Product Strategy",
+        "Viral Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "nikita-bier_t12",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Explo embedded analytics.",
+      "timestamp_start": "00:47:45",
+      "timestamp_end": "00:48:57",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "nikita-bier_t13",
+      "title": "Hot take: product management isn\u2019t real",
+      "summary": "Nikita expands on his critique that big-tech PMs become document writers and approval-runners, separated from data and design. He argues zero-to-one consumer products live in the pixels and PMs (or designers) must own flows and hierarchy to succeed.",
+      "timestamp_start": "00:48:57",
+      "timestamp_end": "00:51:43",
+      "speakers": [
+        "Nikita Bier",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Changing PM Landscape",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nikita-bier_t14",
+      "title": "Tim Cook painting story near Zuckerberg\u2019s desk",
+      "summary": "Nikita tells a humorous anecdote about sitting near Mark Zuckerberg and hanging a large Tim Cook painting as a reminder that Apple controls distribution. An executive assistant eventually asks him to take it down.",
+      "timestamp_start": "00:51:43",
+      "timestamp_end": "00:53:49",
+      "speakers": [
+        "Nikita Bier",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Founder Journey",
+        "Changing PM Landscape"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "nikita-bier_t15",
+      "title": "Leaving Facebook and teasing the next app",
+      "summary": "Nikita begins describing his departure from Facebook, intent to build a venture-backed company, and how private idea-sharing sparked a viral meme about his \u201ccrazy new app.\u201d The segment ends mid-story as he sets up the next chapter.",
+      "timestamp_start": "00:53:54",
+      "timestamp_end": "00:54:19",
+      "speakers": [
+        "Nikita Bier",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Founder Journey",
+        "Viral Growth"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

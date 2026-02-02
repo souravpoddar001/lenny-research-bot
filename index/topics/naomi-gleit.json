@@ -1,0 +1,271 @@
+{
+  "episode_id": "naomi-gleit",
+  "topics": [
+    {
+      "topic_id": "naomi-gleit_t1",
+      "title": "Introduction and Background",
+      "summary": "Naomi shares her belief in clarity via frameworks and the need for a single canonical doc per project. Lenny introduces Naomi\u2019s tenure at Meta and previews topics ranging from growth to leadership and tactics.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:03:59",
+      "speakers": [
+        "Naomi Gleit",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Management",
+        "Leadership",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "naomi-gleit_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Pendo (product experience platform) and Vanta (trust management and compliance automation).",
+      "timestamp_start": "00:04:04",
+      "timestamp_end": "00:06:20",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsorship"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "naomi-gleit_t3",
+      "title": "How Naomi joined Facebook as employee 29",
+      "summary": "Naomi recounts repeatedly showing up at Facebook\u2019s early Palo Alto office, initially interviewing for Sean Parker\u2019s assistant role, then choosing Facebook over LinkedIn. She explains why she believed Facebook had strong product-market fit and expanding demand.",
+      "timestamp_start": "00:06:20",
+      "timestamp_end": "00:10:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Naomi Gleit"
+      ],
+      "themes": [
+        "Career",
+        "Startups",
+        "Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "naomi-gleit_t4",
+      "title": "Transitioning into product management by doing the job",
+      "summary": "Naomi describes how she moved from marketing to PM by volunteering on PM projects after hours, effectively doing the role before formally applying. She emphasizes persistence and creating \u201cluck\u201d through repeated initiative.",
+      "timestamp_start": "00:10:41",
+      "timestamp_end": "00:13:29",
+      "speakers": [
+        "Naomi Gleit",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Career",
+        "Product Management",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "naomi-gleit_t5",
+      "title": "Head of Product at Meta: scope and responsibilities",
+      "summary": "Naomi explains what \u201cHead of Product\u201d means at Meta: supporting the PM function at scale, including performance, culture, onboarding, and training. She frames PMs as a major leverage point for company execution.",
+      "timestamp_start": "00:13:33",
+      "timestamp_end": "00:14:45",
+      "speakers": [
+        "Naomi Gleit",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Management",
+        "Leadership",
+        "Org Design"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "naomi-gleit_t6",
+      "title": "Mark Zuckerberg\u2019s evolution and \u201clearn-it-all\u201d mindset",
+      "summary": "Naomi argues the public is now seeing the \u201creal Mark\u201d she\u2019s known for years, attributing his transformation to rapid upskilling and increased comfort in public leadership. Examples include annual challenges and improved professional skills like speaking and negotiation.",
+      "timestamp_start": "00:14:54",
+      "timestamp_end": "00:17:30",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Naomi Gleit"
+      ],
+      "themes": [
+        "Leadership",
+        "Personal Development",
+        "Company Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "naomi-gleit_t7",
+      "title": "A personal story: Mark as friend and mentor",
+      "summary": "Naomi shares how Mark supported her during a difficult period by co-teaching a class in East Palo Alto and mentoring students long-term. She recounts Mark\u2019s four life lessons: love yourself, serve others, focus on what you can control, and never give up.",
+      "timestamp_start": "00:17:37",
+      "timestamp_end": "00:19:53",
+      "speakers": [
+        "Naomi Gleit",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Leadership",
+        "Personal Development",
+        "Mentorship"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "naomi-gleit_t8",
+      "title": "How Meta\u2019s \u201csmall group\u201d leadership team operates",
+      "summary": "Naomi explains the purpose and composition of small group, emphasizing long-tenured, mission-driven \u201cdisagreeable givers\u201d and a culture of honest feedback. She outlines two weekly cadences: a strategic discussion meeting and a structured operational review.",
+      "timestamp_start": "00:20:02",
+      "timestamp_end": "00:23:55",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Naomi Gleit"
+      ],
+      "themes": [
+        "Leadership",
+        "Company Culture",
+        "Org Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "naomi-gleit_t9",
+      "title": "Origins of the growth team and data-driven influence",
+      "summary": "Naomi notes the growth team\u2019s approach didn\u2019t originate top-down from Mark; the team helped demonstrate the value of rigorous, product-led, data-driven growth. She sets up the transition into specific growth tactics and lessons.",
+      "timestamp_start": "00:24:42",
+      "timestamp_end": "00:25:53",
+      "speakers": [
+        "Naomi Gleit",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Growth",
+        "Product Management",
+        "Experimentation"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "naomi-gleit_t10",
+      "title": "Activation metric: seven friends in ten days",
+      "summary": "Naomi explains how growth accounting revealed retention as the biggest lever and how friending correlated strongly with long-term engagement. The team chose a clear activation milestone (e.g., 7 friends/10 days) to drive onboarding and reduce early churn.",
+      "timestamp_start": "00:25:53",
+      "timestamp_end": "00:28:48",
+      "speakers": [
+        "Naomi Gleit",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Growth",
+        "Metrics",
+        "Retention"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "naomi-gleit_t11",
+      "title": "Understand\u2013Identify\u2013Execute and product-led growth mindset",
+      "summary": "Naomi describes the growth team\u2019s shift from marketing-led growth to product-led growth, including a period focused solely on instrumentation to find drop-offs. She shares how this approach later applied to other domains like social impact and fundraising products.",
+      "timestamp_start": "00:28:48",
+      "timestamp_end": "00:32:48",
+      "speakers": [
+        "Naomi Gleit",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Growth",
+        "Product Management",
+        "Experimentation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "naomi-gleit_t12",
+      "title": "Community-powered translation and scaling to 100+ languages",
+      "summary": "Instead of relying only on professional translators, Facebook built tooling for users to translate the product inline with ranking systems for quality. This product/tech solution enabled broad language support and reduced a major adoption barrier.",
+      "timestamp_start": "00:32:48",
+      "timestamp_end": "00:33:46",
+      "speakers": [
+        "Naomi Gleit",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Growth",
+        "Internationalization",
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "naomi-gleit_t13",
+      "title": "Activation metrics as rallying points and onboarding creation",
+      "summary": "Naomi argues the main value of an activation metric is organizational clarity more than perfect precision. She explains how expanding beyond colleges required building a structured new user experience (profile photo, friend-finding) to help new demographics reach the \u201cmagic moment.\u201d",
+      "timestamp_start": "00:33:46",
+      "timestamp_end": "00:38:12",
+      "speakers": [
+        "Naomi Gleit",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Onboarding",
+        "Growth",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "naomi-gleit_t14",
+      "title": "Macro vs micro barriers: friction removal tactics",
+      "summary": "Naomi distinguishes macro barriers (access, devices, internet, language) from micro barriers (flow friction) and shares examples like alternative account confirmation via notification clicks. She also notes growth\u2019s limits when product-market fit is already strong.",
+      "timestamp_start": "00:38:12",
+      "timestamp_end": "00:43:32",
+      "speakers": [
+        "Naomi Gleit",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Growth",
+        "Onboarding",
+        "Product Optimization"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "naomi-gleit_t15",
+      "title": "Naomi-isms and PMs as conductors",
+      "summary": "Lenny shares praise from Adam Mosseri, then Naomi introduces her \u201cNaomi-isms\u201d as repeatable PM frameworks. She explains the conductor metaphor: PMs align cross-functional \u201cinstruments,\u201d set tempo/cadence, and enable the team without being the star.",
+      "timestamp_start": "00:43:45",
+      "timestamp_end": "00:47:35",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Naomi Gleit"
+      ],
+      "themes": [
+        "Product Management",
+        "Leadership",
+        "Collaboration"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "naomi-gleit_t16",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Eppo (A/B testing and feature management platform for modern growth teams).",
+      "timestamp_start": "00:47:38",
+      "timestamp_end": "00:47:38",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsorship"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

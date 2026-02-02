@@ -1,0 +1,257 @@
+{
+  "episode_id": "annie-pearl",
+  "topics": [
+    {
+      "topic_id": "annie-pearl_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the podcast and Annie Pearl\u2019s background (CPO at Calendly, former CPO at Glassdoor, prior roles), plus a quick preview of what they\u2019ll cover in the episode.",
+      "timestamp_start": "00:00:27",
+      "timestamp_end": "00:03:50",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Podcast Intro"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "annie-pearl_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Miro and Coda, including how they\u2019re used for collaboration and product team operations.",
+      "timestamp_start": "00:01:25",
+      "timestamp_end": "00:03:50",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Message"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "annie-pearl_t3",
+      "title": "How to share Calendly without awkwardness",
+      "summary": "Annie shares practical etiquette tips: invite the other person to share availability first, then optionally include a Calendly link and even paste suggested times to reduce friction.",
+      "timestamp_start": "00:04:09",
+      "timestamp_end": "00:06:03",
+      "speakers": [
+        "Lenny",
+        "Annie Pearl"
+      ],
+      "themes": [
+        "Product Tips"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "annie-pearl_t4",
+      "title": "Breaking into product management from nontraditional roles",
+      "summary": "Annie outlines multiple entry paths into PM: APM programs, applying for junior PM roles (often internally), shadowing/partnering with PMs, SME programs, and joining early-stage startups to take on PM work.",
+      "timestamp_start": "00:06:04",
+      "timestamp_end": "00:09:21",
+      "speakers": [
+        "Lenny",
+        "Annie Pearl"
+      ],
+      "themes": [
+        "Career Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "annie-pearl_t5",
+      "title": "Which PM transition paths work best",
+      "summary": "They discuss which routes are most common and effective, with Annie emphasizing internal transfers via demonstrated interest, curiosity, and doing real product work before holding the title.",
+      "timestamp_start": "00:09:26",
+      "timestamp_end": "00:11:36",
+      "speakers": [
+        "Lenny",
+        "Annie Pearl"
+      ],
+      "themes": [
+        "Career Development"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "annie-pearl_t6",
+      "title": "Why APM programs are rare and hard",
+      "summary": "Annie explains the operational overhead of building APM programs (interviewing, training, role expectations, graduation paths) and why many companies lack the scale/capacity to do them well.",
+      "timestamp_start": "00:11:36",
+      "timestamp_end": "00:13:27",
+      "speakers": [
+        "Lenny",
+        "Annie Pearl"
+      ],
+      "themes": [
+        "Career Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "annie-pearl_t7",
+      "title": "Calendly product org scale and structure",
+      "summary": "Annie shares Calendly\u2019s growth (150\u2192600 employees; product/design/research ~15\u2192~60) and how leadership is organized across core, enterprise, and platform, with design/research/product ops under product leadership.",
+      "timestamp_start": "00:13:27",
+      "timestamp_end": "00:16:59",
+      "speakers": [
+        "Lenny",
+        "Annie Pearl"
+      ],
+      "themes": [
+        "Org Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "annie-pearl_t8",
+      "title": "Team structure by persona: core, enterprise, platform",
+      "summary": "They break down how teams map to personas and problems: core experience + PLG funnel, enterprise admins and department leaders, and platform integrations/APIs to embed Calendly into workflows.",
+      "timestamp_start": "00:16:59",
+      "timestamp_end": "00:19:07",
+      "speakers": [
+        "Lenny",
+        "Annie Pearl"
+      ],
+      "themes": [
+        "Org Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "annie-pearl_t9",
+      "title": "OKRs maturity: from siloed to integrated planning",
+      "summary": "Annie describes Calendly\u2019s evolution from unclear strategy/no OKRs to product OKRs, then to tightly linked company OKRs with dependency mapping and cross-functional execution.",
+      "timestamp_start": "00:19:07",
+      "timestamp_end": "00:21:09",
+      "speakers": [
+        "Lenny",
+        "Annie Pearl"
+      ],
+      "themes": [
+        "Strategy & OKRs"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "annie-pearl_t10",
+      "title": "Narrowing ICP to improve prioritization and focus",
+      "summary": "Annie explains how clarifying target markets and personas (sales, recruiting, customer success) reduced prioritization thrash and enabled stronger product decisions, despite cultural resistance to saying no.",
+      "timestamp_start": "00:21:09",
+      "timestamp_end": "00:25:15",
+      "speakers": [
+        "Lenny",
+        "Annie Pearl"
+      ],
+      "themes": [
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "annie-pearl_t11",
+      "title": "Calendly\u2019s viral growth loop and PLG-to-SLG shift",
+      "summary": "They discuss Calendly\u2019s growth engine (70% signups via viral loop) and how adding a sales-led motion changed hiring profiles, buyer personas, and cross-functional operating model.",
+      "timestamp_start": "00:25:15",
+      "timestamp_end": "00:29:23",
+      "speakers": [
+        "Lenny",
+        "Annie Pearl"
+      ],
+      "themes": [
+        "Growth (PLG)"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "annie-pearl_t12",
+      "title": "Product and sales collaboration: using GTM as customer lens",
+      "summary": "Annie argues sales/GTM can be a product team\u2019s biggest asset for customer empathy, sharing lessons from Box about spending time in the field and leveraging sales\u2019 customer exposure.",
+      "timestamp_start": "00:29:23",
+      "timestamp_end": "00:30:35",
+      "speakers": [
+        "Lenny",
+        "Annie Pearl"
+      ],
+      "themes": [
+        "Cross-functional Collaboration"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "annie-pearl_t13",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Vanta focused on SOC 2 compliance automation and why it matters for selling to enterprise customers.",
+      "timestamp_start": "00:30:35",
+      "timestamp_end": "00:31:52",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Message"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "annie-pearl_t14",
+      "title": "Prioritization via strategy and horizons allocation",
+      "summary": "Annie shares a strategy framework (Playing to Win) and how Calendly allocates resources across three horizons over multiple years; she gives an example of deprioritizing a Venmo integration due to ICP focus.",
+      "timestamp_start": "00:31:52",
+      "timestamp_end": "00:35:29",
+      "speakers": [
+        "Lenny",
+        "Annie Pearl"
+      ],
+      "themes": [
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "annie-pearl_t15",
+      "title": "Planning cadence, roadmaps, and delivery commitments",
+      "summary": "They cover annual company OKRs with quarterly milestones, roadmaps tied to KRs, and a phased product development lifecycle (discovery, solutioning, build, launch/iterate) to avoid overcommitting too early.",
+      "timestamp_start": "00:35:29",
+      "timestamp_end": "00:38:14",
+      "speakers": [
+        "Lenny",
+        "Annie Pearl"
+      ],
+      "themes": [
+        "Execution & Planning"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "annie-pearl_t16",
+      "title": "Strategy artifacts and product team tool stack",
+      "summary": "Annie describes how strategy is documented (3-year strategy, OKR docs \u2192 slides, Confluence templates) and the team\u2019s tools (Aha, Airtable, Jira, Slack, Loom, Pendo, Google Docs/Slides).",
+      "timestamp_start": "00:38:14",
+      "timestamp_end": "00:40:20",
+      "speakers": [
+        "Lenny",
+        "Annie Pearl"
+      ],
+      "themes": [
+        "Execution & Planning"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "annie-pearl_t17",
+      "title": "Origin story: getting Calendly\u2019s first users",
+      "summary": "Annie begins recounting how founder Tope Awotona bootstrapped Calendly (401k savings, outsourced dev firm) and how the first users came through connections to that development firm; the story continues beyond the provided excerpt.",
+      "timestamp_start": "00:40:21",
+      "timestamp_end": "00:41:51",
+      "speakers": [
+        "Lenny",
+        "Annie Pearl"
+      ],
+      "themes": [
+        "Company Building"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

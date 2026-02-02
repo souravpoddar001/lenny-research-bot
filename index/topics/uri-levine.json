@@ -1,0 +1,191 @@
+{
+  "episode_id": "uri-levine",
+  "topics": [
+    {
+      "topic_id": "uri-levine_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Uri Levine\u2019s track record (Waze, multiple startups/boards) and tees up key lessons the episode will cover (problem focus, hiring/firing, fundraising).",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:49",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Uri Levine"
+      ],
+      "themes": [
+        "Entrepreneurship"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "uri-levine_t2",
+      "title": "Fall in love with the problem",
+      "summary": "Uri explains why value creation starts with solving a real problem, how the problem becomes a \u201cNorth Star,\u201d and why founders should lead with the problem/value (not the solution) when communicating.",
+      "timestamp_start": "00:02:49",
+      "timestamp_end": "00:06:59",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Uri Levine"
+      ],
+      "themes": [
+        "Entrepreneurship",
+        "Product"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "uri-levine_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Vanta (compliance/security automation) and Mercury (startup banking and financial operations).",
+      "timestamp_start": "00:06:59",
+      "timestamp_end": "00:09:02",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "uri-levine_t4",
+      "title": "Validating problem size and founder passion",
+      "summary": "They discuss heuristics for whether a problem is real and big enough (talk to many strangers/users), exceptions like iPhone-style invention, and why founders must be genuinely passionate to endure the startup journey.",
+      "timestamp_start": "00:09:02",
+      "timestamp_end": "00:12:05",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Uri Levine"
+      ],
+      "themes": [
+        "Entrepreneurship",
+        "Product"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "uri-levine_t5",
+      "title": "Pivot example: Oversee from B2C to B2B",
+      "summary": "Uri shares how Oversee started as consumer airfare price monitoring but pivoted to corporates when consumer behavior didn\u2019t support the required actions; B2B enabled automation and clear savings.",
+      "timestamp_start": "00:12:05",
+      "timestamp_end": "00:14:00",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Uri Levine"
+      ],
+      "themes": [
+        "Entrepreneurship",
+        "Go-to-Market"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "uri-levine_t6",
+      "title": "Finding startup ideas and embracing failure",
+      "summary": "Uri describes sourcing ideas from personal frustration, validating with target users, and preparing for the startup reality: roller-coaster volatility, frequent failures, and the importance of failing fast and iterating to \u201cgood enough.\u201d",
+      "timestamp_start": "00:14:00",
+      "timestamp_end": "00:18:10",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Uri Levine"
+      ],
+      "themes": [
+        "Entrepreneurship"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "uri-levine_t7",
+      "title": "Product-market fit: retention as the metric",
+      "summary": "Uri frames PMF as creating value measured primarily by retention, explains why PMF takes years, and notes that once PMF is found, products often stabilize around the core value proposition.",
+      "timestamp_start": "00:18:10",
+      "timestamp_end": "00:21:56",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Uri Levine"
+      ],
+      "themes": [
+        "Product",
+        "Metrics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "uri-levine_t8",
+      "title": "Waze PMF journey: global launch and iterations",
+      "summary": "Uri recounts Waze\u2019s failed early global expansion, repeated user interviews and iterations, and how \u201cgood enough\u201d emerged market-by-market; he also explains why Japan\u2019s addressing system made crowdsourcing insufficient.",
+      "timestamp_start": "00:21:56",
+      "timestamp_end": "00:26:17",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Uri Levine"
+      ],
+      "themes": [
+        "Product",
+        "Entrepreneurship"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "uri-levine_t9",
+      "title": "Waze retention heuristics and value of certainty",
+      "summary": "They discuss how Waze tracked retention/frequency versus Israel benchmarks and the \u2018third/fourth use\u2019 conversion heuristic; Uri adds that Waze\u2019s biggest value became arrival-time certainty more than time savings.",
+      "timestamp_start": "00:26:17",
+      "timestamp_end": "00:29:44",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Uri Levine"
+      ],
+      "themes": [
+        "Product",
+        "Metrics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "uri-levine_t10",
+      "title": "Startup phases and shifting focus over time",
+      "summary": "Uri outlines phases from early \u201call over the place\u201d to PMF, then growth and business model, emphasizing single-threaded focus and the difficulty of shifting organizational gears once PMF is achieved.",
+      "timestamp_start": "00:29:44",
+      "timestamp_end": "00:38:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Uri Levine"
+      ],
+      "themes": [
+        "Entrepreneurship",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "uri-levine_t11",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for LinkedIn Ads focused on B2B targeting, measurement, and a promotional credit offer.",
+      "timestamp_start": "00:38:33",
+      "timestamp_end": "00:39:52",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "uri-levine_t12",
+      "title": "Fundraising realities and pitch slide tactics",
+      "summary": "Uri explains fundraising as a \u2018roller coaster in the dark,\u2019 first-impression dynamics, why early-stage investors back the CEO and story, the \u2018dance of 100 nos,\u2019 and tactical pitch advice: put the strongest point on the first and last slides (not just \u201cintro\u201d/\u201cthank you\u201d).",
+      "timestamp_start": "00:39:52",
+      "timestamp_end": "00:49:39",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Uri Levine"
+      ],
+      "themes": [
+        "Fundraising",
+        "Entrepreneurship"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

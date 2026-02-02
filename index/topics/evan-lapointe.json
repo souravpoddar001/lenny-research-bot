@@ -1,0 +1,188 @@
+{
+  "episode_id": "evan-lapointe",
+  "topics": [
+    {
+      "topic_id": "evan-lapointe_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Evan LaPointe, his background (CORE Sciences, multiple startups, Adobe), and previews the episode\u2019s focus on brain science applied to teamwork, product, and decision-making.",
+      "timestamp_start": "00:00:58",
+      "timestamp_end": "00:02:19",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Leadership",
+        "Decision-Making",
+        "Teamwork"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "evan-lapointe_t2",
+      "title": "Brain as departments: choosing thinking pathways",
+      "summary": "Evan explains a simple mental model: the brain as a campus with departments (history, science, art, humanities). People overuse the low-energy 'history' lookup mode; better outcomes come from intentionally routing problems to experimental and creative modes.",
+      "timestamp_start": "00:02:19",
+      "timestamp_end": "00:04:35",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Evan LaPointe"
+      ],
+      "themes": [
+        "Decision-Making",
+        "Productivity",
+        "Self-Awareness"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "evan-lapointe_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Webflow (faster web iteration) and Explo (embedded customer-facing analytics).",
+      "timestamp_start": "00:04:35",
+      "timestamp_end": "00:06:34",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Productivity"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "evan-lapointe_t4",
+      "title": "Three brain systems: safety, reward, purpose",
+      "summary": "Evan outlines three core systems that drive behavior: safety (threat response), reward (transactional pursuit), and purpose (impact + people). He adds focus and 'ability' layers (context, imagination, logic) as levers for better individual/team output.",
+      "timestamp_start": "00:06:34",
+      "timestamp_end": "00:11:02",
+      "speakers": [
+        "Evan LaPointe",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Decision-Making",
+        "Productivity",
+        "Self-Awareness"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "evan-lapointe_t5",
+      "title": "Why people work differently: personality and self-awareness",
+      "summary": "They discuss how frustration at work often comes from assuming others think like you. Evan argues personality differences are real and important; tools like Big Five are useful when used for growth (adapting behavior) rather than justification.",
+      "timestamp_start": "00:11:03",
+      "timestamp_end": "00:16:48",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Evan LaPointe"
+      ],
+      "themes": [
+        "Teamwork",
+        "Leadership",
+        "Self-Awareness"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "evan-lapointe_t6",
+      "title": "Teams as habitats: environment shapes performance",
+      "summary": "Evan reframes companies/teams as 'terrariums' where the environment can either enable or sabotage high-functioning thinking. He cites Canva and Figma as examples of intentionally designed habitats that reduce dysfunction by aligning with how humans work.",
+      "timestamp_start": "00:17:28",
+      "timestamp_end": "00:23:16",
+      "speakers": [
+        "Evan LaPointe",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Culture",
+        "Leadership",
+        "Teamwork"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "evan-lapointe_t7",
+      "title": "Meetings: priming before decision-making",
+      "summary": "Evan gives tactical meeting advice: most meetings skip priming (shared context, intent, and principles) and jump into decisions, causing misalignment and conflict. He recommends explicitly stating the meeting\u2019s purpose and principles (e.g., speed vs accuracy) before converging on decisions.",
+      "timestamp_start": "00:23:16",
+      "timestamp_end": "00:29:31",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Evan LaPointe"
+      ],
+      "themes": [
+        "Meetings",
+        "Productivity",
+        "Decision-Making"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "evan-lapointe_t8",
+      "title": "Strategy and vision: believable vs inconceivable ideas",
+      "summary": "Evan explains how minds categorize ideas (believed, believable, conceivable-but-unbelievable, inconceivable), which creates headwinds for vision work. He argues teams waste time debating instead of experimenting, and that recognizing your 'unbelievable threshold' is key to strategic progress.",
+      "timestamp_start": "00:29:38",
+      "timestamp_end": "00:34:55",
+      "speakers": [
+        "Evan LaPointe",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Strategy",
+        "Decision-Making",
+        "Innovation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "evan-lapointe_t9",
+      "title": "Openness trait and vulnerability to reduce friction",
+      "summary": "They connect Big Five openness to tolerance for abstract/creative thinking: low openness can wire abstraction to discomfort. Evan recommends vulnerability\u2014naming your cognitive limits\u2014so teams can translate ideas faster, rely on trust when needed, and avoid prolonged 'ROI/translation' debates.",
+      "timestamp_start": "00:34:55",
+      "timestamp_end": "00:44:26",
+      "speakers": [
+        "Evan LaPointe",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Self-Awareness",
+        "Teamwork",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "evan-lapointe_t10",
+      "title": "Can people change traits? Focus on team effect",
+      "summary": "Evan argues the goal isn\u2019t perfect individuals but better team outcomes: people can shift with self-awareness and intentional behavior even if motivations remain. He distinguishes self-awareness (intentionality) from self-consciousness (insecurity) and emphasizes separating motivation from chosen behavior.",
+      "timestamp_start": "00:44:26",
+      "timestamp_end": "00:47:28",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Evan LaPointe"
+      ],
+      "themes": [
+        "Self-Awareness",
+        "Leadership",
+        "Personal Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "evan-lapointe_t11",
+      "title": "Traits affecting vision: openness and conscientiousness",
+      "summary": "Evan highlights two key personality drivers for strategy/vision: openness (tolerance for abstract, precedent-breaking ideas) and conscientiousness (efficiency/structure) which can resist 'productive waste' like offsites and rethinks. They begin discussing how these traits show up in real meetings post-acquisition.",
+      "timestamp_start": "00:47:28",
+      "timestamp_end": "00:49:09",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Evan LaPointe"
+      ],
+      "themes": [
+        "Strategy",
+        "Self-Awareness",
+        "Decision-Making"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

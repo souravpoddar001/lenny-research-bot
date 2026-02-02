@@ -1,0 +1,252 @@
+{
+  "episode_id": "john-cutler",
+  "topics": [
+    {
+      "topic_id": "john-cutler_t1",
+      "title": "Founder tradeoff: investing in process vs people",
+      "summary": "John opens with advice for founders: start with introspection about what you truly believe, lead coherently and authentically, and flex toward other perspectives without trying to become a completely different leadership style.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:49",
+      "speakers": [
+        "John Cutler"
+      ],
+      "themes": [
+        "Leadership",
+        "Product Culture",
+        "Organizational Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "john-cutler_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the podcast, John Cutler\u2019s background, and the episode\u2019s focus on what differentiates high-performing product teams, change inside companies, and skepticism toward frameworks.",
+      "timestamp_start": "00:00:49",
+      "timestamp_end": "00:02:05",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Product Management",
+        "Leadership",
+        "Organizational Design"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "john-cutler_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Merge (unified API for integrations) and Eppo (next-gen A/B testing platform).",
+      "timestamp_start": "00:02:05",
+      "timestamp_end": "00:04:18",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "john-cutler_t4",
+      "title": "Warm-up: names, Twitter handle, and music",
+      "summary": "They banter about calling him \u201cJohn Cutler\u201d vs \u201cJohn,\u201d the \u201cJohn Cuttlefish\u201d handle, and a mix-up with a DJ named Jon Cutler; John shares he played rock music.",
+      "timestamp_start": "00:04:18",
+      "timestamp_end": "00:05:15",
+      "speakers": [
+        "Lenny",
+        "John Cutler"
+      ],
+      "themes": [
+        "Career",
+        "Personal Background",
+        "Community"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "john-cutler_t5",
+      "title": "Setting expectations: a long, deep conversation",
+      "summary": "Lenny frames the conversation as potentially marathon-length given John\u2019s unique exposure to many teams; John agrees and notes he\u2019s between jobs and on vacation.",
+      "timestamp_start": "00:05:15",
+      "timestamp_end": "00:05:50",
+      "speakers": [
+        "Lenny",
+        "John Cutler"
+      ],
+      "themes": [
+        "Career",
+        "Product Management",
+        "Community"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "john-cutler_t6",
+      "title": "John\u2019s Amplitude role: product evangelist in practice",
+      "summary": "John describes his unusual \u201cproduct evangelist\u201d role at Amplitude: helping customers and the broader product community via coaching, workshops, talks, and playbooks, while reporting mostly into marketing with stints in product and customer success.",
+      "timestamp_start": "00:05:50",
+      "timestamp_end": "00:09:16",
+      "speakers": [
+        "Lenny",
+        "John Cutler"
+      ],
+      "themes": [
+        "Product Education",
+        "Go-to-Market",
+        "Customer Success"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "john-cutler_t7",
+      "title": "Workshops at scale and community evangelism model",
+      "summary": "They discuss how Amplitude effectively offered high-value workshops (often free), the operational challenges it created, and John\u2019s view that evangelism should be a community \u201cconcentric circles\u201d model rather than relying on a single person.",
+      "timestamp_start": "00:09:16",
+      "timestamp_end": "00:11:19",
+      "speakers": [
+        "Lenny",
+        "John Cutler"
+      ],
+      "themes": [
+        "Community",
+        "Go-to-Market",
+        "Organizational Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "john-cutler_t8",
+      "title": "How many teams: volume of coaching and talks",
+      "summary": "John estimates the scale of his work: hundreds of workshops, ~800 leader one-on-ones, and talks reaching tens of thousands, emphasizing the breadth of exposure across companies and roles.",
+      "timestamp_start": "00:11:19",
+      "timestamp_end": "00:12:19",
+      "speakers": [
+        "Lenny",
+        "John Cutler"
+      ],
+      "themes": [
+        "Career",
+        "Product Education",
+        "Community"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "john-cutler_t9",
+      "title": "How Amplitude playbooks were built (not magic)",
+      "summary": "John explains how cornerstone content like the North Star Playbook and retention/engagement playbooks emerged from real customer work, iteration, and cross-functional collaboration\u2014not a one-off marketing effort.",
+      "timestamp_start": "00:12:19",
+      "timestamp_end": "00:14:22",
+      "speakers": [
+        "John Cutler",
+        "Lenny"
+      ],
+      "themes": [
+        "Product Education",
+        "Go-to-Market",
+        "Product Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "john-cutler_t10",
+      "title": "Leaving Amplitude: gratitude, intensity, and lessons",
+      "summary": "John reflects on the emotional and physical intensity of the role (especially during the pandemic), the value of seeing many companies handle similar shocks, and notable regional/cultural differences in product teams\u2019 attitudes.",
+      "timestamp_start": "00:14:22",
+      "timestamp_end": "00:17:40",
+      "speakers": [
+        "Lenny",
+        "John Cutler"
+      ],
+      "themes": [
+        "Career",
+        "Product Culture",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "john-cutler_t11",
+      "title": "Next chapter: moving to Toast and going internal",
+      "summary": "John shares he\u2019s joining Toast, motivated by a desire to focus energy on one fast-scaling vertical SaaS context and enable product teams from within rather than across many external customers.",
+      "timestamp_start": "00:17:40",
+      "timestamp_end": "00:18:42",
+      "speakers": [
+        "John Cutler",
+        "Lenny"
+      ],
+      "themes": [
+        "Career",
+        "Organizational Design",
+        "Product Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "john-cutler_t12",
+      "title": "Why John\u2019s writing embraces mess over prescriptions",
+      "summary": "Prompted by a critique, John explains his intent: explore complex adaptive systems, counterintuitive organizational dynamics, and context-heavy realities that don\u2019t reduce cleanly to step-by-step advice, while balancing focus vs oversimplification.",
+      "timestamp_start": "00:18:42",
+      "timestamp_end": "00:27:49",
+      "speakers": [
+        "Lenny",
+        "John Cutler"
+      ],
+      "themes": [
+        "Product Thinking",
+        "Organizational Design",
+        "Product Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "john-cutler_t13",
+      "title": "What differentiates the highest-performing product teams",
+      "summary": "John argues underperforming teams fail in similar ways while high performers succeed via many paths; he highlights faster better decisions, strategy-structure coherence, strong opinions loosely held, belief in product craft, coherent leadership, and contextual skills.",
+      "timestamp_start": "00:27:49",
+      "timestamp_end": "00:40:08",
+      "speakers": [
+        "Lenny",
+        "John Cutler"
+      ],
+      "themes": [
+        "High-Performing Teams",
+        "Leadership",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "john-cutler_t14",
+      "title": "People vs environment: can teams become high-performing?",
+      "summary": "They discuss the \u201cpie chart\u201d of talent vs system design, John\u2019s shift away from purely environment-driven explanations, and the idea that performance is a continuum\u2014teams can improve, but coherence and context matter.",
+      "timestamp_start": "00:40:08",
+      "timestamp_end": "00:44:37",
+      "speakers": [
+        "Lenny",
+        "John Cutler"
+      ],
+      "themes": [
+        "Leadership",
+        "Organizational Design",
+        "High-Performing Teams"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "john-cutler_t15",
+      "title": "Sponsor Break",
+      "summary": "A new sponsor read begins for Vanta (security compliance/SOC 2), but the transcript cuts off mid-read.",
+      "timestamp_start": "00:44:37",
+      "timestamp_end": "00:44:37",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 3
+    }
+  ]
+}

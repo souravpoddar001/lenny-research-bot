@@ -1,0 +1,293 @@
+{
+  "episode_id": "jessica-hische",
+  "topics": [
+    {
+      "topic_id": "jessica-hische_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Jessica Hische, her background in lettering and logo work, and frames the episode around refreshing Lenny\u2019s newsletter/podcast brand and what listeners will learn.",
+      "timestamp_start": "00:00:47",
+      "timestamp_end": "00:02:32",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Hische"
+      ],
+      "themes": [
+        "Branding",
+        "Design",
+        "Entrepreneurship"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "jessica-hische_t2",
+      "title": "What Jessica does: bespoke typography and logos",
+      "summary": "Jessica explains her core professional work\u2014custom typography/lettering across film, TV, books, and especially logos and logo refreshes\u2014acting as an expert resource companies don\u2019t need in-house.",
+      "timestamp_start": "00:02:32",
+      "timestamp_end": "00:03:17",
+      "speakers": [
+        "Jessica Hische",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Design",
+        "Branding",
+        "Career"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "jessica-hische_t3",
+      "title": "Sponsor Break",
+      "summary": "Ads and sponsor messages for Enterprise Ready Conference and OneSchema, including a short interview segment about OneSchema\u2019s CSV import/integration reliability products.",
+      "timestamp_start": "00:03:17",
+      "timestamp_end": "00:05:47",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Christina Gilbert"
+      ],
+      "themes": [
+        "Sponsor",
+        "B2B SaaS",
+        "Product"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jessica-hische_t4",
+      "title": "Why logos matter\u2014and why not overinvest early",
+      "summary": "Jessica explains how logos/brand assets set expectations and generate excitement, but argues early-stage startups often need \u201cgood enough\u201d branding until product direction stabilizes and pivots are less likely.",
+      "timestamp_start": "00:05:47",
+      "timestamp_end": "00:09:15",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Hische"
+      ],
+      "themes": [
+        "Branding",
+        "Startups",
+        "Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jessica-hische_t5",
+      "title": "When it\u2019s time to refresh a logo",
+      "summary": "They discuss practical triggers for a refresh: broader rollout, new website/app versions, physical spend like swag/events, and reducing copyability by moving beyond common/free fonts.",
+      "timestamp_start": "00:09:46",
+      "timestamp_end": "00:11:47",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Hische"
+      ],
+      "themes": [
+        "Branding",
+        "Design",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jessica-hische_t6",
+      "title": "Logo refresh process: goals, scope, and iterations",
+      "summary": "Jessica outlines her refresh workflow: clarify goals (invisible fixes vs. big repositioning), decide how broad to explore, iterate from broad to technical, and sometimes share files early for in-context testing.",
+      "timestamp_start": "00:11:47",
+      "timestamp_end": "00:14:45",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Hische"
+      ],
+      "themes": [
+        "Design",
+        "Branding",
+        "Process"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jessica-hische_t7",
+      "title": "Client indecision, Frankensteining, and exploring paths",
+      "summary": "They talk about how it\u2019s normal to narrow then backtrack; Jessica supports mixing elements across options and letting clients \u201csee it\u201d (even if wrong) to build conviction about the right direction.",
+      "timestamp_start": "00:14:45",
+      "timestamp_end": "00:16:10",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Hische"
+      ],
+      "themes": [
+        "Design",
+        "Collaboration",
+        "Process"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jessica-hische_t8",
+      "title": "Other refresh goals: legibility and misreads",
+      "summary": "Jessica shares common refresh drivers like legibility and fast recognition, including a memorable Jeni\u2019s Ice Cream example where the logo misread forced a redesign to avoid an unintended word.",
+      "timestamp_start": "00:16:10",
+      "timestamp_end": "00:18:04",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Hische"
+      ],
+      "themes": [
+        "Design",
+        "Branding",
+        "Typography"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jessica-hische_t9",
+      "title": "Designing Lenny\u2019s refresh: keep equity, unify system",
+      "summary": "Jessica describes the approach for Lenny\u2019s brand: preserve beloved elements, keep color continuity, refine the handwritten vibe, align typography with illustration, and explore type choices like Degular.",
+      "timestamp_start": "00:18:04",
+      "timestamp_end": "00:20:47",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Hische"
+      ],
+      "themes": [
+        "Branding",
+        "Design",
+        "Typography"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jessica-hische_t10",
+      "title": "Constraints and what didn\u2019t work: avatar scaling",
+      "summary": "They discuss challenges unique to the podcast avatar and other real-world uses, balancing illustration detail with legibility at small sizes and avoiding an \u201cicon library\u201d feel when scaled up.",
+      "timestamp_start": "00:20:47",
+      "timestamp_end": "00:22:46",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Hische"
+      ],
+      "themes": [
+        "Design",
+        "Branding",
+        "Product"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jessica-hische_t11",
+      "title": "Unifying disparate assets: the \u201chot ham water\u201d problem",
+      "summary": "Lenny shares feedback that the old fireplace felt like clip art; Jessica explains the core fix is cohesion\u2014making typography and illustration feel from the same universe, like ingredients forming a real dish.",
+      "timestamp_start": "00:22:46",
+      "timestamp_end": "00:24:25",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Hische"
+      ],
+      "themes": [
+        "Branding",
+        "Design",
+        "Collaboration"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jessica-hische_t12",
+      "title": "How non-designers can read typography and logos",
+      "summary": "Jessica explains people intuitively sense what\u2019s \u201coff\u201d and suggests exercises: note immediate feelings from fonts/logos, then analyze shared traits (weight, spacing, roundness) to build visual vocabulary.",
+      "timestamp_start": "00:24:25",
+      "timestamp_end": "00:33:09",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Hische"
+      ],
+      "themes": [
+        "Typography",
+        "Design",
+        "Learning"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jessica-hische_t13",
+      "title": "Optical corrections: why perfect type isn\u2019t geometric",
+      "summary": "Jessica offers a designer\u2019s-eye exercise: zoom into single letters and observe optical adjustments (stroke joins, counters, shoulders) that break mathematical regularity to look visually \u201ccorrect.\u201d",
+      "timestamp_start": "00:33:09",
+      "timestamp_end": "00:37:53",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Hische"
+      ],
+      "themes": [
+        "Typography",
+        "Design",
+        "Craft"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jessica-hische_t14",
+      "title": "Final logo direction: simplify, drop mic, keep marshmallows",
+      "summary": "They recap the final decision: stay close to the original fire concept, remove the microphone, embrace the marshmallow/fire asset for versatility, and discuss handwritten vs. block type tradeoffs for system flexibility.",
+      "timestamp_start": "00:37:53",
+      "timestamp_end": "00:43:01",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Hische"
+      ],
+      "themes": [
+        "Branding",
+        "Design",
+        "Typography"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jessica-hische_t15",
+      "title": "Sponsor Break",
+      "summary": "Ad read for Merge, positioning it as a single API to ship and maintain many B2B SaaS integrations quickly, with a call-to-action link and incentive.",
+      "timestamp_start": "00:43:01",
+      "timestamp_end": "00:44:08",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor",
+        "B2B SaaS",
+        "Product"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jessica-hische_t16",
+      "title": "Brand isn\u2019t a cure-all: when it matters most",
+      "summary": "Jessica argues brand can be central for companies that win via packaging/communication, but for many products brand should be \u201cinvisible\u201d and not obstruct the experience; it depends on company ethos and goals.",
+      "timestamp_start": "00:44:08",
+      "timestamp_end": "00:46:42",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Hische"
+      ],
+      "themes": [
+        "Branding",
+        "Product",
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jessica-hische_t17",
+      "title": "Jessica\u2019s tech-adjacent perspective on startup branding",
+      "summary": "Jessica explains how living in the Bay and being close to founders shaped her pragmatic view of branding budgets and timing, emphasizing empathy for resource constraints and avoiding premature expensive brand work.",
+      "timestamp_start": "00:46:42",
+      "timestamp_end": "00:49:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Hische"
+      ],
+      "themes": [
+        "Startups",
+        "Branding",
+        "Career"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

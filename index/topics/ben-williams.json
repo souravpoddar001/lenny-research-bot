@@ -1,0 +1,247 @@
+{
+  "episode_id": "ben-williams",
+  "topics": [
+    {
+      "topic_id": "ben-williams_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the show and guest Ben Williams, framing Snyk as a developer-first security company and previewing topics like PLG, community-led growth, freemium, and team structure.",
+      "timestamp_start": "00:00:40",
+      "timestamp_end": "00:04:45",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Introduction",
+        "Company Overview"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "ben-williams_t2",
+      "title": "Ben\u2019s career path into developer tooling",
+      "summary": "Ben shares his background from computer science to roles in developer tooling (startup, IBM Rational, CloudBees), culminating in joining Snyk to build growth and developer experience.",
+      "timestamp_start": "00:04:45",
+      "timestamp_end": "00:07:26",
+      "speakers": [
+        "Lenny",
+        "Ben Williams"
+      ],
+      "themes": [
+        "Career",
+        "Product Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ben-williams_t3",
+      "title": "What Snyk does and company scale",
+      "summary": "Ben explains Snyk\u2019s developer-first security platform (code, open source, containers, IaC/cloud) and gives key scale metrics (valuation, customers, headcount, R&D/product org size).",
+      "timestamp_start": "00:07:26",
+      "timestamp_end": "00:09:29",
+      "speakers": [
+        "Lenny",
+        "Ben Williams"
+      ],
+      "themes": [
+        "Company Overview",
+        "DevTools"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ben-williams_t4",
+      "title": "Founders\u2019 early PLG insight and first users",
+      "summary": "Ben describes how Snyk challenged traditional top-down security by focusing on developers, starting with Node.js open-source dependency security and acquiring early users via community engagement.",
+      "timestamp_start": "00:09:29",
+      "timestamp_end": "00:15:13",
+      "speakers": [
+        "Lenny",
+        "Ben Williams"
+      ],
+      "themes": [
+        "Product-Led Growth",
+        "Community-Led Growth",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ben-williams_t5",
+      "title": "Staying narrow: depth-first to reach PMF",
+      "summary": "They discuss why Snyk intentionally stayed focused on a single persona/use case (Node.js dependency security) to validate value and retention before expanding to broader ecosystems.",
+      "timestamp_start": "00:15:13",
+      "timestamp_end": "00:19:23",
+      "speakers": [
+        "Lenny",
+        "Ben Williams"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Product-Market Fit"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ben-williams_t6",
+      "title": "Designing growth loops into the product",
+      "summary": "Ben explains why founders must intentionally model acquisition loops early, highlighting Snyk\u2019s GitHub PR loop where Snyk-generated fix PRs drive both engagement and new-user acquisition.",
+      "timestamp_start": "00:19:23",
+      "timestamp_end": "00:23:06",
+      "speakers": [
+        "Lenny",
+        "Ben Williams"
+      ],
+      "themes": [
+        "Growth Loops",
+        "Product-Led Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ben-williams_t7",
+      "title": "Programmatic SEO loops: Advisor and education",
+      "summary": "Ben outlines additional company-generated/distributed loops like Snyk Advisor (package health pages that rank in search) and free security education content that drives discovery and signups.",
+      "timestamp_start": "00:23:06",
+      "timestamp_end": "00:26:55",
+      "speakers": [
+        "Lenny",
+        "Ben Williams"
+      ],
+      "themes": [
+        "SEO",
+        "Growth Loops",
+        "Content Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ben-williams_t8",
+      "title": "Early monetization struggles and shift to enterprise",
+      "summary": "Snyk\u2019s early self-serve monetization only worked for individual devs; enterprise required governance features and broader language support, prompting deeper engagement with security leaders and first sales hires.",
+      "timestamp_start": "00:26:55",
+      "timestamp_end": "00:29:48",
+      "speakers": [
+        "Lenny",
+        "Ben Williams"
+      ],
+      "themes": [
+        "Monetization",
+        "Enterprise",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ben-williams_t9",
+      "title": "From sales-required to more self-serve over time",
+      "summary": "They clarify that while sales was initially necessary for larger deals, today Snyk supports sizable self-serve customers; product remains central to the sales process and developer influence persists.",
+      "timestamp_start": "00:29:48",
+      "timestamp_end": "00:31:21",
+      "speakers": [
+        "Lenny",
+        "Ben Williams"
+      ],
+      "themes": [
+        "Product-Led Sales",
+        "Go-to-Market"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "ben-williams_t10",
+      "title": "Winning developers: meet them in their workflow",
+      "summary": "Ben shares lessons for developer adoption: developers must care about the problem, and tools must minimize friction by integrating into existing workflows (e.g., GitHub PRs) to preserve developer flow.",
+      "timestamp_start": "00:31:21",
+      "timestamp_end": "00:33:38",
+      "speakers": [
+        "Lenny",
+        "Ben Williams"
+      ],
+      "themes": [
+        "Developer Experience",
+        "DevTools"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ben-williams_t11",
+      "title": "Why it felt hard early: monetization, not adoption",
+      "summary": "They reflect that developer adoption was strong early; the real uncertainty was proving a scalable monetization path and meeting enterprise requirements, which later unlocked rapid growth.",
+      "timestamp_start": "00:33:38",
+      "timestamp_end": "00:35:22",
+      "speakers": [
+        "Lenny",
+        "Ben Williams"
+      ],
+      "themes": [
+        "Monetization",
+        "Product-Market Fit"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ben-williams_t12",
+      "title": "How Snyk formed and structured the growth org",
+      "summary": "Ben explains Snyk\u2019s late-but-large formalization of a growth group, shifting from freemium to coordinated PLG, and initially focusing on acquisition/activation to build growth muscles before monetization.",
+      "timestamp_start": "00:35:22",
+      "timestamp_end": "00:38:28",
+      "speakers": [
+        "Lenny",
+        "Ben Williams"
+      ],
+      "themes": [
+        "Growth Team",
+        "Org Design",
+        "Product-Led Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ben-williams_t13",
+      "title": "Cross-functional growth teams and embedded marketers",
+      "summary": "Ben describes resolving R&D vs marketing friction by embedding growth marketers, engineers, PM, design, and decision science in each team; he argues this increases idea diversity, speed, and execution parallelism.",
+      "timestamp_start": "00:38:28",
+      "timestamp_end": "00:42:37",
+      "speakers": [
+        "Lenny",
+        "Ben Williams"
+      ],
+      "themes": [
+        "Cross-Functional Teams",
+        "Growth Team"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ben-williams_t14",
+      "title": "Decision science, experimentation platform, and PLS enablement",
+      "summary": "They cover Snyk\u2019s decision science function (beyond BI into predictive models), the growth platform team (data/experimentation stack), and how product usage insights support product-led sales motions.",
+      "timestamp_start": "00:42:37",
+      "timestamp_end": "00:45:00",
+      "speakers": [
+        "Lenny",
+        "Ben Williams"
+      ],
+      "themes": [
+        "Data & Analytics",
+        "Experimentation",
+        "Product-Led Sales"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ben-williams_t15",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Vanta about streamlining SOC 2 compliance and a listener discount.",
+      "timestamp_start": "00:45:04",
+      "timestamp_end": "00:46:04",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "episode_id": "raaz-herzberg",
+  "topics": [
+    {
+      "topic_id": "raaz-herzberg_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Raaz Herzberg and Wiz\u2019s extraordinary growth, plus what the episode will cover (early pivots, marketing lessons, leadership, and more).",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:07:01",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Raaz Herzberg"
+      ],
+      "themes": [
+        "Company Building",
+        "Startups",
+        "Marketing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "raaz-herzberg_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for WorkOS and Rippling.",
+      "timestamp_start": "00:07:01",
+      "timestamp_end": "00:07:02",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "raaz-herzberg_t3",
+      "title": "Early idea confusion and pivot signals",
+      "summary": "Raaz describes the initial Beyond Networks concept, intense customer-call cadence during early COVID, and the key signal: polite interest without real understanding or pull\u2014leading to a pivot toward cloud security.",
+      "timestamp_start": "00:07:02",
+      "timestamp_end": "00:11:14",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Raaz Herzberg"
+      ],
+      "themes": [
+        "Product-Market Fit",
+        "Customer Discovery",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "raaz-herzberg_t4",
+      "title": "What real customer pull looks like",
+      "summary": "They contrast vague positive feedback with true buying intent: pricing questions, POV requests, and internal introductions\u2014plus the bias founders have toward affirmation over uncomfortable truth.",
+      "timestamp_start": "00:11:31",
+      "timestamp_end": "00:14:54",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Raaz Herzberg"
+      ],
+      "themes": [
+        "Product-Market Fit",
+        "Customer Discovery",
+        "Sales"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "raaz-herzberg_t5",
+      "title": "Saying 'I don\u2019t understand' and culture",
+      "summary": "Raaz recounts raising confusion about what they were building, how that vulnerability unlocked clarity, and why a flat, psychologically safe culture makes it possible to surface critical issues early.",
+      "timestamp_start": "00:14:54",
+      "timestamp_end": "00:17:46",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Raaz Herzberg"
+      ],
+      "themes": [
+        "Leadership",
+        "Company Culture",
+        "Product"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "raaz-herzberg_t6",
+      "title": "Post-pivot momentum and early POV execution",
+      "summary": "After the cloud-security pivot, customer urgency becomes obvious; Raaz shares a lesson from a Fortune 10 POV: don\u2019t over-push\u2014use friction to confirm commitment and ensure mutual pull.",
+      "timestamp_start": "00:17:46",
+      "timestamp_end": "00:21:14",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Raaz Herzberg"
+      ],
+      "themes": [
+        "Product-Market Fit",
+        "Customer Discovery",
+        "Sales"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "raaz-herzberg_t7",
+      "title": "Founders selling before hiring sales",
+      "summary": "Raaz explains how Wiz closed early deals without a sales team, why doing the full loop yourself builds confidence and learning, and why hiring someone rarely fixes something you can\u2019t do end-to-end.",
+      "timestamp_start": "00:21:14",
+      "timestamp_end": "00:23:53",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Raaz Herzberg"
+      ],
+      "themes": [
+        "Sales",
+        "Startups",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "raaz-herzberg_t8",
+      "title": "Why Raaz moved from product to CMO",
+      "summary": "Raaz shares how Wiz\u2019s scaling bottleneck shifted to awareness and brand, prompting the CEO to ask her to lead marketing\u2014despite her having to learn core marketing concepts from scratch.",
+      "timestamp_start": "00:23:53",
+      "timestamp_end": "00:28:05",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Raaz Herzberg"
+      ],
+      "themes": [
+        "Marketing",
+        "Career",
+        "Company Building"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "raaz-herzberg_t9",
+      "title": "Following the heat: bottlenecks shift by stage",
+      "summary": "Raaz explains her \u201cheat\u201d metaphor: early heat in product discovery, then engineering, then sales, then marketing\u2014guiding where leadership attention and top talent should focus as the company grows.",
+      "timestamp_start": "00:28:05",
+      "timestamp_end": "00:29:27",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Raaz Herzberg"
+      ],
+      "themes": [
+        "Company Building",
+        "Leadership",
+        "Scaling"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "raaz-herzberg_t10",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Cloudinary.",
+      "timestamp_start": "00:29:27",
+      "timestamp_end": "00:30:22",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "raaz-herzberg_t11",
+      "title": "Board meeting story and nontraditional marketing approach",
+      "summary": "Raaz describes her first board meeting as CMO, leaning on deep product/customer knowledge over \u201ctraditional\u201d marketing playbooks, and focusing on fast awareness gains by making noise.",
+      "timestamp_start": "00:30:22",
+      "timestamp_end": "00:34:01",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Raaz Herzberg"
+      ],
+      "themes": [
+        "Marketing",
+        "Leadership",
+        "Company Building"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "raaz-herzberg_t12",
+      "title": "Why CMOs fail: trust, domain, and role breadth",
+      "summary": "Raaz outlines why the CMO role is uniquely hard: high visibility, fragile founder trust, need for deep domain/product understanding, and managing disparate functions (performance, brand, events, field).",
+      "timestamp_start": "00:34:01",
+      "timestamp_end": "00:36:23",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Raaz Herzberg"
+      ],
+      "themes": [
+        "Marketing",
+        "Leadership",
+        "Hiring"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "raaz-herzberg_t13",
+      "title": "Creating noise: RSA themed booth and brand shift",
+      "summary": "Raaz contrasts product vs marketing iteration costs, then shares bold awareness tactics like a Wizard-of-Oz RSA booth and a bright, optimistic brand identity to stand out in a dark cybersecurity category.",
+      "timestamp_start": "00:36:23",
+      "timestamp_end": "00:40:29",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Raaz Herzberg"
+      ],
+      "themes": [
+        "Marketing",
+        "Brand",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "raaz-herzberg_t14",
+      "title": "Being willing to fail and learning from friction",
+      "summary": "Raaz explains her comfort with likely failure as a driver of career moves and experimentation, tracing it to childhood lessons about seeking friction, building courage, and investing where you\u2019re weakest.",
+      "timestamp_start": "00:40:29",
+      "timestamp_end": "00:44:53",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Raaz Herzberg"
+      ],
+      "themes": [
+        "Leadership",
+        "Career",
+        "Mindset"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "raaz-herzberg_t15",
+      "title": "What product leaders miss about marketing clarity",
+      "summary": "From a marketing lens, Raaz argues product teams underestimate marketing\u2019s importance and the need for crisp, scalable messaging; ambiguity that works in 1:1 product conversations breaks at scale.",
+      "timestamp_start": "00:44:53",
+      "timestamp_end": "00:46:51",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Raaz Herzberg"
+      ],
+      "themes": [
+        "Product",
+        "Marketing",
+        "Communication"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

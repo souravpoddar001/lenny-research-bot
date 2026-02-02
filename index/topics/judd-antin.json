@@ -1,0 +1,320 @@
+{
+  "episode_id": "judd-antin",
+  "topics": [
+    {
+      "topic_id": "judd-antin_t1",
+      "title": "User-centered performance and falsifying assumptions",
+      "summary": "Judd defines \"user-centered performance\" as symbolic, check-the-box research (e.g., late-stage validation) and argues research should aim to falsify assumptions rather than validate them.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:54",
+      "speakers": [
+        "Judd Antin"
+      ],
+      "themes": [
+        "UX Research",
+        "Product Management",
+        "Decision-Making"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "judd-antin_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Judd\u2019s background (Meta/Facebook, Airbnb) and frames the episode around a \"UX research reckoning,\" including what needs to change in how research is practiced and leveraged.",
+      "timestamp_start": "00:00:54",
+      "timestamp_end": "00:02:27",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "UX Research",
+        "Career",
+        "Product Strategy"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "judd-antin_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Teal (job search tools) and Vanta (security compliance automation).",
+      "timestamp_start": "00:02:27",
+      "timestamp_end": "00:03:55",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "judd-antin_t4",
+      "title": "Airbnb research team alumni and impact",
+      "summary": "Lenny and Judd reflect on the notable Airbnb research team alumni who went on to lead research at major companies, highlighting the strength of the team and talent development.",
+      "timestamp_start": "00:03:55",
+      "timestamp_end": "00:05:23",
+      "speakers": [
+        "Lenny",
+        "Judd Antin"
+      ],
+      "themes": [
+        "Career",
+        "Leadership",
+        "UX Research"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "judd-antin_t5",
+      "title": "Reaction to the \"UX Research reckoning\" post",
+      "summary": "Judd describes the unexpectedly large and mixed response to his essay, including critiques that he blamed researchers and pushback on his call for more profit focus.",
+      "timestamp_start": "00:05:23",
+      "timestamp_end": "00:07:32",
+      "speakers": [
+        "Lenny",
+        "Judd Antin"
+      ],
+      "themes": [
+        "UX Research",
+        "Industry Trends",
+        "Business Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "judd-antin_t6",
+      "title": "Why layoffs signal a research value problem",
+      "summary": "Judd connects UXR layoffs to a broader systemic issue: research often isn\u2019t positioned to drive impact, especially when teams do too much \"middle-range\" research that\u2019s interesting but not actionable.",
+      "timestamp_start": "00:07:32",
+      "timestamp_end": "00:12:05",
+      "speakers": [
+        "Lenny",
+        "Judd Antin"
+      ],
+      "themes": [
+        "UX Research",
+        "Industry Trends",
+        "Organizational Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "judd-antin_t7",
+      "title": "Macro vs middle-range research explained",
+      "summary": "Judd clarifies macro research (strategic, market/competitive, long-term) versus middle-range research (blobular user understanding) and why the latter often fails to connect to business problems and decisions.",
+      "timestamp_start": "00:12:05",
+      "timestamp_end": "00:13:38",
+      "speakers": [
+        "Lenny",
+        "Judd Antin"
+      ],
+      "themes": [
+        "UX Research",
+        "Product Strategy",
+        "Decision-Making"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "judd-antin_t8",
+      "title": "Stop treating research as a service function",
+      "summary": "They discuss how middle-range research becomes a crutch and slows decisions when researchers are brought in late; Judd argues for embedding researchers end-to-end so they shape questions and decisions early.",
+      "timestamp_start": "00:13:38",
+      "timestamp_end": "00:17:31",
+      "speakers": [
+        "Lenny",
+        "Judd Antin"
+      ],
+      "themes": [
+        "Organizational Design",
+        "UX Research",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "judd-antin_t9",
+      "title": "What makes a great researcher: five tools",
+      "summary": "Judd outlines a \"Swiss army knife\" researcher profile: formative/generative research, evaluative/usability, rigorous surveys, applied statistics, and technical fluency (SQL/dashboards/AI prompting).",
+      "timestamp_start": "00:17:31",
+      "timestamp_end": "00:19:54",
+      "speakers": [
+        "Lenny",
+        "Judd Antin"
+      ],
+      "themes": [
+        "Hiring",
+        "UX Research",
+        "Data & Analytics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "judd-antin_t10",
+      "title": "How to interview for multi-method strength",
+      "summary": "Judd recommends giving candidates open-ended problems and looking for multi-method approaches with time-scaled plans (day/week/month), plus team-level coverage of depth areas.",
+      "timestamp_start": "00:19:54",
+      "timestamp_end": "00:21:10",
+      "speakers": [
+        "Lenny",
+        "Judd Antin"
+      ],
+      "themes": [
+        "Hiring",
+        "UX Research",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "judd-antin_t11",
+      "title": "Researchers must speak business and profit language",
+      "summary": "Judd argues UXR should explicitly operate in the overlap of user needs and business outcomes, urging researchers to learn business metrics, funnels, OKRs, and competitive context to drive impact.",
+      "timestamp_start": "00:21:10",
+      "timestamp_end": "00:23:55",
+      "speakers": [
+        "Lenny",
+        "Judd Antin"
+      ],
+      "themes": [
+        "Business Strategy",
+        "UX Research",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "judd-antin_t12",
+      "title": "User-centered performance: validation theater and ego",
+      "summary": "Judd expands on performative user-centeredness (late validation studies, exec listening sessions) and emphasizes a falsification mindset\u2014wanting to be wrong\u2014to counter confirmation bias.",
+      "timestamp_start": "00:23:55",
+      "timestamp_end": "00:29:13",
+      "speakers": [
+        "Lenny",
+        "Judd Antin"
+      ],
+      "themes": [
+        "Decision-Making",
+        "UX Research",
+        "Product Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "judd-antin_t13",
+      "title": "Balancing gut intuition with System 2 rigor",
+      "summary": "They discuss intuition\u2019s value and risks, recommending deliberate analytic checks and \"wisdom of the crowd\" via diverse perspectives\u2014where embedded researchers strengthen decision quality.",
+      "timestamp_start": "00:29:13",
+      "timestamp_end": "00:32:29",
+      "speakers": [
+        "Lenny",
+        "Judd Antin"
+      ],
+      "themes": [
+        "Decision-Making",
+        "Leadership",
+        "UX Research"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "judd-antin_t14",
+      "title": "Shared metrics and making researchers indispensable",
+      "summary": "Judd argues teams should share success metrics (not separate research OKRs) and that research influence is proven when key meetings won\u2019t happen without the researcher present.",
+      "timestamp_start": "00:32:29",
+      "timestamp_end": "00:33:04",
+      "speakers": [
+        "Lenny",
+        "Judd Antin"
+      ],
+      "themes": [
+        "Organizational Design",
+        "Leadership",
+        "UX Research"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "judd-antin_t15",
+      "title": "PM\u2013research relationship and common PM misconceptions",
+      "summary": "Judd lists recurring PM tropes that frustrate researchers: \"research is too slow,\" \"I can do my own research,\" and \"A/B test everything,\" explaining how good research speeds decisions and explains the \"why.\"",
+      "timestamp_start": "00:33:04",
+      "timestamp_end": "00:42:19",
+      "speakers": [
+        "Lenny",
+        "Judd Antin"
+      ],
+      "themes": [
+        "Product Management",
+        "UX Research",
+        "Data & Analytics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "judd-antin_t16",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Ahrefs Webmaster Tools (free SEO and site audit tooling).",
+      "timestamp_start": "00:36:39",
+      "timestamp_end": "00:37:29",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "judd-antin_t17",
+      "title": "Micro research value and the \"multimillion dollar button\"",
+      "summary": "Judd argues micro/usability research is undervalued but can be extremely high ROI and fast; he shares an Airbnb example where small CTA text changes drove major revenue impact.",
+      "timestamp_start": "00:35:16",
+      "timestamp_end": "00:38:58",
+      "speakers": [
+        "Lenny",
+        "Judd Antin"
+      ],
+      "themes": [
+        "UX Research",
+        "Experimentation",
+        "Business Impact"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "judd-antin_t18",
+      "title": "More misconceptions: Henry Ford quote and hindsight bias",
+      "summary": "Judd debunks the misused \"faster horses\" trope, clarifies researchers shouldn\u2019t ask users what to build, and discusses post-hoc \"we knew it\" bias with a book recommendation on hindsight narratives.",
+      "timestamp_start": "00:42:19",
+      "timestamp_end": "00:44:54",
+      "speakers": [
+        "Lenny",
+        "Judd Antin"
+      ],
+      "themes": [
+        "Decision-Making",
+        "UX Research",
+        "Product Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "judd-antin_t19",
+      "title": "Research as mental-model building, not dictating solutions",
+      "summary": "They discuss Patrick Collison\u2019s framing: UXR should improve teams\u2019 mental models and guide experimentation; Judd warns against researchers overreaching into prescriptive \"build this\" mandates.",
+      "timestamp_start": "00:44:54",
+      "timestamp_end": "00:46:53",
+      "speakers": [
+        "Lenny",
+        "Judd Antin"
+      ],
+      "themes": [
+        "UX Research",
+        "Product Strategy",
+        "Decision-Making"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

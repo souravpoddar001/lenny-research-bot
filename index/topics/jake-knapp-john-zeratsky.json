@@ -1,0 +1,210 @@
+{
+  "episode_id": "jake-knapp-john-zeratsky",
+  "topics": [
+    {
+      "topic_id": "jake-knapp-john-zeratsky_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Jake Knapp and John Zeratsky, their books (Sprint, Make Time), and their VC firm Character plus Character Labs. He frames the episode as a practical deep dive into Make Time for product leaders and founders.",
+      "timestamp_start": "00:00:37",
+      "timestamp_end": "00:01:57",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Productivity",
+        "Entrepreneurship",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jake-knapp-john-zeratsky_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Sidebar (peer leadership groups) and Whimsical (iterative product workspace with templates).",
+      "timestamp_start": "00:01:57",
+      "timestamp_end": "00:04:13",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Productivity",
+        "Product Management",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jake-knapp-john-zeratsky_t3",
+      "title": "Audiobook recording and working together",
+      "summary": "They discuss what recording the Make Time audiobook was like, how long it took, and why recording together was enjoyable (including Jake\u2019s humorous \u201cstomach growling\u201d issue).",
+      "timestamp_start": "00:04:13",
+      "timestamp_end": "00:06:02",
+      "speakers": [
+        "Lenny",
+        "Jake Knapp",
+        "John Zeratsky"
+      ],
+      "themes": [
+        "Productivity",
+        "Creativity"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jake-knapp-john-zeratsky_t4",
+      "title": "Why Make Time resonated and differs from Sprint",
+      "summary": "Lenny shares why Make Time felt especially impactful and how he discovered it via a recommendation; they note it emerged from real experiments rather than a desire to write a productivity book.",
+      "timestamp_start": "00:06:02",
+      "timestamp_end": "00:06:50",
+      "speakers": [
+        "Lenny",
+        "Jake Knapp",
+        "John Zeratsky"
+      ],
+      "themes": [
+        "Productivity",
+        "Personal Development"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jake-knapp-john-zeratsky_t5",
+      "title": "What people get wrong about productivity",
+      "summary": "Jake and John explain Make Time\u2019s origin: applying lessons from structured design sprints to everyday life. They argue most productivity advice over-focuses on efficiency and reacting to defaults instead of prioritizing what matters most.",
+      "timestamp_start": "00:06:50",
+      "timestamp_end": "00:11:25",
+      "speakers": [
+        "Lenny",
+        "Jake Knapp",
+        "John Zeratsky"
+      ],
+      "themes": [
+        "Productivity",
+        "Personal Development",
+        "Work Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jake-knapp-john-zeratsky_t6",
+      "title": "Busy Bandwagon and Infinity Pools",
+      "summary": "They define the \u201cbusy bandwagon\u201d (social/cultural pressure to be busy) and \u201cinfinity pools\u201d (endless feeds like email/social/news) and how together they create a self-reinforcing cycle that steals attention.",
+      "timestamp_start": "00:11:25",
+      "timestamp_end": "00:15:04",
+      "speakers": [
+        "Lenny",
+        "Jake Knapp",
+        "John Zeratsky"
+      ],
+      "themes": [
+        "Productivity",
+        "Technology",
+        "Work Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jake-knapp-john-zeratsky_t7",
+      "title": "How productive are they, really?",
+      "summary": "Jake and John candidly describe productivity as an ongoing battle between \u201cProject A\u201d work and urgent dopamine tasks. They emphasize experimentation, self-compassion, and using the framework as a path back when things slip.",
+      "timestamp_start": "00:15:04",
+      "timestamp_end": "00:20:30",
+      "speakers": [
+        "Lenny",
+        "Jake Knapp",
+        "John Zeratsky"
+      ],
+      "themes": [
+        "Productivity",
+        "Personal Development",
+        "Mental Health"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jake-knapp-john-zeratsky_t8",
+      "title": "Make Time framework overview: Highlight, Laser, Energize, Reflect",
+      "summary": "Jake outlines the four-part system: choose a daily Highlight, use Laser tactics to focus, Energize to support attention with sleep/food/movement, and Reflect to iterate like the scientific method.",
+      "timestamp_start": "00:20:30",
+      "timestamp_end": "00:24:47",
+      "speakers": [
+        "Lenny",
+        "Jake Knapp"
+      ],
+      "themes": [
+        "Productivity",
+        "Personal Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jake-knapp-john-zeratsky_t9",
+      "title": "Deep dive on Highlights and calendar design",
+      "summary": "John explains how he picks work-oriented highlights and protects focus time, especially in VC\u2019s meeting/email-heavy environment. They discuss using the calendar proactively as a design canvas and team-level templates for focus vs meetings.",
+      "timestamp_start": "00:25:17",
+      "timestamp_end": "00:30:41",
+      "speakers": [
+        "Lenny",
+        "John Zeratsky",
+        "Jake Knapp"
+      ],
+      "themes": [
+        "Productivity",
+        "Leadership",
+        "Entrepreneurship"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jake-knapp-john-zeratsky_t10",
+      "title": "Groundhog Day mindset and iterative scheduling",
+      "summary": "They describe repeating highlights without self-blame, using the calendar to compare planned vs actual time, and adjusting templates. Jake shares experimenting with blocking everything (exercise, meals, dog walks) and learning his estimates were wrong.",
+      "timestamp_start": "00:30:41",
+      "timestamp_end": "00:35:10",
+      "speakers": [
+        "Lenny",
+        "Jake Knapp",
+        "John Zeratsky"
+      ],
+      "themes": [
+        "Productivity",
+        "Personal Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jake-knapp-john-zeratsky_t11",
+      "title": "Choosing highlights: urgency, satisfaction, joy",
+      "summary": "They offer practical prompts for selecting a highlight and stress writing it down. John contrasts satisfaction/urgency highlights with joy/play highlights, noting different jobs and life contexts change what\u2019s realistic and valuable.",
+      "timestamp_start": "00:35:10",
+      "timestamp_end": "00:39:56",
+      "speakers": [
+        "Lenny",
+        "Jake Knapp",
+        "John Zeratsky"
+      ],
+      "themes": [
+        "Productivity",
+        "Personal Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jake-knapp-john-zeratsky_t12",
+      "title": "Jake\u2019s real example: podcast prep vs sledding",
+      "summary": "Jake shares a \u201cfailed highlight\u201d day where he struggled to focus on podcast prep, then chose to sled with his 12-year-old when snow arrived\u2014reframing the true highlight as a rare, meaningful family moment while still making some progress later.",
+      "timestamp_start": "00:39:56",
+      "timestamp_end": "00:46:34",
+      "speakers": [
+        "Lenny",
+        "Jake Knapp"
+      ],
+      "themes": [
+        "Productivity",
+        "Personal Development",
+        "Family"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

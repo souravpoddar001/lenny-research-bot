@@ -1,0 +1,214 @@
+{
+  "episode_id": "lauren-ipsen",
+  "topics": [
+    {
+      "topic_id": "lauren-ipsen_t1",
+      "title": "Introduction and Background",
+      "summary": "Cold open advice on staying close to market talent, followed by Lenny\u2019s intro of Lauren and what the episode will cover (hiring, candidate strategy, recruiter mistakes).",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:12",
+      "speakers": [
+        "Lauren Ipsen",
+        "Lenny"
+      ],
+      "themes": [
+        "Hiring",
+        "Career Growth",
+        "Recruiting"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "lauren-ipsen_t2",
+      "title": "Sponsor Break: Retool and Miro",
+      "summary": "Lenny reads sponsor messages for Retool (internal tools) and Miro (visual collaboration/whiteboarding).",
+      "timestamp_start": "00:02:12",
+      "timestamp_end": "00:04:45",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lauren-ipsen_t3",
+      "title": "Lauren\u2019s career path into executive search",
+      "summary": "Lauren shares her path from broadcast journalism to executive recruiting, her time at Daversa Partners, an in-house recruiting stint, and her move to General Catalyst focusing on consumer and crypto.",
+      "timestamp_start": "00:04:45",
+      "timestamp_end": "00:07:51",
+      "speakers": [
+        "Lenny",
+        "Lauren Ipsen"
+      ],
+      "themes": [
+        "Recruiting",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lauren-ipsen_t4",
+      "title": "Why top recruiters are moving to VC",
+      "summary": "They discuss why recruiters increasingly join venture funds: volatility and hustle in agency search, risk in-house, and the timing/stability tradeoffs (not primarily comp-driven).",
+      "timestamp_start": "00:07:51",
+      "timestamp_end": "00:09:37",
+      "speakers": [
+        "Lenny",
+        "Lauren Ipsen"
+      ],
+      "themes": [
+        "Recruiting",
+        "Hiring"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "lauren-ipsen_t5",
+      "title": "Common founder mistake: chasing big-name CPOs",
+      "summary": "Lauren explains why early-stage founders often over-index on \u201cshiny\u201d big-company executives who may be far from hands-on work; better to hire someone closer to execution with room to grow.",
+      "timestamp_start": "00:09:37",
+      "timestamp_end": "00:13:25",
+      "speakers": [
+        "Lenny",
+        "Lauren Ipsen"
+      ],
+      "themes": [
+        "Hiring",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lauren-ipsen_t6",
+      "title": "Defining the role: mandate, success, and org design",
+      "summary": "Advice on getting granular about what outcome the hire should drive, what success looks like at 90 days/1 year/2 years, and avoiding \u201chire a head of product because the board said so.\u201d",
+      "timestamp_start": "00:13:25",
+      "timestamp_end": "00:16:06",
+      "speakers": [
+        "Lenny",
+        "Lauren Ipsen"
+      ],
+      "themes": [
+        "Hiring",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lauren-ipsen_t7",
+      "title": "Product leader archetypes and avoiding unicorn roles",
+      "summary": "Lauren outlines common buckets (platform/infrastructure, core/consumer, design/UX, plus specialists like growth/monetization) and warns against trying to hire one person to do everything.",
+      "timestamp_start": "00:16:06",
+      "timestamp_end": "00:18:26",
+      "speakers": [
+        "Lenny",
+        "Lauren Ipsen"
+      ],
+      "themes": [
+        "Hiring",
+        "Product Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "lauren-ipsen_t8",
+      "title": "Titles: Head of Product vs VP vs CPO",
+      "summary": "They unpack how titles vary by stage and why early startups often avoid C-level titles; \u201chead of\u201d can still mean top leader, but layering later is common as needs change.",
+      "timestamp_start": "00:18:26",
+      "timestamp_end": "00:21:49",
+      "speakers": [
+        "Lenny",
+        "Lauren Ipsen"
+      ],
+      "themes": [
+        "Hiring",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lauren-ipsen_t9",
+      "title": "Planting seeds early: market pulse and advisory chats",
+      "summary": "Founders should keep a running pulse on great companies and leaders, do no-agenda conversations, and involve strong candidates as advisors before a formal role exists.",
+      "timestamp_start": "00:21:49",
+      "timestamp_end": "00:25:24",
+      "speakers": [
+        "Lenny",
+        "Lauren Ipsen"
+      ],
+      "themes": [
+        "Hiring",
+        "Recruiting",
+        "Networking"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lauren-ipsen_t10",
+      "title": "Time investment and high-leverage sourcing tactics",
+      "summary": "Lauren argues it\u2019s less about hours and more about impact: use trusted networks, warm intros, and differentiated outreach rather than only cold LinkedIn; also leverage investors/boards for targeting.",
+      "timestamp_start": "00:25:24",
+      "timestamp_end": "00:33:16",
+      "speakers": [
+        "Lenny",
+        "Lauren Ipsen"
+      ],
+      "themes": [
+        "Hiring",
+        "Recruiting",
+        "Networking"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lauren-ipsen_t11",
+      "title": "Favorite placement story and what great looks like",
+      "summary": "Lauren shares her favorite hire (VP Engineering at IRL), why he was exceptional (technical + high EQ), and how long courtship and trust-building can land standout leaders.",
+      "timestamp_start": "00:33:16",
+      "timestamp_end": "00:36:12",
+      "speakers": [
+        "Lenny",
+        "Lauren Ipsen"
+      ],
+      "themes": [
+        "Recruiting",
+        "Hiring",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lauren-ipsen_t12",
+      "title": "Sponsor Break: Vanta",
+      "summary": "Lenny reads a sponsor message for Vanta, focusing on SOC 2 compliance automation and a listener discount.",
+      "timestamp_start": "00:36:12",
+      "timestamp_end": "00:37:29",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "lauren-ipsen_t13",
+      "title": "PM career strategy: breadth, market awareness, and moves",
+      "summary": "From the candidate side, Lauren emphasizes building breadth across product areas, staying aware of market options even when happy, avoiding logo-collecting, and ensuring you can point to real impact and strong references.",
+      "timestamp_start": "00:37:29",
+      "timestamp_end": "00:44:20",
+      "speakers": [
+        "Lenny",
+        "Lauren Ipsen"
+      ],
+      "themes": [
+        "Career Growth",
+        "Product Management",
+        "Recruiting"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

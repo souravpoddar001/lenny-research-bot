@@ -1,0 +1,219 @@
+{
+  "episode_id": "sam-schillace",
+  "topics": [
+    {
+      "topic_id": "sam-schillace_t1",
+      "title": "Work can be fun and still valuable",
+      "summary": "Sam argues people undervalue what comes easily and feel guilty enjoying work. He advises leaning into the thing you\u2019d \u201cfeel guilty getting paid for\u201d and doing it intensely, because work doesn\u2019t have to be unpleasant to be meaningful.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:37",
+      "speakers": [
+        "Sam Schillace"
+      ],
+      "themes": [
+        "Career Advice"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sam-schillace_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Sam\u2019s career: creator of Writely/Google Docs, leadership roles at Google, Box, multiple startups, and now Microsoft deputy CTO. He frames the episode around innovation, thinking big, optimism, and career advice.",
+      "timestamp_start": "00:00:37",
+      "timestamp_end": "00:01:57",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Innovation"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sam-schillace_t3",
+      "title": "Sponsor Break",
+      "summary": "Ads for Teal (job search tools) and Vanta (security compliance automation), followed by Lenny welcoming Sam to the show.",
+      "timestamp_start": "00:01:57",
+      "timestamp_end": "00:03:51",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career Advice"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sam-schillace_t4",
+      "title": "The first Google Doc and Writely origins",
+      "summary": "Sam describes having the oldest surviving Google Doc from 2005, what\u2019s inside it, and how it persisted through multiple frontend/backend rewrites and migrations. They discuss the philosophical question of whether it\u2019s \u201cthe same document\u201d and the challenge of curating it historically.",
+      "timestamp_start": "00:03:53",
+      "timestamp_end": "00:06:07",
+      "speakers": [
+        "Lenny",
+        "Sam Schillace"
+      ],
+      "themes": [
+        "Innovation"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sam-schillace_t5",
+      "title": "Sneaky infrastructure migration into Google",
+      "summary": "Sam tells a story about quietly migrating Writely onto Google infrastructure during an eight-hour read-only maintenance window. Almost no one noticed\u2014except a blogger who saw the IP change\u2014illustrating careful execution behind \u201cseamless\u201d transitions.",
+      "timestamp_start": "00:06:12",
+      "timestamp_end": "00:06:46",
+      "speakers": [
+        "Lenny",
+        "Sam Schillace"
+      ],
+      "themes": [
+        "Execution"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sam-schillace_t6",
+      "title": "Why-not vs what-if thinking for innovation",
+      "summary": "Sam explains how disruptive ideas trigger defensive \u201cwhy-not\u201d objections (trust, readiness, edge cases) and argues innovators should instead ask \u201cwhat if it works?\u201d He emphasizes engineers\u2019 default pessimism and why optimism is often the better bet for progress.",
+      "timestamp_start": "00:06:46",
+      "timestamp_end": "00:10:12",
+      "speakers": [
+        "Lenny",
+        "Sam Schillace"
+      ],
+      "themes": [
+        "Innovation",
+        "Mindset"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sam-schillace_t7",
+      "title": "Love-hate reactions signal disruptive products",
+      "summary": "Sam proposes a heuristic: truly disruptive products create polarized reactions\u2014some people love them and others want them to fail\u2014while incremental products produce mild indifference. They connect this to Google Docs early reception and modern examples like ChatGPT.",
+      "timestamp_start": "00:10:26",
+      "timestamp_end": "00:13:18",
+      "speakers": [
+        "Lenny",
+        "Sam Schillace"
+      ],
+      "themes": [
+        "Innovation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sam-schillace_t8",
+      "title": "First-principles, experimentation, and generative AI",
+      "summary": "They connect first-principles thinking to trying things quickly rather than debating hypotheticals. Sam applies the \u201cwhat if\u201d lens to generative AI\u2014despite issues like cost and hallucinations\u2014framing it as potentially a new surplus of cognitive energy akin to an industrial revolution.",
+      "timestamp_start": "00:13:18",
+      "timestamp_end": "00:15:46",
+      "speakers": [
+        "Lenny",
+        "Sam Schillace"
+      ],
+      "themes": [
+        "Innovation",
+        "AI"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sam-schillace_t9",
+      "title": "Optimism as a deliberate product-building choice",
+      "summary": "Sam says optimism isn\u2019t his default temperament but a conscious strategy: he\u2019s missed more opportunities by being pessimistic than he\u2019s avoided risks. He links optimism to growth mindset, cheap experiments, and being receptive to surprising results.",
+      "timestamp_start": "00:15:46",
+      "timestamp_end": "00:21:54",
+      "speakers": [
+        "Lenny",
+        "Sam Schillace"
+      ],
+      "themes": [
+        "Mindset",
+        "Career Advice"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sam-schillace_t10",
+      "title": "User value, laziness, and convenience wins",
+      "summary": "Sam argues adoption is governed by user value: people won\u2019t change behavior unless life gets meaningfully easier, and friction (learning, onboarding, habit change) is part of the cost. He uses Writely\u2019s ultra-low-friction signup and contrasts high-value breakthroughs (ChatGPT) with incremental tools.",
+      "timestamp_start": "00:21:54",
+      "timestamp_end": "00:28:10",
+      "speakers": [
+        "Lenny",
+        "Sam Schillace"
+      ],
+      "themes": [
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sam-schillace_t11",
+      "title": "Disrupting Office: simplicity, collaboration, innovator\u2019s dilemma",
+      "summary": "Sam explains how Google Docs traded away many Office features to deliver zero-install convenience and real-time collaboration, exploiting incumbents\u2019 feature-bloat dynamics. He reflects on Microsoft\u2019s response, market-share vs monetization, and today\u2019s irony of recreating paper-era documents with GPUs.",
+      "timestamp_start": "00:28:10",
+      "timestamp_end": "00:31:07",
+      "speakers": [
+        "Lenny",
+        "Sam Schillace"
+      ],
+      "themes": [
+        "Innovation",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sam-schillace_t12",
+      "title": "Early Google Docs: accidental collaboration and hard problems",
+      "summary": "Sam recounts how collaboration emerged before they even built locking, revealing value first and difficulty later. He describes the gnarly technical challenges (merging, inconsistent HTML/DOM across browsers) and how seeing the \u201cwhat if\u201d early motivated them to persist.",
+      "timestamp_start": "00:31:07",
+      "timestamp_end": "00:34:16",
+      "speakers": [
+        "Lenny",
+        "Sam Schillace"
+      ],
+      "themes": [
+        "Execution",
+        "Innovation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sam-schillace_t13",
+      "title": "Internal resistance and balancing rigidity with feedback",
+      "summary": "Sam shares how internal opposition at Google nearly killed Docs (even to the point of refusing hardware) and why legal/exec support mattered. He generalizes the lesson: innovators must be rigid about mission but flexible about feedback, blending conviction with learning.",
+      "timestamp_start": "00:34:16",
+      "timestamp_end": "00:37:16",
+      "speakers": [
+        "Lenny",
+        "Sam Schillace"
+      ],
+      "themes": [
+        "Leadership",
+        "Innovation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sam-schillace_t14",
+      "title": "From early traction to future of interactive documents",
+      "summary": "Sam describes early traction and attention (ads, VCs, TechCrunch) and notes misbets like offline. He then pivots to the future: documents becoming conversational, memory-backed, and interactive via AI\u2014soon making non-intent-aware software feel \u201cbroken.\u201d",
+      "timestamp_start": "00:37:16",
+      "timestamp_end": "00:43:25",
+      "speakers": [
+        "Lenny",
+        "Sam Schillace"
+      ],
+      "themes": [
+        "AI",
+        "Innovation"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

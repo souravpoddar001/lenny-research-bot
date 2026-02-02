@@ -1,0 +1,288 @@
+{
+  "episode_id": "nilan-peiris",
+  "topics": [
+    {
+      "topic_id": "nilan-peiris_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Nilan Peiris (CPO of Wise) and frames the episode around Wise\u2019s unusually high word-of-mouth growth (~70%). Nilan tees up the core idea: recommendation requires delivering an experience users didn\u2019t think was possible.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:19",
+      "speakers": [
+        "Nilan Peiris",
+        "Lenny"
+      ],
+      "themes": [
+        "Word of Mouth",
+        "Product Strategy",
+        "Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "nilan-peiris_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Pendo (product-led platform) and Wix Studio (agency web platform).",
+      "timestamp_start": "00:01:20",
+      "timestamp_end": "00:03:31",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nilan-peiris_t3",
+      "title": "Wise overview: products, scale, and economics",
+      "summary": "Nilan explains Wise\u2019s mission (cross-border money movement) and its three products (transfers, accounts, enterprise). He shares scale metrics ($12B/month, 30\u201340% YoY growth, ~0.65% avg fee, profitable with ~20% EBITDA) and highlights 70% word-of-mouth acquisition.",
+      "timestamp_start": "00:03:32",
+      "timestamp_end": "00:05:35",
+      "speakers": [
+        "Lenny",
+        "Nilan Peiris"
+      ],
+      "themes": [
+        "Company Building",
+        "Business Model",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nilan-peiris_t4",
+      "title": "Measuring word of mouth attribution",
+      "summary": "They discuss how Wise measures word of mouth using a blend of attribution modeling (cookies/referrers) and directly asking customers inside the onboarding flow. Lenny notes Airbnb used a similarly simple approach: just ask users how they heard about you.",
+      "timestamp_start": "00:06:08",
+      "timestamp_end": "00:07:40",
+      "speakers": [
+        "Lenny",
+        "Nilan Peiris"
+      ],
+      "themes": [
+        "Word of Mouth",
+        "Analytics",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nilan-peiris_t5",
+      "title": "Why Wise prioritized word of mouth early",
+      "summary": "Nilan explains why WOM mattered: money transfer is a commodity with thin margins, making paid marketing harder and expensive brand-building less viable. This pushed Wise to seek scalable, low-distribution-cost growth channels.",
+      "timestamp_start": "00:07:41",
+      "timestamp_end": "00:09:35",
+      "speakers": [
+        "Lenny",
+        "Nilan Peiris"
+      ],
+      "themes": [
+        "Word of Mouth",
+        "Business Model",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nilan-peiris_t6",
+      "title": "Using NPS as a proxy for recommendation",
+      "summary": "Nilan describes how Wise used NPS to understand and drive recommendation, finding invite and conversion rates rise dramatically as NPS scores increase (especially 7\u201310). He argues improving NPS can increase the \u201cviral coefficient\u201d of the customer base more than incremental conversion-rate tweaks.",
+      "timestamp_start": "00:09:36",
+      "timestamp_end": "00:12:50",
+      "speakers": [
+        "Lenny",
+        "Nilan Peiris"
+      ],
+      "themes": [
+        "Word of Mouth",
+        "Metrics",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nilan-peiris_t7",
+      "title": "Product pillars: price, speed, ease of use",
+      "summary": "From NPS comments and customer feedback, Wise distilled the main drivers of advocacy into three pillars: cheaper, faster, easier. Nilan notes WOM only really kicked in when Wise was dramatically cheaper (e.g., 8\u201310x), not just slightly better than alternatives.",
+      "timestamp_start": "00:12:51",
+      "timestamp_end": "00:15:32",
+      "speakers": [
+        "Lenny",
+        "Nilan Peiris"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Word of Mouth",
+        "Customer Experience"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nilan-peiris_t8",
+      "title": "Trust: hard to market, easier via friends",
+      "summary": "They explore trust as a barrier in financial services: landing-page trust signals help, but friend recommendations are far stronger. Nilan argues delivering a great experience that people share is a shortcut to solving many trust problems.",
+      "timestamp_start": "00:16:00",
+      "timestamp_end": "00:18:51",
+      "speakers": [
+        "Lenny",
+        "Nilan Peiris"
+      ],
+      "themes": [
+        "Trust",
+        "Word of Mouth",
+        "Marketing"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "nilan-peiris_t9",
+      "title": "Blowing users\u2019 socks off to earn 9\u201310 NPS",
+      "summary": "Nilan explains that teams often stop at \u201cit works,\u201d but recommendation requires a step-change experience users didn\u2019t know was possible. For Wise, that meant tackling deep infrastructure constraints to make transfers near-instant and radically cheaper, pushing NPS to ~70.",
+      "timestamp_start": "00:18:52",
+      "timestamp_end": "00:21:30",
+      "speakers": [
+        "Nilan Peiris",
+        "Lenny"
+      ],
+      "themes": [
+        "Customer Experience",
+        "Product Strategy",
+        "Word of Mouth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nilan-peiris_t10",
+      "title": "Common WOM mistake: shortcuts vs 10x product",
+      "summary": "Nilan warns against taking infrastructure shortcuts to enter markets quickly because it won\u2019t create hockey-stick WOM growth. Instead, Wise works backward from theoretical minimum cost and maximum speed, making bigger bets over longer horizons to reach 10x improvements.",
+      "timestamp_start": "00:21:31",
+      "timestamp_end": "00:23:44",
+      "speakers": [
+        "Lenny",
+        "Nilan Peiris"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Growth",
+        "Word of Mouth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nilan-peiris_t11",
+      "title": "Airbnb parallels: working backward from the ideal",
+      "summary": "Lenny shares Airbnb examples of ideal-state thinking (Pixar storyboard journey, shift to instant booking) as a way to create step-change improvements. Nilan agrees and transitions into how Wise achieved similar step changes, especially on price.",
+      "timestamp_start": "00:23:44",
+      "timestamp_end": "00:26:01",
+      "speakers": [
+        "Lenny",
+        "Nilan Peiris"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Customer Experience",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nilan-peiris_t12",
+      "title": "How Wise drove prices down profitably",
+      "summary": "Nilan explains Wise\u2019s cost-to-transaction allocation model: every cost is attributed back to routes/customers, enabling pricing that covers true costs while lowering prices for most users. He breaks transaction costs into people/ops, risk (FX), and partner fees, and describes engineering efforts to reduce each.",
+      "timestamp_start": "00:26:02",
+      "timestamp_end": "00:29:24",
+      "speakers": [
+        "Lenny",
+        "Nilan Peiris"
+      ],
+      "themes": [
+        "Business Model",
+        "Pricing",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nilan-peiris_t13",
+      "title": "Singapore EKYC story: 10x convenience and advocacy",
+      "summary": "Wise faced a requirement to verify every customer face-to-face in Singapore, which was costly and disliked. By enduring the pain and channeling customer frustration into regulatory change, Wise helped secure an EKYC license (selfie + ID), creating a dramatically better experience that fueled WOM.",
+      "timestamp_start": "00:29:25",
+      "timestamp_end": "00:31:34",
+      "speakers": [
+        "Lenny",
+        "Nilan Peiris"
+      ],
+      "themes": [
+        "Regulation",
+        "Customer Experience",
+        "Word of Mouth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nilan-peiris_t14",
+      "title": "Mission-driven sharing and customer-led growth flywheel",
+      "summary": "Nilan distinguishes rational drivers (price/speed/ease) from emotional drivers (mission authenticity). He recounts a mission email that users forwarded widely despite lacking marketing CTAs, and argues Wise operates from a single prioritized list: what makes customers happy also drives growth and shareholder value.",
+      "timestamp_start": "00:31:35",
+      "timestamp_end": "00:36:11",
+      "speakers": [
+        "Lenny",
+        "Nilan Peiris"
+      ],
+      "themes": [
+        "Word of Mouth",
+        "Brand",
+        "Company Building"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "nilan-peiris_t15",
+      "title": "Conviction over constant A/B testing",
+      "summary": "They discuss when to rely on experiments versus building conviction from customer insight and strategy (e.g., always passing cost savings to users). Nilan shares Wise\u2019s view that you can\u2019t \u201csplit test your way to love,\u201d while still using measurement to detect breakage and understand impact.",
+      "timestamp_start": "00:36:12",
+      "timestamp_end": "00:45:30",
+      "speakers": [
+        "Lenny",
+        "Nilan Peiris"
+      ],
+      "themes": [
+        "Experimentation",
+        "Product Strategy",
+        "Metrics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nilan-peiris_t16",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Masterworks (art investing platform) and offer link for skipping the waitlist.",
+      "timestamp_start": "00:40:35",
+      "timestamp_end": "00:42:00",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nilan-peiris_t17",
+      "title": "Trusting teams, bold bets, and SEO example",
+      "summary": "Nilan describes encouraging teams to ship ideas leaders may doubt, while still measuring outcomes via analysis or tests. He begins an example about building a dedicated currency converter to capture high-intent SEO traffic and funnel users into Wise.",
+      "timestamp_start": "00:45:31",
+      "timestamp_end": "00:47:14",
+      "speakers": [
+        "Lenny",
+        "Nilan Peiris"
+      ],
+      "themes": [
+        "Growth",
+        "SEO",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

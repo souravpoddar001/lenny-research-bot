@@ -1,0 +1,281 @@
+{
+  "episode_id": "merci-grace",
+  "topics": [
+    {
+      "topic_id": "merci-grace_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Merci Grace\u2019s background (founder, investor, Slack growth/product leader, Women in Product co-founder) and frames the conversation topics around Slack growth, product-led growth, and hiring.",
+      "timestamp_start": "00:00:03",
+      "timestamp_end": "00:00:49",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career",
+        "Product Management",
+        "Growth"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "merci-grace_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Dovetail (user research/insights) and Mixpanel (product analytics startup program).",
+      "timestamp_start": "00:00:49",
+      "timestamp_end": "00:03:02",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "merci-grace_t3",
+      "title": "Merci\u2019s path into product and Slack",
+      "summary": "Merci explains her accidental entry into product via game design and founding a game studio, then moving through product, VC, and back to founding; she highlights curiosity and decision-making as a throughline.",
+      "timestamp_start": "00:03:02",
+      "timestamp_end": "00:04:32",
+      "speakers": [
+        "Lenny",
+        "Merci Grace"
+      ],
+      "themes": [
+        "Career",
+        "Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "merci-grace_t4",
+      "title": "What VC taught: storytelling and subjectivity",
+      "summary": "Merci shares lessons from venture: great CEOs win rooms through storytelling, and many deals hinge on interpersonal dynamics more than objective fundamentals.",
+      "timestamp_start": "00:04:32",
+      "timestamp_end": "00:06:32",
+      "speakers": [
+        "Lenny",
+        "Merci Grace"
+      ],
+      "themes": [
+        "Leadership",
+        "Startups",
+        "Career"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "merci-grace_t5",
+      "title": "How to pitch: start in the action",
+      "summary": "They discuss improving storytelling in pitches: write an outline, control the narrative, and open with the unique insight/\u201cmiddle of the action\u201d rather than market slides to capture attention.",
+      "timestamp_start": "00:06:32",
+      "timestamp_end": "00:09:32",
+      "speakers": [
+        "Lenny",
+        "Merci Grace"
+      ],
+      "themes": [
+        "Leadership",
+        "Startups"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "merci-grace_t6",
+      "title": "Slack\u2019s identity: a work tool, not social",
+      "summary": "Merci describes internal clarity that Slack was built for work, including debates like user blocking; she argues blocking can hide HR issues and be abused to exclude coworkers.",
+      "timestamp_start": "00:09:32",
+      "timestamp_end": "00:12:45",
+      "speakers": [
+        "Lenny",
+        "Merci Grace"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Workplace",
+        "Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "merci-grace_t7",
+      "title": "Prosumer communities on Slack vs Discord",
+      "summary": "Lenny shares his large subscriber Slack community; Merci notes creator-economy prosumer use cases, why Slack\u2019s \u201calready at work\u201d advantage matters, and how Salesforce ownership affects priorities.",
+      "timestamp_start": "00:12:45",
+      "timestamp_end": "00:15:09",
+      "speakers": [
+        "Lenny",
+        "Merci Grace"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Communities"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "merci-grace_t8",
+      "title": "Early Slack growth: onboarding as game design",
+      "summary": "Merci explains being hired for \u201cnew user experience\u201d rooted in game design sensibilities; the team approached growth with curiosity, avoiding cookie-cutter metrics and learning through experiments (including failed UI patterns others copied).",
+      "timestamp_start": "00:15:09",
+      "timestamp_end": "00:19:04",
+      "speakers": [
+        "Lenny",
+        "Merci Grace"
+      ],
+      "themes": [
+        "Growth",
+        "Onboarding",
+        "Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "merci-grace_t9",
+      "title": "Activation insights: synchronous moments and thresholds",
+      "summary": "They cover what drove Slack activation: getting teammates in at the same time (e.g., push notifications) and the activation metric of 3 real people and 50 real messages; Slack\u2019s original \u201creplace email\u201d framing is revisited.",
+      "timestamp_start": "00:19:04",
+      "timestamp_end": "00:22:07",
+      "speakers": [
+        "Lenny",
+        "Merci Grace"
+      ],
+      "themes": [
+        "Growth",
+        "Metrics",
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "merci-grace_t10",
+      "title": "Invites and social personas drive product-led growth",
+      "summary": "Merci explains that \u201csocial connector\u201d users are easier to prompt to invite others; onboarding should include early/optional invite opportunities without dark patterns, and timing differences mean longer trials can increase conversion.",
+      "timestamp_start": "00:22:07",
+      "timestamp_end": "00:26:12",
+      "speakers": [
+        "Lenny",
+        "Merci Grace"
+      ],
+      "themes": [
+        "Growth",
+        "Onboarding"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "merci-grace_t11",
+      "title": "Onboarding philosophy: design it into the product",
+      "summary": "Merci argues onboarding should be designed from day one and tightly integrated into the product (not bolted-on frameworks); she recommends frequent real-user walkthroughs to observe confusion and emotional reactions.",
+      "timestamp_start": "00:26:12",
+      "timestamp_end": "00:28:29",
+      "speakers": [
+        "Lenny",
+        "Merci Grace"
+      ],
+      "themes": [
+        "Onboarding",
+        "Product Management",
+        "User Research"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "merci-grace_t12",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Whimsical (collaborative thinking/whiteboarding, templates).",
+      "timestamp_start": "00:28:29",
+      "timestamp_end": "00:29:25",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "merci-grace_t13",
+      "title": "Great onboarding examples and continuous user contact",
+      "summary": "Merci highlights onboarding that teaches via real product actions (e.g., to-do list tasks that demonstrate features) and reiterates the importance of regular customer sessions over relying solely on funnel metrics.",
+      "timestamp_start": "00:29:25",
+      "timestamp_end": "00:32:13",
+      "speakers": [
+        "Lenny",
+        "Merci Grace"
+      ],
+      "themes": [
+        "Onboarding",
+        "User Research"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "merci-grace_t14",
+      "title": "Common PLG mistakes: carousels and overcomplexity",
+      "summary": "Merci calls out overstuffed onboarding (especially intro carousels) as a frequent PLG mistake; users won\u2019t read, so simplify and validate alternatives via prototypes and usability tests rather than opinion battles.",
+      "timestamp_start": "00:32:13",
+      "timestamp_end": "00:35:56",
+      "speakers": [
+        "Lenny",
+        "Merci Grace"
+      ],
+      "themes": [
+        "Growth",
+        "Onboarding",
+        "Experimentation"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "merci-grace_t15",
+      "title": "When PLG works: adoption constraints and day-zero value",
+      "summary": "They discuss signs a product can be product-led: individuals can adopt without executive keys, and users get immediate value; products with delayed value are easier to churn from, and PLG can complement enterprise sales for expansion.",
+      "timestamp_start": "00:35:56",
+      "timestamp_end": "00:41:56",
+      "speakers": [
+        "Lenny",
+        "Merci Grace"
+      ],
+      "themes": [
+        "Growth",
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "merci-grace_t16",
+      "title": "When to hire sales: founder capacity and buyer preference",
+      "summary": "Merci explains founders are always the first sellers; hire sales when demand exceeds founder bandwidth or when target customers expect/require a sales conversation (as Slack moved upmarket).",
+      "timestamp_start": "00:41:56",
+      "timestamp_end": "00:44:21",
+      "speakers": [
+        "Lenny",
+        "Merci Grace"
+      ],
+      "themes": [
+        "Sales",
+        "Startups",
+        "Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "merci-grace_t17",
+      "title": "Hiring philosophy: fit, thriving, and take-home work",
+      "summary": "Merci describes hiring as a two-way fit assessment and advocates for a small work exercise to reveal thinking, feasibility, narrative skill, and measurement approach; she notes Slack\u2019s culture rewarded strong storytelling over raw numbers.",
+      "timestamp_start": "00:44:21",
+      "timestamp_end": "00:50:31",
+      "speakers": [
+        "Lenny",
+        "Merci Grace"
+      ],
+      "themes": [
+        "Hiring",
+        "Leadership",
+        "Product Management"
+      ],
+      "quote_count": 0
+    }
+  ]
+}

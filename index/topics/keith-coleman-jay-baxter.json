@@ -1,0 +1,267 @@
+{
+  "episode_id": "keith-coleman-jay-baxter",
+  "topics": [
+    {
+      "topic_id": "keith-coleman-jay-baxter_t1",
+      "title": "What Community Notes is and why it works",
+      "summary": "Keith and Jay explain Community Notes: users propose context notes on misleading posts, others rate them, and notes show only when found helpful by people who typically disagree\u2014driving neutrality and accuracy.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:18",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Keith Coleman",
+        "Jay Baxter"
+      ],
+      "themes": [
+        "Product Overview",
+        "Misinformation",
+        "Algorithms & ML"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "keith-coleman-jay-baxter_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the guests and frames Community Notes as a uniquely impactful product, previewing topics like origins, algorithm design, principles, and adoption by other platforms.",
+      "timestamp_start": "00:01:33",
+      "timestamp_end": "00:02:51",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Introduction",
+        "Product Overview",
+        "Misinformation"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "keith-coleman-jay-baxter_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for WorkOS and Productboard, covering enterprise auth/authorization tooling and product management platform capabilities.",
+      "timestamp_start": "00:02:51",
+      "timestamp_end": "00:05:19",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "keith-coleman-jay-baxter_t4",
+      "title": "Community Notes mechanics and bridging agreement algorithm",
+      "summary": "They clarify that notes don\u2019t appear instantly or by simple majority vote; instead, a bridging-based approach looks for agreement among historically disagreeing raters to resist bias and manipulation.",
+      "timestamp_start": "00:05:19",
+      "timestamp_end": "00:08:41",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Keith Coleman",
+        "Jay Baxter"
+      ],
+      "themes": [
+        "Algorithms & ML",
+        "Product Overview",
+        "Trust & Safety"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "keith-coleman-jay-baxter_t5",
+      "title": "Examples, context vs fact-checking, and openness",
+      "summary": "They walk through common examples (AI/out-of-context media), emphasize that Notes add context rather than act as definitive fact-checks, and explain the principle of openness\u2014regular people, not curated experts.",
+      "timestamp_start": "00:08:41",
+      "timestamp_end": "00:12:08",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Keith Coleman",
+        "Jay Baxter"
+      ],
+      "themes": [
+        "Misinformation",
+        "Product Principles",
+        "Trust & Safety"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "keith-coleman-jay-baxter_t6",
+      "title": "Eligibility, contributor onboarding, and earning write access",
+      "summary": "Any post can be noted (including leaders, advertisers, and Elon), but only contributors who earn reputation through helpful ratings can write notes; Lenny shares his own contributor experience.",
+      "timestamp_start": "00:12:08",
+      "timestamp_end": "00:13:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Keith Coleman",
+        "Jay Baxter"
+      ],
+      "themes": [
+        "Product Mechanics",
+        "Trust & Safety",
+        "Community"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "keith-coleman-jay-baxter_t7",
+      "title": "Scale metrics, media matching, and notification UX",
+      "summary": "They share growth stats (notes/day, views, contributor count), explain matching notes across identical media/URLs for scale, and discuss notifying users who previously engaged with a post once it\u2019s noted.",
+      "timestamp_start": "00:13:33",
+      "timestamp_end": "00:17:25",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Keith Coleman",
+        "Jay Baxter"
+      ],
+      "themes": [
+        "Metrics & Impact",
+        "Product Mechanics",
+        "User Experience"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "keith-coleman-jay-baxter_t8",
+      "title": "Thresholds, conservatism, and note quality controls",
+      "summary": "Jay describes the scoring threshold (an internal scale) and additional filters (e.g., incorrect-tag agreement), while Keith explains why the system is intentionally conservative to protect trust and quality.",
+      "timestamp_start": "00:17:25",
+      "timestamp_end": "00:19:41",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Keith Coleman",
+        "Jay Baxter"
+      ],
+      "themes": [
+        "Algorithms & ML",
+        "Trust & Safety",
+        "Quality"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "keith-coleman-jay-baxter_t9",
+      "title": "How many notes show and handling polarized raters",
+      "summary": "Only ~7\u201311% of proposed notes are shown; they explain demotion of unreliable raters, why some true notes may not bridge polarized groups, and the philosophy of including all viewpoints to model humanity.",
+      "timestamp_start": "00:19:41",
+      "timestamp_end": "00:24:39",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Keith Coleman",
+        "Jay Baxter"
+      ],
+      "themes": [
+        "Trust & Safety",
+        "Algorithms & ML",
+        "Community"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "keith-coleman-jay-baxter_t10",
+      "title": "Volunteer motivation and real-world influence",
+      "summary": "They stress contributors are unpaid volunteers motivated by impact, highlighting examples like a note prompting the White House to delete and reissue a tweet\u2014showing how small accounts can shape discourse.",
+      "timestamp_start": "00:24:39",
+      "timestamp_end": "00:26:26",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Keith Coleman"
+      ],
+      "themes": [
+        "Community",
+        "Metrics & Impact",
+        "Misinformation"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "keith-coleman-jay-baxter_t11",
+      "title": "Behavioral impact: engagement drops and deletions",
+      "summary": "They discuss experimental and external research showing large reductions in likes/reposts when notes appear (30\u201340% in A/B tests; 50\u201360% overall repost drops) and increased post deletions after being noted.",
+      "timestamp_start": "00:26:26",
+      "timestamp_end": "00:29:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Keith Coleman",
+        "Jay Baxter"
+      ],
+      "themes": [
+        "Metrics & Impact",
+        "Misinformation",
+        "User Behavior"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "keith-coleman-jay-baxter_t12",
+      "title": "Origin story: why Keith started the project",
+      "summary": "Keith recounts joining Twitter in 2016 amid election discourse, recognizing misinformation as a critical unsolved problem, and later stepping away from managing a large PM org to pursue a high-impact solution.",
+      "timestamp_start": "00:29:33",
+      "timestamp_end": "00:33:46",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Keith Coleman"
+      ],
+      "themes": [
+        "Origin Story",
+        "Leadership",
+        "Misinformation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "keith-coleman-jay-baxter_t13",
+      "title": "Twitter era context and renaming Birdwatch to Community Notes",
+      "summary": "They place the project in the Jack Dorsey turnaround era, then describe how Elon praised the feature post-acquisition and quickly reverted the name from Birdwatch to the clearer 'Community Notes.'",
+      "timestamp_start": "00:33:46",
+      "timestamp_end": "00:36:57",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Keith Coleman",
+        "Jay Baxter"
+      ],
+      "themes": [
+        "Company History",
+        "Product Naming",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "keith-coleman-jay-baxter_t14",
+      "title": "Small-team leadership, impact, and the Thermal model",
+      "summary": "Keith shares advice on stepping off the management track to maximize impact, then explains 'Thermal'\u2014a protected, highly focused team structure with direct senior decision-making, fast iteration, and minimal bureaucracy.",
+      "timestamp_start": "00:36:57",
+      "timestamp_end": "00:45:15",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Keith Coleman",
+        "Jay Baxter"
+      ],
+      "themes": [
+        "Team Structure",
+        "Leadership",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "keith-coleman-jay-baxter_t15",
+      "title": "Early engineering approach and algorithm evolution setup",
+      "summary": "Jay outlines early algorithm iterations (anti-manipulation PageRank-like approach) and the pivot toward bridging-based methods, including pulling in more engineers via a bake-off/competition to refine the solution.",
+      "timestamp_start": "00:45:15",
+      "timestamp_end": "00:47:52",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Keith Coleman",
+        "Jay Baxter"
+      ],
+      "themes": [
+        "Algorithms & ML",
+        "Team Execution",
+        "Iteration"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

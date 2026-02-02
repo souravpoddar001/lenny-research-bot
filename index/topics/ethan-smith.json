@@ -1,0 +1,308 @@
+{
+  "episode_id": "ethan-smith",
+  "topics": [
+    {
+      "topic_id": "ethan-smith_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces AEO as a major shift in search behavior and sets up Ethan Smith (Graphite) as an SEO expert to explain how to get recommended inside LLM answers.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:04:41",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ethan Smith"
+      ],
+      "themes": [
+        "AEO/GEO",
+        "SEO evolution",
+        "Marketing strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ethan-smith_t2",
+      "title": "How big a change is AEO?",
+      "summary": "Ethan compares today\u2019s AEO shift to earlier SEO upheavals (e.g., Panda) and argues this is the second-biggest change: search is becoming LLM summarization with new inputs.",
+      "timestamp_start": "00:04:42",
+      "timestamp_end": "00:06:18",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ethan Smith"
+      ],
+      "themes": [
+        "SEO evolution",
+        "AEO/GEO",
+        "Search platforms"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ethan-smith_t3",
+      "title": "Defining AEO vs GEO",
+      "summary": "They define AEO/GEO as optimizing to show up as answers in LLMs; Ethan prefers \u201cAnswer Engine Optimization\u201d because it\u2019s narrower and clearer than \u201cGenerative.\u201d",
+      "timestamp_start": "00:06:18",
+      "timestamp_end": "00:07:28",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ethan Smith"
+      ],
+      "themes": [
+        "AEO/GEO",
+        "Search platforms",
+        "Marketing strategy"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "ethan-smith_t4",
+      "title": "Why LLM referrals are rising now",
+      "summary": "Lenny notes ChatGPT referrals surpassing Twitter; Ethan attributes the jump to increased adoption and more clickable answer surfaces (cards, maps, shopping) starting around January.",
+      "timestamp_start": "00:07:28",
+      "timestamp_end": "00:08:14",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ethan Smith"
+      ],
+      "themes": [
+        "Search platforms",
+        "AEO/GEO",
+        "Marketing strategy"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "ethan-smith_t5",
+      "title": "AEO misinformation and anti-spam reality",
+      "summary": "Ethan responds to \u201cjust write great content\u201d advice: everything can be optimized, but spam tactics will be detected and countered\u2014similar to how Google evolved against spam.",
+      "timestamp_start": "00:08:14",
+      "timestamp_end": "00:09:48",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ethan Smith"
+      ],
+      "themes": [
+        "AEO/GEO",
+        "SEO evolution",
+        "Marketing strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ethan-smith_t6",
+      "title": "Webflow case study: what drives AEO wins",
+      "summary": "Ethan shares Webflow learnings: traditional SEO pages help, but LLMs reward being mentioned across many citations; YouTube and Reddit mentions were especially effective.",
+      "timestamp_start": "00:09:48",
+      "timestamp_end": "00:11:47",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ethan Smith"
+      ],
+      "themes": [
+        "AEO/GEO",
+        "Marketing strategy",
+        "SEO evolution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ethan-smith_t7",
+      "title": "Head vs tail: why startups can win fast",
+      "summary": "They explain how LLM ranking differs from Google: you need many mentions, not just the #1 link; early-stage companies can appear quickly via fresh citations, and chat expands the long-tail of questions.",
+      "timestamp_start": "00:11:47",
+      "timestamp_end": "00:14:35",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ethan Smith"
+      ],
+      "themes": [
+        "AEO/GEO",
+        "SEO evolution",
+        "Marketing strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ethan-smith_t8",
+      "title": "LLM traffic quality and conversion uplift",
+      "summary": "Ethan reports LLM-driven leads can be far more qualified, citing Webflow\u2019s 6x higher conversion rate from LLM traffic versus Google search due to stronger intent and priming.",
+      "timestamp_start": "00:14:35",
+      "timestamp_end": "00:15:49",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ethan Smith"
+      ],
+      "themes": [
+        "Marketing strategy",
+        "AEO/GEO",
+        "Analytics & measurement"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ethan-smith_t9",
+      "title": "Onsite vs offsite levers; why Reddit matters",
+      "summary": "Ethan breaks AEO into onsite (answering detailed product/use-case questions) and offsite (earning citations via video, UGC, affiliates, blogs). Reddit is heavily cited and must be approached authentically, not spammed.",
+      "timestamp_start": "00:15:49",
+      "timestamp_end": "00:20:13",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ethan Smith"
+      ],
+      "themes": [
+        "AEO/GEO",
+        "Marketing strategy",
+        "Community & UGC"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ethan-smith_t10",
+      "title": "RAG vs training data: what you can influence",
+      "summary": "Ethan distinguishes core model training from retrieval-augmented generation (RAG). Most practical optimization targets RAG/citations because influencing training is slow and difficult.",
+      "timestamp_start": "00:20:13",
+      "timestamp_end": "00:21:34",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ethan Smith"
+      ],
+      "themes": [
+        "AEO/GEO",
+        "Search platforms",
+        "SEO evolution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ethan-smith_t11",
+      "title": "Core principles: topics, question research, citations",
+      "summary": "Ethan outlines key mental models: LLM answers are search+summarization; optimize by topic clusters, comprehensively answering follow-ups, researching questions via search terms and customer conversations, and building citation strategies by source type.",
+      "timestamp_start": "00:21:34",
+      "timestamp_end": "00:27:59",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ethan Smith"
+      ],
+      "themes": [
+        "AEO/GEO",
+        "Content strategy",
+        "Marketing strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ethan-smith_t12",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Great Question (UX research platform).",
+      "timestamp_start": "00:27:59",
+      "timestamp_end": "00:28:56",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ethan-smith_t13",
+      "title": "Step-by-step AEO execution plan",
+      "summary": "Ethan gives an actionable workflow: derive target questions from paid/search data, track performance, analyze citation sources, build the right page types, answer follow-ups, and pursue offsite citations via affiliates, video, and authentic Reddit participation.",
+      "timestamp_start": "00:28:56",
+      "timestamp_end": "00:33:35",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ethan Smith"
+      ],
+      "themes": [
+        "AEO/GEO",
+        "Marketing strategy",
+        "Content strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ethan-smith_t14",
+      "title": "Experimentation and team setup for AEO",
+      "summary": "Ethan warns most \u201cbest practices\u201d are unvalidated; run controlled experiments with tracking to confirm what works. He recommends pairing SEO expertise with community/video skills for offsite citation work.",
+      "timestamp_start": "00:33:35",
+      "timestamp_end": "00:33:35",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ethan Smith"
+      ],
+      "themes": [
+        "Analytics & measurement",
+        "Marketing strategy",
+        "AEO/GEO"
+      ],
+      "quote_count": 2
+    },
+    {
+      "topic_id": "ethan-smith_t15",
+      "title": "Answer tracking and share of voice",
+      "summary": "They discuss AEO trackers as the analog to keyword rank trackers, but with variability across runs, question variants, and platforms. Measure share-of-voice and average rank across multiple surfaces and repeated queries.",
+      "timestamp_start": "00:33:35",
+      "timestamp_end": "00:37:28",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ethan Smith"
+      ],
+      "themes": [
+        "Analytics & measurement",
+        "AEO/GEO",
+        "Search platforms"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ethan-smith_t16",
+      "title": "Which LLM platforms matter and why",
+      "summary": "Ethan explains citation overlap differs across engines (ChatGPT vs Google vs Perplexity) and argues it\u2019s too early to bet on one winner; likely 2\u20133 major platforms will matter long-term.",
+      "timestamp_start": "00:37:28",
+      "timestamp_end": "00:38:26",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ethan Smith"
+      ],
+      "themes": [
+        "Search platforms",
+        "AEO/GEO",
+        "SEO evolution"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ethan-smith_t17",
+      "title": "How AEO differs for B2B vs commerce",
+      "summary": "Ethan notes citation sources and clickability vary by category: B2B answers may be less clickable and require survey-based attribution, while commerce/local have shoppable cards where schema/reviews matter; early-stage should focus on citations and long-tail.",
+      "timestamp_start": "00:38:26",
+      "timestamp_end": "00:41:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ethan Smith"
+      ],
+      "themes": [
+        "AEO/GEO",
+        "Analytics & measurement",
+        "Marketing strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ethan-smith_t18",
+      "title": "Attribution pitfalls and content indexing tradeoffs",
+      "summary": "They cover how LLM influence can be misattributed as branded search or direct traffic, and why you should still allow indexing (even if blocking training) because you\u2019re in the game regardless and competitors will benefit otherwise.",
+      "timestamp_start": "00:41:12",
+      "timestamp_end": "00:43:19",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ethan Smith"
+      ],
+      "themes": [
+        "Analytics & measurement",
+        "AEO/GEO",
+        "Marketing strategy"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "episode_id": "christopher-lochhead",
+  "topics": [
+    {
+      "topic_id": "christopher-lochhead_t1",
+      "title": "Introduction and Background",
+      "summary": "Cold open on why now is the best time to create, followed by Lenny introducing Christopher Lochhead and the episode\u2019s focus on category design and building legendary businesses.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:47",
+      "speakers": [
+        "Christopher Lochhead",
+        "Lenny"
+      ],
+      "themes": [
+        "Category Design",
+        "Entrepreneurship",
+        "Marketing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christopher-lochhead_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Mixpanel (product analytics) and Vanta (security compliance automation) with listener offers.",
+      "timestamp_start": "00:01:48",
+      "timestamp_end": "00:03:36",
+      "speakers": [
+        "Advertisement"
+      ],
+      "themes": [
+        "Marketing"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "christopher-lochhead_t3",
+      "title": "Lochhead\u2019s style: praise, authenticity, and signal",
+      "summary": "Christopher gives an intense compliment-filled intro and contrasts Lenny\u2019s approach with \u201chustle porn\u201d influencer tactics built on envy and perceived superiority.",
+      "timestamp_start": "00:03:37",
+      "timestamp_end": "00:05:06",
+      "speakers": [
+        "Lenny",
+        "Christopher Lochhead"
+      ],
+      "themes": [
+        "Marketing",
+        "Entrepreneurship"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "christopher-lochhead_t4",
+      "title": "Why he showcases negative reviews publicly",
+      "summary": "Christopher explains using negative testimonials as humor, as inoculation against fear of criticism, and as a reminder not to take creator/marketing ego too seriously.",
+      "timestamp_start": "00:05:07",
+      "timestamp_end": "00:08:16",
+      "speakers": [
+        "Lenny",
+        "Christopher Lochhead"
+      ],
+      "themes": [
+        "Marketing",
+        "Entrepreneurship"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christopher-lochhead_t5",
+      "title": "Branding tangent: why \u201cLenny\u201d works",
+      "summary": "They discuss how Lenny\u2019s simple naming and authentic persona create differentiation, and how many influencers instead monetize envy and hierarchy.",
+      "timestamp_start": "00:08:17",
+      "timestamp_end": "00:11:53",
+      "speakers": [
+        "Lenny",
+        "Christopher Lochhead"
+      ],
+      "themes": [
+        "Marketing",
+        "Category Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christopher-lochhead_t6",
+      "title": "What category design is and why it matters",
+      "summary": "Christopher defines category design vs. competing on \u201cbetter,\u201d shares research that category leaders capture ~76% of value, and explains the difference between creating vs. capturing demand.",
+      "timestamp_start": "00:11:54",
+      "timestamp_end": "00:23:06",
+      "speakers": [
+        "Lenny",
+        "Christopher Lochhead"
+      ],
+      "themes": [
+        "Category Design",
+        "Business Strategy",
+        "Marketing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christopher-lochhead_t7",
+      "title": "Examples and the Gong/RevOps category war",
+      "summary": "Using Gong and the revenue/RevOps space, Christopher explains how winning a niche can be smart early, but failing to expand category ambition later can trap you as a subcategory while another player frames the broader category.",
+      "timestamp_start": "00:23:07",
+      "timestamp_end": "00:28:57",
+      "speakers": [
+        "Lenny",
+        "Christopher Lochhead"
+      ],
+      "themes": [
+        "Category Design",
+        "Business Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christopher-lochhead_t8",
+      "title": "The \u201cBetter Trap\u201d and why it fails",
+      "summary": "Christopher argues that \u201cbetter\u201d products in existing categories often lose because customers already have a solved problem; he uses Threads vs. Twitter as a modern example of demand-chasing failure despite massive distribution.",
+      "timestamp_start": "00:28:58",
+      "timestamp_end": "00:34:50",
+      "speakers": [
+        "Lenny",
+        "Christopher Lochhead"
+      ],
+      "themes": [
+        "Category Design",
+        "Marketing",
+        "Business Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christopher-lochhead_t9",
+      "title": "More evidence against \u201c10x better\u201d thinking",
+      "summary": "They challenge the idea that being 10x better is enough, citing Amazon Fire Phone, Red Bull Cola, and Microsoft Stores as examples where copying incumbents without reframing the problem led to failure.",
+      "timestamp_start": "00:34:51",
+      "timestamp_end": "00:38:50",
+      "speakers": [
+        "Lenny",
+        "Christopher Lochhead"
+      ],
+      "themes": [
+        "Category Design",
+        "Business Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christopher-lochhead_t10",
+      "title": "How to design a category: thinking about thinking",
+      "summary": "Christopher begins the \u201chow\u201d by distinguishing reflexive vs. reflective thinking (via Roger Martin), arguing that category designers challenge assumptions and act like \u201cvisitors from the future\u201d obsessed with an unsolved problem.",
+      "timestamp_start": "00:38:51",
+      "timestamp_end": "00:44:45",
+      "speakers": [
+        "Lenny",
+        "Christopher Lochhead"
+      ],
+      "themes": [
+        "Category Design",
+        "Entrepreneurship"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christopher-lochhead_t11",
+      "title": "Case study: Lomi and the smart home composter",
+      "summary": "Christopher explains how Lomi created demand in a zero-billion-dollar market by tying breakthrough tech to a compelling problem narrative (food waste, climate impact) rather than positioning as \u201cbetter garbage.\u201d",
+      "timestamp_start": "00:44:46",
+      "timestamp_end": "00:48:52",
+      "speakers": [
+        "Lenny",
+        "Christopher Lochhead"
+      ],
+      "themes": [
+        "Category Design",
+        "Marketing",
+        "Entrepreneurship"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "christopher-lochhead_t12",
+      "title": "Languaging: framing with new category words",
+      "summary": "Christopher introduces \u201clanguaging\u201d as strategic language that changes how people think, illustrating with Otis\u2019s \u201cvertical railway,\u201d Starbucks\u2019 invented coffee vocabulary, and OpenAI/LLM terminology shaping markets.",
+      "timestamp_start": "00:48:53",
+      "timestamp_end": "00:57:19",
+      "speakers": [
+        "Lenny",
+        "Christopher Lochhead"
+      ],
+      "themes": [
+        "Category Design",
+        "Marketing"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "episode_id": "patrick-campbell",
+  "topics": [
+    {
+      "topic_id": "patrick-campbell_t1",
+      "title": "Introduction and Background",
+      "summary": "Patrick opens with a point about \"professional shipping\" and tempo alignment. Lenny introduces Patrick, ProfitWell\u2019s $200M+ bootstrapped exit, and the episode format: 10 rapid-fire topics.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:44",
+      "speakers": [
+        "Patrick Campbell",
+        "Audio"
+      ],
+      "themes": [
+        "Leadership & Management",
+        "Product Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "patrick-campbell_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Vanta (SOC 2 compliance automation) and Amplitude (product analytics).",
+      "timestamp_start": "00:01:45",
+      "timestamp_end": "00:03:30",
+      "speakers": [
+        "Audio"
+      ],
+      "themes": [
+        "Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "patrick-campbell_t3",
+      "title": "Team building: values, alignment, and culture fit",
+      "summary": "Patrick argues companies say \"team is everything\" but don\u2019t operationalize it, citing short manager tenures and reactive HR. He emphasizes defining who the company is for (values with real tradeoffs) and hiring/firing based on behavioral alignment like \"most charitable interpretation.\"",
+      "timestamp_start": "00:03:31",
+      "timestamp_end": "00:12:00",
+      "speakers": [
+        "Lenny",
+        "Patrick Campbell"
+      ],
+      "themes": [
+        "Leadership & Management",
+        "Hiring & Team"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "patrick-campbell_t4",
+      "title": "Bootstrapping vs VC: matching goals to model",
+      "summary": "Patrick\u2019s contrarian take: bootstrapping often fits lifestyle/cash-flow goals, while VC fits building toward billion-dollar revenue scale\u2014and ProfitWell may have grown bigger with earlier funding. They discuss heuristics for venture scale, the \"funding treadmill,\" and bootstrapping through early ideation before raising.",
+      "timestamp_start": "00:12:00",
+      "timestamp_end": "00:18:09",
+      "speakers": [
+        "Lenny",
+        "Patrick Campbell"
+      ],
+      "themes": [
+        "Startups & Entrepreneurship",
+        "Business Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "patrick-campbell_t5",
+      "title": "Pricing: do one monetization improvement quarterly",
+      "summary": "Patrick recommends a simple operating cadence: track revenue per customer and make one pricing/packaging change per quarter via a pricing committee. Biggest early leverage is choosing the right value metric; he also suggests annual price increases (when NPS is healthy) to force cross-functional alignment and cut through politics.",
+      "timestamp_start": "00:18:09",
+      "timestamp_end": "00:23:46",
+      "speakers": [
+        "Lenny",
+        "Patrick Campbell"
+      ],
+      "themes": [
+        "Pricing & Monetization",
+        "Business Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "patrick-campbell_t6",
+      "title": "Retention: strategic vs tactical churn reduction",
+      "summary": "Patrick distinguishes strategic retention (product/roadmap/ICP) from tactical retention (payment failures, cancellation flows, offboarding), which can represent 25\u201340% of churn post-PMF. He shares a cancellation-flow insight: ask \"why are you leaving\" (multiple choice) and \"what did you like\" to interrupt the cancel momentum and enable targeted save offers.",
+      "timestamp_start": "00:23:46",
+      "timestamp_end": "00:29:56",
+      "speakers": [
+        "Lenny",
+        "Patrick Campbell"
+      ],
+      "themes": [
+        "Retention & Churn",
+        "Pricing & Monetization"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "patrick-campbell_t7",
+      "title": "Shipping and tempo: cadence beats org design",
+      "summary": "Patrick argues high-performing teams ship frequently, and that a clear tempo framework matters more than org design. He outlines aligning mission metrics and principles, then defining what \"good\" shipping looks like per function (e.g., launches per month/quarter) and using leadership conversations to remove blockers and prevent misattributing org issues to individuals.",
+      "timestamp_start": "00:29:56",
+      "timestamp_end": "00:34:41",
+      "speakers": [
+        "Lenny",
+        "Patrick Campbell"
+      ],
+      "themes": [
+        "Product Development",
+        "Leadership & Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "patrick-campbell_t8",
+      "title": "First-principles thinking via problem-cause-solution",
+      "summary": "Patrick proposes \"problem, cause, solution\" as a practical first-principles tool (more actionable than generic \"five whys\"). He illustrates using it for big strategic decisions (e.g., freemium + pay-for-performance) and small operational issues (e.g., responding to an angry support ticket).",
+      "timestamp_start": "00:34:42",
+      "timestamp_end": "00:39:25",
+      "speakers": [
+        "Lenny",
+        "Patrick Campbell"
+      ],
+      "themes": [
+        "Business Strategy",
+        "Leadership & Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "patrick-campbell_t9",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Dovetail (customer insights platform for analyzing qualitative data).",
+      "timestamp_start": "00:39:26",
+      "timestamp_end": "00:40:18",
+      "speakers": [
+        "Audio"
+      ],
+      "themes": [
+        "User Research"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "patrick-campbell_t10",
+      "title": "Customer research: underused but high leverage",
+      "summary": "Patrick argues customer research is foundational to conversion and positioning, yet rare in practice (few companies have ICPs/personas; even fewer do quarterly research). He claims organizations that do customer development see meaningfully better outcomes across NPS, willingness to pay, funnel efficiency, retention, and growth.",
+      "timestamp_start": "00:40:19",
+      "timestamp_end": "00:42:21",
+      "speakers": [
+        "Lenny",
+        "Patrick Campbell"
+      ],
+      "themes": [
+        "User Research",
+        "Business Strategy"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "episode_id": "albert-cheng",
+  "topics": [
+    {
+      "topic_id": "albert-cheng_t1",
+      "title": "Cold open: growth, retention, teams, monetization",
+      "summary": "Quick highlights: growth as connecting users to value (not metric hacking), retention as the core lever for subscriptions, a Grammarly monetization win via sampling paid suggestions, and a counterintuitive hiring lesson favoring high-agency people over deep domain experience.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:13",
+      "speakers": [
+        "Albert Cheng",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Growth",
+        "Monetization",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "albert-cheng_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Albert\u2019s background across Duolingo, Grammarly, Chess.com, and YouTube, and previews key topics like explore/exploit, experimentation, AI, brand/community, and running 1,000 experiments/year.",
+      "timestamp_start": "00:01:13",
+      "timestamp_end": "00:02:33",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Growth",
+        "Product Strategy",
+        "Experimentation"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "albert-cheng_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Vanta (SOC 2 and trust management automation) and Jira Product Discovery (capturing insights, prioritization, and roadmapping).",
+      "timestamp_start": "00:02:33",
+      "timestamp_end": "00:04:01",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "albert-cheng_t4",
+      "title": "From pianist to growth leader",
+      "summary": "Albert shares his childhood piano discipline, perfect pitch, and how music shaped his approach to growth: tight feedback loops, resilience through mistakes, and balancing structure (models/metrics) with creativity.",
+      "timestamp_start": "00:04:33",
+      "timestamp_end": "00:09:09",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Albert Cheng"
+      ],
+      "themes": [
+        "Career",
+        "Growth",
+        "Mindset"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "albert-cheng_t5",
+      "title": "Explore vs exploit framework for growth",
+      "summary": "Albert explains explore/exploit as finding the right mountain vs climbing it efficiently, and stresses sharing breakthrough insights across teams to multiply impact rather than treating wins as isolated.",
+      "timestamp_start": "00:09:42",
+      "timestamp_end": "00:15:19",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Albert Cheng"
+      ],
+      "themes": [
+        "Growth",
+        "Product Strategy",
+        "Experimentation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "albert-cheng_t6",
+      "title": "Chess.com case study: positive loss experience",
+      "summary": "A counterintuitive insight\u2014most users review games after wins\u2014leads Chess.com to redesign post-loss messaging to highlight best moves and encouragement, driving major lifts in game reviews, subscriptions, and retention.",
+      "timestamp_start": "00:11:07",
+      "timestamp_end": "00:14:30",
+      "speakers": [
+        "Albert Cheng",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Growth",
+        "Retention",
+        "Experimentation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "albert-cheng_t7",
+      "title": "When to explore vs exploit: pattern detection",
+      "summary": "Albert describes using experiment explorer tooling to detect diminishing returns (more non-significant tests) as a signal to shift from exploitation back to broader exploration and ideation.",
+      "timestamp_start": "00:15:19",
+      "timestamp_end": "00:16:34",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Albert Cheng"
+      ],
+      "themes": [
+        "Experimentation",
+        "Growth",
+        "Analytics"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "albert-cheng_t8",
+      "title": "Using AI for analytics and prototyping workflows",
+      "summary": "Albert discusses text-to-SQL Slack bots that answer ad hoc data questions end-to-end, plus AI prototyping with tools like v0/Lovable and Figma Make; he notes current friction moving from \u201ctinkering\u201d to production workflows.",
+      "timestamp_start": "00:16:34",
+      "timestamp_end": "00:20:42",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Albert Cheng"
+      ],
+      "themes": [
+        "AI",
+        "Analytics",
+        "Product Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "albert-cheng_t9",
+      "title": "Grammarly\u2019s biggest monetization win: sampled premium value",
+      "summary": "After improving instrumentation, Grammarly interspersed a limited number of paid suggestions into the free experience (a real-time reverse trial), changing perception beyond spelling/grammar and nearly doubling upgrade rates.",
+      "timestamp_start": "00:20:42",
+      "timestamp_end": "00:25:18",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Albert Cheng"
+      ],
+      "themes": [
+        "Monetization",
+        "Growth",
+        "Experimentation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "albert-cheng_t10",
+      "title": "Freemium strategy, trials, and retention benchmarks",
+      "summary": "Albert explains why freemium fits mission-driven, word-of-mouth products, how to reflect premium value in free experiences, and why retention is the \u201cgold\u201d lever; he shares a heuristic of ~30\u201340% D1 retention as solid for many consumer apps.",
+      "timestamp_start": "00:25:18",
+      "timestamp_end": "00:31:37",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Albert Cheng"
+      ],
+      "themes": [
+        "Monetization",
+        "Retention",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "albert-cheng_t11",
+      "title": "Mature growth: resurrecting dormant users",
+      "summary": "Albert breaks down how mature products rely heavily on existing and reactivated users, and gives examples like Duolingo\u2019s social notifications and re-placement tests to smoothly bring lapsed users back.",
+      "timestamp_start": "00:31:37",
+      "timestamp_end": "00:34:35",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Albert Cheng"
+      ],
+      "themes": [
+        "Retention",
+        "Growth",
+        "Lifecycle Marketing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "albert-cheng_t12",
+      "title": "How Duolingo, Grammarly, and Chess.com differ",
+      "summary": "Albert contrasts Duolingo\u2019s high-velocity experimentation culture (\u201cGreen Machine\u201d), Grammarly\u2019s product-led growth blended with enterprise motion and GenAI transformation, and Chess.com\u2019s intense chess-first passion and dogfooding.",
+      "timestamp_start": "00:34:35",
+      "timestamp_end": "00:40:28",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Albert Cheng"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Growth",
+        "Company Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "albert-cheng_t13",
+      "title": "Brand and community as growth rocket fuel",
+      "summary": "Albert reframes brand vs performance as complementary: Duolingo\u2019s owl personality and social content can drive large shares of new users, and Chess.com benefited from major cultural waves (pandemic, Queen\u2019s Gambit, streamers) layered on steady product iteration.",
+      "timestamp_start": "00:40:28",
+      "timestamp_end": "00:44:18",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Albert Cheng"
+      ],
+      "themes": [
+        "Brand",
+        "Growth",
+        "Community"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

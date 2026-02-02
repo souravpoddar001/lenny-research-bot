@@ -1,0 +1,206 @@
+{
+  "episode_id": "janna-bastow",
+  "topics": [
+    {
+      "topic_id": "janna-bastow_t1",
+      "title": "Roadmaps as prototypes for strategy",
+      "summary": "Janna frames a roadmap as a prototype for strategy: the value is in the roadmapping process, surfacing assumptions and validating them with teammates and customers rather than treating the roadmap as a fixed plan.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:47",
+      "speakers": [
+        "Janna Bastow"
+      ],
+      "themes": [
+        "Roadmapping",
+        "Product Strategy",
+        "Product Discovery"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "janna-bastow_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the show and Janna Bastow, highlighting Mind the Product, the Now/Next/Later framework, and ProdPad, then transitions into Janna\u2019s career background and what ProdPad does today.",
+      "timestamp_start": "00:01:11",
+      "timestamp_end": "00:05:47",
+      "speakers": [
+        "Lenny",
+        "Janna Bastow"
+      ],
+      "themes": [
+        "Career",
+        "Roadmapping",
+        "Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "janna-bastow_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Formsort (low-code forms), Coda (all-in-one docs), and Amplitude (product analytics and growth loop).",
+      "timestamp_start": "00:01:58",
+      "timestamp_end": "00:28:09",
+      "speakers": [
+        "Lenny",
+        "John Cutler"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "janna-bastow_t4",
+      "title": "Building Mind the Product community",
+      "summary": "Janna explains Mind the Product grew from grassroots learning among product peers, emphasizing consistency, shared ownership, and expanding the network via community contributors and curators.",
+      "timestamp_start": "00:05:47",
+      "timestamp_end": "00:08:22",
+      "speakers": [
+        "Lenny",
+        "Janna Bastow"
+      ],
+      "themes": [
+        "Community Building",
+        "Leadership",
+        "Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "janna-bastow_t5",
+      "title": "Conference operations: mistakes, risk, and economics",
+      "summary": "They discuss the operational realities of running conferences\u2014logistical failures, high downside risk, thin margins until scale, and why community-building is essential marketing for ticket sales.",
+      "timestamp_start": "00:08:22",
+      "timestamp_end": "00:12:58",
+      "speakers": [
+        "Lenny",
+        "Janna Bastow"
+      ],
+      "themes": [
+        "Community Building",
+        "Operations",
+        "Entrepreneurship"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "janna-bastow_t6",
+      "title": "Becoming a better speaker and storyteller",
+      "summary": "Janna shares how observing many talks and working with a speaker coach improved her narrative structure, delivery, and rehearsal habits, including recording and replaying her own talks.",
+      "timestamp_start": "00:12:58",
+      "timestamp_end": "00:16:43",
+      "speakers": [
+        "Lenny",
+        "Janna Bastow"
+      ],
+      "themes": [
+        "Communication",
+        "Leadership",
+        "Career"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "janna-bastow_t7",
+      "title": "Managing stage anxiety and audience dynamics",
+      "summary": "Practical tactics for nerves: power poses, walking the stage during tech checks, and focusing on supportive audience members; Janna also recounts early speaking failures and why audiences root for speakers.",
+      "timestamp_start": "00:16:43",
+      "timestamp_end": "00:22:12",
+      "speakers": [
+        "Lenny",
+        "Janna Bastow"
+      ],
+      "themes": [
+        "Communication",
+        "Career",
+        "Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "janna-bastow_t8",
+      "title": "Why Gantt-style roadmaps fail; Now/Next/Later",
+      "summary": "Janna critiques timeline/Gantt roadmaps as forcing false certainty and constant date-shifting; she explains how customer feedback led ProdPad to adopt the Now/Next/Later model aligned with the cone of uncertainty, while still allowing dates when truly necessary.",
+      "timestamp_start": "00:22:12",
+      "timestamp_end": "00:26:49",
+      "speakers": [
+        "Lenny",
+        "Janna Bastow"
+      ],
+      "themes": [
+        "Roadmapping",
+        "Product Strategy",
+        "Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "janna-bastow_t9",
+      "title": "Handling dependencies, launches, and date needs",
+      "summary": "They cover how to coordinate with sales/marketing without committing to dates for everything, including separating soft launches from hard launches and using dates only for true constraints like regulatory or seasonal deadlines.",
+      "timestamp_start": "00:28:09",
+      "timestamp_end": "00:32:57",
+      "speakers": [
+        "Lenny",
+        "Janna Bastow"
+      ],
+      "themes": [
+        "Roadmapping",
+        "Go-to-Market",
+        "Product Operations"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "janna-bastow_t10",
+      "title": "What top product teams do differently",
+      "summary": "Janna highlights patterns among strong teams: sustained discovery, psychological safety, and effective retrospectives that enable continuous improvement and reduce command-and-control planning behaviors.",
+      "timestamp_start": "00:32:57",
+      "timestamp_end": "00:36:46",
+      "speakers": [
+        "Lenny",
+        "Janna Bastow"
+      ],
+      "themes": [
+        "Product Discovery",
+        "Team Culture",
+        "Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "janna-bastow_t11",
+      "title": "Changing product culture in large enterprises",
+      "summary": "Janna describes enterprise transformation as \u201cchipping away\u201d at calcified culture via small pockets of adoption, internal advocates, and executive buy-in, noting how incentives for stability can conflict with innovation needs.",
+      "timestamp_start": "00:36:46",
+      "timestamp_end": "00:40:33",
+      "speakers": [
+        "Lenny",
+        "Janna Bastow"
+      ],
+      "themes": [
+        "Organizational Change",
+        "Enterprise Product",
+        "Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "janna-bastow_t12",
+      "title": "ProdPad as a tool that enforces good practice",
+      "summary": "She explains how ProdPad supports transformations by nudging teams toward outcome-focused roadmaps and better habits (problem framing, outcomes, success measurement), making it harder to revert to feature/date-driven planning.",
+      "timestamp_start": "00:40:33",
+      "timestamp_end": "00:42:12",
+      "speakers": [
+        "Lenny",
+        "Janna Bastow"
+      ],
+      "themes": [
+        "Product Tooling",
+        "Roadmapping",
+        "Product Management"
+      ],
+      "quote_count": 0
+    }
+  ]
+}

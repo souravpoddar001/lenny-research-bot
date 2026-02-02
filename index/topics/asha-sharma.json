@@ -1,0 +1,225 @@
+{
+  "episode_id": "asha-sharma",
+  "topics": [
+    {
+      "topic_id": "asha-sharma_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Asha Sharma and her role leading Microsoft\u2019s AI platform, framing the episode\u2019s focus on AI product trends, agents, and organizational change.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:04:25",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Asha Sharma"
+      ],
+      "themes": [
+        "Introduction"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "asha-sharma_t2",
+      "title": "Products shift from artifacts to organisms",
+      "summary": "Asha explains how AI turns products into continuously learning systems optimized via feedback loops, rewards, and tuning\u2014becoming a company\u2019s new IP rather than static shipped features.",
+      "timestamp_start": "00:04:26",
+      "timestamp_end": "00:09:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Asha Sharma"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "asha-sharma_t3",
+      "title": "What successful AI builders do differently",
+      "summary": "Asha outlines a maturity path: organization-wide AI fluency, process improvement with measurable impact, then growth inflection\u2014contrasting it with \u201cAI for AI\u2019s sake\u201d and lack of evals/observability.",
+      "timestamp_start": "00:09:12",
+      "timestamp_end": "00:14:49",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Asha Sharma"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Leadership and Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "asha-sharma_t4",
+      "title": "Full-stack polymaths and the loop mindset",
+      "summary": "They discuss how fast-changing AI collapses traditional functional lanes, rewarding full-stack builders who can run end-to-end loops and ship quickly with fewer handoffs and layers.",
+      "timestamp_start": "00:14:49",
+      "timestamp_end": "00:16:38",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Asha Sharma"
+      ],
+      "themes": [
+        "Careers and Skills",
+        "Leadership and Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "asha-sharma_t5",
+      "title": "From GUIs to code-native interfaces",
+      "summary": "Asha predicts product interfaces will become more composable and text/code-native (like terminals/infra-as-code), optimized for LLM interaction and agent readability rather than pixel-perfect GUIs.",
+      "timestamp_start": "00:16:38",
+      "timestamp_end": "00:20:28",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Asha Sharma"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Developer Tools"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "asha-sharma_t6",
+      "title": "Agentic society and the death of org charts",
+      "summary": "Asha describes a future where marginal cost of output approaches zero, agents scale work, and organizations shift from hierarchy to task-based \u201cwork charts,\u201d with heavy emphasis on oversight and eval loops.",
+      "timestamp_start": "00:20:28",
+      "timestamp_end": "00:25:17",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Asha Sharma"
+      ],
+      "themes": [
+        "AI Agents",
+        "Future of Work"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "asha-sharma_t7",
+      "title": "Sponsor Break",
+      "summary": "Ad read for Fin, an AI agent for customer service, highlighting resolution rates, compatibility with existing help desks, and pricing/guarantee.",
+      "timestamp_start": "00:25:17",
+      "timestamp_end": "00:26:40",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "asha-sharma_t8",
+      "title": "How Asha\u2019s team uses agents day-to-day",
+      "summary": "Asha shares practical internal uses: incident-bridge summarization, DevOps workflow changes, rapid prototyping via natural language tools, and ubiquitous AI-assisted writing/documentation.",
+      "timestamp_start": "00:26:40",
+      "timestamp_end": "00:28:25",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Asha Sharma"
+      ],
+      "themes": [
+        "AI in the Enterprise",
+        "AI Agents"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "asha-sharma_t9",
+      "title": "Strategy, alignment, and new work artifacts",
+      "summary": "They debate whether strategy docs persist as AI improves, emphasizing human vision/judgment while predicting alignment mechanisms will evolve beyond traditional documents.",
+      "timestamp_start": "00:28:25",
+      "timestamp_end": "00:30:34",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Asha Sharma"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Future of Work"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "asha-sharma_t10",
+      "title": "Roadmapping in AI: seasons, OKRs, and slack",
+      "summary": "Asha explains Microsoft\u2019s approach: align on the current \u201cseason\u201d (e.g., agents), set loose quarterly OKRs, run 4\u20136 week squad goals, and preserve slack to adapt to rapid platform shifts.",
+      "timestamp_start": "00:30:34",
+      "timestamp_end": "00:35:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Asha Sharma"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Leadership and Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "asha-sharma_t11",
+      "title": "Platform lessons: winning on invisible fundamentals",
+      "summary": "Asha reflects on how platform success often comes from reliability, privacy, performance, and infrastructure (not flashy features), drawing examples from Porch, WhatsApp, and Instacart.",
+      "timestamp_start": "00:35:33",
+      "timestamp_end": "00:39:31",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Asha Sharma"
+      ],
+      "themes": [
+        "Platforms and Infrastructure",
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "asha-sharma_t12",
+      "title": "Leadership lesson from Satya: renewable optimism",
+      "summary": "Asha shares her biggest takeaway from Satya Nadella: optimism as a renewable resource that generates energy, clarity, and sustained commitment to mission in a competitive environment.",
+      "timestamp_start": "00:39:31",
+      "timestamp_end": "00:41:45",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Asha Sharma"
+      ],
+      "themes": [
+        "Leadership and Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "asha-sharma_t13",
+      "title": "Personal motivation and AI\u2019s societal impact",
+      "summary": "Asha explains what drives her\u2014AI\u2019s potential in healthcare and broader societal challenges (including fertility trends)\u2014and why building an enabling platform feels mission-critical.",
+      "timestamp_start": "00:41:45",
+      "timestamp_end": "00:44:39",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Asha Sharma"
+      ],
+      "themes": [
+        "AI in the Enterprise",
+        "Future of Work"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "asha-sharma_t14",
+      "title": "Post-training and RL: the next big wave",
+      "summary": "Asha predicts reinforcement learning and post-training will rival or exceed pre-training investment as organizations adapt powerful base models using fine-tuning, synthetic/owned data, and reward loops.",
+      "timestamp_start": "00:44:39",
+      "timestamp_end": "00:48:06",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Asha Sharma"
+      ],
+      "themes": [
+        "Foundation Models",
+        "AI Product Development"
+      ],
+      "quote_count": 0
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "episode_id": "jen-abel",
+  "topics": [
+    {
+      "topic_id": "jen-abel_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny sets up a highly tactical episode on founder-led sales and introduces guest Jen Abel, her background, and what they\u2019ll cover across the sales process end-to-end.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:28",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jen Abel"
+      ],
+      "themes": [
+        "Introduction"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "jen-abel_t2",
+      "title": "What founder-led sales means and why it matters",
+      "summary": "Jen defines founder-led sales as the zero-to-one commercial milestone and explains why the founder is effectively \u201cthe product\u201d early on\u2014bringing novel insight and aligning vision with market reality.",
+      "timestamp_start": "00:02:28",
+      "timestamp_end": "00:05:01",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jen Abel"
+      ],
+      "themes": [
+        "Founder-led Sales",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jen-abel_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Brave Search and Vanta.",
+      "timestamp_start": "00:05:01",
+      "timestamp_end": "00:06:50",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jen-abel_t4",
+      "title": "Why founders shouldn\u2019t delegate early sales",
+      "summary": "Jen outlines three advantages of founder-led sales: founders communicate the vision best, carry executive weight, and can spot \u201cbudding\u201d insights that reshape the product and market approach.",
+      "timestamp_start": "00:06:50",
+      "timestamp_end": "00:09:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jen Abel"
+      ],
+      "themes": [
+        "Founder-led Sales",
+        "Product-Market Fit"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jen-abel_t5",
+      "title": "Sales cycle stages and how buyers influence them",
+      "summary": "They map a typical sales cycle (intro, demo/second call, proposal, co-authoring, procurement, signature) and note that mature buyers may dictate the process, while startups often create new buying behavior.",
+      "timestamp_start": "00:09:34",
+      "timestamp_end": "00:12:00",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jen Abel"
+      ],
+      "themes": [
+        "Sales Process",
+        "Go-to-Market"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jen-abel_t6",
+      "title": "Outbound messaging that earns the first meeting",
+      "summary": "Jen shares how to cut through noise: lead with role relevance over shallow personalization, use counterintuitive/shocking insight, keep it to 3\u20134 sentences (no mobile scrolling), and focus on the problem\u2014not the solution.",
+      "timestamp_start": "00:12:00",
+      "timestamp_end": "00:16:47",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jen Abel"
+      ],
+      "themes": [
+        "Outbound Sales",
+        "Messaging"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jen-abel_t7",
+      "title": "Conversion rates, win rates, and PMF signals",
+      "summary": "Jen reframes obsession with reply rates by tying them to win rate; wide variance often reflects how strongly the market feels the problem and how compelling the founder\u2019s insight is, not just tactics.",
+      "timestamp_start": "00:16:47",
+      "timestamp_end": "00:20:21",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jen Abel"
+      ],
+      "themes": [
+        "Metrics",
+        "Product-Market Fit"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jen-abel_t8",
+      "title": "Market-first vs product-first paths to PMF",
+      "summary": "They discuss Lenny\u2019s PMF timeline chart and hypothesize that market-first companies can reach PMF faster (but may be more capped), while product/technical-insight-first companies take longer but can have larger upside.",
+      "timestamp_start": "00:20:21",
+      "timestamp_end": "00:23:07",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jen Abel"
+      ],
+      "themes": [
+        "Product-Market Fit",
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jen-abel_t9",
+      "title": "Finding leads: start manual before tools",
+      "summary": "Jen advises founders to manually identify 30 ideal prospects and write thoughtful outreach before buying tools; use the exercise to discover common parameters, run small experiments, and only then scale with enrichment tools like Clay.",
+      "timestamp_start": "00:23:07",
+      "timestamp_end": "00:27:52",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jen Abel"
+      ],
+      "themes": [
+        "Lead Generation",
+        "Outbound Sales"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jen-abel_t10",
+      "title": "Outreach recap: structure, tone, and \u201cbetter\u201d trap",
+      "summary": "They recap the outreach framework and add practical tips (e.g., listen to your email read aloud). Jen warns against claiming \u201cbetter than X\u201d and recommends emphasizing difference/counterintuition and a painful problem.",
+      "timestamp_start": "00:27:52",
+      "timestamp_end": "00:30:59",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jen Abel"
+      ],
+      "themes": [
+        "Messaging",
+        "Outbound Sales"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jen-abel_t11",
+      "title": "First call: vulnerability to unlock honest feedback",
+      "summary": "Jen explains how to run the initial call as learning: be transparent about being early-stage, invite insight on how the problem shows up, and avoid overselling a \u201cfully baked\u201d product to prevent polite, unhelpful feedback.",
+      "timestamp_start": "00:30:59",
+      "timestamp_end": "00:33:07",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jen Abel"
+      ],
+      "themes": [
+        "Customer Discovery",
+        "Founder-led Sales"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jen-abel_t12",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Paragon.",
+      "timestamp_start": "00:33:07",
+      "timestamp_end": "00:34:14",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "jen-abel_t13",
+      "title": "Early vs late-stage sales and learning vs revenue",
+      "summary": "They contrast early-stage discovery-driven selling with later-stage buyer education (April Dunford context). Jen emphasizes founder-led sales as rapid learning to \u201cearn the right to sell,\u201d and discusses when to transition (~$500k\u2013$1M ARR).",
+      "timestamp_start": "00:34:14",
+      "timestamp_end": "00:38:08",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jen Abel"
+      ],
+      "themes": [
+        "Founder-led Sales",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jen-abel_t14",
+      "title": "Discovery questions and signs of real pull",
+      "summary": "Jen shares how to elicit the buyer\u2019s mental model and identify PMF signals: the problem must be growing/widening, measured/managed, and they\u2019ve tried solving it; momentum shows when they pull colleagues into the process.",
+      "timestamp_start": "00:38:08",
+      "timestamp_end": "00:41:57",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jen Abel"
+      ],
+      "themes": [
+        "Customer Discovery",
+        "Product-Market Fit"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jen-abel_t15",
+      "title": "Closing the call and co-authoring scope via services",
+      "summary": "Jen advises booking the second call live (calendar on the call) and avoiding generic questions. She then introduces co-authoring a scope of work\u2014often via a time-boxed (90-day) services engagement\u2014to educate buyers, earn logos, and create intent in immature markets.",
+      "timestamp_start": "00:41:57",
+      "timestamp_end": "00:46:04",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jen Abel"
+      ],
+      "themes": [
+        "Sales Process",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

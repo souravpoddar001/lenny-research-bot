@@ -1,0 +1,255 @@
+{
+  "episode_id": "camille-hearst",
+  "topics": [
+    {
+      "topic_id": "camille-hearst_t1",
+      "title": "Cold open: Steve Jobs elevator lore",
+      "summary": "Camille shares Apple lore about Steve Jobs quizzing employees in elevators and a story of someone panicking and trying to escape the elevator to avoid being questioned.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:02",
+      "speakers": [
+        "Camille Hearst",
+        "Lenny"
+      ],
+      "themes": [
+        "Leadership",
+        "Career"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "camille-hearst_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the podcast and Camille Hearst\u2019s background (Spotify, Patreon, YouTube, iTunes, founder) and previews creator-economy topics they\u2019ll cover.",
+      "timestamp_start": "00:01:07",
+      "timestamp_end": "00:01:56",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career",
+        "Creator Economy"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "camille-hearst_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Merge and Coda.",
+      "timestamp_start": "00:02:02",
+      "timestamp_end": "00:04:01",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors/Ads"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "camille-hearst_t4",
+      "title": "Spotify fan monetization: merch and listening parties",
+      "summary": "Camille explains her role leading fan monetization at Spotify, focusing on helping artists convert fan passion into revenue via merch, rewards, and experiments like listening parties.",
+      "timestamp_start": "00:04:24",
+      "timestamp_end": "00:06:58",
+      "speakers": [
+        "Lenny",
+        "Camille Hearst"
+      ],
+      "themes": [
+        "Creator Economy",
+        "Monetization"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "camille-hearst_t5",
+      "title": "Working with artists: creativity and charging fans",
+      "summary": "They discuss the joys of working with creative people and the challenge of the \u201cstarving artist\u201d ethos\u2014musicians often resist monetization despite fans\u2019 willingness to pay.",
+      "timestamp_start": "00:07:40",
+      "timestamp_end": "00:10:12",
+      "speakers": [
+        "Lenny",
+        "Camille Hearst"
+      ],
+      "themes": [
+        "Creator Economy",
+        "Monetization"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "camille-hearst_t6",
+      "title": "Creator monetization psychology and the content hamster wheel",
+      "summary": "Camille and Lenny talk about creators\u2019 discomfort pricing their work, why platforms help with payments/pricing, and the downside of subscription models: nonstop creation with no easy exit.",
+      "timestamp_start": "00:10:20",
+      "timestamp_end": "00:14:22",
+      "speakers": [
+        "Lenny",
+        "Camille Hearst"
+      ],
+      "themes": [
+        "Creator Economy",
+        "Monetization"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "camille-hearst_t7",
+      "title": "Where the creator economy is headed",
+      "summary": "Camille argues creator trends are real and durable despite startup shakeouts, citing platform network effects, Twitch/TikTok scale, and creators becoming IP engines like \u201cmini Disney.\u201d",
+      "timestamp_start": "00:14:26",
+      "timestamp_end": "00:19:30",
+      "speakers": [
+        "Lenny",
+        "Camille Hearst"
+      ],
+      "themes": [
+        "Creator Economy",
+        "Platforms"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "camille-hearst_t8",
+      "title": "How creators succeed: consistency, collaboration, curation",
+      "summary": "Camille shares creator success patterns she\u2019s seen since early YouTube: predictable output, collaborating to cross-pollinate audiences, and leveraging trusted curators/influencers.",
+      "timestamp_start": "00:19:30",
+      "timestamp_end": "00:23:14",
+      "speakers": [
+        "Lenny",
+        "Camille Hearst"
+      ],
+      "themes": [
+        "Creator Economy",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "camille-hearst_t9",
+      "title": "Kit startup story and selling to Patreon",
+      "summary": "Camille explains Kit\u2019s curation/recommendation concept, fundraising journey, and why selling to Patreon made sense; she also reflects on lessons from building as an underrepresented founder.",
+      "timestamp_start": "00:23:14",
+      "timestamp_end": "00:24:49",
+      "speakers": [
+        "Lenny",
+        "Camille Hearst"
+      ],
+      "themes": [
+        "Startups",
+        "Career"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "camille-hearst_t10",
+      "title": "Acquisition lessons: run a process, build relationships early",
+      "summary": "They discuss the realities of M&A: treat selling like a managed funnel, and cultivate potential acquirers long before you need them so the relationship and vision are already familiar.",
+      "timestamp_start": "00:24:49",
+      "timestamp_end": "00:28:23",
+      "speakers": [
+        "Lenny",
+        "Camille Hearst"
+      ],
+      "themes": [
+        "Startups",
+        "Career"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "camille-hearst_t11",
+      "title": "Marketplace supply-side focus and why it matters",
+      "summary": "Camille describes why she\u2019s drawn to the supply side of marketplaces, with lessons from ride-hailing (Hailo) showing that without healthy supply, demand and UX don\u2019t matter.",
+      "timestamp_start": "00:28:28",
+      "timestamp_end": "00:33:37",
+      "speakers": [
+        "Lenny",
+        "Camille Hearst"
+      ],
+      "themes": [
+        "Marketplaces",
+        "Product Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "camille-hearst_t12",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Vanta.",
+      "timestamp_start": "00:33:39",
+      "timestamp_end": "00:34:23",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors/Ads"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "camille-hearst_t13",
+      "title": "Apple and iTunes: early days and Steve Jobs encounter",
+      "summary": "Camille recounts being an early iTunes PMM, the famous Stanford commencement speech, meeting Jobs on her first day, and the detailed work behind iTunes press demos.",
+      "timestamp_start": "00:34:37",
+      "timestamp_end": "00:43:01",
+      "speakers": [
+        "Lenny",
+        "Camille Hearst"
+      ],
+      "themes": [
+        "Career",
+        "Product Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "camille-hearst_t14",
+      "title": "Apple product model vs modern product management",
+      "summary": "Camille contrasts Apple\u2019s design/engineering-led, craft-first approach with metric/strategy-heavy product management elsewhere, and reacts to Airbnb adopting an Apple-like model.",
+      "timestamp_start": "00:43:01",
+      "timestamp_end": "00:45:52",
+      "speakers": [
+        "Lenny",
+        "Camille Hearst"
+      ],
+      "themes": [
+        "Product Management",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "camille-hearst_t15",
+      "title": "Advice for new creator platforms: solve core problems",
+      "summary": "Camille advises founders to focus on real creator pain points\u2014especially audience growth and getting paid\u2014while noting adjacent needs like financing and benefits remain unsolved.",
+      "timestamp_start": "00:45:54",
+      "timestamp_end": "00:47:47",
+      "speakers": [
+        "Lenny",
+        "Camille Hearst"
+      ],
+      "themes": [
+        "Creator Economy",
+        "Startups"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "camille-hearst_t16",
+      "title": "Quick tangent: breakout podcasters and discovery",
+      "summary": "Lenny asks about a fast-rising podcaster; Camille notes she\u2019s primarily a music listener and doesn\u2019t follow podcasts closely.",
+      "timestamp_start": "00:47:49",
+      "timestamp_end": "00:48:05",
+      "speakers": [
+        "Lenny",
+        "Camille Hearst"
+      ],
+      "themes": [
+        "Creator Economy"
+      ],
+      "quote_count": 2
+    }
+  ]
+}

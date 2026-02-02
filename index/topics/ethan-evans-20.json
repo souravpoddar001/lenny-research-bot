@@ -1,0 +1,186 @@
+{
+  "episode_id": "ethan-evans-20",
+  "topics": [
+    {
+      "topic_id": "ethan-evans-20_t1",
+      "title": "Introduction and Background",
+      "summary": "Ethan opens with a framing on invention: you need few good ideas, but years to express them. Lenny introduces Ethan\u2019s Amazon background, inventions, leadership experience, and what they\u2019ll cover in the episode.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:50",
+      "speakers": [
+        "Ethan Evans",
+        "Lenny"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership",
+        "Innovation"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ethan-evans-20_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Sidebar (peer leadership groups) and Sprig (AI-powered product insights platform).",
+      "timestamp_start": "00:01:50",
+      "timestamp_end": "00:04:26",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ethan-evans-20_t3",
+      "title": "The Magic Loop: framework overview",
+      "summary": "Ethan explains the five-step \u201cMagic Loop\u201d for career growth: do your job well, ask how to help, do it, align help with your goals, and repeat. They discuss why it resonated and how it creates a manager-employee partnership.",
+      "timestamp_start": "00:04:26",
+      "timestamp_end": "00:09:52",
+      "speakers": [
+        "Lenny",
+        "Ethan Evans"
+      ],
+      "themes": [
+        "Career Growth",
+        "Management",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ethan-evans-20_t4",
+      "title": "Why the loop works and refinements",
+      "summary": "They address skepticism (\u201cshouldn\u2019t my manager do this?\u201d), emphasize control and clarity of goals, and note managers can initiate the loop too. Ethan shares success stories from entry-level to executive trajectories and explains how it evolves at senior levels into proactive leadership.",
+      "timestamp_start": "00:09:52",
+      "timestamp_end": "00:17:31",
+      "speakers": [
+        "Lenny",
+        "Ethan Evans"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership",
+        "Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ethan-evans-20_t5",
+      "title": "Using the loop without chasing promotion",
+      "summary": "They discuss cases where someone doesn\u2019t want promotion and how the same approach can still help reshape scope, projects, or work-life boundaries. The key is explicitly communicating goals so managers don\u2019t assume your desired path.",
+      "timestamp_start": "00:17:31",
+      "timestamp_end": "00:23:09",
+      "speakers": [
+        "Lenny",
+        "Ethan Evans"
+      ],
+      "themes": [
+        "Career Growth",
+        "Work-Life Balance",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ethan-evans-20_t6",
+      "title": "Breaking through senior manager promotion bottlenecks",
+      "summary": "Ethan explains why L7/M2-level leaders often get stuck: limited director slots, slower growth, and a required shift from execution to influence and strategy. Advice includes patience plus practicing next-level skills and becoming the obvious choice when opportunities arise.",
+      "timestamp_start": "00:23:09",
+      "timestamp_end": "00:28:47",
+      "speakers": [
+        "Lenny",
+        "Ethan Evans"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership",
+        "Organizational Dynamics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ethan-evans-20_t7",
+      "title": "Systematic inventiveness and big thinking",
+      "summary": "They explore Bezos/Amazon\u2019s focus on inventiveness and how Ethan learned to invent systematically, leading to 70+ patents. Ethan describes dedicating focused thinking time, combining existing concepts (e.g., drone \u201caircraft carrier\u201d truck), and how most innovation is iterative optimization over years.",
+      "timestamp_start": "00:28:47",
+      "timestamp_end": "00:36:06",
+      "speakers": [
+        "Lenny",
+        "Ethan Evans"
+      ],
+      "themes": [
+        "Innovation",
+        "Leadership",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ethan-evans-20_t8",
+      "title": "Interviewing: standing out with enthusiasm and impact",
+      "summary": "Ethan shares interview lessons from 2,500+ interviews: appearance and enthusiasm matter heavily, especially on Zoom (camera on, presence, energy). Candidates should emphasize business impact and why their work mattered, not just tasks performed.",
+      "timestamp_start": "00:36:06",
+      "timestamp_end": "00:39:29",
+      "speakers": [
+        "Lenny",
+        "Ethan Evans"
+      ],
+      "themes": [
+        "Interviewing",
+        "Career Growth",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ethan-evans-20_t9",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Arcade, a no-code interactive demo platform, including a customer example and discount offer.",
+      "timestamp_start": "00:39:29",
+      "timestamp_end": "00:40:44",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ethan-evans-20_t10",
+      "title": "Failure story: Appstore launch and Bezos escalation",
+      "summary": "Ethan recounts a high-stakes Amazon Appstore launch failure where a key feature (Test Drive) broke, triggering an angry email thread with Jeff Bezos and senior leaders. He describes owning the issue, providing proactive hourly updates, and getting emergency help from AWS engineers to stabilize the system.",
+      "timestamp_start": "00:40:44",
+      "timestamp_end": "00:46:52",
+      "speakers": [
+        "Lenny",
+        "Ethan Evans"
+      ],
+      "themes": [
+        "Failure & Resilience",
+        "Leadership",
+        "Execution"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ethan-evans-20_t11",
+      "title": "Rebuilding trust: facing Bezos after the incident",
+      "summary": "After the fix, Bezos continues testing and finds issues, keeping pressure high. Ethan chooses to attend a meeting with Bezos anyway, and Bezos acknowledges the hard week\u2014signaling forgiveness but the need to re-earn trust.",
+      "timestamp_start": "00:46:52",
+      "timestamp_end": "00:49:05",
+      "speakers": [
+        "Ethan Evans",
+        "Lenny"
+      ],
+      "themes": [
+        "Leadership",
+        "Failure & Resilience",
+        "Communication"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

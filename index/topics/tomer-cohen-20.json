@@ -1,0 +1,254 @@
+{
+  "episode_id": "tomer-cohen-20",
+  "topics": [
+    {
+      "topic_id": "tomer-cohen-20_t1",
+      "title": "Introduction and Background",
+      "summary": "Tomer frames how rapidly job skills are changing and why builders must rethink how they work. Lenny introduces LinkedIn\u2019s experiment with an AI-native way of building products.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:06",
+      "speakers": [
+        "Tomer Cohen",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Transformation",
+        "Product Management",
+        "Future of Work"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "tomer-cohen-20_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages from Vanta and Figma (Figma Make) about compliance automation and rapid prototyping in Figma.",
+      "timestamp_start": "00:02:06",
+      "timestamp_end": "00:04:42",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tomer-cohen-20_t3",
+      "title": "Why traditional product building became too complex",
+      "summary": "Tomer explains how product development at scale accumulates process and organizational complexity, leading to micro-specialization and slow shipping. He argues AI creates an opportunity to \u201ccollapse the stack\u201d back toward craftsmanship.",
+      "timestamp_start": "00:04:42",
+      "timestamp_end": "00:09:47",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tomer Cohen"
+      ],
+      "themes": [
+        "Product Development Process",
+        "Org Design",
+        "AI Transformation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tomer-cohen-20_t4",
+      "title": "LinkedIn data on skill disruption and job churn",
+      "summary": "They unpack LinkedIn\u2019s stats: by 2030, ~70% of skills needed for current jobs will change, with some roles seeing 90\u201395% impact. They also discuss how fast-growing jobs shift year to year, underscoring accelerating change.",
+      "timestamp_start": "00:09:47",
+      "timestamp_end": "00:11:52",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tomer Cohen"
+      ],
+      "themes": [
+        "Future of Work",
+        "AI Transformation",
+        "Talent & Careers"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tomer-cohen-20_t5",
+      "title": "Full Stack Builder model: goals and builder traits",
+      "summary": "Tomer introduces the Full Stack Builder model: empowering people across functions to take ideas to market using human+AI workflows. He highlights the core human strengths to preserve\u2014vision, empathy, communication, creativity, and especially judgment.",
+      "timestamp_start": "00:11:52",
+      "timestamp_end": "00:16:27",
+      "speakers": [
+        "Tomer Cohen",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Management",
+        "AI Transformation",
+        "Talent & Careers"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tomer-cohen-20_t6",
+      "title": "Three pillars: platform, agents/tools, and culture",
+      "summary": "Tomer outlines what it takes for large companies to adopt this model: re-architecting platforms so AI can reason over them, building internal agents, and driving cultural change. He notes off-the-shelf tools rarely work without deep customization.",
+      "timestamp_start": "00:16:27",
+      "timestamp_end": "00:19:17",
+      "speakers": [
+        "Tomer Cohen",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Transformation",
+        "Engineering",
+        "Org Design"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "tomer-cohen-20_t7",
+      "title": "Internal agents: trust, growth, research, and analytics",
+      "summary": "Tomer describes LinkedIn-specific agents (e.g., Trust agent for harm vectors, Growth agent for loops/funnels, Research agent for personas, Analyst agent for querying the graph). The key is encoding company context and expertise rather than generic AI.",
+      "timestamp_start": "00:19:17",
+      "timestamp_end": "00:23:20",
+      "speakers": [
+        "Tomer Cohen",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Transformation",
+        "Product Development Process",
+        "Trust & Safety"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tomer-cohen-20_t8",
+      "title": "How agents are built and orchestrated",
+      "summary": "They discuss the stack behind building agents (Copilot/ChatGPT Enterprise plus heavy internal customization) and the need for orchestration across specialized agents. Tomer also notes tool fragmentation (different teams prefer different design tools) and the need to converge.",
+      "timestamp_start": "00:23:20",
+      "timestamp_end": "00:26:20",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tomer Cohen"
+      ],
+      "themes": [
+        "AI Transformation",
+        "Engineering",
+        "Product Development Process"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tomer-cohen-20_t9",
+      "title": "Automation focus: idea-to-design vs code-to-launch",
+      "summary": "Tomer explains why they\u2019re investing heavily in the early phases (idea-to-design) in addition to coding acceleration. He shares examples like maintenance agents fixing failed builds and QA automation, while expanding AI support for specs and product jams.",
+      "timestamp_start": "00:26:20",
+      "timestamp_end": "00:30:35",
+      "speakers": [
+        "Tomer Cohen",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Engineering",
+        "AI Transformation",
+        "Product Development Process"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tomer-cohen-20_t10",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message from Miro about using AI in an innovation workspace to turn unstructured inputs into briefs, diagrams, and prototypes.",
+      "timestamp_start": "00:30:35",
+      "timestamp_end": "00:31:46",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "tomer-cohen-20_t11",
+      "title": "Pilot status, metrics, and early outcomes",
+      "summary": "Tomer shares how they\u2019re measuring impact (experiment volume \u00d7 quality \u00f7 time) and what they\u2019re seeing: hours saved weekly, better insight discussions, and growing appetite for access. The program hasn\u2019t fully GA\u2019d internally yet but is expanding via pods.",
+      "timestamp_start": "00:31:46",
+      "timestamp_end": "00:33:32",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tomer Cohen"
+      ],
+      "themes": [
+        "AI Transformation",
+        "Product Development Process",
+        "Metrics & Measurement"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tomer-cohen-20_t12",
+      "title": "How the pilot is run: pods and early adopters",
+      "summary": "They detail the rollout approach: a core team builds the FSB track while selected pods get access in exchange for feedback. Tomer gives examples of teams using tools to ship semantic search and designers beginning to submit PRs.",
+      "timestamp_start": "00:33:32",
+      "timestamp_end": "00:35:22",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tomer Cohen"
+      ],
+      "themes": [
+        "Org Design",
+        "AI Transformation",
+        "Product Development Process"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tomer-cohen-20_t13",
+      "title": "Replacing APM with Associate Product Builder program",
+      "summary": "Tomer explains LinkedIn is ending its APM program and launching an Associate Product Builder program that trains new hires in coding, design, and PM skills. The training will also inform how they upskill the broader organization.",
+      "timestamp_start": "00:35:22",
+      "timestamp_end": "00:36:51",
+      "speakers": [
+        "Tomer Cohen",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Talent & Careers",
+        "AI Transformation",
+        "Product Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "tomer-cohen-20_t14",
+      "title": "Adoption reality: top performers, incentives, and change management",
+      "summary": "They discuss why top talent adopts AI fastest and why tools alone don\u2019t drive behavior change. Tomer emphasizes incentives, examples, and structured change management\u2014drawing parallels to LinkedIn\u2019s desktop-to-mobile transition.",
+      "timestamp_start": "00:36:51",
+      "timestamp_end": "00:44:45",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tomer Cohen"
+      ],
+      "themes": [
+        "Change Management",
+        "AI Transformation",
+        "Org Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tomer-cohen-20_t15",
+      "title": "Embedding AI expectations into evaluation and reviews",
+      "summary": "Tomer begins describing how they\u2019re shifting expectations and assessment (including 360 reviews across functions) to reinforce full-stack behavior and AI fluency. This segment ends mid-thought as he starts to explain broader rollout into hiring and calibration.",
+      "timestamp_start": "00:44:45",
+      "timestamp_end": "00:45:00",
+      "speakers": [
+        "Tomer Cohen",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Change Management",
+        "Talent & Careers",
+        "AI Transformation"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

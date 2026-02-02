@@ -1,0 +1,270 @@
+{
+  "episode_id": "nabeel-s-qureshi",
+  "topics": [
+    {
+      "topic_id": "nabeel-s-qureshi_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Nabeel Qureshi\u2019s background and frames the episode as an inside look at Palantir\u2019s product, hiring, and operating model\u2014especially why it produces so many standout PMs and founders.",
+      "timestamp_start": "00:00:58",
+      "timestamp_end": "00:05:12",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Company Building",
+        "Product Management",
+        "Careers"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "nabeel-s-qureshi_t2",
+      "title": "Sponsor Break: WorkOS and Attio",
+      "summary": "Sponsor reads covering WorkOS (enterprise auth/SCIM/SSO and Warrant acquisition) and Attio (AI-native CRM).",
+      "timestamp_start": "00:02:47",
+      "timestamp_end": "00:05:08",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nabeel-s-qureshi_t3",
+      "title": "Why Palantir creates so many founders",
+      "summary": "Lenny shares stats showing Palantir PM alumni disproportionately become founders and product leaders, setting up the discussion on what Palantir does differently in hiring and training.",
+      "timestamp_start": "00:05:14",
+      "timestamp_end": "00:06:27",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Careers",
+        "Company Building",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nabeel-s-qureshi_t4",
+      "title": "What Palantir does: outcomes via data platforms",
+      "summary": "Nabeel explains Palantir as an outcomes-driven company delivering value through a best-in-class data platform, with Gotham for defense/intelligence and Foundry for commercial customers.",
+      "timestamp_start": "00:06:27",
+      "timestamp_end": "00:07:32",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nabeel S. Qureshi"
+      ],
+      "themes": [
+        "Product",
+        "Enterprise",
+        "Data"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nabeel-s-qureshi_t5",
+      "title": "Culture and hiring: independent, intellectual, competitive",
+      "summary": "They discuss Palantir\u2019s distinctive culture, founder-led interviews, and deliberate \u201cbad signal\u201d positioning (e.g., defense focus) to attract independent-minded, broadly curious, highly competitive talent.",
+      "timestamp_start": "00:07:32",
+      "timestamp_end": "00:12:30",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nabeel S. Qureshi"
+      ],
+      "themes": [
+        "Hiring",
+        "Company Culture",
+        "Company Building"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "nabeel-s-qureshi_t6",
+      "title": "Principles, murder boards, and values that exclude",
+      "summary": "Nabeel describes Palantir\u2019s \u201cmurder board\u201d planning ritual and why strong principles should be disagreeable; Lenny connects this to defining company values by clarifying who the company is not for.",
+      "timestamp_start": "00:12:30",
+      "timestamp_end": "00:13:29",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nabeel S. Qureshi"
+      ],
+      "themes": [
+        "Company Culture",
+        "Execution",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "nabeel-s-qureshi_t7",
+      "title": "Undervalued talent pools and founder training effects",
+      "summary": "Nabeel explains how Palantir attracted high-performing ex-military/intelligence talent and why the environment both selects for and actively trains people into founder-like operators.",
+      "timestamp_start": "00:13:29",
+      "timestamp_end": "00:16:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nabeel S. Qureshi"
+      ],
+      "themes": [
+        "Hiring",
+        "Careers",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nabeel-s-qureshi_t8",
+      "title": "No titles philosophy and its tradeoffs",
+      "summary": "They cover Palantir\u2019s minimal-title structure to reduce promotion gaming and internal politics, plus the downside of shifting status competition toward informal influence and \u201cinner circles.\u201d",
+      "timestamp_start": "00:16:12",
+      "timestamp_end": "00:19:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nabeel S. Qureshi"
+      ],
+      "themes": [
+        "Company Culture",
+        "Incentives",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nabeel-s-qureshi_t9",
+      "title": "Forward deployed engineers: embedded customer builders",
+      "summary": "Nabeel defines the forward deployed engineer role\u2014engineers embedded at customer sites to solve real problems\u2014covering the BD vs PD split and the two FDE archetypes (more technical vs more \u201ctechnical-adjacent\u201d).",
+      "timestamp_start": "00:19:12",
+      "timestamp_end": "00:21:10",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nabeel S. Qureshi"
+      ],
+      "themes": [
+        "Product Development",
+        "Enterprise",
+        "Customer Research"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nabeel-s-qureshi_t10",
+      "title": "Why FDEs create founders: rapid iteration loops",
+      "summary": "They detail how living with customers enables deep trust, fast feedback cycles, and outcome-based pricing\u2014turning deployments into intense reps of product discovery, building, and delivery.",
+      "timestamp_start": "00:21:10",
+      "timestamp_end": "00:25:20",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nabeel S. Qureshi"
+      ],
+      "themes": [
+        "Product Management",
+        "Customer Research",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nabeel-s-qureshi_t11",
+      "title": "From services to platform: Foundry\u2019s evolution",
+      "summary": "Nabeel explains how Palantir overcame the \u201cconsulting company\u201d critique by productizing internal tools, enforcing customer usage, and focusing on reliability\u2014plus why data integration pain became a key wedge.",
+      "timestamp_start": "00:25:20",
+      "timestamp_end": "00:30:00",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nabeel S. Qureshi"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Enterprise",
+        "Data"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nabeel-s-qureshi_t12",
+      "title": "Gotham vs Foundry: maps, graphs, and tables",
+      "summary": "Nabeel breaks down the shared platform layers (ingest, map, UI) and the key differences: Gotham emphasizes map/graph workflows for defense and fraud, while Foundry fits more traditional enterprise analytics patterns.",
+      "timestamp_start": "00:30:00",
+      "timestamp_end": "00:32:36",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nabeel S. Qureshi"
+      ],
+      "themes": [
+        "Product",
+        "Data",
+        "Enterprise"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nabeel-s-qureshi_t13",
+      "title": "Airbus case study and the Ontology breakthrough",
+      "summary": "Nabeel walks through helping Airbus ramp A350 production by translating messy SAP tables into human concepts (parts, work orders, aircraft), which directly informed Foundry\u2019s \u201cOntology\u201d as a core differentiator.",
+      "timestamp_start": "00:32:36",
+      "timestamp_end": "00:38:05",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nabeel S. Qureshi"
+      ],
+      "themes": [
+        "Case Study",
+        "Product Development",
+        "Data"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nabeel-s-qureshi_t14",
+      "title": "FDE lifestyle: intense travel and in-person trust",
+      "summary": "They discuss the aggressive travel culture (often last-minute flights), why being on-site accelerates trust and execution, and how this shifted post-2020 with COVID and IPO-era controls.",
+      "timestamp_start": "00:38:05",
+      "timestamp_end": "00:40:03",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nabeel S. Qureshi"
+      ],
+      "themes": [
+        "Company Culture",
+        "Execution",
+        "Enterprise"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nabeel-s-qureshi_t15",
+      "title": "Sponsor Break: OneSchema",
+      "summary": "Sponsor segment on OneSchema FileFeeds 2.0, using AI to automate messy CSV/Excel intake, validation, and integrations (SFTP/S3/email) to prevent bad data and reduce engineering burden.",
+      "timestamp_start": "00:40:03",
+      "timestamp_end": "00:41:37",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Andrew Luo"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nabeel-s-qureshi_t16",
+      "title": "Founder advice: when to use FDE-like approaches",
+      "summary": "Nabeel advises most startups don\u2019t need true forward deployed engineers unless deal sizes justify heavy investment; he suggests adapting the principles for smaller customers via higher account ratios and lighter-touch deployments.",
+      "timestamp_start": "00:41:37",
+      "timestamp_end": "00:43:49",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nabeel S. Qureshi"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Company Building",
+        "Enterprise"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

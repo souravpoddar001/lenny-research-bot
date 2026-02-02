@@ -1,0 +1,254 @@
+{
+  "episode_id": "john-mark-nickels",
+  "topics": [
+    {
+      "topic_id": "john-mark-nickels_t1",
+      "title": "Introduction and Background",
+      "summary": "Cold open on prioritizing life through mortality awareness, followed by Lenny introducing J.M.\u2019s career (Uber, DoorDash, Waymo) and setting expectations for a wide-ranging leadership conversation.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:26",
+      "speakers": [
+        "John Mark Nickels",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Leadership",
+        "Career",
+        "Personal Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "john-mark-nickels_t2",
+      "title": "Defining conscious leadership and influence",
+      "summary": "J.M. defines leadership as influence (everyone is a leader) and consciousness as awareness of one\u2019s inner world, inherited beliefs, and biases\u2014then taking responsibility for the impact you have.",
+      "timestamp_start": "00:02:26",
+      "timestamp_end": "00:03:42",
+      "speakers": [
+        "Lenny Rachitsky",
+        "John Mark Nickels"
+      ],
+      "themes": [
+        "Leadership",
+        "Self-Awareness",
+        "Personal Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "john-mark-nickels_t3",
+      "title": "Soft skills, power dynamics, and creating space",
+      "summary": "They discuss how influence changes with seniority: J.M. shifted from being the loudest voice to intentionally holding back, inviting others to speak first, and managing power imbalances in meetings.",
+      "timestamp_start": "00:03:42",
+      "timestamp_end": "00:05:14",
+      "speakers": [
+        "Lenny Rachitsky",
+        "John Mark Nickels"
+      ],
+      "themes": [
+        "Leadership",
+        "Communication",
+        "Team Dynamics"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "john-mark-nickels_t4",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Pendo (product experience platform) and the Enterprise Ready Conference (enterprise SaaS product/engineering event).",
+      "timestamp_start": "00:05:14",
+      "timestamp_end": "00:07:35",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Speaker 3"
+      ],
+      "themes": [
+        "Sponsors & Promotions"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "john-mark-nickels_t5",
+      "title": "Uber culture across eras and inner work",
+      "summary": "J.M. contrasts Uber 1.0/2.0/3.0: early mission-driven intensity and fear-based culture, his stress building Uber Pool, and how that pushed him into meditation/coaching; he also outlines Uber\u2019s current multi-modal future.",
+      "timestamp_start": "00:07:35",
+      "timestamp_end": "00:12:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "John Mark Nickels"
+      ],
+      "themes": [
+        "Company Culture",
+        "Leadership",
+        "Career"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "john-mark-nickels_t6",
+      "title": "Naming UberX and Uber Pool",
+      "summary": "A quick tangent on how UberX\u2019s name stuck as an internal codename, and J.M. shares he helped name Uber Pool (later renamed Share).",
+      "timestamp_start": "00:12:12",
+      "timestamp_end": "00:12:42",
+      "speakers": [
+        "Lenny Rachitsky",
+        "John Mark Nickels"
+      ],
+      "themes": [
+        "Career",
+        "Product"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "john-mark-nickels_t7",
+      "title": "Allowing emotions to break stress loops",
+      "summary": "J.M. explains why resisting anxiety in high-stakes meetings backfires: thoughts and emotions form a reinforcing loop, and the first step is allowing them to arise and pass rather than fighting them.",
+      "timestamp_start": "00:12:42",
+      "timestamp_end": "00:14:50",
+      "speakers": [
+        "Lenny Rachitsky",
+        "John Mark Nickels"
+      ],
+      "themes": [
+        "Personal Growth",
+        "Self-Awareness",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "john-mark-nickels_t8",
+      "title": "Self-worth beyond approval, control, and security",
+      "summary": "He describes moving from needing external approval (e.g., Dara\u2019s) to cultivating internal self-worth, reframing feedback as a gift, and reducing fear by recognizing most moments aren\u2019t truly \u201cone shot.\u201d",
+      "timestamp_start": "00:14:50",
+      "timestamp_end": "00:17:21",
+      "speakers": [
+        "Lenny Rachitsky",
+        "John Mark Nickels"
+      ],
+      "themes": [
+        "Personal Growth",
+        "Self-Awareness",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "john-mark-nickels_t9",
+      "title": "Optics versus impact and purpose-driven work",
+      "summary": "J.M. argues that focusing less on ego/optics and more on building an awesome product can paradoxically improve outcomes and recognition; they discuss how mission alignment enables this mindset.",
+      "timestamp_start": "00:17:21",
+      "timestamp_end": "00:21:47",
+      "speakers": [
+        "Lenny Rachitsky",
+        "John Mark Nickels"
+      ],
+      "themes": [
+        "Leadership",
+        "Product",
+        "Career"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "john-mark-nickels_t10",
+      "title": "Building strategy and vision through immersion",
+      "summary": "J.M. shares how to improve strategy/vision: choose a domain you deeply care about, immerse for years, use first-principles thinking, and vividly imagine the future (e.g., autonomy, sharing, city redesign).",
+      "timestamp_start": "00:21:47",
+      "timestamp_end": "00:30:00",
+      "speakers": [
+        "Lenny Rachitsky",
+        "John Mark Nickels"
+      ],
+      "themes": [
+        "Strategy",
+        "Vision",
+        "Product"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "john-mark-nickels_t11",
+      "title": "Making space for deep thinking and co-creation",
+      "summary": "They discuss practical ways to generate vision: carve out quiet time (runs, hikes, no media), then bring an outline to teams for long-form whiteboard sessions and Pixar-style \u201cbrain trust\u201d riffing.",
+      "timestamp_start": "00:30:00",
+      "timestamp_end": "00:32:52",
+      "speakers": [
+        "Lenny Rachitsky",
+        "John Mark Nickels"
+      ],
+      "themes": [
+        "Strategy",
+        "Team Dynamics",
+        "Productivity"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "john-mark-nickels_t12",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Vanta (automating security compliance and trust management).",
+      "timestamp_start": "00:32:52",
+      "timestamp_end": "00:33:44",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsors & Promotions"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "john-mark-nickels_t13",
+      "title": "Uber marketplace future: multi-supply and multi-demand",
+      "summary": "J.M. describes a key strategic realization: Uber\u2019s marketplace is becoming far more complex with taxis, fleets, and autonomous partners on supply, and many ride products on demand\u2014requiring new pricing, ranking, and allocation systems.",
+      "timestamp_start": "00:33:44",
+      "timestamp_end": "00:37:26",
+      "speakers": [
+        "Lenny Rachitsky",
+        "John Mark Nickels"
+      ],
+      "themes": [
+        "Product",
+        "Strategy",
+        "Marketplaces"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "john-mark-nickels_t14",
+      "title": "Focus, productivity, and the three-things rule",
+      "summary": "They reinforce going deep at both macro and micro levels: limit daily priorities to 1\u20133 high-leverage items, avoid over-structured systems, and externalize to-dos to keep an \u201cempty mind\u201d for creativity.",
+      "timestamp_start": "00:37:26",
+      "timestamp_end": "00:41:15",
+      "speakers": [
+        "Lenny Rachitsky",
+        "John Mark Nickels"
+      ],
+      "themes": [
+        "Productivity",
+        "Strategy",
+        "Personal Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "john-mark-nickels_t15",
+      "title": "Balancing vision and execution in practice",
+      "summary": "J.M. explains the polarity between over-theorizing (e.g., complex pricing designs at Uber) and over-executing (\u201cready, fire, aim\u201d at DoorDash), emphasizing dynamic balance depending on whether direction is clear or needs rethinking.",
+      "timestamp_start": "00:41:15",
+      "timestamp_end": "00:45:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "John Mark Nickels"
+      ],
+      "themes": [
+        "Execution",
+        "Strategy",
+        "Leadership"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

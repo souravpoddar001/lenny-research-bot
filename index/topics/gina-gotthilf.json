@@ -1,0 +1,220 @@
+{
+  "episode_id": "gina-gotthilf",
+  "topics": [
+    {
+      "topic_id": "gina-gotthilf_t1",
+      "title": "Communication and Duolingo\u2019s unique brand voice",
+      "summary": "Gina explains why communication is underrated and how Duolingo\u2019s quirky, humorous tone helps messages land, be remembered, and make users feel something\u2014fueling engagement.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:25",
+      "speakers": [
+        "Gina Gotthilf"
+      ],
+      "themes": [
+        "Marketing",
+        "Branding",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gina-gotthilf_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Gina\u2019s career highlights (Duolingo growth, Bloomberg campaign, Tumblr LATAM) and previews topics: organic growth, subscriptions, PR/brand, failure, and Latin America\u2019s startup opportunity.",
+      "timestamp_start": "00:00:48",
+      "timestamp_end": "00:01:58",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career",
+        "Growth",
+        "Startups"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "gina-gotthilf_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Jira Product Discovery (prioritization/roadmapping) and Hex (collaborative analytics notebooks with AI and app builder).",
+      "timestamp_start": "00:02:09",
+      "timestamp_end": "00:04:34",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gina-gotthilf_t4",
+      "title": "Latitude conference and Latin America opportunity",
+      "summary": "Gina recaps Latitude\u2019s 5,000-person Brazil conference and why Latin America\u2019s scale and under-penetrated tech GDP share make it a major startup and investment opportunity.",
+      "timestamp_start": "00:04:34",
+      "timestamp_end": "00:07:09",
+      "speakers": [
+        "Lenny",
+        "Gina Gotthilf"
+      ],
+      "themes": [
+        "Latin America",
+        "Startups",
+        "Venture Capital"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gina-gotthilf_t5",
+      "title": "A-side vs B-side stories framework",
+      "summary": "Gina introduces the A-side/B-side concept: public highlight reels vs the hidden setbacks, and applies it to both personal careers and Latin America\u2019s narrative (risk vs upside).",
+      "timestamp_start": "00:07:09",
+      "timestamp_end": "00:09:34",
+      "speakers": [
+        "Gina Gotthilf",
+        "Lenny"
+      ],
+      "themes": [
+        "Career",
+        "Mindset",
+        "Latin America"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gina-gotthilf_t6",
+      "title": "Gina\u2019s B-side setbacks and resilience",
+      "summary": "Gina shares early career struggles\u2014college dropout, depression, visa issues, layoffs/firings, unpaid months at Tumblr\u2014and how those led to consulting and eventually Duolingo, Bloomberg, and Latitude.",
+      "timestamp_start": "00:09:34",
+      "timestamp_end": "00:14:46",
+      "speakers": [
+        "Lenny",
+        "Gina Gotthilf"
+      ],
+      "themes": [
+        "Career",
+        "Failure",
+        "Mindset"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gina-gotthilf_t7",
+      "title": "Careers are long and can pivot",
+      "summary": "They discuss how people underestimate career length; setbacks at 26 can be temporary, and multiple career reinventions can compound into later success.",
+      "timestamp_start": "00:14:53",
+      "timestamp_end": "00:16:20",
+      "speakers": [
+        "Lenny",
+        "Gina Gotthilf"
+      ],
+      "themes": [
+        "Career",
+        "Mindset"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gina-gotthilf_t8",
+      "title": "Bloomberg campaign: optimizing post-click conversion",
+      "summary": "Gina describes the Bloomberg campaign\u2019s massive spend and her key insight: focus on landing pages and the funnel after the ad; rapid iteration was possible due to fast statistical significance.",
+      "timestamp_start": "00:16:28",
+      "timestamp_end": "00:20:25",
+      "speakers": [
+        "Lenny",
+        "Gina Gotthilf"
+      ],
+      "themes": [
+        "Marketing",
+        "Growth",
+        "Experimentation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gina-gotthilf_t9",
+      "title": "Landing page tactics: mobile, skimmable, emotional",
+      "summary": "She details practical conversion improvements: mobile-first design, above-the-fold clarity, tight skimmable copy, title/button alignment, message match, and using emotion (e.g., fear) appropriately.",
+      "timestamp_start": "00:20:40",
+      "timestamp_end": "00:24:13",
+      "speakers": [
+        "Lenny",
+        "Gina Gotthilf"
+      ],
+      "themes": [
+        "Marketing",
+        "Growth",
+        "Copywriting"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gina-gotthilf_t10",
+      "title": "Why Duolingo succeeded as consumer subscription",
+      "summary": "Gina explains Duolingo\u2019s edge: mission obsession (real economic mobility), organic-first growth due to late monetization, avoiding paid-growth dependency, and prioritizing retention as true value delivered.",
+      "timestamp_start": "00:24:34",
+      "timestamp_end": "00:33:16",
+      "speakers": [
+        "Lenny",
+        "Gina Gotthilf"
+      ],
+      "themes": [
+        "Growth",
+        "Subscriptions",
+        "Product"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gina-gotthilf_t11",
+      "title": "Product rigor: data-driven iteration over copying",
+      "summary": "She argues Duolingo\u2019s durable advantage is product obsession and rigorous experimentation culture\u2014instrumentation, hypotheses, and daily learning\u2014versus startups that merely copy UI without the underlying process.",
+      "timestamp_start": "00:33:16",
+      "timestamp_end": "00:35:58",
+      "speakers": [
+        "Lenny",
+        "Gina Gotthilf"
+      ],
+      "themes": [
+        "Product",
+        "Experimentation",
+        "Startups"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "gina-gotthilf_t12",
+      "title": "Duolingo failures: badges, social duels, launches",
+      "summary": "Gina recounts missteps: delaying badges then running a flawed MVP test, early lack of dogfooding, failed social features (Duels), schools product struggles, China blocking, and India localization mistakes.",
+      "timestamp_start": "00:36:37",
+      "timestamp_end": "00:42:05",
+      "speakers": [
+        "Lenny",
+        "Gina Gotthilf"
+      ],
+      "themes": [
+        "Failure",
+        "Experimentation",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gina-gotthilf_t13",
+      "title": "Dogfooding and trusting instincts in product work",
+      "summary": "They emphasize using your own product to catch obvious issues and building confidence in judgment\u2014especially for younger operators\u2014then Gina begins relating this to product problems at Latitude (wires UX).",
+      "timestamp_start": "00:42:05",
+      "timestamp_end": "00:43:22",
+      "speakers": [
+        "Lenny",
+        "Gina Gotthilf"
+      ],
+      "themes": [
+        "Product",
+        "Mindset",
+        "UX"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

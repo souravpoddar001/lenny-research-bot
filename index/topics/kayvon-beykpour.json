@@ -1,0 +1,228 @@
+{
+  "episode_id": "kayvon-beykpour",
+  "topics": [
+    {
+      "topic_id": "kayvon-beykpour_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Kayvon Beykpour, his Periscope acquisition into Twitter, his role leading Twitter consumer product, and previews topics including Elon\u2019s takeover, culture change, and product lessons.",
+      "timestamp_start": "00:00:05",
+      "timestamp_end": "00:02:21",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Podcast Intro"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "kayvon-beykpour_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Enterpret (customer feedback intelligence) and OneSchema (embeddable CSV importer).",
+      "timestamp_start": "00:02:21",
+      "timestamp_end": "00:04:28",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "kayvon-beykpour_t3",
+      "title": "Meeting Elon and Walter Isaacson present",
+      "summary": "Kayvon recounts being contacted to help get Elon up to speed right after the acquisition, meeting via FaceTime then in-person at Twitter HQ, and realizing Walter Isaacson silently observed the conversation for his reporting/book.",
+      "timestamp_start": "00:04:28",
+      "timestamp_end": "00:09:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Kayvon Beykpour"
+      ],
+      "themes": [
+        "Twitter",
+        "Leadership",
+        "Company Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kayvon-beykpour_t4",
+      "title": "Did Kayvon influence Elon\u2019s Twitter plans?",
+      "summary": "Kayvon explains he likely didn\u2019t shape Elon\u2019s management approach, but did recommend strong internal leaders and brainstorm product directions; he highlights continued investment in Community Notes, Spaces, Communities, and creator monetization.",
+      "timestamp_start": "00:09:12",
+      "timestamp_end": "00:11:31",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Kayvon Beykpour"
+      ],
+      "themes": [
+        "Twitter",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kayvon-beykpour_t5",
+      "title": "How Kayvon was fired during paternity leave",
+      "summary": "Kayvon details the leadership transition from Jack to Parag, the shift from functional org to GM structure, and being let go shortly after his daughter\u2019s birth\u2014right as Twitter signed the term sheet to sell to Elon.",
+      "timestamp_start": "00:11:31",
+      "timestamp_end": "00:18:53",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Kayvon Beykpour"
+      ],
+      "themes": [
+        "Leadership",
+        "Company Culture",
+        "Twitter"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kayvon-beykpour_t6",
+      "title": "Elon\u2019s \u2018come hang out\u2019 product invitation",
+      "summary": "Kayvon shares Elon\u2019s informal offer to return and \u2018swipe left/right\u2019 on whether to stay, and why Kayvon chose to move on\u2014recognizing the difficulty of being a product leader between a strong founder and the org.",
+      "timestamp_start": "00:18:53",
+      "timestamp_end": "00:21:07",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Kayvon Beykpour"
+      ],
+      "themes": [
+        "Leadership",
+        "Twitter"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kayvon-beykpour_t7",
+      "title": "From stagnant Twitter to shipping constantly",
+      "summary": "They discuss Twitter\u2019s burst of feature shipping under Kayvon\u2019s tenure and what it takes to shift a risk-averse culture, including the political difficulty of change in a functional org and the need for top-level alignment.",
+      "timestamp_start": "00:21:07",
+      "timestamp_end": "00:25:01",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Kayvon Beykpour"
+      ],
+      "themes": [
+        "Company Culture",
+        "Product Execution",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kayvon-beykpour_t8",
+      "title": "Refine the core vs bold new bets",
+      "summary": "Kayvon explains how \u2018refine the core\u2019 (ranked timeline, recommendations, notifications) reignited growth but also increased risk aversion; his mission became balancing core optimization with ambitious new capabilities.",
+      "timestamp_start": "00:25:01",
+      "timestamp_end": "00:28:50",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Kayvon Beykpour"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "kayvon-beykpour_t9",
+      "title": "Sacred cows as a roadmap for innovation",
+      "summary": "Kayvon describes identifying Twitter\u2019s \u2018sacred cows\u2019 (character limits, reply control, annotations, feed assumptions) and using them as a roadmap for experimentation; he shares the \u2018hide replies\u2019 story as a culture microcosm.",
+      "timestamp_start": "00:28:50",
+      "timestamp_end": "00:32:01",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Kayvon Beykpour"
+      ],
+      "themes": [
+        "Company Culture",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kayvon-beykpour_t10",
+      "title": "Portfolio approach: reliability plus new capabilities",
+      "summary": "They dig into balancing proven growth levers with speculative bets, including examples like fixing onboarding/SMS verification issues and continuing ML-driven improvements while still investing in new product surfaces.",
+      "timestamp_start": "00:32:01",
+      "timestamp_end": "00:34:28",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Kayvon Beykpour"
+      ],
+      "themes": [
+        "Growth",
+        "Product Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kayvon-beykpour_t11",
+      "title": "Using acquihires to drive bold initiatives",
+      "summary": "Kayvon explains how Twitter used small acquisitions to bring in founder-operators to lead risky bets (Spaces, Communities, Birdwatch/Community Notes, Fleets, creator monetization), and why protecting these teams from org drag mattered.",
+      "timestamp_start": "00:34:28",
+      "timestamp_end": "00:42:40",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Kayvon Beykpour"
+      ],
+      "themes": [
+        "Hiring",
+        "Product Strategy",
+        "Company Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kayvon-beykpour_t12",
+      "title": "Staffing: belief and obsession over availability",
+      "summary": "Kayvon argues teams fail when staffed by availability rather than conviction; for speculative projects especially, you need people who believe in the idea to \u2018will it into existence,\u2019 otherwise execution becomes toxic and slow.",
+      "timestamp_start": "00:42:40",
+      "timestamp_end": "00:45:55",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Kayvon Beykpour"
+      ],
+      "themes": [
+        "Hiring",
+        "Product Execution",
+        "Company Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kayvon-beykpour_t13",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Heap (automatic product analytics capturing user behavior across platforms).",
+      "timestamp_start": "00:45:55",
+      "timestamp_end": "00:47:31",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "kayvon-beykpour_t14",
+      "title": "Jobs-to-be-done backlash and framework fatigue",
+      "summary": "Lenny asks about Jobs-to-be-Done and other frameworks; Kayvon says he disliked how JTBD was rolled out at Twitter, found it exhausting and not helpful, and hints the issue may be more about implementation than the framework itself.",
+      "timestamp_start": "00:47:31",
+      "timestamp_end": "00:48:00",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Kayvon Beykpour"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Product Management"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

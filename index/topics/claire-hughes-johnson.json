@@ -1,0 +1,219 @@
+{
+  "episode_id": "claire-hughes-johnson",
+  "topics": [
+    {
+      "topic_id": "claire-hughes-johnson_t1",
+      "title": "Career advice: be a force for momentum",
+      "summary": "Claire shares Stripe onboarding advice: if decision ownership is unclear, assume it\u2019s you, ask directly, and avoid getting stuck. She frames positive momentum as a major career accelerant.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:50",
+      "speakers": [
+        "Claire Hughes Johnson",
+        "Lenny"
+      ],
+      "themes": [
+        "Leadership",
+        "Decision-making",
+        "Career Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "claire-hughes-johnson_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the show and Claire\u2019s background (Google, Stripe COO, boards) and previews key topics from her new book, Scaling People. He sets expectations for tactical frameworks and templates.",
+      "timestamp_start": "00:00:50",
+      "timestamp_end": "00:02:19",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Leadership",
+        "Operations",
+        "Management"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "claire-hughes-johnson_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Linear (issue tracking/product workflows) and Vanta (SOC 2/security compliance automation).",
+      "timestamp_start": "00:02:19",
+      "timestamp_end": "00:04:47",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "claire-hughes-johnson_t4",
+      "title": "Writing Scaling People: motivation and relief",
+      "summary": "Claire explains the Collisons pushed her to write the book and describes the intensity of the process and the desire to keep iterating. Lenny asks what she learned by writing versus speaking.",
+      "timestamp_start": "00:04:47",
+      "timestamp_end": "00:07:58",
+      "speakers": [
+        "Lenny",
+        "Claire Hughes Johnson"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership",
+        "Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "claire-hughes-johnson_t5",
+      "title": "Collisons\u2019 influence: learn by seeking others",
+      "summary": "Claire discusses how customer conversations and her tactical chapter in High Growth Handbook led to the \u201cClaire in a box\u201d idea. She highlights the Collisons\u2019 habit of constantly reading, calling experts, and learning from others.",
+      "timestamp_start": "00:07:58",
+      "timestamp_end": "00:11:11",
+      "speakers": [
+        "Lenny",
+        "Claire Hughes Johnson"
+      ],
+      "themes": [
+        "Leadership",
+        "Learning & Development",
+        "Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "claire-hughes-johnson_t6",
+      "title": "Scaling lessons: ladders/levels and 24/7 support",
+      "summary": "Claire shares examples of reaching out to peers: implementing job levels early to avoid later chaos, and scaling global 24/7 multi-channel support using a mix of internal build and vendors. Key insight: do foundational org work earlier than feels comfortable.",
+      "timestamp_start": "00:11:11",
+      "timestamp_end": "00:15:15",
+      "speakers": [
+        "Lenny",
+        "Claire Hughes Johnson"
+      ],
+      "themes": [
+        "Operations",
+        "Hiring",
+        "Customer Support"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "claire-hughes-johnson_t7",
+      "title": "Stripe\u2019s minimalist titles: culture and optionality",
+      "summary": "Claire explains why Stripe avoided inflated titles: reduce hierarchy signaling, keep expertise-driven decision-making, and preserve flexibility as org scope changes. She also notes titles can be adapted in customer contexts without misrepresenting authority.",
+      "timestamp_start": "00:15:15",
+      "timestamp_end": "00:18:48",
+      "speakers": [
+        "Lenny",
+        "Claire Hughes Johnson"
+      ],
+      "themes": [
+        "Culture",
+        "Leadership",
+        "Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "claire-hughes-johnson_t8",
+      "title": "Why early operating structure matters",
+      "summary": "Claire argues that beyond product-market fit, companies must intentionally build the \u201ccompany\u201d (cadence, goals, decision processes) or risk collapsing under growth. She uses a house metaphor: foundations, beams, and mechanicals must be built to replicate velocity.",
+      "timestamp_start": "00:19:01",
+      "timestamp_end": "00:23:40",
+      "speakers": [
+        "Lenny",
+        "Claire Hughes Johnson"
+      ],
+      "themes": [
+        "Operations",
+        "Scaling",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "claire-hughes-johnson_t9",
+      "title": "What to do pre-PMF: narrative and hiring basics",
+      "summary": "For very early founders, Claire recommends keeping it simple: clearly articulate the problem/vision and share it internally, not just with investors. She emphasizes building lightweight hiring and interviewing discipline earlier than most teams expect.",
+      "timestamp_start": "00:23:40",
+      "timestamp_end": "00:26:38",
+      "speakers": [
+        "Lenny",
+        "Claire Hughes Johnson"
+      ],
+      "themes": [
+        "Hiring",
+        "Leadership",
+        "Startup Foundations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "claire-hughes-johnson_t10",
+      "title": "Personal operating principles: start with self-awareness",
+      "summary": "Claire explains why management starts with the self and introduces personal operating principles as foundational to leading humans. She outlines methods to discover values (forced ranking) and use assessments to understand work-style tendencies.",
+      "timestamp_start": "00:26:38",
+      "timestamp_end": "00:34:30",
+      "speakers": [
+        "Lenny",
+        "Claire Hughes Johnson"
+      ],
+      "themes": [
+        "Self-awareness",
+        "Leadership",
+        "Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "claire-hughes-johnson_t11",
+      "title": "Saying the hard thing: detoxify and ask questions",
+      "summary": "Claire gives tactics for voicing uncomfortable truths: convert harsh internal commentary into non-threatening questions, own observations, avoid judgment, and invite dialogue. She connects this to coaching as exploration rather than lecturing.",
+      "timestamp_start": "00:34:30",
+      "timestamp_end": "00:42:26",
+      "speakers": [
+        "Lenny",
+        "Claire Hughes Johnson"
+      ],
+      "themes": [
+        "Feedback",
+        "Management",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "claire-hughes-johnson_t12",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Dovetail, a customer insights platform for analyzing qualitative and quantitative feedback sources.",
+      "timestamp_start": "00:42:26",
+      "timestamp_end": "00:43:19",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "claire-hughes-johnson_t13",
+      "title": "Operating principle: return to the operating system",
+      "summary": "Claire describes how rituals and shared cadence (goals, launches, decision practices) create stability amid chaos and help leaders scale across many teams. Lenny tees up the book\u2019s core \u201chouse\u201d framework for company operating systems.",
+      "timestamp_start": "00:43:19",
+      "timestamp_end": "00:47:33",
+      "speakers": [
+        "Lenny",
+        "Claire Hughes Johnson"
+      ],
+      "themes": [
+        "Operations",
+        "Scaling",
+        "Leadership"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

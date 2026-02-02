@@ -1,0 +1,223 @@
+{
+  "episode_id": "eric-ries",
+  "topics": [
+    {
+      "topic_id": "eric-ries_t1",
+      "title": "Founder mental health and zombie companies",
+      "summary": "Eric argues that a startup failing isn\u2019t the worst outcome; staying trapped in a \"zombie\" company you hate can be far more damaging. He connects this to an under-discussed mental health crisis among founders and the regret of building companies that become harmful.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:58",
+      "speakers": [
+        "Eric Ries"
+      ],
+      "themes": [
+        "Entrepreneurship",
+        "Leadership",
+        "Mental Health"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eric-ries_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Eric Ries, his impact via The Lean Startup, and previews topics: misconceptions, MVPs, pivots, AI\u2019s impact, and values-driven company building.",
+      "timestamp_start": "00:00:58",
+      "timestamp_end": "00:01:24",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Entrepreneurship",
+        "Product Management",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eric-ries_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Sanity (headless CMS for fast content iteration) and Jira Product Discovery (prioritization/roadmapping tool integrated with Jira).",
+      "timestamp_start": "00:01:24",
+      "timestamp_end": "00:04:10",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Business",
+        "Product Management",
+        "Technology"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eric-ries_t4",
+      "title": "What Eric is doing now",
+      "summary": "Eric shares his current focus: building the Long-Term Stock Exchange, advising founders and executives, and engaging with AI companies\u2014especially on governance and long-term, humanistic corporate structures.",
+      "timestamp_start": "00:04:10",
+      "timestamp_end": "00:06:23",
+      "speakers": [
+        "Lenny",
+        "Eric Ries"
+      ],
+      "themes": [
+        "Entrepreneurship",
+        "Leadership",
+        "Technology"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eric-ries_t5",
+      "title": "Impact on startup culture and first principles",
+      "summary": "Eric reflects on unexpectedly shaping startup language and practices, from early anonymous blogging to widespread adoption. He explains his scientific, truth-seeking mindset and distinguishes descriptive naming of real phenomena from prescriptive guidance.",
+      "timestamp_start": "00:06:23",
+      "timestamp_end": "00:14:05",
+      "speakers": [
+        "Lenny",
+        "Eric Ries"
+      ],
+      "themes": [
+        "Entrepreneurship",
+        "Product Management",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eric-ries_t6",
+      "title": "State of the Lean Startup movement",
+      "summary": "Eric describes Lean Startup\u2019s evolution from \"religious revival\" energy to default industry vocabulary, noting the absence of a true opposing \"army.\" He emphasizes that winning looks like quiet usefulness to founders, not hype or ideological battles.",
+      "timestamp_start": "00:14:05",
+      "timestamp_end": "00:19:41",
+      "speakers": [
+        "Lenny",
+        "Eric Ries"
+      ],
+      "themes": [
+        "Entrepreneurship",
+        "Leadership",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eric-ries_t7",
+      "title": "Responsibility for ideas and unintended consequences",
+      "summary": "Discussing thought leadership, Eric reflects on accountability for how concepts get misused (e.g., \"disruption\"). He argues experimentation and feedback are how creators improve ideas/products in an uncertain world.",
+      "timestamp_start": "00:19:41",
+      "timestamp_end": "00:22:35",
+      "speakers": [
+        "Lenny",
+        "Eric Ries"
+      ],
+      "themes": [
+        "Leadership",
+        "Entrepreneurship",
+        "Ethics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eric-ries_t8",
+      "title": "Recurring misconceptions about Lean Startup",
+      "summary": "Eric lists persistent misunderstandings: \"lean means cheap,\" \"lean opposes vision,\" and confusion about pivots and optimization. He\u2019s frustrated by recycled critiques that ignore what the methodology actually says.",
+      "timestamp_start": "00:22:35",
+      "timestamp_end": "00:24:23",
+      "speakers": [
+        "Lenny",
+        "Eric Ries"
+      ],
+      "themes": [
+        "Entrepreneurship",
+        "Product Management",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eric-ries_t9",
+      "title": "What Eric would change in the book",
+      "summary": "Eric resists rewriting The Lean Startup but notes two regrets: making scaling sound too easy (later addressed in a longer book) and failing to explicitly say \"change the world for the better,\" which feels crucial given tech\u2019s trajectory.",
+      "timestamp_start": "00:24:23",
+      "timestamp_end": "00:27:47",
+      "speakers": [
+        "Lenny",
+        "Eric Ries"
+      ],
+      "themes": [
+        "Entrepreneurship",
+        "Leadership",
+        "Ethics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eric-ries_t10",
+      "title": "MVPs when user expectations are high",
+      "summary": "Responding to Karri Saarinen, Eric reframes MVP as the most efficient test of a hypothesis\u2014not a low-quality product. He argues you can test with small audiences, separate product vs marketing launches, and focus on one high-quality critical feature rather than building everything.",
+      "timestamp_start": "00:27:47",
+      "timestamp_end": "00:34:51",
+      "speakers": [
+        "Lenny",
+        "Eric Ries"
+      ],
+      "themes": [
+        "Product Management",
+        "Entrepreneurship",
+        "Technology"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eric-ries_t11",
+      "title": "IMVU teleportation story: less can be more",
+      "summary": "Eric tells how a hacky \"teleport\" movement (skipping realistic walking) unexpectedly made IMVU feel more advanced than The Sims. The story illustrates how MVP experiments can reveal counterintuitive customer value and avoid unnecessary engineering.",
+      "timestamp_start": "00:34:51",
+      "timestamp_end": "00:37:57",
+      "speakers": [
+        "Lenny",
+        "Eric Ries"
+      ],
+      "themes": [
+        "Product Management",
+        "Entrepreneurship",
+        "Technology"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eric-ries_t12",
+      "title": "Finding the real leap-of-faith assumption",
+      "summary": "Eric explains MVP flexibility across industries: test demand with brochures, pre-orders, or specs before building expensive tech. He shares a data-center example where customers rejected a highly efficient solution because efficiency wasn\u2019t their buying criterion.",
+      "timestamp_start": "00:37:57",
+      "timestamp_end": "00:41:26",
+      "speakers": [
+        "Lenny",
+        "Eric Ries"
+      ],
+      "themes": [
+        "Entrepreneurship",
+        "Product Management",
+        "Business"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eric-ries_t13",
+      "title": "Defining 'minimum' and 'viable' amid uncertainty",
+      "summary": "Lenny cites Ben Silbermann\u2019s point that founders don\u2019t know what \"minimum\" or \"viable\" means. Eric responds that MVP critiques often reflect discomfort with startup uncertainty: founders must hold both conviction in a vision and humility about not knowing what will work.",
+      "timestamp_start": "00:41:26",
+      "timestamp_end": "00:43:02",
+      "speakers": [
+        "Lenny",
+        "Eric Ries"
+      ],
+      "themes": [
+        "Entrepreneurship",
+        "Leadership",
+        "Product Management"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

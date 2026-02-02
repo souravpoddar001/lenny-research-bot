@@ -1,0 +1,239 @@
+{
+  "episode_id": "eli-schwartz",
+  "topics": [
+    {
+      "topic_id": "eli-schwartz_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny tees up the episode around major shifts in SEO due to AI answers, and introduces Eli Schwartz\u2019s background and focus on AI\u2019s impact on search.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:57",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Eli Schwartz"
+      ],
+      "themes": [
+        "SEO Strategy",
+        "AI in Search",
+        "Product-Led Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eli-schwartz_t2",
+      "title": "Why AI forces a rethink of SEO",
+      "summary": "Eli explains how classic SEO tactics stayed the same for years, but AI is forcing leaders to reconsider what SEO traffic means and how it drives business value.",
+      "timestamp_start": "00:02:57",
+      "timestamp_end": "00:04:22",
+      "speakers": [
+        "Eli Schwartz",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "SEO Strategy",
+        "Go-to-Market",
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "eli-schwartz_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Pendo (product experience platform) and Brave Search (private independent search with AI answers).",
+      "timestamp_start": "00:04:22",
+      "timestamp_end": "00:06:52",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Monetization & Business Models"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eli-schwartz_t4",
+      "title": "How Google AI Overviews came to be",
+      "summary": "Eli walks through ChatGPT\u2019s disruption, Google\u2019s response (Bard, SGE/AI Overviews), and the key constraints: ads monetization, liability, and plagiarism concerns.",
+      "timestamp_start": "00:06:52",
+      "timestamp_end": "00:11:34",
+      "speakers": [
+        "Eli Schwartz",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI in Search",
+        "SEO Strategy",
+        "Monetization & Business Models"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eli-schwartz_t5",
+      "title": "Top-of-funnel discovery gets swallowed by AI",
+      "summary": "They discuss how AI answers change search behavior: not just pushing links down, but making generic discovery queries less valuable for publishers and SEO-driven content.",
+      "timestamp_start": "00:11:34",
+      "timestamp_end": "00:15:31",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Eli Schwartz"
+      ],
+      "themes": [
+        "AI in Search",
+        "SEO Strategy",
+        "User Behavior"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eli-schwartz_t6",
+      "title": "Early impact: not apocalypse yet, but coming",
+      "summary": "Eli explains why traffic impacts haven\u2019t fully shown up yet (limited rollout, rollbacks, algorithm updates masking effects) and which categories will be hit hardest.",
+      "timestamp_start": "00:15:31",
+      "timestamp_end": "00:18:07",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Eli Schwartz"
+      ],
+      "themes": [
+        "AI in Search",
+        "SEO Strategy",
+        "Analytics & Measurement"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eli-schwartz_t7",
+      "title": "Structured vs unstructured answers and SEO disruption",
+      "summary": "Using Lenny\u2019s Hanukkah site example, Eli distinguishes structured data answers from AI\u2019s new ability to summarize unstructured content\u2014where the real disruption happens.",
+      "timestamp_start": "00:18:07",
+      "timestamp_end": "00:20:19",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Eli Schwartz"
+      ],
+      "themes": [
+        "AI in Search",
+        "SEO Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eli-schwartz_t8",
+      "title": "Top vs mid vs bottom funnel search examples",
+      "summary": "Eli gives concrete examples (podcasting tools, CRM) showing AI will handle broad comparison queries, while SEO opportunity shifts to mid/bottom-funnel intent like pricing and capability.",
+      "timestamp_start": "00:20:19",
+      "timestamp_end": "00:22:24",
+      "speakers": [
+        "Eli Schwartz",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "SEO Strategy",
+        "AI in Search",
+        "User Behavior"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eli-schwartz_t9",
+      "title": "What to do now: treat SEO as product",
+      "summary": "Eli argues SEO is a product problem, not a marketing afterthought: product and marketing must collaborate to build experiences for self-discovery users and match real intent.",
+      "timestamp_start": "00:22:24",
+      "timestamp_end": "00:25:57",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Eli Schwartz"
+      ],
+      "themes": [
+        "Product Strategy",
+        "SEO Strategy",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eli-schwartz_t10",
+      "title": "Zapier case study: programmatic integration pages",
+      "summary": "Eli describes early Zapier SEO: users searched for connecting tools (e.g., Gmail + Salesforce), so Zapier built scalable pages showcasing integrations, creating a discovery flywheel.",
+      "timestamp_start": "00:25:57",
+      "timestamp_end": "00:28:12",
+      "speakers": [
+        "Eli Schwartz",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "SEO Strategy",
+        "Product-Led Growth",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eli-schwartz_t11",
+      "title": "Tinder case study: local intent and loneliness problem",
+      "summary": "Eli shares how Tinder approached SEO by mapping the real job-to-be-done (solving loneliness in a new city) and creating city-level pages; AI Overviews don\u2019t replace that mid-funnel need.",
+      "timestamp_start": "00:28:12",
+      "timestamp_end": "00:31:30",
+      "speakers": [
+        "Eli Schwartz",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "SEO Strategy",
+        "Product Strategy",
+        "User Behavior"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eli-schwartz_t12",
+      "title": "Practical steps to start SEO in AI era",
+      "summary": "Eli outlines a 3-step approach: deeply understand the user, decide what asset/product to create (often programmatic), and build it with real product resources (design, eng, research).",
+      "timestamp_start": "00:31:30",
+      "timestamp_end": "00:34:55",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Eli Schwartz"
+      ],
+      "themes": [
+        "SEO Strategy",
+        "Product Strategy",
+        "Product-Led Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eli-schwartz_t13",
+      "title": "When SEO is a bad fit for SaaS",
+      "summary": "They discuss why many SaaS companies struggle with SEO: unclear search intent, long decision cycles, high friction, and committee-based purchasing that doesn\u2019t convert from content.",
+      "timestamp_start": "00:34:55",
+      "timestamp_end": "00:39:16",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Eli Schwartz"
+      ],
+      "themes": [
+        "SEO Strategy",
+        "Go-to-Market",
+        "B2B Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eli-schwartz_t14",
+      "title": "How to evaluate SEO ROI and tradeoffs",
+      "summary": "Eli breaks down SEO\u2019s true costs (people, tools, engineering, content) and urges comparing ROI vs other channels; examples include SurveyMonkey\u2019s freemium fit and a gardening SaaS better served by trade shows.",
+      "timestamp_start": "00:39:16",
+      "timestamp_end": "00:44:22",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Eli Schwartz"
+      ],
+      "themes": [
+        "SEO Strategy",
+        "Go-to-Market",
+        "Monetization & Business Models"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

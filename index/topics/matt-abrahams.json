@@ -1,0 +1,223 @@
+{
+  "episode_id": "matt-abrahams",
+  "topics": [
+    {
+      "topic_id": "matt-abrahams_t1",
+      "title": "Visualization to reduce public speaking anxiety",
+      "summary": "Matt explains visualization as a desensitization tool: mentally rehearse arriving, speaking, audience reactions, and leaving the stage. He notes research support and mentions VR tools that simulate different audience behaviors.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:10:46",
+      "speakers": [
+        "Matt Abrahams",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Public Speaking Anxiety",
+        "Confidence",
+        "Preparation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-abrahams_t2",
+      "title": "Dare to be dull: connection over perfection",
+      "summary": "They discuss reducing self-judgment by aiming for connection rather than flawless performance. Matt frames it as an improv-inspired mindset that frees cognitive bandwidth and often improves results.",
+      "timestamp_start": "00:10:57",
+      "timestamp_end": "00:13:40",
+      "speakers": [
+        "Matt Abrahams",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Mindset",
+        "Confidence",
+        "Communication Skills"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-abrahams_t3",
+      "title": "Reframe nerves as excitement",
+      "summary": "Matt shares cognitive reframing research: anxiety and excitement feel similar physiologically, but labeling the arousal as excitement can improve performance and perceived communication quality.",
+      "timestamp_start": "00:13:40",
+      "timestamp_end": "00:16:12",
+      "speakers": [
+        "Matt Abrahams",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Public Speaking Anxiety",
+        "Mindset",
+        "Confidence"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-abrahams_t4",
+      "title": "Mantras and managing negative self-talk",
+      "summary": "They cover using short mantras (e.g., \"I have value to add,\" \"It\u2019s not about me\") to counter internal criticism. Matt also discusses personifying the inner critic and normalizing anxiety as common.",
+      "timestamp_start": "00:16:12",
+      "timestamp_end": "00:23:13",
+      "speakers": [
+        "Matt Abrahams",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Mindset",
+        "Public Speaking Anxiety",
+        "Confidence"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-abrahams_t5",
+      "title": "Distract and convert presenting into conversation",
+      "summary": "Matt describes tactics to get through the most anxious moments (right before and first minute of speaking), such as starting with a question, video, or facilitated discussion to shift from presenting to conversing.",
+      "timestamp_start": "00:23:13",
+      "timestamp_end": "00:24:54",
+      "speakers": [
+        "Matt Abrahams",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Public Speaking Anxiety",
+        "Communication Skills",
+        "Audience Engagement"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-abrahams_t6",
+      "title": "Breathing techniques and embodied cognition",
+      "summary": "They discuss how body state influences mind state, and Matt explains breathing methods emphasizing longer exhales (rule of lung) to trigger relaxation and improve voice control.",
+      "timestamp_start": "00:24:54",
+      "timestamp_end": "00:28:39",
+      "speakers": [
+        "Matt Abrahams",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Public Speaking Anxiety",
+        "Confidence",
+        "Communication Skills"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-abrahams_t7",
+      "title": "Tongue twisters, warmups, and strategic swearing",
+      "summary": "Matt shares presence-building warmups like tongue twisters to focus attention and warm the voice, including a live example. He also mentions research that swearing can blunt anxiety (with caveats about context).",
+      "timestamp_start": "00:28:39",
+      "timestamp_end": "00:32:05",
+      "speakers": [
+        "Matt Abrahams",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Public Speaking Anxiety",
+        "Preparation",
+        "Communication Skills"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-abrahams_t8",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Coda (and earlier: Sprig and Dovetail) describing product offerings and promotional links/credits.",
+      "timestamp_start": "00:02:29",
+      "timestamp_end": "00:33:34",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-abrahams_t9",
+      "title": "Why spontaneous speaking matters and is learnable",
+      "summary": "They transition to on-the-spot speaking: Matt argues most speaking is spontaneous, that anyone can improve, and that you must \"prepare to be spontaneous\" through practice and mindset work.",
+      "timestamp_start": "00:33:34",
+      "timestamp_end": "00:36:14",
+      "speakers": [
+        "Matt Abrahams",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Spontaneous Speaking",
+        "Preparation",
+        "Communication Skills"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-abrahams_t10",
+      "title": "Using structure to think and speak clearly",
+      "summary": "Matt explains why lists fail under pressure and how simple structures reduce cognitive load by separating \"what to say\" from \"how to say it.\" They introduce common frameworks like problem-solution-benefit.",
+      "timestamp_start": "00:36:14",
+      "timestamp_end": "00:38:33",
+      "speakers": [
+        "Matt Abrahams",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Spontaneous Speaking",
+        "Communication Skills",
+        "Clarity"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-abrahams_t11",
+      "title": "Practical frameworks: PREP and What-So what-Now what",
+      "summary": "They discuss specific structures for product/work contexts: PREP (Point, Reason, Example, Point) and What/So what/Now what for updates, features, and recommendations.",
+      "timestamp_start": "00:38:33",
+      "timestamp_end": "00:40:05",
+      "speakers": [
+        "Matt Abrahams",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Spontaneous Speaking",
+        "Communication Skills",
+        "Clarity"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-abrahams_t12",
+      "title": "Remembering structures: practice, reflection, feedback",
+      "summary": "Matt advises naming frameworks with mnemonics and building reps by summarizing content using the structures and analyzing others\u2019 communication. He emphasizes improvement requires repetition, reflection, and feedback.",
+      "timestamp_start": "00:40:05",
+      "timestamp_end": "00:42:09",
+      "speakers": [
+        "Matt Abrahams",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Preparation",
+        "Communication Skills",
+        "Spontaneous Speaking"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-abrahams_t13",
+      "title": "Where to practice: Toastmasters and improv",
+      "summary": "Matt recommends Toastmasters for structured repetition and improv for presence and collaboration (not comedy). He positions both as accessible ways to practice spontaneous speaking skills.",
+      "timestamp_start": "00:42:09",
+      "timestamp_end": "00:43:04",
+      "speakers": [
+        "Matt Abrahams",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Preparation",
+        "Spontaneous Speaking",
+        "Communication Skills"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

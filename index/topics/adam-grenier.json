@@ -1,0 +1,207 @@
+{
+  "episode_id": "adam-grenier",
+  "topics": [
+    {
+      "topic_id": "adam-grenier_t1",
+      "title": "Introduction and Background",
+      "summary": "Adam shares his core advice for marketing in changing economic conditions (assume PMF has shifted), and Lenny introduces the show and Adam\u2019s background across Uber, Lambda School, and MasterClass.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:05:16",
+      "speakers": [
+        "Adam Grenier",
+        "Lenny"
+      ],
+      "themes": [
+        "Marketing",
+        "Startups",
+        "Product Strategy"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "adam-grenier_t2",
+      "title": "Improv experience and career phases",
+      "summary": "Adam describes his history with improv (Second City, ImprovOlympic), why he kept it as a hobby, and how it complements his professional life.",
+      "timestamp_start": "00:05:16",
+      "timestamp_end": "00:06:51",
+      "speakers": [
+        "Adam Grenier",
+        "Lenny"
+      ],
+      "themes": [
+        "Career",
+        "Personal Development",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "adam-grenier_t3",
+      "title": "Improv principles applied to business collaboration",
+      "summary": "They discuss how improv skills translate to work\u2014especially \u201cYes, and\u2026\u201d and \u201cgift of details\u201d\u2014and how these improve cross-functional collaboration and communication.",
+      "timestamp_start": "00:06:51",
+      "timestamp_end": "00:12:47",
+      "speakers": [
+        "Adam Grenier",
+        "Lenny"
+      ],
+      "themes": [
+        "Leadership",
+        "Communication",
+        "Teamwork"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "adam-grenier_t4",
+      "title": "Why teams should take improv classes",
+      "summary": "Adam recommends improv 101 as a practical way to build adaptability and openness, and suggests making collaboration behaviors explicit team goals with accountability.",
+      "timestamp_start": "00:12:47",
+      "timestamp_end": "00:13:15",
+      "speakers": [
+        "Adam Grenier",
+        "Lenny"
+      ],
+      "themes": [
+        "Leadership",
+        "Teamwork",
+        "Personal Development"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "adam-grenier_t5",
+      "title": "Framework for evaluating emerging acquisition channels",
+      "summary": "Adam outlines a three-part framework: (1) overlap of customer needs, company goals, and channel strengths; (2) channel DNA (maturity, risk, and monetization); (3) company DNA (risk tolerance and existing channel mix).",
+      "timestamp_start": "00:13:15",
+      "timestamp_end": "00:25:40",
+      "speakers": [
+        "Adam Grenier",
+        "Lenny"
+      ],
+      "themes": [
+        "Marketing",
+        "Growth",
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "adam-grenier_t6",
+      "title": "How to test new channels effectively",
+      "summary": "They cover practical testing guidance: start small, define success signals upfront, avoid letting tests drag past a quarter, and look for directional momentum when measurement is imperfect.",
+      "timestamp_start": "00:25:40",
+      "timestamp_end": "00:30:16",
+      "speakers": [
+        "Adam Grenier",
+        "Lenny"
+      ],
+      "themes": [
+        "Growth",
+        "Experimentation",
+        "Marketing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "adam-grenier_t7",
+      "title": "Promising channels: OTT, influencers, VR, podcasts",
+      "summary": "Adam shares which channels he finds most interesting now (OTT/streaming TV, influencer marketing, VR in limited cases, and podcasts\u2014especially for B2B) and why each may or may not scale.",
+      "timestamp_start": "00:30:17",
+      "timestamp_end": "00:34:01",
+      "speakers": [
+        "Adam Grenier",
+        "Lenny"
+      ],
+      "themes": [
+        "Marketing",
+        "Growth",
+        "Channels"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "adam-grenier_t8",
+      "title": "Sponsor Break",
+      "summary": "Mid-roll sponsor segment featuring Amplitude, discussing product analytics, experimentation, and CDP capabilities supporting the product loop.",
+      "timestamp_start": "00:34:01",
+      "timestamp_end": "00:35:01",
+      "speakers": [
+        "Lenny",
+        "John Cutler"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "adam-grenier_t9",
+      "title": "Emerging channel hit rate and influencer tools",
+      "summary": "Adam estimates truly new channels only work ~5% of the time, notes higher success with newly-scalable or newly-changed channels, and briefly mentions influencer tooling (e.g., Grin) while noting the workflow remains manual.",
+      "timestamp_start": "00:35:01",
+      "timestamp_end": "00:37:55",
+      "speakers": [
+        "Adam Grenier",
+        "Lenny"
+      ],
+      "themes": [
+        "Marketing",
+        "Growth",
+        "Tools"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "adam-grenier_t10",
+      "title": "Crossing the chasm and shifting product-market fit",
+      "summary": "They discuss how early adopters differ from mainstream users, why many teams mis-define TAM vs PMF, and Adam\u2019s advice to reassess PMF during market/economic shifts rather than reflexively adding new channels.",
+      "timestamp_start": "00:37:55",
+      "timestamp_end": "00:41:21",
+      "speakers": [
+        "Adam Grenier",
+        "Lenny"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Startups",
+        "Marketing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "adam-grenier_t11",
+      "title": "Defining the Growth CMO role",
+      "summary": "Adam explains why traditional CMOs often fail at product-led companies and defines a Growth CMO as tightly coupled with product, iterative in approach (even on brand), and oriented around compounding learning loops.",
+      "timestamp_start": "00:41:21",
+      "timestamp_end": "00:44:05",
+      "speakers": [
+        "Adam Grenier",
+        "Lenny"
+      ],
+      "themes": [
+        "Leadership",
+        "Marketing",
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "adam-grenier_t12",
+      "title": "Growth CMO attributes: data, agility, experimentation",
+      "summary": "Adam details key traits: data-driven measurement beyond direct response, agile iteration across the funnel (including brand), and broad experimentation; he also argues marketing and product are now inseparable in modern software companies.",
+      "timestamp_start": "00:44:05",
+      "timestamp_end": "00:47:53",
+      "speakers": [
+        "Adam Grenier",
+        "Lenny"
+      ],
+      "themes": [
+        "Leadership",
+        "Marketing",
+        "Growth"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

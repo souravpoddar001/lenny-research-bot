@@ -1,0 +1,251 @@
+{
+  "episode_id": "melissa",
+  "topics": [
+    {
+      "topic_id": "melissa_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Melissa Perri\u2019s experience across thousands of PMs and many companies, and Melissa shares what she focuses on now: teaching (Harvard, Product Institute), CPO Accelerator, and writing a new book on Product Operations.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:06:44",
+      "speakers": [
+        "Melissa Perri",
+        "Lenny"
+      ],
+      "themes": [
+        "Career & Growth",
+        "Product Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "melissa_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Amplitude and Revenuecat, covering analytics, experimentation, CDP capabilities, and subscription infrastructure/metrics for mobile and web apps.",
+      "timestamp_start": "00:01:11",
+      "timestamp_end": "00:03:00",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "melissa_t3",
+      "title": "Common product org problems at scale-ups",
+      "summary": "Melissa explains that many SaaS companies struggle most at the post\u2013product-market-fit scale-up phase: moving from single product to multi-product, managing a portfolio, prioritizing amid endless requests, and deploying a coherent strategy across a growing org.",
+      "timestamp_start": "00:06:44",
+      "timestamp_end": "00:09:44",
+      "speakers": [
+        "Melissa Perri",
+        "Lenny"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Scaling Product Teams",
+        "Prioritization"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "melissa_t4",
+      "title": "When it\u2019s time to hire a CPO",
+      "summary": "They discuss signals a company needs a CPO: executives/board lack visibility into product progress, teams can\u2019t connect work to strategy, PMs are frustrated by missing direction, and hiring/training gaps emerge as the org grows.",
+      "timestamp_start": "00:09:44",
+      "timestamp_end": "00:12:23",
+      "speakers": [
+        "Melissa Perri",
+        "Lenny"
+      ],
+      "themes": [
+        "Product Leadership",
+        "Org Design",
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "melissa_t5",
+      "title": "CPO timing: PM count, complexity, scope",
+      "summary": "Melissa shares practical heuristics (e.g., ARR and portfolio complexity) and notes CPO scope often includes design, product ops, analytics, and sometimes engineering\u2014so the need depends on organizational complexity, not just PM headcount.",
+      "timestamp_start": "00:12:23",
+      "timestamp_end": "00:14:28",
+      "speakers": [
+        "Melissa Perri",
+        "Lenny"
+      ],
+      "themes": [
+        "Scaling Product Teams",
+        "Product Leadership",
+        "Org Design"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "melissa_t6",
+      "title": "VP/Head of Product vs CPO responsibilities",
+      "summary": "Melissa distinguishes functional product leadership (process, roadmaps, coaching) from executive-level CPO work (board communication, financial fluency, roadmap-to-revenue projection, cross-exec alignment, and broader functional oversight).",
+      "timestamp_start": "00:14:28",
+      "timestamp_end": "00:16:12",
+      "speakers": [
+        "Melissa Perri",
+        "Lenny"
+      ],
+      "themes": [
+        "Product Leadership",
+        "Career & Growth"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "melissa_t7",
+      "title": "When to bring in consultants or interim CPOs",
+      "summary": "Melissa explains when outside help is useful (uncertainty about what leader to hire, transformations, urgent scaling needs) and emphasizes success requires leadership ownership and willingness to make hard changes; consulting can\u2019t substitute for executive action.",
+      "timestamp_start": "00:16:12",
+      "timestamp_end": "00:21:26",
+      "speakers": [
+        "Melissa Perri",
+        "Lenny"
+      ],
+      "themes": [
+        "Product Leadership",
+        "Change Management",
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "melissa_t8",
+      "title": "Signs your company lacks a real strategy",
+      "summary": "Melissa outlines symptoms: teams working nonstop but metrics don\u2019t move, product feels like a black box to executives, strategy lives only in heads, and there\u2019s a \u201cmissing middle\u201d between company goals and team-level work causing thinly spread initiatives.",
+      "timestamp_start": "00:21:26",
+      "timestamp_end": "00:26:16",
+      "speakers": [
+        "Melissa Perri",
+        "Lenny"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Execution",
+        "Metrics & Measurement"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "melissa_t9",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Makelog, a tool to turn shipped work from systems like Linear/GitHub into bite-sized updates distributed via in-app, Slack, email, and social channels.",
+      "timestamp_start": "00:26:16",
+      "timestamp_end": "00:27:20",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "melissa_t10",
+      "title": "What good strategy deployment looks like",
+      "summary": "Melissa proposes a simple test: ask teams what they\u2019re doing and why\u2014everyone should tell a consistent story linking tactics to customer value and business outcomes; strong strategy also reduces stakeholder infighting via shared priorities and objective trade-offs.",
+      "timestamp_start": "00:27:20",
+      "timestamp_end": "00:29:57",
+      "speakers": [
+        "Melissa Perri",
+        "Lenny"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Alignment",
+        "Stakeholder Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "melissa_t11",
+      "title": "Strategy artifacts: two-pagers across levels",
+      "summary": "They discuss lightweight documentation: executive strategic intents, product initiatives, and team-level solution options, each captured in short memos (1\u20132 pages) and linked in a wiki/docs so context flows up and down the strategy tree.",
+      "timestamp_start": "00:29:57",
+      "timestamp_end": "00:33:29",
+      "speakers": [
+        "Melissa Perri",
+        "Lenny"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Communication",
+        "Operating Cadence"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "melissa_t12",
+      "title": "Creating product vision: writing plus visuals",
+      "summary": "Melissa recommends combining narrative writing with visual aids (prototypes, diagrams, ecosystem maps) to make the vision tangible and align stakeholders; designers can dramatically improve clarity and shared understanding.",
+      "timestamp_start": "00:33:29",
+      "timestamp_end": "00:36:02",
+      "speakers": [
+        "Melissa Perri",
+        "Lenny"
+      ],
+      "themes": [
+        "Product Vision",
+        "Communication",
+        "Design Collaboration"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "melissa_t13",
+      "title": "How to get better at product vision",
+      "summary": "Melissa advises making visions concrete (not taglines), sufficiently ambitious, clearly differentiated from competitors, and explicit about what the company won\u2019t do; she suggests brainstorming in writing to surface differentiation and target customers/value.",
+      "timestamp_start": "00:36:02",
+      "timestamp_end": "00:38:33",
+      "speakers": [
+        "Melissa Perri",
+        "Lenny"
+      ],
+      "themes": [
+        "Product Vision",
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "melissa_t14",
+      "title": "How PMs build strategic thinking skills",
+      "summary": "Melissa suggests practicing by \u201cthinking like the CPO,\u201d learning leaders\u2019 decision processes, talking to sales/finance/other functions, and grounding strategy in data and customer research\u2014making informed bets and iterating when wrong.",
+      "timestamp_start": "00:38:33",
+      "timestamp_end": "00:43:54",
+      "speakers": [
+        "Melissa Perri",
+        "Lenny"
+      ],
+      "themes": [
+        "Career & Growth",
+        "Product Strategy",
+        "Cross-functional Collaboration"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "melissa_t15",
+      "title": "Preview: Product Operations and scaling issues",
+      "summary": "Melissa previews why Product Ops matters: as orgs scale, inconsistent roadmaps/processes, missing career ladders, and meeting overload create friction; Product Ops helps standardize and enable teams so strategy and execution scale.",
+      "timestamp_start": "00:43:54",
+      "timestamp_end": "00:44:55",
+      "speakers": [
+        "Melissa Perri",
+        "Lenny"
+      ],
+      "themes": [
+        "Product Operations",
+        "Scaling Product Teams",
+        "Org Design"
+      ],
+      "quote_count": 0
+    }
+  ]
+}

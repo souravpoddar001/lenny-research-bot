@@ -1,0 +1,287 @@
+{
+  "episode_id": "shweta-shriva",
+  "topics": [
+    {
+      "topic_id": "shweta-shriva_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Shweta Shrivastava, her background (Waymo, Nauto, AWS, Cisco), and what the episode will cover about building self-driving products and teams.",
+      "timestamp_start": "00:00:20",
+      "timestamp_end": "00:01:40",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career",
+        "Autonomous Vehicles",
+        "Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "shweta-shriva_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Vanta (security compliance automation) and Public.com (treasury accounts).",
+      "timestamp_start": "00:01:40",
+      "timestamp_end": "00:03:47",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "shweta-shriva_t3",
+      "title": "Shweta\u2019s scope at Waymo",
+      "summary": "Shweta explains her org\u2019s three areas: onboard autonomy software (behavior/trajectory), simulation/validation tooling, and scaling the ride-hailing business.",
+      "timestamp_start": "00:03:47",
+      "timestamp_end": "00:04:34",
+      "speakers": [
+        "Lenny",
+        "Shweta Shrivastava"
+      ],
+      "themes": [
+        "Autonomous Vehicles",
+        "Product Strategy",
+        "Execution"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "shweta-shriva_t4",
+      "title": "Lenny\u2019s Waymo ride experience in SF",
+      "summary": "Lenny recounts taking a driverless Waymo ride in rainy San Francisco and how quickly the experience felt normal, setting context for product questions.",
+      "timestamp_start": "00:04:34",
+      "timestamp_end": "00:05:30",
+      "speakers": [
+        "Lenny",
+        "Shweta Shrivastava"
+      ],
+      "themes": [
+        "Autonomous Vehicles",
+        "User Experience",
+        "Product Feedback"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "shweta-shriva_t5",
+      "title": "Car \u201cbody language\u201d and social driving norms",
+      "summary": "They discuss how Waymo learns human-like driving cues (e.g., inching to merge) using human driving data and deep learning, including interpreting intent and adapting to local social norms.",
+      "timestamp_start": "00:05:30",
+      "timestamp_end": "00:08:14",
+      "speakers": [
+        "Lenny",
+        "Shweta Shrivastava"
+      ],
+      "themes": [
+        "Autonomous Vehicles",
+        "Machine Learning",
+        "User Experience"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "shweta-shriva_t6",
+      "title": "How Waymo PM differs from software PM",
+      "summary": "Shweta contrasts Waymo with traditional software: deeper technical complexity, higher ambiguity, long time horizons, mission-driven culture, and a much higher MVP safety bar.",
+      "timestamp_start": "00:08:14",
+      "timestamp_end": "00:11:03",
+      "speakers": [
+        "Lenny",
+        "Shweta Shrivastava"
+      ],
+      "themes": [
+        "Product Management",
+        "Safety",
+        "Career"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "shweta-shriva_t7",
+      "title": "Designing trust in fully driverless rides",
+      "summary": "Shweta explains Waymo\u2019s design philosophy for credibility and predictability, why rides feel \u201cuneventful\u201d after minutes, and how transparency/support features build rider trust.",
+      "timestamp_start": "00:11:03",
+      "timestamp_end": "00:13:57",
+      "speakers": [
+        "Lenny",
+        "Shweta Shrivastava"
+      ],
+      "themes": [
+        "User Experience",
+        "Safety",
+        "Autonomous Vehicles"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "shweta-shriva_t8",
+      "title": "Small behavior details that increase comfort",
+      "summary": "They cover how many small choices create trust, including strict speed-limit adherence and tuning behavior (e.g., slowing on downhill slopes) to match human expectations.",
+      "timestamp_start": "00:13:57",
+      "timestamp_end": "00:15:45",
+      "speakers": [
+        "Lenny",
+        "Shweta Shrivastava"
+      ],
+      "themes": [
+        "User Experience",
+        "Autonomous Vehicles",
+        "Safety"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "shweta-shriva_t9",
+      "title": "Waymo KPIs: commercial, ops, and driving performance",
+      "summary": "Shweta outlines metric categories: ride-hailing funnel/commercial and operational costs, plus driver performance metrics spanning safety, compliance, progress, and minimizing stops/strands.",
+      "timestamp_start": "00:15:45",
+      "timestamp_end": "00:19:28",
+      "speakers": [
+        "Lenny",
+        "Shweta Shrivastava"
+      ],
+      "themes": [
+        "Metrics",
+        "Autonomous Vehicles",
+        "Operations"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "shweta-shriva_t10",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Element (electrolyte drink mix).",
+      "timestamp_start": "00:19:28",
+      "timestamp_end": "00:20:38",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "shweta-shriva_t11",
+      "title": "L4 vs L5 autonomy and remaining blockers",
+      "summary": "Shweta explains autonomy levels, argues L4 deployments can fulfill most needs without L5, and notes remaining capability gaps like robust snow driving.",
+      "timestamp_start": "00:20:38",
+      "timestamp_end": "00:22:39",
+      "speakers": [
+        "Lenny",
+        "Shweta Shrivastava"
+      ],
+      "themes": [
+        "Autonomous Vehicles",
+        "Product Strategy",
+        "Technology"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "shweta-shriva_t12",
+      "title": "Sustaining long-term investor buy-in",
+      "summary": "They discuss maintaining support for long-horizon bets by showing meaningful progress\u2014especially commercial deployment\u2014while staying focused on real customer value and business fundamentals.",
+      "timestamp_start": "00:22:39",
+      "timestamp_end": "00:25:24",
+      "speakers": [
+        "Lenny",
+        "Shweta Shrivastava"
+      ],
+      "themes": [
+        "Leadership",
+        "Product Strategy",
+        "Business"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "shweta-shriva_t13",
+      "title": "Cross-company product and team lessons",
+      "summary": "Shweta shares core PM principles: work backwards from customer problems (e.g., Amazon PR/FAQ), be explicit about what not to build, and disrupt yourself to avoid the innovator\u2019s dilemma (example: Amazon Honeycode).",
+      "timestamp_start": "00:25:24",
+      "timestamp_end": "00:29:33",
+      "speakers": [
+        "Lenny",
+        "Shweta Shrivastava"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Product Management",
+        "Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "shweta-shriva_t14",
+      "title": "Underrated PM skills: listening, empathy, assumptions",
+      "summary": "They explore why listening and empathy are hard but essential, how they\u2019re developed through varied environments, and why challenging your own assumptions is key to real listening.",
+      "timestamp_start": "00:29:33",
+      "timestamp_end": "00:33:05",
+      "speakers": [
+        "Lenny",
+        "Shweta Shrivastava"
+      ],
+      "themes": [
+        "Product Management",
+        "Communication",
+        "Career"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "shweta-shriva_t15",
+      "title": "Getting promoted: focus on impact, not optics",
+      "summary": "Shweta advises that promotions follow visible business impact, not maneuvering; communicate ambition, seek stretching projects, and prioritize outcomes over self-optimization.",
+      "timestamp_start": "00:33:05",
+      "timestamp_end": "00:35:15",
+      "speakers": [
+        "Lenny",
+        "Shweta Shrivastava"
+      ],
+      "themes": [
+        "Career",
+        "Leadership",
+        "Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "shweta-shriva_t16",
+      "title": "Where Waymo operates and how to try it",
+      "summary": "Shweta shares current availability (Phoenix, San Francisco), expansion plans for LA, and how riders can download the app and provide feedback.",
+      "timestamp_start": "00:35:15",
+      "timestamp_end": "00:36:45",
+      "speakers": [
+        "Lenny",
+        "Shweta Shrivastava"
+      ],
+      "themes": [
+        "Autonomous Vehicles",
+        "Go-to-Market",
+        "Product Feedback"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "shweta-shriva_t17",
+      "title": "Lightning round and closing",
+      "summary": "Lightning round covers book recommendations, favorite media, interview question, a desired foldable e-bike, a \u201crule of seven\u201d for ending email threads, and a Waymo ride tip; they close with where to find Shweta and how listeners can help.",
+      "timestamp_start": "00:36:45",
+      "timestamp_end": "00:41:50",
+      "speakers": [
+        "Lenny",
+        "Shweta Shrivastava"
+      ],
+      "themes": [
+        "Career",
+        "Product Management",
+        "Communication"
+      ],
+      "quote_count": 0
+    }
+  ]
+}

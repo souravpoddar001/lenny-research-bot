@@ -1,0 +1,224 @@
+{
+  "episode_id": "dylan-field",
+  "topics": [
+    {
+      "topic_id": "dylan-field_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the first-ever live podcast recording at Figma Config and previews key themes like intuition, simplification, early Figma stories, and AI. Dylan joins on stage and they set the tone with light banter about the live setup.",
+      "timestamp_start": "00:00:02",
+      "timestamp_end": "00:01:45",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dylan Field"
+      ],
+      "themes": [
+        "Podcast Intro"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "dylan-field_t2",
+      "title": "Config highlights and AI conversation kickoff",
+      "summary": "Dylan shares how Config went, what surprised him, and what he\u2019d improve. They discuss the emerging debate: as AI generates more software, design craft and quality become key differentiators, including reactions to \u201cMake Design.\u201d",
+      "timestamp_start": "00:01:45",
+      "timestamp_end": "00:04:10",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dylan Field"
+      ],
+      "themes": [
+        "AI",
+        "Design"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "dylan-field_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages from WorkOS (enterprise auth/authorization) and Anvil (document workflow SDK).",
+      "timestamp_start": "00:04:10",
+      "timestamp_end": "00:06:58",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "dylan-field_t4",
+      "title": "What design means: art applied to problems",
+      "summary": "Dylan unpacks his favorite definition of design as creativity applied to solving real user needs. He argues that losing the \u201cart\u201d makes products soulless, while pure art without problem-solving misses the point of design.",
+      "timestamp_start": "00:06:58",
+      "timestamp_end": "00:08:03",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dylan Field"
+      ],
+      "themes": [
+        "Design"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "dylan-field_t5",
+      "title": "Figma culture: raccoon feet vs muffin hands",
+      "summary": "A humorous detour into an early-Figma lunch-table \u201cwould you rather\u201d debate. They explore the practical implications and absurd edge cases, revealing the team\u2019s playful culture.",
+      "timestamp_start": "00:08:03",
+      "timestamp_end": "00:09:58",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dylan Field"
+      ],
+      "themes": [
+        "Company Culture"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "dylan-field_t6",
+      "title": "Building product taste: intuition as hypotheses",
+      "summary": "Using a Rick Rubin clip as a prompt, Dylan explains intuition as a hypothesis generator that must be debated and tested. He describes how he ingests feedback broadly (social, support, conversations) and how concrete artifacts and data help change his mind (e.g., Pages skepticism).",
+      "timestamp_start": "00:09:58",
+      "timestamp_end": "00:16:15",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dylan Field"
+      ],
+      "themes": [
+        "Product Management",
+        "Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "dylan-field_t7",
+      "title": "The role and future of product management",
+      "summary": "Dylan reacts to the \u201cAirbnb got rid of PMs\u201d narrative and clarifies what great PMs do: create strategy-backed frameworks that align teams. He discusses blurry role boundaries across PM/design/engineering and stays bullish that the functions remain valuable even as everyone learns more of each other\u2019s work.",
+      "timestamp_start": "00:16:15",
+      "timestamp_end": "00:22:20",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dylan Field"
+      ],
+      "themes": [
+        "Product Management",
+        "Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "dylan-field_t8",
+      "title": "Simplification as a product principle at Figma",
+      "summary": "Dylan explains why simplification is hard as products accumulate \u201cirreducible complexity,\u201d and how local good decisions can create a globally messy system. He emphasizes shared responsibility for simplicity and the principle: keep simple things simple, make complex things possible.",
+      "timestamp_start": "00:22:20",
+      "timestamp_end": "00:24:14",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dylan Field"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Design"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "dylan-field_t9",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message from UserTesting about fast feedback and human insights to reduce risk and rework.",
+      "timestamp_start": "00:24:14",
+      "timestamp_end": "00:24:59",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "dylan-field_t10",
+      "title": "Keeping Figma simple and redesign motivations",
+      "summary": "They discuss the constant entropy toward complexity, the recent Figma redesign, and Dylan\u2019s view that simplicity is everyone\u2019s job. Dylan avoids specifics but reinforces the ongoing need to revisit systems as the product grows.",
+      "timestamp_start": "00:24:59",
+      "timestamp_end": "00:26:10",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dylan Field"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Design"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "dylan-field_t11",
+      "title": "Early Figma: long build, shipping, and quality tradeoffs",
+      "summary": "Dylan reflects on taking 3.5 years to launch and lessons learned: ship faster to get feedback, but maintain a bar via tradeoffs among quality, features, and deadlines. He contrasts fast iteration (FigJam, Slides) with slower maturation (Dev Mode) and introduces the idea of a \u201cminimally awesome product.\u201d",
+      "timestamp_start": "00:26:10",
+      "timestamp_end": "00:30:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dylan Field"
+      ],
+      "themes": [
+        "Startup Lessons",
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "dylan-field_t12",
+      "title": "Early growth: influencer graph, feedback, and first customers",
+      "summary": "Dylan shares how he mapped influential designers on Twitter, reached out for coffee, and used their feedback to improve Figma\u2014leading to organic evangelism. He adds stories about deep feedback sessions (including wine) and hands-on customer support with early paying customer Coda/Krypton.",
+      "timestamp_start": "00:30:33",
+      "timestamp_end": "00:35:48",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dylan Field"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Startup Lessons"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "dylan-field_t13",
+      "title": "Spotting trends: websim and generative UI worlds",
+      "summary": "Lenny notes Dylan\u2019s history of early trend recognition and asks what excites him now. Dylan highlights websim (a \u201challucinated internet\u201d), explains how it works, and they demo a playful example plus a FrogJam story that shows generative UI\u2019s creative potential.",
+      "timestamp_start": "00:35:48",
+      "timestamp_end": "00:39:17",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dylan Field"
+      ],
+      "themes": [
+        "AI",
+        "Product Innovation"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "dylan-field_t14",
+      "title": "Scaling as CEO: mentors, responsibility, and lightning round",
+      "summary": "Dylan explains how he\u2019s grown into leadership through mentors, coaches, hires, and learning from anyone (including interns and founders). He reflects on the responsibility of serving the design community, shares how to reach him, answers lightning-round prompts, and closes with the child-actor clip and a final joke about eToys.",
+      "timestamp_start": "00:39:17",
+      "timestamp_end": "00:47:40",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dylan Field",
+        "Speaker 3",
+        "Speaker 5"
+      ],
+      "themes": [
+        "Leadership",
+        "Career"
+      ],
+      "quote_count": 0
+    }
+  ]
+}

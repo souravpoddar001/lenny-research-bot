@@ -1,0 +1,251 @@
+{
+  "episode_id": "ken-norton",
+  "topics": [
+    {
+      "topic_id": "ken-norton_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Ken Norton\u2019s Google product leadership background and current work as an executive coach, plus a preview of topics they\u2019ll cover in the episode.",
+      "timestamp_start": "00:00:22",
+      "timestamp_end": "00:01:05",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career",
+        "Leadership",
+        "Coaching"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "ken-norton_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Amplitude and Lenny\u2019s Job Board.",
+      "timestamp_start": "00:01:05",
+      "timestamp_end": "00:02:18",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ken-norton_t3",
+      "title": "Donut metaphor and remote equivalent",
+      "summary": "They discuss Ken\u2019s famous \u201cbring donuts\u201d PM metaphor as servant leadership, and brainstorm remote-friendly equivalents (including DoorDash donut codes).",
+      "timestamp_start": "00:02:38",
+      "timestamp_end": "00:04:42",
+      "speakers": [
+        "Lenny",
+        "Ken Norton"
+      ],
+      "themes": [
+        "Leadership",
+        "Product Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ken-norton_t4",
+      "title": "What executive coaching is and why Ken coaches",
+      "summary": "Ken defines coaching as a client-led partnership focused on the whole person (not just product), emphasizing listening and curiosity; he shares how his own coach and his GV experience shifted him away from advice-giving toward coaching.",
+      "timestamp_start": "00:04:50",
+      "timestamp_end": "00:09:46",
+      "speakers": [
+        "Lenny",
+        "Ken Norton"
+      ],
+      "themes": [
+        "Coaching",
+        "Leadership",
+        "Career"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ken-norton_t5",
+      "title": "Who seeks coaching and when",
+      "summary": "Ken describes typical clients (senior product leaders and execs) and common triggers like role transitions, career crossroads, and the realization that internal work is needed to level up.",
+      "timestamp_start": "00:09:46",
+      "timestamp_end": "00:11:08",
+      "speakers": [
+        "Lenny",
+        "Ken Norton"
+      ],
+      "themes": [
+        "Coaching",
+        "Career",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ken-norton_t6",
+      "title": "Internal operating system vs skills (driving analogy)",
+      "summary": "Using teaching his son to drive, Ken explains how leadership growth often requires a shift in meaning-making and self-complexity\u2014not just learning tactics\u2014because your role in a complex system changes.",
+      "timestamp_start": "00:11:08",
+      "timestamp_end": "00:15:57",
+      "speakers": [
+        "Lenny",
+        "Ken Norton"
+      ],
+      "themes": [
+        "Leadership",
+        "Coaching",
+        "Personal Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ken-norton_t7",
+      "title": "Leadership unlock: creative versus reactive mindset",
+      "summary": "Ken introduces the core leadership distinction (creative/above-the-line vs reactive/below-the-line), why it\u2019s more effective, and why most leaders still operate reactively due to fear-based default patterns.",
+      "timestamp_start": "00:15:57",
+      "timestamp_end": "00:21:55",
+      "speakers": [
+        "Lenny",
+        "Ken Norton"
+      ],
+      "themes": [
+        "Leadership",
+        "Mindset",
+        "Coaching"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ken-norton_t8",
+      "title": "Reactive postures: approval, rightness, control",
+      "summary": "They unpack how reactive leadership shows up as fear/anxiety and three common postures: seeking approval, needing to be right, and needing control; Ken shares how these can be adaptive early but costly later.",
+      "timestamp_start": "00:21:55",
+      "timestamp_end": "00:27:34",
+      "speakers": [
+        "Lenny",
+        "Ken Norton"
+      ],
+      "themes": [
+        "Leadership",
+        "Mindset",
+        "Personal Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ken-norton_t9",
+      "title": "Shifting from people-pleasing to purpose-led leadership",
+      "summary": "Ken explains why the shift isn\u2019t \u2018stop caring\u2019 but reframing values into a creative mode\u2014e.g., trading immediate likability for long-term admiration\u2014plus how coaching and feedback tools help rewire beliefs.",
+      "timestamp_start": "00:27:34",
+      "timestamp_end": "00:30:55",
+      "speakers": [
+        "Lenny",
+        "Ken Norton"
+      ],
+      "themes": [
+        "Leadership",
+        "Coaching",
+        "Mindset"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ken-norton_t10",
+      "title": "Authentic leadership and career navigation",
+      "summary": "Lenny shares a coaching insight about leveraging strengths; Ken connects this to finding roles/environments that fit your authentic leadership style and moving from external validation to internal purpose.",
+      "timestamp_start": "00:30:55",
+      "timestamp_end": "00:34:55",
+      "speakers": [
+        "Lenny",
+        "Ken Norton"
+      ],
+      "themes": [
+        "Career",
+        "Leadership",
+        "Coaching"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ken-norton_t11",
+      "title": "Coaching vs mentoring and when coaching fits",
+      "summary": "They distinguish coaching (finding your way) from mentorship (concrete advice), and Ken explains coaching is most useful once you\u2019ve mastered basics and need deeper internal transformation.",
+      "timestamp_start": "00:34:55",
+      "timestamp_end": "00:37:50",
+      "speakers": [
+        "Lenny",
+        "Ken Norton"
+      ],
+      "themes": [
+        "Coaching",
+        "Career",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ken-norton_t12",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Unit (banking-as-a-service).",
+      "timestamp_start": "00:37:50",
+      "timestamp_end": "00:38:51",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "ken-norton_t13",
+      "title": "Finding coaching without a coach: self-work and resources",
+      "summary": "Ken argues coaching can be more accessible than people think and doesn\u2019t require domain experience; he suggests self-coaching, values work, coach-like mentors/managers, and recommends books/resources (Dare to Lead, 15 Commitments, Mastering Leadership, Immunity to Change).",
+      "timestamp_start": "00:38:51",
+      "timestamp_end": "00:43:52",
+      "speakers": [
+        "Lenny",
+        "Ken Norton"
+      ],
+      "themes": [
+        "Coaching",
+        "Personal Growth",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ken-norton_t14",
+      "title": "Common PM blind spot: people over product",
+      "summary": "Ken says senior product leadership challenges are mostly people problems (influence, collaboration, difficult personalities, vision); he urges PMs to treat \u2018soft skills\u2019 as core craft and train them like any other skill.",
+      "timestamp_start": "00:43:52",
+      "timestamp_end": "00:49:07",
+      "speakers": [
+        "Lenny",
+        "Ken Norton"
+      ],
+      "themes": [
+        "Product Management",
+        "Leadership",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ken-norton_t15",
+      "title": "Transition to imposter syndrome discussion (cut off)",
+      "summary": "Lenny tees up imposter syndrome as a recurring coaching theme and begins asking what Ken advises, but the transcript ends mid-question.",
+      "timestamp_start": "00:49:07",
+      "timestamp_end": "00:49:07",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Mindset",
+        "Coaching",
+        "Personal Growth"
+      ],
+      "quote_count": 2
+    }
+  ]
+}

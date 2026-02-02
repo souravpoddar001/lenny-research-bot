@@ -1,0 +1,211 @@
+{
+  "episode_id": "vijay",
+  "topics": [
+    {
+      "topic_id": "vijay_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Vijay Iyengar, his engineering-to-product leadership path, and frames the episode around Mixpanel\u2019s product journey and lessons from refocusing on a core analytics product.",
+      "timestamp_start": "00:00:40",
+      "timestamp_end": "00:03:57",
+      "speakers": [
+        "Lenny",
+        "Vijay"
+      ],
+      "themes": [
+        "Career",
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "vijay_t2",
+      "title": "Unlearning the engineer instinct to say no",
+      "summary": "Vijay explains how engineering experience can create a reflexive \u201chard no\u201d to new ideas, and shares a practice for product leadership: sincerely try to make \u201cyes\u201d work first, then arrive at \u201cno\u201d with evidence.",
+      "timestamp_start": "00:03:57",
+      "timestamp_end": "00:06:26",
+      "speakers": [
+        "Lenny",
+        "Vijay"
+      ],
+      "themes": [
+        "Leadership",
+        "Product Mindset"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "vijay_t3",
+      "title": "Mixpanel\u2019s expansion, churn crisis, and refocus",
+      "summary": "Vijay recounts Mixpanel\u2019s early differentiation (Arb database), expansion into messaging and data infrastructure, and the 2018 realization that spreading engineering across categories led to major churn and competitive losses\u2014prompting a hard refocus on core analytics.",
+      "timestamp_start": "00:06:26",
+      "timestamp_end": "00:11:52",
+      "speakers": [
+        "Lenny",
+        "Vijay"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Company Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "vijay_t4",
+      "title": "Churn-driven roadmap and shipping to close gaps",
+      "summary": "They discuss the post-refocus execution approach: using churn reasons grouped by ARR to define the top problems to solve, giving engineers direct customer access, and optimizing for speed to regain retention and win-rate.",
+      "timestamp_start": "00:11:52",
+      "timestamp_end": "00:13:49",
+      "speakers": [
+        "Lenny",
+        "Vijay"
+      ],
+      "themes": [
+        "Prioritization",
+        "Execution"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "vijay_t5",
+      "title": "Design-led product architecture and consistency push",
+      "summary": "Vijay explains how rapid feature shipping created UX/architecture inconsistencies and diminishing returns, leading to a parallel design-led stream focused on system building blocks, discoverability, and reusable interaction patterns\u2014driving major NPS and retention gains.",
+      "timestamp_start": "00:13:49",
+      "timestamp_end": "00:17:02",
+      "speakers": [
+        "Lenny",
+        "Vijay"
+      ],
+      "themes": [
+        "Design",
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "vijay_t6",
+      "title": "When to expand beyond the core product",
+      "summary": "Vijay shares lessons from Mixpanel\u2019s multi-product era: don\u2019t pull people from the core; keep out-investing competitors in the core and fund adjacencies with profits; avoid entering separate categories where you\u2019ll be the \u201c6th best\u201d tool; and recognize how painful it is to unwind mild successes.",
+      "timestamp_start": "00:17:02",
+      "timestamp_end": "00:19:50",
+      "speakers": [
+        "Lenny",
+        "Vijay"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Company Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "vijay_t7",
+      "title": "How Mixpanel plans: bets, horizons, and artifacts",
+      "summary": "Vijay describes Mixpanel\u2019s six-month planning cycle organized around long-lived customer problems, using \u201cbets\u201d (problem, hypothesis, plan, measure) and a high-bandwidth leadership-in-the-room ideation process, producing linked Notion, slides, and staffing/sequencing artifacts.",
+      "timestamp_start": "00:19:50",
+      "timestamp_end": "00:23:54",
+      "speakers": [
+        "Lenny",
+        "Vijay"
+      ],
+      "themes": [
+        "Planning",
+        "Product Operations"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "vijay_t8",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for lemon.io, a service matching startups with vetted senior developers quickly, including a listener discount.",
+      "timestamp_start": "00:23:54",
+      "timestamp_end": "00:25:08",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "vijay_t9",
+      "title": "Prioritization: RICE pitfalls and appetite thinking",
+      "summary": "Vijay critiques RICE\u2019s tendency to penalize innovative ideas via confidence/effort, recommending teams sit with high reach/impact concepts longer to find feasible paths; he also discusses \u201cappetite over estimates\u201d (Shape Up-inspired) and using time-box variants to force scope clarity.",
+      "timestamp_start": "00:25:08",
+      "timestamp_end": "00:30:01",
+      "speakers": [
+        "Lenny",
+        "Vijay"
+      ],
+      "themes": [
+        "Prioritization",
+        "Execution"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "vijay_t10",
+      "title": "Keeping teams close to customers with open feedback feeds",
+      "summary": "Vijay explains Mixpanel\u2019s open, no-gatekeeper system piping customer gaps and other signals into Slack/Notion, enabling engineers and designers to directly contact customers with context (ARR/CSM) while building the organizational muscle to avoid overreacting to noisy feedback.",
+      "timestamp_start": "00:30:01",
+      "timestamp_end": "00:33:20",
+      "speakers": [
+        "Lenny",
+        "Vijay"
+      ],
+      "themes": [
+        "Customer Research",
+        "Product Operations"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "vijay_t11",
+      "title": "Tooling stack and data stack as productivity unlock",
+      "summary": "They cover Mixpanel\u2019s standard collaboration tools (Slack, Zoom, Notion, Figma) and emphasize the internal leverage from a warehouse-centered data stack (BigQuery + modeling + reverse ETL via Census) to build lightweight internal tools and enrich workflows.",
+      "timestamp_start": "00:33:20",
+      "timestamp_end": "00:34:51",
+      "speakers": [
+        "Lenny",
+        "Vijay"
+      ],
+      "themes": [
+        "Product Operations",
+        "Data"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "vijay_t12",
+      "title": "What most teams get wrong in product analytics setup",
+      "summary": "Vijay argues client-side SDK tracking often causes data loss, duplication, and versioning issues\u2014especially on web and mobile\u2014and recommends defaulting to server-side event tracking for reliability, cross-platform consistency, and easier maintenance.",
+      "timestamp_start": "00:34:53",
+      "timestamp_end": "00:37:34",
+      "speakers": [
+        "Lenny",
+        "Vijay"
+      ],
+      "themes": [
+        "Analytics",
+        "Data"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "vijay_t13",
+      "title": "Where analytics is going: warehouses and event models",
+      "summary": "Vijay outlines trends: the data warehouse becoming the center of gravity, events as a universal model across product/marketing/sales/support, and the need for tools optimized for event exploration on trusted warehouse data\u2014plus Mixpanel\u2019s approach via tighter integrations with reverse ETL tools.",
+      "timestamp_start": "00:37:34",
+      "timestamp_end": "00:40:11",
+      "speakers": [
+        "Lenny",
+        "Vijay"
+      ],
+      "themes": [
+        "Analytics",
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    }
+  ]
+}

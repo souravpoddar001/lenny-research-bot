@@ -1,0 +1,227 @@
+{
+  "episode_id": "emily-kramer",
+  "topics": [
+    {
+      "topic_id": "emily-kramer_t1",
+      "title": "Fuel and engine framing for marketing",
+      "summary": "Emily reframes marketing as two parts: \"fuel\" (the valuable things you create like messaging, content, design) and an \"engine\" (distribution, tracking, ops). She explains the core diagnostic: identify whether growth is constrained by fuel or engine.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:37",
+      "speakers": [
+        "Emily Kramer",
+        "Lenny"
+      ],
+      "themes": [
+        "Marketing Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "emily-kramer_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the show and Emily Kramer\u2019s background building marketing teams at Asana, Carta, Ticketfly, and Astro, plus what listeners will learn. Sponsor mention with Amplitude lead-in follows.",
+      "timestamp_start": "00:00:37",
+      "timestamp_end": "00:02:01",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career & Background"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "emily-kramer_t3",
+      "title": "Sponsor: Amplitude product loop and new tools",
+      "summary": "John Cutler explains Amplitude\u2019s expansion from analytics into experimentation and CDP, driven by supporting the full product loop and customer usage patterns. Lenny closes with a CTA to amplitude.com.",
+      "timestamp_start": "00:02:01",
+      "timestamp_end": "00:02:48",
+      "speakers": [
+        "Lenny",
+        "John Cutler"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "emily-kramer_t4",
+      "title": "Sponsor: Lenny\u2019s Jobs talent marketplace",
+      "summary": "Lenny promotes the hiring marketplace for product and growth roles, describing the vetting process and how candidates can join anonymously. CTA to lenny\u2019sjobs.com/talent.",
+      "timestamp_start": "00:02:48",
+      "timestamp_end": "00:03:25",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "emily-kramer_t5",
+      "title": "Emily\u2019s career overview and MKT1 plug",
+      "summary": "Emily summarizes her path building B2B startup marketing functions and her current work advising and investing. She plugs MKT1, Market 1 Capital, and her website hub for resources.",
+      "timestamp_start": "00:03:25",
+      "timestamp_end": "00:05:42",
+      "speakers": [
+        "Lenny",
+        "Emily Kramer"
+      ],
+      "themes": [
+        "Career & Background"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "emily-kramer_t6",
+      "title": "Common mistakes hiring early marketing roles",
+      "summary": "Emily explains why marketing hiring is confusing even for marketers and highlights a key mistake: hiring someone misaligned with what the startup needs most. She argues business model experience (PLG vs enterprise/top-down sales) matters more than industry/audience familiarity.",
+      "timestamp_start": "00:06:09",
+      "timestamp_end": "00:09:10",
+      "speakers": [
+        "Lenny",
+        "Emily Kramer"
+      ],
+      "themes": [
+        "Hiring & Team Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "emily-kramer_t7",
+      "title": "Fuel vs engine: diagnosing constraints and examples",
+      "summary": "Emily details what counts as fuel (positioning, messaging, web copy, content assets) versus engine (channels, distribution, lifecycle systems, ops), noting many activities contain both. She gives heuristics to diagnose which side is broken and how that informs the first hire.",
+      "timestamp_start": "00:09:10",
+      "timestamp_end": "00:16:20",
+      "speakers": [
+        "Lenny",
+        "Emily Kramer"
+      ],
+      "themes": [
+        "Marketing Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "emily-kramer_t8",
+      "title": "Product marketing definition and three archetypes",
+      "summary": "Emily defines product marketing as understanding product, audience, and market to communicate the right things at the right time, often bridging fuel and engine. She introduces three common early marketing archetypes: product marketing, content/community, and growth/demand.",
+      "timestamp_start": "00:16:20",
+      "timestamp_end": "00:18:16",
+      "speakers": [
+        "Lenny",
+        "Emily Kramer"
+      ],
+      "themes": [
+        "Marketing Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "emily-kramer_t9",
+      "title": "Pie-shaped marketers and early-stage hiring approach",
+      "summary": "Emily recommends hiring generalists early\u2014specifically \"pie-shaped\" marketers with depth in one area, proficiency in a second, and strategy across all. She notes product+growth or product+content combinations are more common than content+growth due to different skill profiles.",
+      "timestamp_start": "00:18:16",
+      "timestamp_end": "00:20:21",
+      "speakers": [
+        "Emily Kramer",
+        "Lenny"
+      ],
+      "themes": [
+        "Hiring & Team Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "emily-kramer_t10",
+      "title": "Growth PM vs growth marketing in PLG",
+      "summary": "Emily distinguishes demand/growth marketing from product growth roles, especially in top-down sales businesses, and explains where they overlap in PLG. She emphasizes the marketing-to-product handoff (signup to in-product experience) and the need for clear collaboration to avoid disjointed user experiences.",
+      "timestamp_start": "00:20:21",
+      "timestamp_end": "00:36:22",
+      "speakers": [
+        "Lenny",
+        "Emily Kramer"
+      ],
+      "themes": [
+        "Product & Marketing Collaboration"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "emily-kramer_t11",
+      "title": "What to look for in first product marketer",
+      "summary": "Emily shares hiring signals: candidates should have experience early enough to avoid siloed roles, understand how to build foundations, and have a high quality bar. She warns against hiring only-big-company marketers for first marketing roles and stresses strong writing ability.",
+      "timestamp_start": "00:22:45",
+      "timestamp_end": "00:26:38",
+      "speakers": [
+        "Lenny",
+        "Emily Kramer"
+      ],
+      "themes": [
+        "Hiring & Team Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "emily-kramer_t12",
+      "title": "When to hire first marketer and readiness checks",
+      "summary": "Emily suggests hiring around seed-to-Series A depending on model, generally after some evidence of product-market fit and when marketing can accelerate one-to-many growth. She recommends asking what the marketer would do immediately and whether product and positioning are stable enough to support scaling.",
+      "timestamp_start": "00:26:38",
+      "timestamp_end": "00:29:19",
+      "speakers": [
+        "Lenny",
+        "Emily Kramer"
+      ],
+      "themes": [
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "emily-kramer_t13",
+      "title": "Sponsor: Athletic Greens (AG1) read",
+      "summary": "Lenny shares his personal routine with AG1, highlights benefits, and gives the offer details (vitamin D supply and travel packs). CTA to athleticgreens.com/lenny.",
+      "timestamp_start": "00:29:19",
+      "timestamp_end": "00:30:35",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "emily-kramer_t14",
+      "title": "Brand marketing in B2B and team ownership",
+      "summary": "Emily explains how \"brand marketing\" maps to product marketing plus content/community and design collaboration in B2B. She describes how brand roles evolve at larger team sizes to ensure consistency, editing, and big cross-channel initiatives.",
+      "timestamp_start": "00:30:35",
+      "timestamp_end": "00:33:25",
+      "speakers": [
+        "Lenny",
+        "Emily Kramer"
+      ],
+      "themes": [
+        "Marketing Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "emily-kramer_t15",
+      "title": "Product vs marketing ownership and collaboration systems",
+      "summary": "Emily challenges the idea that PLG replaces marketing, arguing it often requires more marketing since sales is reduced. She discusses ownership boundaries (website vs in-product flows) and shares Asana\u2019s DRI system\u2014clear responsibility lists beyond titles\u2014to improve product/marketing coordination on launches and experiences.",
+      "timestamp_start": "00:33:25",
+      "timestamp_end": "00:41:49",
+      "speakers": [
+        "Lenny",
+        "Emily Kramer"
+      ],
+      "themes": [
+        "Product & Marketing Collaboration"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

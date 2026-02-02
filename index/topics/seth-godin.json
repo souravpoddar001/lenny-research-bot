@@ -1,0 +1,288 @@
+{
+  "episode_id": "seth-godin",
+  "topics": [
+    {
+      "topic_id": "seth-godin_t1",
+      "title": "AI branding as promises users can trust",
+      "summary": "Seth explains that AI will soon be table stakes (like electricity), so differentiation comes from making a difficult, remarkable promise to users\u2014and consistently keeping it.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:26",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Seth Godin"
+      ],
+      "themes": [
+        "Branding",
+        "AI",
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "seth-godin_t2",
+      "title": "Strategy needs tension at the center",
+      "summary": "They introduce Seth\u2019s idea that great strategy and innovation create productive tension: users imagine a better future, then evaluate whether you\u2019ll deliver truthfully.",
+      "timestamp_start": "00:00:26",
+      "timestamp_end": "00:01:11",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Seth Godin"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Innovation",
+        "Branding"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "seth-godin_t3",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Seth\u2019s career and the episode\u2019s main topics (taste, branding in AI, strategy, systems, rebrands), then they share a brief personal connection and set the tone.",
+      "timestamp_start": "00:01:11",
+      "timestamp_end": "00:03:29",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Seth Godin"
+      ],
+      "themes": [
+        "Career",
+        "Product Management",
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "seth-godin_t4",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for DX (engineering productivity intelligence) and Vanta (automated compliance and trust management).",
+      "timestamp_start": "00:03:33",
+      "timestamp_end": "00:05:18",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "seth-godin_t5",
+      "title": "Building taste and raising product standards",
+      "summary": "Seth defines good taste as anticipating what others will want, and reframes high standards as improving the spec in service of customers\u2014not perfectionism or shipping avoidance.",
+      "timestamp_start": "00:05:18",
+      "timestamp_end": "00:08:10",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Seth Godin"
+      ],
+      "themes": [
+        "Product Management",
+        "Craft & Quality",
+        "Customer Empathy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "seth-godin_t6",
+      "title": "Finding meaning and excellence in any job",
+      "summary": "Seth argues there\u2019s no perfect job, but you can choose to bring excellence and delight within the boundaries of your role\u2014doing it for yourself, not just for pay.",
+      "timestamp_start": "00:08:10",
+      "timestamp_end": "00:09:34",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Seth Godin"
+      ],
+      "themes": [
+        "Career",
+        "Leadership",
+        "Mindset"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "seth-godin_t7",
+      "title": "Seth\u2019s product manager origin story at Spinnaker",
+      "summary": "Seth recounts becoming a de facto PM by earning engineering attention, learning that \u201cmarketing is the product,\u201d and experiencing the intensity of shipping under hard deadlines.",
+      "timestamp_start": "00:09:34",
+      "timestamp_end": "00:14:00",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Seth Godin"
+      ],
+      "themes": [
+        "Product Management",
+        "Career",
+        "Execution"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "seth-godin_t8",
+      "title": "What product builders often misunderstand",
+      "summary": "Seth shares core PM lessons: empathy is mandatory, deadlines are real (don\u2019t run out of time/money), and SaaS needs built-in word-of-mouth/network effects to grow.",
+      "timestamp_start": "00:14:00",
+      "timestamp_end": "00:15:51",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Seth Godin"
+      ],
+      "themes": [
+        "Product Management",
+        "Customer Empathy",
+        "Growth"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "seth-godin_t9",
+      "title": "Branding in AI: define brand and keep promises",
+      "summary": "Seth defines brand as a promise (not a logo), warns against absurd claims, and contrasts Claude\u2019s \u201ckind, humble\u201d experience with ChatGPT\u2019s overpromising as a brand differentiator.",
+      "timestamp_start": "00:15:51",
+      "timestamp_end": "00:18:55",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Seth Godin"
+      ],
+      "themes": [
+        "Branding",
+        "AI",
+        "Customer Experience"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "seth-godin_t10",
+      "title": "Using Claude as an editor for writing",
+      "summary": "Seth describes using Claude to find missing points, test unsupported claims, and refine voice\u2014while emphasizing he still writes every word himself.",
+      "timestamp_start": "00:18:55",
+      "timestamp_end": "00:21:34",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Seth Godin"
+      ],
+      "themes": [
+        "AI",
+        "Writing & Content",
+        "Workflow"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "seth-godin_t11",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Paragon (building and shipping SaaS integrations faster).",
+      "timestamp_start": "00:21:34",
+      "timestamp_end": "00:22:41",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "seth-godin_t12",
+      "title": "Four strategic choices that shape your future",
+      "summary": "From This is Strategy: choose your customers, competition, validation source, and distribution\u2014these decisions constrain everything else and many teams avoid owning them.",
+      "timestamp_start": "00:22:41",
+      "timestamp_end": "00:27:15",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Seth Godin"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Go-to-Market",
+        "Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "seth-godin_t13",
+      "title": "Tension vs stress: the engine of innovation",
+      "summary": "Seth distinguishes unhealthy stress from productive tension, explaining how promises create anticipation and accountability\u2014illustrated by the PF Flyers childhood example.",
+      "timestamp_start": "00:27:38",
+      "timestamp_end": "00:29:13",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Seth Godin"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Branding",
+        "Innovation"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "seth-godin_t14",
+      "title": "Purple Cow: designing products people talk about",
+      "summary": "They unpack \u201cremarkable\u201d as \u201cworth remarking about,\u201d emphasizing customer traction and word-of-mouth, with examples like Google\u2019s minimalist homepage and format/network effects (Word).",
+      "timestamp_start": "00:29:13",
+      "timestamp_end": "00:33:22",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Seth Godin"
+      ],
+      "themes": [
+        "Growth",
+        "Product Strategy",
+        "Marketing"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "seth-godin_t15",
+      "title": "Seeing systems, choosing waves, and rebrand lessons",
+      "summary": "Seth explains systems and culture as self-protecting forces, why \u201cscary\u201d ideas may threaten the system, the \u2018better waves make better surfers\u2019 metaphor, and critiques Jaguar\u2019s re-logo and Tesla\u2019s Cybertruck as buzz/stunt-driven vs traction-driven.",
+      "timestamp_start": "00:33:22",
+      "timestamp_end": "00:43:01",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Seth Godin"
+      ],
+      "themes": [
+        "Systems Thinking",
+        "Branding",
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "seth-godin_t16",
+      "title": "Leadership as empathetic vision and service",
+      "summary": "Seth reframes leadership as painting a future others want (not narcissistic vision), grounded in empathy and service\u2014helping people get where they already hoped to go.",
+      "timestamp_start": "00:43:01",
+      "timestamp_end": "00:44:14",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Seth Godin"
+      ],
+      "themes": [
+        "Leadership",
+        "Customer Empathy",
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "seth-godin_t17",
+      "title": "Wrap-up: where to find Seth and the book",
+      "summary": "Seth shares where to follow his work (Seths.blog) and where to learn about the book and related materials; Lenny closes the episode.",
+      "timestamp_start": "00:44:14",
+      "timestamp_end": "00:44:52",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Seth Godin"
+      ],
+      "themes": [
+        "Career",
+        "Writing & Content",
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    }
+  ]
+}

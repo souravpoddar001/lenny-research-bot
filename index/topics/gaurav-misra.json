@@ -1,0 +1,256 @@
+{
+  "episode_id": "gaurav-misra",
+  "topics": [
+    {
+      "topic_id": "gaurav-misra_t1",
+      "title": "Introduction and Background",
+      "summary": "Gaurav and Lenny open on why this moment in AI feels uniquely fertile for startups, and Lenny introduces Gaurav\u2019s background (Snap, Microsoft) and Captions\u2019 scale and mission in AI video.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:39",
+      "speakers": [
+        "Gaurav Misra",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Startups",
+        "AI Product Development",
+        "Consumer Products"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gaurav-misra_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Brex (startup banking/treasury) and Paragon (B2B SaaS integrations for AI/RAG and agents).",
+      "timestamp_start": "00:02:39",
+      "timestamp_end": "00:04:50",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Startups"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "gaurav-misra_t3",
+      "title": "Breaking through the noise in AI",
+      "summary": "They discuss how AI hype can drive initial curiosity, but retention still depends on delivering real value; Gaurav emphasizes solving practical user problems rather than building novelty playgrounds.",
+      "timestamp_start": "00:04:50",
+      "timestamp_end": "00:10:45",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Gaurav Misra"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Go-to-Market",
+        "Consumer Products"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "gaurav-misra_t4",
+      "title": "Captions\u2019 focus: enabling non-professional creators",
+      "summary": "Gaurav explains Captions\u2019 product thesis: not pro tools, but helping people who couldn\u2019t previously make videos overcome skill/time gaps, especially for business owners and everyday creators.",
+      "timestamp_start": "00:10:45",
+      "timestamp_end": "00:11:20",
+      "speakers": [
+        "Gaurav Misra",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Consumer Products",
+        "AI Product Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gaurav-misra_t5",
+      "title": "Staying focused via virality-driven prioritization",
+      "summary": "To avoid shiny-object overload, Gaurav describes using social virality as a proxy for user demand, testing resonance even before building, and mining trends to guide prioritization.",
+      "timestamp_start": "00:11:36",
+      "timestamp_end": "00:13:15",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Gaurav Misra"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Go-to-Market",
+        "Consumer Products"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gaurav-misra_t6",
+      "title": "Weekly shipping: one marketable feature per engineer",
+      "summary": "Gaurav outlines Captions\u2019 execution cadence: every engineer ships a marketable feature weekly, accepting that many won\u2019t work but using volume and iteration to find winners and stay top-of-mind.",
+      "timestamp_start": "00:13:15",
+      "timestamp_end": "00:15:37",
+      "speakers": [
+        "Gaurav Misra",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Execution",
+        "Product Strategy",
+        "AI Product Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gaurav-misra_t7",
+      "title": "Quality vs scope: ruthless slicing to MVP",
+      "summary": "They dig into how to move fast without breaking quality: cut scope, not correctness, repeatedly removing elements until the feature would become useless; user complaints then guide the next iteration.",
+      "timestamp_start": "00:15:37",
+      "timestamp_end": "00:19:18",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Gaurav Misra"
+      ],
+      "themes": [
+        "Execution",
+        "Product Development",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gaurav-misra_t8",
+      "title": "Handling long-term work and technical debt",
+      "summary": "Gaurav explains separating infrastructure work (e.g., a dedicated Q4) and reframes technical debt as strategic leverage for startups, with a heuristic of \u201cinterest payments\u201d consuming engineering time.",
+      "timestamp_start": "00:20:07",
+      "timestamp_end": "00:24:22",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Gaurav Misra"
+      ],
+      "themes": [
+        "Engineering",
+        "Execution",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gaurav-misra_t9",
+      "title": "AI tools in the dev workflow",
+      "summary": "They cover how the team uses AI coding tools (Cursor, Devin) as multipliers, and why startups can adopt them faster than large companies constrained by process and legal review.",
+      "timestamp_start": "00:24:22",
+      "timestamp_end": "00:25:32",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Gaurav Misra"
+      ],
+      "themes": [
+        "Engineering",
+        "AI Product Development",
+        "Startups"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "gaurav-misra_t10",
+      "title": "Design-first discovery and two-roadmap system",
+      "summary": "Gaurav describes alternating PM-first and design-first ideation, then introduces a \u201cpublic roadmap\u201d (user requests) versus a \u201csecret roadmap\u201d (non-obvious bets) sourced via company-wide brainstorming.",
+      "timestamp_start": "00:25:32",
+      "timestamp_end": "00:30:15",
+      "speakers": [
+        "Gaurav Misra",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Product Development",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gaurav-misra_t11",
+      "title": "Secret roadmap example: Eye Contact feature",
+      "summary": "Gaurav shares how Eye Contact (shifting gaze to camera) emerged from internal ideation, partnered with Nvidia tech, launched successfully, and became massively viral and widely copied.",
+      "timestamp_start": "00:30:15",
+      "timestamp_end": "00:32:10",
+      "speakers": [
+        "Gaurav Misra",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Go-to-Market",
+        "Consumer Products"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gaurav-misra_t12",
+      "title": "Limits of LLM brainstorming and Snap user intuition",
+      "summary": "They discuss why LLMs struggle to brainstorm without deep user context, and Gaurav recounts Snap\u2019s advantage: Evan Spiegel\u2019s unusually strong user understanding and product instincts (e.g., \u201ccamera company\u201d).",
+      "timestamp_start": "00:32:10",
+      "timestamp_end": "00:35:08",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Gaurav Misra"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Consumer Products",
+        "AI Product Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gaurav-misra_t13",
+      "title": "Why Snap succeeded: innovation under intense competition",
+      "summary": "Gaurav explains how social networks face monopoly dynamics and copycats, making continuous innovation essential; he notes PMF can mask whether product changes help or hurt, complicating learning.",
+      "timestamp_start": "00:35:08",
+      "timestamp_end": "00:37:17",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Gaurav Misra"
+      ],
+      "themes": [
+        "Consumer Products",
+        "Product Strategy",
+        "Startups"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "gaurav-misra_t14",
+      "title": "Snap\u2019s designer-led org and CEO control loop",
+      "summary": "They unpack Snap\u2019s unusual structure: a tiny, powerful design team (even at thousands of employees), few/no PMs early on, and a system where all user-facing UI effectively flowed through Evan\u2019s approval.",
+      "timestamp_start": "00:37:17",
+      "timestamp_end": "00:40:26",
+      "speakers": [
+        "Gaurav Misra",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Org Design",
+        "Product Strategy",
+        "Consumer Products"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gaurav-misra_t15",
+      "title": "Designer-PMs and the rise of design engineering",
+      "summary": "Gaurav details the high bar for Snap designers who also did PM work, then describes creating \u201cdesign engineering\u201d (designer+engineer) to prototype and de-risk innovation as the company scaled.",
+      "timestamp_start": "00:40:26",
+      "timestamp_end": "00:44:59",
+      "speakers": [
+        "Gaurav Misra",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Org Design",
+        "Execution",
+        "Engineering"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

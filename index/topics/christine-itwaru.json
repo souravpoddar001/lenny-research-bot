@@ -1,0 +1,273 @@
+{
+  "episode_id": "christine-itwaru",
+  "topics": [
+    {
+      "topic_id": "christine-itwaru_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Christine Itwaru and frames the episode around understanding product ops: what it is, why it\u2019s emerging, and how it helps product teams and leaders.",
+      "timestamp_start": "00:00:23",
+      "timestamp_end": "00:02:39",
+      "speakers": [
+        "Lenny",
+        "Christine Itwaru"
+      ],
+      "themes": [
+        "Product Operations"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "christine-itwaru_t2",
+      "title": "Ben Williams story and giving back",
+      "summary": "Christine shares how an early conversation with Ben Williams validated that many teams share the same product-ops-type problems, motivating her to contribute back to the product community.",
+      "timestamp_start": "00:02:39",
+      "timestamp_end": "00:04:08",
+      "speakers": [
+        "Lenny",
+        "Christine Itwaru"
+      ],
+      "themes": [
+        "Product Operations",
+        "Career"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "christine-itwaru_t3",
+      "title": "Defining product ops vs product management",
+      "summary": "Christine defines product ops in two ways: as a system/process that helps product teams thrive, and as dedicated people who partner with PMs and advise product leadership using qualitative and quantitative insights.",
+      "timestamp_start": "00:05:01",
+      "timestamp_end": "00:06:11",
+      "speakers": [
+        "Lenny",
+        "Christine Itwaru"
+      ],
+      "themes": [
+        "Product Operations"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "christine-itwaru_t4",
+      "title": "Why product ops emerged (the 2019 inflection)",
+      "summary": "They discuss why product ops felt like it \u201ctook off\u201d around 2019: recurring product pains became more visible, and companies sought help operationalizing product decision-making and cross-functional alignment.",
+      "timestamp_start": "00:06:11",
+      "timestamp_end": "00:08:07",
+      "speakers": [
+        "Lenny",
+        "Christine Itwaru"
+      ],
+      "themes": [
+        "Product Operations",
+        "Org Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christine-itwaru_t5",
+      "title": "Drivers: VoC, alignment, PLG, rapid growth",
+      "summary": "Christine explains the forces that increased demand for product ops: voice-of-customer synthesis, stakeholder transparency, pandemic-era growth, and the shift toward product-led growth requiring calmer, scalable systems.",
+      "timestamp_start": "00:08:17",
+      "timestamp_end": "00:10:45",
+      "speakers": [
+        "Lenny",
+        "Christine Itwaru"
+      ],
+      "themes": [
+        "Product Operations",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christine-itwaru_t6",
+      "title": "Core responsibilities: VoC, tooling, content, process",
+      "summary": "Christine outlines common product ops work: synthesizing qualitative/quantitative feedback, managing/optimizing the PM tool stack, embedding education/content into delivery, and (sometimes) improving planning/process in less mature orgs.",
+      "timestamp_start": "00:10:45",
+      "timestamp_end": "00:15:49",
+      "speakers": [
+        "Lenny",
+        "Christine Itwaru"
+      ],
+      "themes": [
+        "Product Operations",
+        "Process"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christine-itwaru_t7",
+      "title": "How Pendo runs voice of customer",
+      "summary": "Christine describes Pendo\u2019s VoC approach: bringing sales, success, and other teams together to align on themes, educate stakeholders, and distinguish between product changes vs enablement/documentation needs.",
+      "timestamp_start": "00:15:49",
+      "timestamp_end": "00:18:15",
+      "speakers": [
+        "Lenny",
+        "Christine Itwaru"
+      ],
+      "themes": [
+        "Product Operations",
+        "Customer Insights"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christine-itwaru_t8",
+      "title": "Product ops relationship with user research",
+      "summary": "They clarify how product ops partners with UX research: research drives proactive validation and testing, while product ops aggregates inputs (e.g., NPS themes, revenue feedback) and collaborates with research to interpret and act on signals.",
+      "timestamp_start": "00:18:15",
+      "timestamp_end": "00:20:10",
+      "speakers": [
+        "Lenny",
+        "Christine Itwaru"
+      ],
+      "themes": [
+        "Customer Insights",
+        "Product Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christine-itwaru_t9",
+      "title": "Tooling and content strategy in practice",
+      "summary": "Christine distinguishes PM planning tools from the broader PM tool stack (Salesforce, Looker, integrations) and explains how product ops supports in-app education and documentation as part of \u201cdefinition of done,\u201d especially for PLG.",
+      "timestamp_start": "00:20:10",
+      "timestamp_end": "00:22:36",
+      "speakers": [
+        "Lenny",
+        "Christine Itwaru"
+      ],
+      "themes": [
+        "Product Operations",
+        "Product-Led Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christine-itwaru_t10",
+      "title": "Is product ops only for B2B?",
+      "summary": "Christine argues product ops isn\u2019t limited to B2B; large B2C companies also face heavy cross-functional complexity. The common thread is transparency, readiness, and coordinated communication to internal teams and customers.",
+      "timestamp_start": "00:22:36",
+      "timestamp_end": "00:24:28",
+      "speakers": [
+        "Lenny",
+        "Christine Itwaru"
+      ],
+      "themes": [
+        "Product Operations",
+        "Org Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christine-itwaru_t11",
+      "title": "Getting buy-in and avoiding PM resistance",
+      "summary": "They discuss how to position product ops so PMs don\u2019t feel displaced: clarify PM accountability, secure leadership sponsorship, and emphasize freeing PM time from revenue-team firefighting to focus on customers and outcomes.",
+      "timestamp_start": "00:24:28",
+      "timestamp_end": "00:27:41",
+      "speakers": [
+        "Lenny",
+        "Christine Itwaru"
+      ],
+      "themes": [
+        "Product Operations",
+        "Stakeholder Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christine-itwaru_t12",
+      "title": "What PMs should never offload",
+      "summary": "Christine insists the core PM responsibility is direct customer understanding\u2014observing pain and building empathy. If a PM doesn\u2019t want that, she argues they shouldn\u2019t be in product.",
+      "timestamp_start": "00:27:41",
+      "timestamp_end": "00:29:06",
+      "speakers": [
+        "Lenny",
+        "Christine Itwaru"
+      ],
+      "themes": [
+        "Product Management",
+        "Customer Insights"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christine-itwaru_t13",
+      "title": "Product ops vs program management and agile roles",
+      "summary": "They compare adjacent roles and note that early product ops hires often get pulled into planning/process standardization. Christine differentiates product ops by deep product/customer/business understanding beyond facilitation.",
+      "timestamp_start": "00:29:06",
+      "timestamp_end": "00:31:20",
+      "speakers": [
+        "Lenny",
+        "Christine Itwaru"
+      ],
+      "themes": [
+        "Product Operations",
+        "Org Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christine-itwaru_t14",
+      "title": "Are ops roles a sign of inefficiency?",
+      "summary": "Responding to a \u2018spicy\u2019 take, Christine argues ops roles often signal growth and complexity, not inefficiency. She agrees product ops should build systems, automate/hand off repeatable work, and evolve toward strategic advisory impact.",
+      "timestamp_start": "00:31:20",
+      "timestamp_end": "00:36:24",
+      "speakers": [
+        "Lenny",
+        "Christine Itwaru"
+      ],
+      "themes": [
+        "Product Operations",
+        "Process"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christine-itwaru_t15",
+      "title": "Sponsor Break",
+      "summary": "Ad read for Vanta, focusing on SOC 2 compliance automation and a listener discount.",
+      "timestamp_start": "00:36:24",
+      "timestamp_end": "00:37:40",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "christine-itwaru_t16",
+      "title": "Signs you need product ops: transparency and readiness",
+      "summary": "Christine highlights indicators a product org needs product ops: poor transparency, misalignment with revenue teams, and weak launch readiness. She shares Pendo\u2019s origin story\u2014one bad launch exposed gaps and drove building a repeatable system.",
+      "timestamp_start": "00:37:40",
+      "timestamp_end": "00:44:12",
+      "speakers": [
+        "Lenny",
+        "Christine Itwaru"
+      ],
+      "themes": [
+        "Product Operations",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christine-itwaru_t17",
+      "title": "Measuring impact: inbound quality and surveys",
+      "summary": "Christine discusses early measurement approaches for product ops, including surveying PMs and revenue teams on time spent and question quality, then using that data to improve transparency mechanisms like a product digest.",
+      "timestamp_start": "00:44:12",
+      "timestamp_end": "00:45:32",
+      "speakers": [
+        "Lenny",
+        "Christine Itwaru"
+      ],
+      "themes": [
+        "Product Operations",
+        "Metrics"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

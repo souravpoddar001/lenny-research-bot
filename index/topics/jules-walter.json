@@ -1,0 +1,240 @@
+{
+  "episode_id": "jules-walter",
+  "topics": [
+    {
+      "topic_id": "jules-walter_t1",
+      "title": "Opening: receiving feedback with gratitude",
+      "summary": "Jules shares how he intentionally responds positively to feedback even when it stings internally, because it encourages more feedback and accelerates improvement.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:26",
+      "speakers": [
+        "Jules Walter",
+        "Lenny"
+      ],
+      "themes": [
+        "Feedback",
+        "Career Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jules-walter_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the show and Jules Walter, highlighting his roles at YouTube and Slack plus his nonprofit work, and previews a deep dive on skills and mentorship.",
+      "timestamp_start": "00:00:26",
+      "timestamp_end": "00:01:36",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career Growth",
+        "Mentorship"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jules-walter_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Vanta (SOC 2 compliance automation) and Notion (all-in-one collaboration workspace).",
+      "timestamp_start": "00:01:36",
+      "timestamp_end": "00:03:49",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jules-walter_t4",
+      "title": "Jules\u2019 career journey: Haiti to YouTube",
+      "summary": "Jules walks through his path from Haiti to CS/business school, medical devices, a failed startup, then PM roles in the Bay Area culminating in leading YouTube Primetime Channels.",
+      "timestamp_start": "00:03:49",
+      "timestamp_end": "00:06:05",
+      "speakers": [
+        "Lenny",
+        "Jules Walter"
+      ],
+      "themes": [
+        "Career Growth",
+        "Product Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jules-walter_t5",
+      "title": "Breaking into product management paths",
+      "summary": "They discuss how hard it is to enter PM and common entry routes: joining a startup to get PM experience or transferring internally by leveraging domain expertise.",
+      "timestamp_start": "00:06:05",
+      "timestamp_end": "00:07:19",
+      "speakers": [
+        "Lenny",
+        "Jules Walter"
+      ],
+      "themes": [
+        "Career Growth",
+        "Product Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jules-walter_t6",
+      "title": "First growth PM at Slack: learning fast",
+      "summary": "Jules explains taking the growth role as a way into Slack despite no growth background, then using a learning mindset and mentors to ship impactful activation improvements quickly.",
+      "timestamp_start": "00:07:19",
+      "timestamp_end": "00:09:01",
+      "speakers": [
+        "Lenny",
+        "Jules Walter"
+      ],
+      "themes": [
+        "Growth",
+        "Mentorship"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jules-walter_t7",
+      "title": "Nonprofits: CodePath and Black PMs Network",
+      "summary": "Jules describes co-founding CodePath and Black PMs to increase diversity in tech, how they scaled, and the origin story of Black PMs growing from ~15 people to 1,000+.",
+      "timestamp_start": "00:09:01",
+      "timestamp_end": "00:12:03",
+      "speakers": [
+        "Lenny",
+        "Jules Walter"
+      ],
+      "themes": [
+        "Diversity & Inclusion",
+        "Community"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jules-walter_t8",
+      "title": "Key PM skills: IQ vs EQ buckets",
+      "summary": "Jules frames PM growth as building IQ (execution, product sense, strategy) early and EQ (communication, leadership, management) later as scope and ambiguity increase.",
+      "timestamp_start": "00:12:03",
+      "timestamp_end": "00:14:49",
+      "speakers": [
+        "Lenny",
+        "Jules Walter"
+      ],
+      "themes": [
+        "Career Growth",
+        "Product Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jules-walter_t9",
+      "title": "Interviewing as a career skill: mock practice",
+      "summary": "They emphasize interview skill as a major career lever; Jules recommends dozens of mock interviews, notes the lack of feedback from companies, and shares his own repeated Google attempts.",
+      "timestamp_start": "00:14:49",
+      "timestamp_end": "00:19:48",
+      "speakers": [
+        "Lenny",
+        "Jules Walter"
+      ],
+      "themes": [
+        "Interviewing",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jules-walter_t10",
+      "title": "Underrepresented candidates: stress, belonging, support",
+      "summary": "Jules explains extra psychological load for underrepresented candidates during interviews and recommends practicing in supportive small groups to reduce stress and build confidence.",
+      "timestamp_start": "00:19:48",
+      "timestamp_end": "00:20:38",
+      "speakers": [
+        "Lenny",
+        "Jules Walter"
+      ],
+      "themes": [
+        "Diversity & Inclusion",
+        "Interviewing"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "jules-walter_t11",
+      "title": "EQ skills: communication, self-awareness, blind spots",
+      "summary": "Jules details how seniority demands better communication and self-awareness; mentors helped him identify patterns like withdrawing under stress and misreading questions as disagreement.",
+      "timestamp_start": "00:20:38",
+      "timestamp_end": "00:28:45",
+      "speakers": [
+        "Lenny",
+        "Jules Walter"
+      ],
+      "themes": [
+        "Communication",
+        "Mentorship"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jules-walter_t12",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Linear (issue tracking and product development workflows).",
+      "timestamp_start": "00:28:45",
+      "timestamp_end": "00:29:54",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jules-walter_t13",
+      "title": "How Jules builds skills: outcomes, questions, mentors",
+      "summary": "Jules shares a repeatable learning method: define a concrete outcome, work backward into questions, do light reading, then learn directly from experts and iterate with results.",
+      "timestamp_start": "00:29:54",
+      "timestamp_end": "00:35:14",
+      "speakers": [
+        "Lenny",
+        "Jules Walter"
+      ],
+      "themes": [
+        "Mentorship",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jules-walter_t14",
+      "title": "Learning by observing great artifacts and process",
+      "summary": "He explains improving strategy/execution by reverse-engineering strong docs, watching top PMs run meetings, saving templates, and learning from the iterative \u2018backstage\u2019 process.",
+      "timestamp_start": "00:35:14",
+      "timestamp_end": "00:39:58",
+      "speakers": [
+        "Lenny",
+        "Jules Walter"
+      ],
+      "themes": [
+        "Product Management",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jules-walter_t15",
+      "title": "Building EQ: feedback loops, coaching, one skill focus",
+      "summary": "Jules describes EQ development via reading (e.g., Pyramid Principle), collecting examples, asking for feedback, coaching/group coaching, and focusing on one skill for months (e.g., listening).",
+      "timestamp_start": "00:39:58",
+      "timestamp_end": "00:45:51",
+      "speakers": [
+        "Lenny",
+        "Jules Walter"
+      ],
+      "themes": [
+        "Feedback",
+        "Leadership Development"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

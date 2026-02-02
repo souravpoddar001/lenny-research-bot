@@ -1,0 +1,199 @@
+{
+  "episode_id": "sander-schulhoff",
+  "topics": [
+    {
+      "topic_id": "sander-schulhoff_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Sander Schulhoff\u2019s credentials (early prompt engineering guide, HackAPrompt, The Prompt Report) and previews the episode\u2019s structure: basic prompting techniques, advanced techniques, and prompt injection/red teaming.",
+      "timestamp_start": "00:01:10",
+      "timestamp_end": "00:05:04",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Prompt Engineering"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sander-schulhoff_t2",
+      "title": "Is prompt engineering still worth learning?",
+      "summary": "They debate whether prompting is becoming obsolete; Sander argues it remains important and frames it as \u201cartificial social intelligence,\u201d i.e., learning how to communicate effectively with AIs.",
+      "timestamp_start": "00:05:06",
+      "timestamp_end": "00:07:41",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Sander Schulhoff"
+      ],
+      "themes": [
+        "Prompt Engineering"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sander-schulhoff_t3",
+      "title": "Real-world impact: medical coding prompt improvements",
+      "summary": "Sander shares a case study where adding curated examples and reasoning to a prompt dramatically improved GPT-4\u2019s medical coding accuracy (roughly +70%), illustrating how prompt quality can swing outcomes.",
+      "timestamp_start": "00:07:41",
+      "timestamp_end": "00:09:03",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Sander Schulhoff"
+      ],
+      "themes": [
+        "Prompt Engineering"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sander-schulhoff_t4",
+      "title": "Two modes: conversational vs product prompting",
+      "summary": "Sander distinguishes everyday iterative chatbot prompting from product-focused prompting where a single prompt (or small set) must reliably handle large-scale production traffic; Lenny reframes this as \u201cproduct-focused prompt engineering.\u201d",
+      "timestamp_start": "00:09:03",
+      "timestamp_end": "00:12:02",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Sander Schulhoff"
+      ],
+      "themes": [
+        "Prompt Engineering"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sander-schulhoff_t5",
+      "title": "Basic technique: few-shot prompting and formatting",
+      "summary": "Sander recommends few-shot prompting as a high-impact baseline: provide examples of desired inputs/outputs (or just outputs) using common, training-data-familiar formats (Q/A, XML, etc.) to improve reliability.",
+      "timestamp_start": "00:12:02",
+      "timestamp_end": "00:17:31",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Sander Schulhoff"
+      ],
+      "themes": [
+        "Prompt Engineering"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sander-schulhoff_t6",
+      "title": "What no longer works: role prompting and threats",
+      "summary": "They discuss techniques that are overhyped today: role prompting doesn\u2019t reliably improve accuracy tasks on modern models (though it can help style/expressive tasks), and \u201cI\u2019ll tip you / someone will die\u201d reward-threat prompts likely don\u2019t help.",
+      "timestamp_start": "00:17:42",
+      "timestamp_end": "00:24:53",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Sander Schulhoff"
+      ],
+      "themes": [
+        "Prompt Engineering"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sander-schulhoff_t7",
+      "title": "Basic technique: decomposition into subproblems",
+      "summary": "Sander explains decomposition: ask the model to list subproblems needed to solve a complex request, then solve them stepwise\u2014useful both conversationally and in product/agent architectures (e.g., car dealership return-policy workflow).",
+      "timestamp_start": "00:25:03",
+      "timestamp_end": "00:28:27",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Sander Schulhoff"
+      ],
+      "themes": [
+        "Prompt Engineering"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sander-schulhoff_t8",
+      "title": "Basic technique: self-criticism and revision loops",
+      "summary": "They cover self-criticism: have the model produce an answer, critique it, then implement improvements\u2014often a \u201cfree\u201d quality boost, typically done 1\u20133 iterations before diminishing returns.",
+      "timestamp_start": "00:28:42",
+      "timestamp_end": "00:30:05",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Sander Schulhoff"
+      ],
+      "themes": [
+        "Prompt Engineering"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sander-schulhoff_t9",
+      "title": "Basic technique: add rich task information",
+      "summary": "Sander emphasizes adding relevant background (\u201cadditional information\u201d) to improve outputs; he shares an entrapment-detection research example where removing contextual text caused performance to drop sharply, plus notes on cost/latency and caching when placing info at the top.",
+      "timestamp_start": "00:30:10",
+      "timestamp_end": "00:36:15",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Sander Schulhoff"
+      ],
+      "themes": [
+        "Prompt Engineering"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sander-schulhoff_t10",
+      "title": "Prompt anatomy vs prompting techniques",
+      "summary": "Sander distinguishes prompt components (role, examples, directive, output format, additional info) from \u201cprompting techniques\u201d intended to induce performance gains, referencing how The Prompt Report categorizes these ideas and their history.",
+      "timestamp_start": "00:38:03",
+      "timestamp_end": "00:40:23",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Sander Schulhoff"
+      ],
+      "themes": [
+        "Prompt Engineering"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sander-schulhoff_t11",
+      "title": "Advanced technique: ensembling and reasoning experts",
+      "summary": "They discuss ensembling: run multiple prompts (or models) on the same problem and aggregate (e.g., majority vote). Sander highlights \u201cmixture of reasoning experts,\u201d where different prompted \u2018experts\u2019 or tool-enabled variants compete to improve final accuracy.",
+      "timestamp_start": "00:40:35",
+      "timestamp_end": "00:44:27",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Sander Schulhoff"
+      ],
+      "themes": [
+        "Prompt Engineering"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sander-schulhoff_t12",
+      "title": "Sponsor Break",
+      "summary": "Ad read for Vanta, describing automated compliance and security programs (SOC 2, ISO 27001) and offering a listener discount.",
+      "timestamp_start": "00:44:17",
+      "timestamp_end": "00:46:00",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Christina Cacioppo"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sander-schulhoff_t13",
+      "title": "Chain-of-thought prompting in the reasoning era",
+      "summary": "They revisit chain-of-thought/thought-generation prompting: it\u2019s less necessary with reasoning models, but Sander notes non-reasoning models can be inconsistent (occasionally skipping reasoning), so explicit \u201cshow your reasoning\u201d instructions can still stabilize performance.",
+      "timestamp_start": "00:46:00",
+      "timestamp_end": "00:47:26",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Sander Schulhoff"
+      ],
+      "themes": [
+        "Prompt Engineering"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "episode_id": "brandon-chu",
+  "topics": [
+    {
+      "topic_id": "brandon-chu_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Brandon Chu, his role at Shopify, and the areas they\u2019ll cover (Shopify product culture, remote work, writing, PM career topics).",
+      "timestamp_start": "00:03:00",
+      "timestamp_end": "01:52:00",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Introduction"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "brandon-chu_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Stytch (authentication/onboarding) and Persona (identity/KYC/AML).",
+      "timestamp_start": "00:46:00",
+      "timestamp_end": "01:52:00",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "brandon-chu_t3",
+      "title": "Childhood dream: becoming an astronaut",
+      "summary": "Brandon shares his long-term plan to go to space, including saving and investing annually to afford it, and discusses how costs are trending closer to feasible.",
+      "timestamp_start": "03:01:00",
+      "timestamp_end": "04:04:00",
+      "speakers": [
+        "Lenny",
+        "Brandon Chu"
+      ],
+      "themes": [
+        "Personal Background"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "brandon-chu_t4",
+      "title": "Career journey into product and Shopify",
+      "summary": "Brandon recounts moving from finance to co-founding a startup (Tunezy), learning PM through startup work and FreshBooks, then joining Shopify during IPO week and growing into VP roles.",
+      "timestamp_start": "04:04:00",
+      "timestamp_end": "07:02:00",
+      "speakers": [
+        "Lenny",
+        "Brandon Chu"
+      ],
+      "themes": [
+        "Career Growth"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "brandon-chu_t5",
+      "title": "Skills behind rapid PM career trajectory",
+      "summary": "Brandon explains that beyond PM hard skills and domain expertise, the biggest accelerators are \u201cfounder skills\u201d: storytelling, motivating teams, high-conviction decisions under ambiguity, and accountability.",
+      "timestamp_start": "07:02:00",
+      "timestamp_end": "08:47:00",
+      "speakers": [
+        "Lenny",
+        "Brandon Chu"
+      ],
+      "themes": [
+        "Product Management",
+        "Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "brandon-chu_t6",
+      "title": "Shopify product culture and operating principles",
+      "summary": "They discuss Shopify\u2019s technical roots, shared responsibility for product thinking across functions, and a founder-heavy PM org; Brandon summarizes the PM job as helping teams ship the right thing at the right time in the right way.",
+      "timestamp_start": "08:47:00",
+      "timestamp_end": "12:00:00",
+      "speakers": [
+        "Lenny",
+        "Brandon Chu"
+      ],
+      "themes": [
+        "Product Culture",
+        "Product Management",
+        "Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "brandon-chu_t7",
+      "title": "Decision-making power across PM seniority levels",
+      "summary": "Brandon describes how junior PMs emphasize balanced cross-functional decisions, while directors/VPs must set strategy and make calls, creating tension as company context and roles evolve.",
+      "timestamp_start": "12:00:00",
+      "timestamp_end": "13:05:00",
+      "speakers": [
+        "Lenny",
+        "Brandon Chu"
+      ],
+      "themes": [
+        "Leadership",
+        "Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "brandon-chu_t8",
+      "title": "Planning at Shopify: investment plans and agility",
+      "summary": "Brandon outlines annual investment plans that set broad direction, followed by decentralized execution and frequent reprioritization; Shopify avoids sunk-cost fallacy and changes course when reality shifts.",
+      "timestamp_start": "13:05:00",
+      "timestamp_end": "16:03:00",
+      "speakers": [
+        "Lenny",
+        "Brandon Chu"
+      ],
+      "themes": [
+        "Strategy",
+        "Execution"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "brandon-chu_t9",
+      "title": "COVID wartime shift and rapid reprioritization",
+      "summary": "They cover how Shopify scrapped roadmaps to focus on urgent merchant survival needs (e.g., curbside pickup, gift cards), with leadership deeply involved and a narrowed set of priorities for much of 2020.",
+      "timestamp_start": "16:03:00",
+      "timestamp_end": "19:58:00",
+      "speakers": [
+        "Lenny",
+        "Brandon Chu"
+      ],
+      "themes": [
+        "Execution",
+        "Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "brandon-chu_t10",
+      "title": "Remote work lessons: bursts and work-from-anywhere",
+      "summary": "Brandon explains Shopify\u2019s remote-by-default approach, emphasizing periodic in-person \u201cbursts,\u201d streamlined logistics via internal tooling, and policies enabling global mobility to turn remote constraints into advantages.",
+      "timestamp_start": "19:58:00",
+      "timestamp_end": "24:42:00",
+      "speakers": [
+        "Lenny",
+        "Brandon Chu"
+      ],
+      "themes": [
+        "Remote Work",
+        "Company Culture"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "brandon-chu_t11",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for PostHog (open-source product analytics suite with funnels, heatmaps, session recording, experimentation, and warehouse integrations).",
+      "timestamp_start": "24:42:00",
+      "timestamp_end": "25:31:00",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "brandon-chu_t12",
+      "title": "Burst tooling details and travel booking mechanics",
+      "summary": "They dig into how Shopify\u2019s burst system works (locations, office retrofits, ratings, participation data) and briefly discuss how flight/hotel booking likely integrates via TripActions APIs.",
+      "timestamp_start": "25:31:00",
+      "timestamp_end": "25:47:00",
+      "speakers": [
+        "Lenny",
+        "Brandon Chu"
+      ],
+      "themes": [
+        "Remote Work",
+        "Operations"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "brandon-chu_t13",
+      "title": "Writing process: how Brandon produced high-quality posts",
+      "summary": "Brandon shares that writing helped him discover what he thought in real time; he describes investing ~40 hours per post, heavy editing, and seeking early feedback to sharpen narrative and clarity.",
+      "timestamp_start": "25:47:00",
+      "timestamp_end": "31:10:00",
+      "speakers": [
+        "Lenny",
+        "Brandon Chu"
+      ],
+      "themes": [
+        "Writing",
+        "Career Growth"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "brandon-chu_t14",
+      "title": "Why PMs should write and career impact",
+      "summary": "They argue writing improves clarity even if not published; Brandon explains how his posts boosted internal trust, onboarded teammates faster, aided recruiting, and accelerated his career\u2014while also creating pressure that contributed to stopping.",
+      "timestamp_start": "31:10:00",
+      "timestamp_end": "36:31:00",
+      "speakers": [
+        "Lenny",
+        "Brandon Chu"
+      ],
+      "themes": [
+        "Writing",
+        "Leadership",
+        "Career Growth"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "brandon-chu_t15",
+      "title": "Favorite post: decision importance and fast delegation",
+      "summary": "Brandon highlights his decision-making framework: first assess decision importance, spend time on the few irreversible/high-impact calls, and move quickly (gut/delegate) on the rest to maintain velocity.",
+      "timestamp_start": "36:31:00",
+      "timestamp_end": "38:31:00",
+      "speakers": [
+        "Lenny",
+        "Brandon Chu"
+      ],
+      "themes": [
+        "Product Management",
+        "Decision-Making"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "brandon-chu_t16",
+      "title": "Platform PM: what he wants to write next",
+      "summary": "Brandon previews a long-form piece on platform PM work: multi-constituent tradeoffs, policy/data tensions, economic incentives, and deep integration design choices (iframes vs native surfaces, extensions, APIs).",
+      "timestamp_start": "38:31:00",
+      "timestamp_end": "41:18:00",
+      "speakers": [
+        "Lenny",
+        "Brandon Chu"
+      ],
+      "themes": [
+        "Platform Strategy",
+        "Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "brandon-chu_t17",
+      "title": "Platform PM frameworks: psychology and principles",
+      "summary": "Brandon shares rules of thumb for platform PMs: expect longer feedback cycles, celebrate intermediate milestones, and define platform principles/constituent priorities early to guide policy and design decisions and avoid late-stage blowups.",
+      "timestamp_start": "41:18:00",
+      "timestamp_end": "45:07:00",
+      "speakers": [
+        "Lenny",
+        "Brandon Chu"
+      ],
+      "themes": [
+        "Platform Strategy",
+        "Leadership"
+      ],
+      "quote_count": 0
+    }
+  ]
+}

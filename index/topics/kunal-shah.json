@@ -1,0 +1,254 @@
+{
+  "episode_id": "kunal-shah",
+  "topics": [
+    {
+      "topic_id": "kunal-shah_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny opens with examples of Indian-born CEOs leading major US companies, then introduces Kunal Shah and previews the episode\u2019s focus on India, product thinking, and second-order insights.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:27",
+      "speakers": [
+        "LENNY RACHITSKY",
+        "KUNAL SHAH"
+      ],
+      "themes": [
+        "India market",
+        "Leadership",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kunal-shah_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for WorkOS (enterprise auth features, AuthKit) and Orb (usage-based billing engine).",
+      "timestamp_start": "00:02:33",
+      "timestamp_end": "00:04:15",
+      "speakers": [
+        "LENNY RACHITSKY"
+      ],
+      "themes": [
+        "Sponsors/Ads"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kunal-shah_t3",
+      "title": "Kunal\u2019s opening and product learning in India",
+      "summary": "Kunal thanks Lenny and describes how India\u2019s product community benefits from accessible product education and reduced information asymmetry.",
+      "timestamp_start": "00:04:25",
+      "timestamp_end": "00:05:18",
+      "speakers": [
+        "LENNY RACHITSKY",
+        "KUNAL SHAH"
+      ],
+      "themes": [
+        "Product",
+        "India market",
+        "Career"
+      ],
+      "quote_count": 2
+    },
+    {
+      "topic_id": "kunal-shah_t4",
+      "title": "Delta 4 framework: measuring \u201c10x better\u201d",
+      "summary": "Kunal explains the Delta 4 framework: when a product\u2019s perceived efficiency is \u22654 points better than the alternative, adoption becomes irreversible, users tolerate failures, and word-of-mouth lowers CAC via a \u201cunique brag-worthy proposition.\u201d",
+      "timestamp_start": "00:05:18",
+      "timestamp_end": "00:10:19",
+      "speakers": [
+        "LENNY RACHITSKY",
+        "KUNAL SHAH"
+      ],
+      "themes": [
+        "Product",
+        "Growth",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kunal-shah_t5",
+      "title": "Applying Delta 4 to evaluate product traction",
+      "summary": "Lenny summarizes how founders and investors can use simple 1\u201310 ratings to diagnose why products (e.g., \u201cbetter Excel\u201d) don\u2019t take off unless the delta is large enough.",
+      "timestamp_start": "00:10:21",
+      "timestamp_end": "00:11:01",
+      "speakers": [
+        "LENNY RACHITSKY",
+        "KUNAL SHAH"
+      ],
+      "themes": [
+        "Product",
+        "Startups",
+        "Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "kunal-shah_t6",
+      "title": "Why Indian immigrants become top US CEOs",
+      "summary": "Kunal shares hypotheses: immigrant hunger and filtering via rigorous education, plus a cultural archetype of leaders who sustain a founder\u2019s \u201cdharma\u201d rather than reinventing the company for ego or status.",
+      "timestamp_start": "00:11:03",
+      "timestamp_end": "00:16:45",
+      "speakers": [
+        "LENNY RACHITSKY",
+        "KUNAL SHAH"
+      ],
+      "themes": [
+        "Leadership",
+        "India market",
+        "Career"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kunal-shah_t7",
+      "title": "Leadership archetypes: Krishna vs Rama in practice",
+      "summary": "They map Krishna and Rama onto a values/obedience framework and discuss how great CEOs switch modes\u2014innovating when needed, then returning to principled scaling\u2014often unconsciously rooted in cultural value systems.",
+      "timestamp_start": "00:16:45",
+      "timestamp_end": "00:19:52",
+      "speakers": [
+        "LENNY RACHITSKY",
+        "KUNAL SHAH"
+      ],
+      "themes": [
+        "Leadership",
+        "Decision-making",
+        "Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kunal-shah_t8",
+      "title": "Risk aversion in India and stigma of failure",
+      "summary": "Kunal explains why long-term, low-trust societies can be more risk-averse: failure is socially costly (career and even marriage prospects), and India historically hasn\u2019t celebrated explorers/risk-takers\u2014though that\u2019s changing with startup recognition.",
+      "timestamp_start": "00:19:55",
+      "timestamp_end": "00:23:05",
+      "speakers": [
+        "LENNY RACHITSKY",
+        "KUNAL SHAH"
+      ],
+      "themes": [
+        "Startups",
+        "India market",
+        "Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kunal-shah_t9",
+      "title": "India\u2019s DAU vs ARPU reality for products",
+      "summary": "They discuss why India can generate massive user growth (cheap data, smartphone penetration) but low monetization due to per-capita income and abundant free alternatives, making \u201c100M users\u201d not comparable to US metrics.",
+      "timestamp_start": "00:23:06",
+      "timestamp_end": "00:25:49",
+      "speakers": [
+        "LENNY RACHITSKY",
+        "KUNAL SHAH"
+      ],
+      "themes": [
+        "India market",
+        "Business model",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kunal-shah_t10",
+      "title": "Time valuation, hourly wages, and efficiency culture",
+      "summary": "Kunal argues Indians often don\u2019t price time the same way because hourly wages are uncommon and even the concept/word for \u201cefficiency\u201d can be absent, affecting willingness to pay for time-saving services.",
+      "timestamp_start": "00:25:50",
+      "timestamp_end": "00:27:54",
+      "speakers": [
+        "LENNY RACHITSKY",
+        "KUNAL SHAH"
+      ],
+      "themes": [
+        "India market",
+        "Culture",
+        "Behavior"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kunal-shah_t11",
+      "title": "Low-trust markets create super-apps and brand concentration",
+      "summary": "Kunal explains that weak consumer protections drive \u201cconcentration of trust,\u201d making brands and super-apps more dominant; consumers prefer trusted umbrellas (e.g., Tata) over experimenting with new entrants.",
+      "timestamp_start": "00:27:56",
+      "timestamp_end": "00:30:33",
+      "speakers": [
+        "LENNY RACHITSKY",
+        "KUNAL SHAH"
+      ],
+      "themes": [
+        "India market",
+        "Trust & safety",
+        "Business strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kunal-shah_t12",
+      "title": "India\u2019s biggest challenges and opportunities (AI, labor, youth)",
+      "summary": "Kunal frames challenges as opportunities: low female labor participation and low income could be transformed by AI and remote work, but rapid efficiency gains can threaten jobs; India\u2019s young demographic is an advantage amid first-gen startup growing pains.",
+      "timestamp_start": "00:30:36",
+      "timestamp_end": "00:33:15",
+      "speakers": [
+        "LENNY RACHITSKY",
+        "KUNAL SHAH"
+      ],
+      "themes": [
+        "India market",
+        "AI",
+        "Future trends"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kunal-shah_t13",
+      "title": "CRED journey: focus, scaling, and uncertainty absorption",
+      "summary": "Kunal shares CRED\u2019s thesis of focusing on ~25M higher-income families, lessons moving from 0\u21921 to 10\u2192100, evolving talent/org, and the founder\u2019s role as an \u201cuncertainty absorber\u201d as investor expectations change with scale.",
+      "timestamp_start": "00:33:24",
+      "timestamp_end": "00:38:44",
+      "speakers": [
+        "LENNY RACHITSKY",
+        "KUNAL SHAH"
+      ],
+      "themes": [
+        "Startups",
+        "Scaling",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kunal-shah_t14",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Dovetail and its Insight Out conference focused on customer insights and building products people use.",
+      "timestamp_start": "00:38:49",
+      "timestamp_end": "00:39:52",
+      "speakers": [
+        "LENNY RACHITSKY"
+      ],
+      "themes": [
+        "Sponsors/Ads"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "kunal-shah_t15",
+      "title": "Why CRED\u2019s profitability is a common question in India",
+      "summary": "Lenny asks why people fixate on CRED\u2019s profitability; Kunal attributes it to India\u2019s historical trading-business mindset and discomfort with growth-first, loss-making models\u2014profitability as a key marker of legitimacy even within families.",
+      "timestamp_start": "00:39:56",
+      "timestamp_end": "00:41:01",
+      "speakers": [
+        "LENNY RACHITSKY",
+        "KUNAL SHAH"
+      ],
+      "themes": [
+        "India market",
+        "Business model",
+        "Startups"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

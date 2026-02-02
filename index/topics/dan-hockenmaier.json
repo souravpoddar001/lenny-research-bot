@@ -1,0 +1,238 @@
+{
+  "episode_id": "dan-hockenmaier",
+  "topics": [
+    {
+      "topic_id": "dan-hockenmaier_t1",
+      "title": "Marketplace gardening metaphor and treading lightly",
+      "summary": "Dan contrasts marketplaces (ecosystems with delayed, hard-to-trace effects) with SaaS (linear construction). He advises making changes to core incentives/mechanisms carefully, especially when something is already working.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:45",
+      "speakers": [
+        "Dan Hockenmaier"
+      ],
+      "themes": [
+        "Marketplace Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dan-hockenmaier_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the show and Dan\u2019s marketplace-heavy background (Thumbtack, Faire, consulting). Dan shares his career path and current role leading strategy and analytics at Faire.",
+      "timestamp_start": "00:00:45",
+      "timestamp_end": "00:05:31",
+      "speakers": [
+        "Dan Hockenmaier",
+        "Lenny",
+        "John Cutler",
+        "Ashley"
+      ],
+      "themes": [
+        "Career & Background"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dan-hockenmaier_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages from Amplitude and Flatfile about product analytics/experimentation/CDP and CSV onboarding/import reliability.",
+      "timestamp_start": "00:01:45",
+      "timestamp_end": "00:03:47",
+      "speakers": [
+        "Lenny",
+        "John Cutler",
+        "Ashley"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dan-hockenmaier_t4",
+      "title": "What a growth model is and why",
+      "summary": "Dan defines a growth model as an analytical representation (often a spreadsheet) of how a business grows, valuable primarily because building it forces clarity. He emphasizes it\u2019s more for opportunity assessment than precise forecasting.",
+      "timestamp_start": "00:05:54",
+      "timestamp_end": "00:07:19",
+      "speakers": [
+        "Dan Hockenmaier",
+        "Lenny"
+      ],
+      "themes": [
+        "Growth Modeling"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dan-hockenmaier_t5",
+      "title": "How to build growth models by business type",
+      "summary": "Dan outlines core building blocks for SaaS (acquisition, retention, monetization) and adds complexity for transactional and marketplace businesses (transactions, AOV, unit economics, supply-demand interactions). He explains non-linear dynamics like virality and reinvestment/payback period.",
+      "timestamp_start": "00:07:20",
+      "timestamp_end": "00:13:07",
+      "speakers": [
+        "Dan Hockenmaier",
+        "Lenny"
+      ],
+      "themes": [
+        "Growth Modeling",
+        "Marketplace Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dan-hockenmaier_t6",
+      "title": "Marketplace modeling pitfalls and mini-model approach",
+      "summary": "Dan warns about \u201cjunk in, junk out\u201d due to many assumptions and hard-to-measure supply-demand incrementality. He recommends a simple top-level conceptual model plus team-level mini-models tied to each pod\u2019s north star and key tensions.",
+      "timestamp_start": "00:11:19",
+      "timestamp_end": "00:14:08",
+      "speakers": [
+        "Dan Hockenmaier",
+        "Lenny"
+      ],
+      "themes": [
+        "Growth Modeling",
+        "Marketplace Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dan-hockenmaier_t7",
+      "title": "Templates, Reforge, and retention as key lever",
+      "summary": "Dan notes templates can reduce learning because building from first principles is half the value, but points to Reforge as a strong resource. He highlights that growth is often far more sensitive to retention than teams intuit, affecting referrals, content, and reinvestment capacity.",
+      "timestamp_start": "00:14:08",
+      "timestamp_end": "00:17:41",
+      "speakers": [
+        "Dan Hockenmaier",
+        "Lenny"
+      ],
+      "themes": [
+        "Growth Modeling",
+        "Retention"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dan-hockenmaier_t8",
+      "title": "Using growth models for planning and allocation",
+      "summary": "Dan explains how growth models create a \u201ccommon currency\u201d to compare initiatives across teams during quarterly/annual planning and pod allocation. He also advocates embedding a model in team strategy docs to clarify which levers move the north star.",
+      "timestamp_start": "00:17:56",
+      "timestamp_end": "00:19:18",
+      "speakers": [
+        "Dan Hockenmaier",
+        "Lenny"
+      ],
+      "themes": [
+        "Growth Modeling"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "dan-hockenmaier_t9",
+      "title": "Thumbtack example: shifting resources beyond top funnel",
+      "summary": "Dan shares how Thumbtack\u2019s model revealed extreme sensitivity to repeat/cross-category usage, changing LTV and paid acquisition capacity. This insight shifted focus from top-of-funnel conversion experiments to lifecycle/cross-sell improvements.",
+      "timestamp_start": "00:19:18",
+      "timestamp_end": "00:20:36",
+      "speakers": [
+        "Dan Hockenmaier",
+        "Lenny"
+      ],
+      "themes": [
+        "Growth Modeling",
+        "Marketplace Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "dan-hockenmaier_t10",
+      "title": "Improving retention: early experience and reducing variability",
+      "summary": "Dan argues retention is best improved by fixing core product experience, especially early onboarding, rather than late-stage nudges. He gives the Uber/Lyft example of guaranteeing early earnings to prevent unlucky first-week experiences from causing churn.",
+      "timestamp_start": "00:20:36",
+      "timestamp_end": "00:25:02",
+      "speakers": [
+        "Dan Hockenmaier",
+        "Lenny"
+      ],
+      "themes": [
+        "Retention",
+        "Growth Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dan-hockenmaier_t11",
+      "title": "Why marketplaces are compelling and hard",
+      "summary": "Dan explains marketplaces fit venture economics: hard and capital-intensive to start, but defensibility compounds once liquidity improves. He notes marketplaces can show inverted dynamics over time (CAC down, LTV up) and are intellectually harder due to second-order effects.",
+      "timestamp_start": "00:25:02",
+      "timestamp_end": "00:27:12",
+      "speakers": [
+        "Dan Hockenmaier",
+        "Lenny"
+      ],
+      "themes": [
+        "Marketplace Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "dan-hockenmaier_t12",
+      "title": "Sponsor Break",
+      "summary": "Eppo sponsor message about a modern A/B testing platform with fast slicing, north-star metric support, and experimentation across frontend/backend/email/ML.",
+      "timestamp_start": "00:27:12",
+      "timestamp_end": "00:28:22",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dan-hockenmaier_t13",
+      "title": "Marketplace health metrics: GMV, unit economics, liquidity, share",
+      "summary": "Dan lists key marketplace KPIs: GMV/transactions and unit economics, plus marketplace-specific measures like liquidity (reliability; e.g., wait time, conversion/search success) and share of wallet. He argues depth (share of wallet) is often more valuable than breadth for defensibility.",
+      "timestamp_start": "00:28:22",
+      "timestamp_end": "00:33:25",
+      "speakers": [
+        "Dan Hockenmaier",
+        "Lenny"
+      ],
+      "themes": [
+        "Marketplace Strategy",
+        "Metrics & Analytics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dan-hockenmaier_t14",
+      "title": "Supply vs demand focus and ROI equations",
+      "summary": "Dan says demand aggregation ultimately wins marketplaces, though supply is often the early product and must be acquired to improve demand experience. He recommends deciding constraints via ROI/payback models that internalize cross-side acquisition costs (e.g., rider CAC plus allocated driver CAC), while watching for externalities at extreme imbalance.",
+      "timestamp_start": "00:33:45",
+      "timestamp_end": "00:38:53",
+      "speakers": [
+        "Dan Hockenmaier",
+        "Lenny"
+      ],
+      "themes": [
+        "Marketplace Strategy",
+        "Growth Modeling"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dan-hockenmaier_t15",
+      "title": "Transition: what\u2019s different about marketplaces",
+      "summary": "Lenny tees up the idea that marketplaces share many fundamentals with other businesses but add unique complexity. Dan begins answering what\u2019s most different about working on marketplaces, but the transcript cuts off mid-thought.",
+      "timestamp_start": "00:38:57",
+      "timestamp_end": "00:39:43",
+      "speakers": [
+        "Dan Hockenmaier",
+        "Lenny"
+      ],
+      "themes": [
+        "Marketplace Strategy"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

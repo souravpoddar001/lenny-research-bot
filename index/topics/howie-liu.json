@@ -1,0 +1,222 @@
+{
+  "episode_id": "howie-liu",
+  "topics": [
+    {
+      "topic_id": "howie-liu_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Howie Liu and frames the episode around how long-running companies (like Airtable) are reinventing themselves for the AI era, including the idea of the \u201cIC CEO\u201d and a fast/slow org structure for AI execution.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:04:14",
+      "speakers": [
+        "Howie Liu",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Transformation",
+        "Leadership",
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "howie-liu_t2",
+      "title": "Viral \u201cAirtable is dead\u201d tweet fallout",
+      "summary": "Howie explains that the viral tweet\u2019s revenue/growth numbers were wrong, why it spread anyway, and how the All In podcast later issued a correction\u2014highlighting social media incentives and misinformation dynamics.",
+      "timestamp_start": "00:04:19",
+      "timestamp_end": "00:08:07",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Howie Liu"
+      ],
+      "themes": [
+        "Leadership",
+        "Company Building",
+        "Media"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "howie-liu_t3",
+      "title": "Why CEOs must become ICs again",
+      "summary": "Howie describes returning to hands-on building as AI forces software companies to \u201crefound\u201d products repeatedly; staying close to technical and UX details is essential to discover new AI-native form factors and maintain product-market fit.",
+      "timestamp_start": "00:08:08",
+      "timestamp_end": "00:13:23",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Howie Liu"
+      ],
+      "themes": [
+        "Leadership",
+        "AI Transformation",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "howie-liu_t4",
+      "title": "Using AI aggressively for strategic insight",
+      "summary": "Howie shares how he uses Airtable AI heavily (even expensively) to analyze large corpuses like sales call transcripts via map-reduce style LLM workflows, arguing the ROI dwarfs inference costs compared to human/consulting alternatives.",
+      "timestamp_start": "00:13:23",
+      "timestamp_end": "00:16:27",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Howie Liu"
+      ],
+      "themes": [
+        "AI Transformation",
+        "Productivity",
+        "Data & Analytics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "howie-liu_t5",
+      "title": "Changing CEO calendar to enable building",
+      "summary": "Howie explains cutting standing 1:1s, favoring urgency-driven topical meetings, and using a \u201cbarbell\u201d approach (deep in-person relationship time plus focused execution check-ins) to free time for hands-on AI work.",
+      "timestamp_start": "00:16:27",
+      "timestamp_end": "00:18:55",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Howie Liu"
+      ],
+      "themes": [
+        "Leadership",
+        "Productivity",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "howie-liu_t6",
+      "title": "Reorg to fast-thinking and slow-thinking teams",
+      "summary": "Howie walks through Airtable\u2019s org evolution (feature teams \u2192 business-unit pillars \u2192 fast/slow split) and why separating rapid AI shipping from deliberate infrastructure/enterprise scaling helps both speed and durable adoption.",
+      "timestamp_start": "00:18:55",
+      "timestamp_end": "00:23:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Howie Liu"
+      ],
+      "themes": [
+        "Org Design",
+        "AI Transformation",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "howie-liu_t7",
+      "title": "Who thrives in the fast-thinking AI group",
+      "summary": "They discuss the archetype for fast AI execution: autonomous, entrepreneurial, full-stack thinkers who can navigate ambiguity across UX, model constraints, and human-in-the-loop workflows; Howie previews Omni\u2019s code-gen extension direction.",
+      "timestamp_start": "00:23:33",
+      "timestamp_end": "00:28:44",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Howie Liu"
+      ],
+      "themes": [
+        "Hiring",
+        "Org Design",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "howie-liu_t8",
+      "title": "Speed and shipping as AI product advantage",
+      "summary": "Lenny connects Howie\u2019s approach to OpenAI\u2019s product lessons: constantly ask if work is \u201cmaximally accelerated,\u201d and ship early because AI use cases and user desires often only become clear once features are in the wild.",
+      "timestamp_start": "00:28:44",
+      "timestamp_end": "00:32:58",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Howie Liu"
+      ],
+      "themes": [
+        "Execution",
+        "AI Transformation",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "howie-liu_t9",
+      "title": "Why Airtable\u2019s homepage became AI app-building",
+      "summary": "Howie explains the shift toward conversational app generation as models improved (Copilot \u2192 Cursor-style agents), and argues Airtable\u2019s advantage is reliable no-code primitives that an agent can assemble\u2014avoiding brittle from-scratch code for business apps.",
+      "timestamp_start": "00:32:58",
+      "timestamp_end": "00:39:25",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Howie Liu"
+      ],
+      "themes": [
+        "Product Strategy",
+        "AI Transformation",
+        "Platform"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "howie-liu_t10",
+      "title": "Practical playbook for founders in AI transition",
+      "summary": "Lenny summarizes repeatable patterns: reimagine the company as if founded today, identify unfair advantages from legacy assets, create urgency/speed via structure, and ensure leaders personally use AI tools deeply to guide strategy.",
+      "timestamp_start": "00:39:25",
+      "timestamp_end": "00:40:38",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Transformation",
+        "Leadership",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "howie-liu_t11",
+      "title": "Howie\u2019s daily practice: try everything, build side projects",
+      "summary": "Howie describes constantly experimenting with many AI products (not just Airtable), using small weekend projects to learn real workflows and product form factors, and treating rapid weekly releases as the new competitive cadence.",
+      "timestamp_start": "00:40:38",
+      "timestamp_end": "00:45:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Howie Liu"
+      ],
+      "themes": [
+        "AI Transformation",
+        "Productivity",
+        "Competitive Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "howie-liu_t12",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message promoting Anthropic\u2019s Claude, highlighting use cases like research, synthesis, integrations, and a discount link for listeners.",
+      "timestamp_start": "00:45:33",
+      "timestamp_end": "00:47:02",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "howie-liu_t13",
+      "title": "Raising the bar: expectations for PMs and teams",
+      "summary": "Howie emphasizes cultivating a mindset of playful exploration with AI tools across the org, leading by example by sharing prototypes, research outputs, and artifacts rather than only docs to accelerate learning and execution.",
+      "timestamp_start": "00:47:02",
+      "timestamp_end": "00:48:20",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Howie Liu"
+      ],
+      "themes": [
+        "Leadership",
+        "AI Transformation",
+        "Org Design"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

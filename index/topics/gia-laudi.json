@@ -1,0 +1,266 @@
+{
+  "episode_id": "gia-laudi",
+  "topics": [
+    {
+      "topic_id": "gia-laudi_t1",
+      "title": "Why funnels and MQLs/SQLs are flawed",
+      "summary": "Gia explains why funnels, pirate metrics, and lead labels (MQL/SQL) are often meaningless, business-centric, and ignore the full SaaS lifecycle (retention/expansion) and the pre-solution \u201cproblem stage.\u201d",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:04",
+      "speakers": [
+        "Georgiana Laudi",
+        "Lenny"
+      ],
+      "themes": [
+        "Customer Research & Insights",
+        "Growth & Marketing",
+        "Metrics & Analytics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gia-laudi_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the podcast and Gia Laudi, previewing a practical process for finding growth opportunities via customer journeys, goals, and execution.",
+      "timestamp_start": "00:01:04",
+      "timestamp_end": "00:02:05",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Growth & Marketing",
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "gia-laudi_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages: Amplitude (product analytics, experimentation, CDP) and Athletic Greens AG1 (daily nutrition supplement).",
+      "timestamp_start": "00:02:05",
+      "timestamp_end": "00:04:33",
+      "speakers": [
+        "Lenny",
+        "John Cutler"
+      ],
+      "themes": [
+        "Tools & Technology"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "gia-laudi_t4",
+      "title": "Gia\u2019s career journey and Forget The Funnel",
+      "summary": "Gia summarizes her marketing background (retail, freelancing, Unbounce) and how she and Claire Suellentrop formed Forget The Funnel to help B2B SaaS teams with customer research and growth strategy.",
+      "timestamp_start": "00:04:33",
+      "timestamp_end": "00:06:57",
+      "speakers": [
+        "Lenny",
+        "Georgiana Laudi"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "Growth & Marketing"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "gia-laudi_t5",
+      "title": "Why the consultancy is called Forget The Funnel",
+      "summary": "Gia expands on why funnels feel misaligned: they bucket customers, center the business over customer value, omit the pre-discovery context, and underweight post-acquisition in recurring-revenue SaaS.",
+      "timestamp_start": "00:06:57",
+      "timestamp_end": "00:08:52",
+      "speakers": [
+        "Lenny",
+        "Georgiana Laudi"
+      ],
+      "themes": [
+        "Growth & Marketing",
+        "Customer Research & Insights",
+        "Metrics & Analytics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gia-laudi_t6",
+      "title": "Typical growth impact: messaging, onboarding, activation",
+      "summary": "Gia shares common outcomes from their work\u2014ideal-customer realignment, stronger positioning/messaging, and onboarding improvements\u2014citing examples like 89% website conversion lift and 40% trial-to-paid lift from better-fit signups.",
+      "timestamp_start": "00:08:52",
+      "timestamp_end": "00:12:18",
+      "speakers": [
+        "Lenny",
+        "Georgiana Laudi"
+      ],
+      "themes": [
+        "Growth & Marketing",
+        "Customer Research & Insights",
+        "Metrics & Analytics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gia-laudi_t7",
+      "title": "How common are \u201cdouble conversion\u201d opportunities?",
+      "summary": "Gia argues most companies have major latent opportunities, especially in the messy ownership area of onboarding/activation, and that every engagement yields actionable customer insights.",
+      "timestamp_start": "00:12:18",
+      "timestamp_end": "00:13:56",
+      "speakers": [
+        "Lenny",
+        "Georgiana Laudi"
+      ],
+      "themes": [
+        "Growth & Marketing",
+        "Customer Research & Insights"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "gia-laudi_t8",
+      "title": "Airbnb storyboard moment: customer-journey alignment",
+      "summary": "Gia recounts seeing Airbnb\u2019s storyboarded customer journey (including emotions and off-platform context), which inspired Unbounce leaders to build a shared, customer-centered map that improved cross-team alignment and execution.",
+      "timestamp_start": "00:14:00",
+      "timestamp_end": "00:19:19",
+      "speakers": [
+        "Lenny",
+        "Georgiana Laudi"
+      ],
+      "themes": [
+        "Customer Research & Insights",
+        "Product Strategy",
+        "Career & Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gia-laudi_t9",
+      "title": "Process overview and SparkToro case setup",
+      "summary": "Gia outlines the high-level method: understand best customers, map their value journey, make it measurable, and find misalignments\u2014then introduces SparkToro\u2019s challenge: strong traffic/signups but weak free-to-paid conversion.",
+      "timestamp_start": "00:19:19",
+      "timestamp_end": "00:21:54",
+      "speakers": [
+        "Lenny",
+        "Georgiana Laudi"
+      ],
+      "themes": [
+        "Growth & Marketing",
+        "Customer Research & Insights",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gia-laudi_t10",
+      "title": "Jobs-to-be-done research: surveys and best-customer criteria",
+      "summary": "Using JTBD, Gia explains surveying recent, happy paying customers (3\u20136 months) to uncover triggers, anxieties, must-haves, and desired outcomes\u2014often sufficient without interviews when patterns are clear.",
+      "timestamp_start": "00:21:54",
+      "timestamp_end": "00:24:23",
+      "speakers": [
+        "Georgiana Laudi"
+      ],
+      "themes": [
+        "Customer Research & Insights",
+        "Growth & Marketing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gia-laudi_t11",
+      "title": "Choosing which customer job to prioritize",
+      "summary": "Gia describes how to pick a primary job: willingness to pay, urgency (painkiller vs vitamin), retention/expansion potential, market reachability, and \u201cunfair advantage,\u201d plus clarifies you can serve secondary jobs later.",
+      "timestamp_start": "00:24:23",
+      "timestamp_end": "00:28:34",
+      "speakers": [
+        "Lenny",
+        "Georgiana Laudi"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Customer Research & Insights",
+        "Growth & Marketing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gia-laudi_t12",
+      "title": "From data to strategy: avoid tactical piecemeal growth",
+      "summary": "They contrast tactical conversion tweaking with a customer-led approach: use data to spot issues, but zoom out to define the ideal customer/job first so acquisition and onboarding bring better-fit users through the door.",
+      "timestamp_start": "00:28:34",
+      "timestamp_end": "00:31:24",
+      "speakers": [
+        "Lenny",
+        "Georgiana Laudi"
+      ],
+      "themes": [
+        "Growth & Marketing",
+        "Product Strategy",
+        "Metrics & Analytics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gia-laudi_t13",
+      "title": "Mapping the customer journey into milestones",
+      "summary": "Gia explains journey mapping as a \u201chow I met and fell in love with your product\u201d story, typically spanning struggle (problem/interest), evaluation (first value, value realization), and growth (habit, expansion).",
+      "timestamp_start": "00:31:24",
+      "timestamp_end": "00:35:28",
+      "speakers": [
+        "Lenny",
+        "Georgiana Laudi"
+      ],
+      "themes": [
+        "Customer Research & Insights",
+        "Product Strategy",
+        "Growth & Marketing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gia-laudi_t14",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message: Maven cohort-based courses for product, leadership, branding, marketing, and decision-making.",
+      "timestamp_start": "00:35:28",
+      "timestamp_end": "00:36:31",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career & Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "gia-laudi_t15",
+      "title": "Operationalizing the map: KPIs, activation, win-backs",
+      "summary": "Gia details attaching KPIs to each milestone (website visitors, CTA conversion, activation/engagement), using research to front-load key value features, and building proactive onboarding plus reactive re-engagement when users fall off.",
+      "timestamp_start": "00:36:31",
+      "timestamp_end": "00:43:41",
+      "speakers": [
+        "Lenny",
+        "Georgiana Laudi"
+      ],
+      "themes": [
+        "Metrics & Analytics",
+        "Growth & Marketing",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gia-laudi_t16",
+      "title": "SparkToro KPI examples for activation and value",
+      "summary": "They walk through concrete SparkToro milestones and metrics: first search as an evaluation trigger, then activation via multiple searches plus creating lists, and deeper value via searches + lists + exporting.",
+      "timestamp_start": "00:43:41",
+      "timestamp_end": "00:46:21",
+      "speakers": [
+        "Lenny",
+        "Georgiana Laudi"
+      ],
+      "themes": [
+        "Metrics & Analytics",
+        "Growth & Marketing",
+        "Customer Research & Insights"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

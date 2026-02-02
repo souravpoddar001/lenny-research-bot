@@ -1,0 +1,244 @@
+{
+  "episode_id": "hamilton-helmer",
+  "topics": [
+    {
+      "topic_id": "hamilton-helmer_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Hamilton Helmer, his book 7 Powers, and what they\u2019ll cover: when to think about power, common misconceptions, how to apply the framework, and AI\u2019s impact on defensibility.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:40",
+      "speakers": [
+        "Hamilton Helmer",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Strategy",
+        "Competitive Advantage"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "hamilton-helmer_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for WorkOS and Vanta, covering enterprise auth/compliance tooling and security/compliance automation.",
+      "timestamp_start": "00:01:40",
+      "timestamp_end": "00:04:12",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamilton-helmer_t3",
+      "title": "When founders should think about power",
+      "summary": "Helmer explains his updated view: strategy and power are worth considering even pre\u2013product-market fit, not as rigid planning but as probability-tilting choices that affect the availability of power across a company\u2019s lifecycle and \u201csecond acts.\u201d",
+      "timestamp_start": "00:04:12",
+      "timestamp_end": "00:08:24",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamilton Helmer"
+      ],
+      "themes": [
+        "Strategy",
+        "Startups",
+        "Competitive Advantage"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamilton-helmer_t4",
+      "title": "Defining strategy and linking it to value",
+      "summary": "Helmer narrows \u201cstrategy\u201d to what drives business value (NPV of future cash flows), emphasizing strategy\u2019s long time horizon and distinguishing it from short-term tactics using Pearl Harbor as an analogy.",
+      "timestamp_start": "00:08:24",
+      "timestamp_end": "00:12:09",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamilton Helmer"
+      ],
+      "themes": [
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamilton-helmer_t5",
+      "title": "What power is: benefit plus barrier",
+      "summary": "They unpack power as durable advantage requiring both a benefit (price/cost advantage) and a barrier (inimitability), with Netflix\u2019s scale economies as a concrete example.",
+      "timestamp_start": "00:12:09",
+      "timestamp_end": "00:14:47",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamilton Helmer"
+      ],
+      "themes": [
+        "Competitive Advantage",
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamilton-helmer_t6",
+      "title": "Power progression and early-stage power options",
+      "summary": "Helmer describes \u201cpower progression,\u201d arguing early startups should largely ignore brand/process/resource power and focus on counter-positioning first, then potentially scale economies, switching costs, and network economies as they grow.",
+      "timestamp_start": "00:14:47",
+      "timestamp_end": "00:21:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamilton Helmer"
+      ],
+      "themes": [
+        "Startups",
+        "Competitive Advantage",
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamilton-helmer_t7",
+      "title": "Common moat mistakes: brand, data, flywheels",
+      "summary": "Helmer explains why founders often misdiagnose power: brand awareness can be bought, data scale economies are rarer than claimed, and many \u201cflywheels\u201d exist but aren\u2019t materially strong enough to create durable advantage.",
+      "timestamp_start": "00:21:12",
+      "timestamp_end": "00:24:39",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamilton Helmer"
+      ],
+      "themes": [
+        "Competitive Advantage",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamilton-helmer_t8",
+      "title": "Network effects vs network economies (materiality)",
+      "summary": "Helmer distinguishes weak network effects from true network-economy power by insisting on material impact on pricing/margins; he cites Uber/Lyft as likely having some network effects but not strong enough to be power.",
+      "timestamp_start": "00:24:39",
+      "timestamp_end": "00:29:16",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamilton Helmer"
+      ],
+      "themes": [
+        "Competitive Advantage",
+        "Marketplaces"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamilton-helmer_t9",
+      "title": "Moats vs power and the Netflix \u201ccastle\u201d test",
+      "summary": "Helmer clarifies that a moat is closer to the barrier component, while power requires both barrier and meaningful value (\u201ccastle not shack\u201d); he uses Netflix UI/recommendations as important but largely mimickable capabilities.",
+      "timestamp_start": "00:29:16",
+      "timestamp_end": "00:33:06",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamilton Helmer"
+      ],
+      "themes": [
+        "Competitive Advantage",
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamilton-helmer_t10",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Paragon, an embedded integrations platform for B2B SaaS teams to ship integrations faster than building in-house.",
+      "timestamp_start": "00:33:06",
+      "timestamp_end": "00:34:41",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamilton-helmer_t11",
+      "title": "Applying power thinking as a product manager",
+      "summary": "Helmer advises IC PMs to understand their company\u2019s source of power, surface on-the-ground insights that protect it, and adapt quickly during the takeoff phase as technology waves create new features and segments.",
+      "timestamp_start": "00:34:41",
+      "timestamp_end": "00:37:51",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamilton Helmer"
+      ],
+      "themes": [
+        "Product Management",
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamilton-helmer_t12",
+      "title": "How to build strategic thinking skills",
+      "summary": "Helmer recommends reading, then pressure-testing ideas through conversations with colleagues about what power the business truly has; he shares how Netflix once trained leaders in strategy but he no longer runs full courses.",
+      "timestamp_start": "00:37:51",
+      "timestamp_end": "00:39:23",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamilton Helmer"
+      ],
+      "themes": [
+        "Strategy",
+        "Product Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "hamilton-helmer_t13",
+      "title": "AI\u2019s impact on power and business models",
+      "summary": "Helmer argues AI doesn\u2019t add an \u201ceighth power,\u201d but it can amplify existing powers (scale, switching costs, network learning) and will likely have broad \u201celectricity-like\u201d impact across many existing industries and functions.",
+      "timestamp_start": "00:39:23",
+      "timestamp_end": "00:45:37",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamilton Helmer"
+      ],
+      "themes": [
+        "AI",
+        "Strategy",
+        "Competitive Advantage"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamilton-helmer_t14",
+      "title": "Why execution/process is rarely a durable power",
+      "summary": "Building on Porter\u2019s \u201coperational excellence is not strategy,\u201d Helmer explains execution is essential (especially in takeoff) but usually imitable; true process power requires material, opaque, hard-to-copy know-how (e.g., Toyota/TSMC-like complexity).",
+      "timestamp_start": "00:45:37",
+      "timestamp_end": "00:51:16",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamilton Helmer"
+      ],
+      "themes": [
+        "Competitive Advantage",
+        "Operations",
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamilton-helmer_t15",
+      "title": "Macro outlook: debt risk and entrepreneurship optimism",
+      "summary": "Helmer warns that rising sovereign debt could reduce crisis \u201cdry powder,\u201d tightening capital markets and making founding harder, but closes with optimism that entrepreneurs drive economic vitality (Schumpeter) and urges action as the first principle.",
+      "timestamp_start": "00:51:16",
+      "timestamp_end": "00:59:18",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamilton Helmer"
+      ],
+      "themes": [
+        "Startups",
+        "Economics"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

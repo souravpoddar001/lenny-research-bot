@@ -1,0 +1,269 @@
+{
+  "episode_id": "matt-mochary",
+  "topics": [
+    {
+      "topic_id": "matt-mochary_t1",
+      "title": "Humane layoffs: deliver news one-on-one",
+      "summary": "Matt explains the biggest difference between botched and successful layoffs: employees should first hear the news directly from their manager in a private 1:1, not via email or group channels, to avoid dehumanization and backlash.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:08",
+      "speakers": [
+        "Matt Mochary"
+      ],
+      "themes": [
+        "Leadership",
+        "People Management",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-mochary_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the show and Matt Mochary, highlighting Matt\u2019s coaching work with top founders and executives and previewing topics like firing, fear/anger, and innovation.",
+      "timestamp_start": "00:01:08",
+      "timestamp_end": "00:02:12",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Leadership",
+        "Coaching",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-mochary_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for AssemblyAI (audio/video AI APIs) and Lemon.io (vetted developers for startups).",
+      "timestamp_start": "00:02:12",
+      "timestamp_end": "00:04:15",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-mochary_t4",
+      "title": "Matt\u2019s career path into executive coaching",
+      "summary": "Matt shares his varied background (founder, social good work) and how he began coaching Stanford student founders, eventually getting referrals to leaders like Naval, Sam Altman, and Brian Armstrong.",
+      "timestamp_start": "00:04:43",
+      "timestamp_end": "00:07:40",
+      "speakers": [
+        "Lenny",
+        "Matt Mochary"
+      ],
+      "themes": [
+        "Coaching",
+        "Career",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-mochary_t5",
+      "title": "Successful founders still struggle with fear",
+      "summary": "Matt describes fear as the most common limiter even among elite founders, and explains his \u201cfear gives bad advice\u201d bet: when someone is afraid, the opposite outcome often happens if they act transparently and decisively.",
+      "timestamp_start": "00:07:40",
+      "timestamp_end": "00:11:42",
+      "speakers": [
+        "Lenny",
+        "Matt Mochary"
+      ],
+      "themes": [
+        "Psychology",
+        "Leadership",
+        "Decision-Making"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-mochary_t6",
+      "title": "Anger, feedback phrasing, and underlying pain",
+      "summary": "They discuss how to flag anger without triggering defensiveness (\u201cI perceive you to be in anger\u201d), how anger differs from fear, and Matt\u2019s newer insight that anger often masks pain that should be felt rather than externalized.",
+      "timestamp_start": "00:11:42",
+      "timestamp_end": "00:15:24",
+      "speakers": [
+        "Lenny",
+        "Matt Mochary"
+      ],
+      "themes": [
+        "Psychology",
+        "Communication",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-mochary_t7",
+      "title": "From business books to a practical operating system",
+      "summary": "Matt explains how he distilled lessons from books (e.g., Andy Grove, Ben Horowitz) into short, testable docs, which became his book and curriculum; he also describes building software to operationalize his methods and test radical ideas.",
+      "timestamp_start": "00:15:30",
+      "timestamp_end": "00:18:59",
+      "speakers": [
+        "Lenny",
+        "Matt Mochary"
+      ],
+      "themes": [
+        "Operations",
+        "Coaching",
+        "Management Systems"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-mochary_t8",
+      "title": "Talent density, regretted firings, and small teams",
+      "summary": "Matt shares a radical practice: firing close to the \u201cregret line\u201d to find the true bar, and the counterintuitive benefit that fewer people can improve execution by reducing coordination and morale overhead; he cites small-team exemplars.",
+      "timestamp_start": "00:18:59",
+      "timestamp_end": "00:23:37",
+      "speakers": [
+        "Lenny",
+        "Matt Mochary"
+      ],
+      "themes": [
+        "People Management",
+        "Operations",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-mochary_t9",
+      "title": "Firing well: separate decision from implementation",
+      "summary": "Matt argues firing is a critical leadership skill; he shares Wei Deng\u2019s framework of deciding for the customer first, then implementing compassionately\u2014ideally by actively acting as the departing employee\u2019s agent to land their next role.",
+      "timestamp_start": "00:23:37",
+      "timestamp_end": "00:29:51",
+      "speakers": [
+        "Lenny",
+        "Matt Mochary"
+      ],
+      "themes": [
+        "People Management",
+        "Leadership",
+        "Decision-Making"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-mochary_t10",
+      "title": "Delivering hard news: reduce surprise, allow emotions",
+      "summary": "Matt outlines a step-by-step approach to difficult conversations: warn it\u2019s coming to reduce amygdala-triggering surprise, deliver the message clearly, then invite and listen to emotions so the person feels supported and heard.",
+      "timestamp_start": "00:29:51",
+      "timestamp_end": "00:31:47",
+      "speakers": [
+        "Lenny",
+        "Matt Mochary"
+      ],
+      "themes": [
+        "Communication",
+        "People Management",
+        "Psychology"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-mochary_t11",
+      "title": "How to make people feel heard",
+      "summary": "Matt gives tactical listening techniques: collect written input, reflect back what you heard until confirmed, and (for deeper resonance) mirror the likely unspoken thoughts/feelings; then either accept and act or explain constraints transparently.",
+      "timestamp_start": "00:31:47",
+      "timestamp_end": "00:35:09",
+      "speakers": [
+        "Lenny",
+        "Matt Mochary"
+      ],
+      "themes": [
+        "Communication",
+        "Leadership",
+        "Feedback"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-mochary_t12",
+      "title": "Using scripts, self-serve curriculum, and coachless success",
+      "summary": "Matt says people can improve quickly by following the curriculum\u2019s scripts; he shares an example of a CEO who implemented everything successfully and declined coaching because the system already worked.",
+      "timestamp_start": "00:35:09",
+      "timestamp_end": "00:36:45",
+      "speakers": [
+        "Lenny",
+        "Matt Mochary"
+      ],
+      "themes": [
+        "Coaching",
+        "Management Systems",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-mochary_t13",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Vanta (automating SOC 2 and security compliance).",
+      "timestamp_start": "00:36:48",
+      "timestamp_end": "00:38:05",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "matt-mochary_t14",
+      "title": "Coaching evolution: from tactics to fear work",
+      "summary": "Matt answers how his coaching changed: earlier it was mostly operational tactics (goals, tracking, execution), but now he emphasizes recognizing fear/anger as a core blocker; he also mentions helping Naval transition out of the CEO role.",
+      "timestamp_start": "00:38:05",
+      "timestamp_end": "00:41:25",
+      "speakers": [
+        "Lenny",
+        "Matt Mochary"
+      ],
+      "themes": [
+        "Coaching",
+        "Leadership",
+        "Psychology"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-mochary_t15",
+      "title": "Top goal focus and accountability partners",
+      "summary": "They discuss the \u201ctop goal\u201d practice (protecting time for your highest priority) and Matt\u2019s tactic of using an accountability partner\u2014like a trainer\u2014to prevent distraction and ensure follow-through.",
+      "timestamp_start": "00:41:25",
+      "timestamp_end": "00:43:42",
+      "speakers": [
+        "Lenny",
+        "Matt Mochary"
+      ],
+      "themes": [
+        "Productivity",
+        "Leadership",
+        "Habits"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "matt-mochary_t16",
+      "title": "Large layoffs: managers as agents and humane delivery",
+      "summary": "Matt argues large layoffs can still be humane if each manager handles affected reports directly and helps with transitions; he shares patterns from 2020 and the valuation reset where layoffs often improved execution, then returns to the key rule: hear it 1:1 from your manager.",
+      "timestamp_start": "00:43:42",
+      "timestamp_end": "00:47:02",
+      "speakers": [
+        "Lenny",
+        "Matt Mochary"
+      ],
+      "themes": [
+        "People Management",
+        "Leadership",
+        "Operations"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

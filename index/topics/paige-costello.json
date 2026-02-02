@@ -1,0 +1,236 @@
+{
+  "episode_id": "paige-costello",
+  "topics": [
+    {
+      "topic_id": "paige-costello_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Paige Costello, her background (Asana, Intercom, Intuit), and what the episode will cover, including trust-building, coaching, and Asana\u2019s product process.",
+      "timestamp_start": "00:00:45",
+      "timestamp_end": "00:01:47",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career Growth",
+        "Product Strategy",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "paige-costello_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Brave Search API and Attio CRM.",
+      "timestamp_start": "00:01:47",
+      "timestamp_end": "00:04:05",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "paige-costello_t3",
+      "title": "Paige\u2019s scope at Asana and core product",
+      "summary": "Paige explains her org\u2019s responsibility for Asana\u2019s core desktop/web/mobile experience and the product goal of creating clarity around who\u2019s doing what by when and why.",
+      "timestamp_start": "00:04:05",
+      "timestamp_end": "00:06:04",
+      "speakers": [
+        "Lenny",
+        "Paige Costello"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Leadership",
+        "Product Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "paige-costello_t4",
+      "title": "How Asana\u2019s planning and org structure evolved",
+      "summary": "They discuss changes in strategy-setting and planning: moving from annual planning to a rolling 12-month plan refreshed every 6 months, and introducing pillars/areas/teams with nested metrics and accountability.",
+      "timestamp_start": "00:06:04",
+      "timestamp_end": "00:12:41",
+      "speakers": [
+        "Lenny",
+        "Paige Costello"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Execution",
+        "Metrics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "paige-costello_t5",
+      "title": "Double Diamond process and product reviews",
+      "summary": "Paige explains Asana\u2019s Double Diamond approach (broad-to-narrow across customer, problem, solution) and maps it to artifacts like kickoff, direction selection, concept review, spec, experience review, and launch readiness.",
+      "timestamp_start": "00:12:44",
+      "timestamp_end": "00:17:27",
+      "speakers": [
+        "Lenny",
+        "Paige Costello"
+      ],
+      "themes": [
+        "Product Discovery",
+        "Execution",
+        "Product Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "paige-costello_t6",
+      "title": "Asana hybrid work policy and office dynamics",
+      "summary": "Paige describes Asana\u2019s office-centric hybrid schedule (Mon/Tue/Thu in office) and reflects on rebuilding in-office habits, serendipitous collaboration, and protecting deep-work time via chronotype awareness.",
+      "timestamp_start": "00:17:27",
+      "timestamp_end": "00:21:42",
+      "speakers": [
+        "Lenny",
+        "Paige Costello"
+      ],
+      "themes": [
+        "Workplace",
+        "Productivity",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "paige-costello_t7",
+      "title": "Building trust and projecting confidence as a leader",
+      "summary": "Paige shares how to win over skeptics by bringing customer/market/product insight, asking great questions, and using a trust equation (credibility, reliability, authenticity over self-interest). She emphasizes customer exposure and confident presence in meetings.",
+      "timestamp_start": "00:21:45",
+      "timestamp_end": "00:28:03",
+      "speakers": [
+        "Lenny",
+        "Paige Costello"
+      ],
+      "themes": [
+        "Leadership",
+        "Communication",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "paige-costello_t8",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Round, a private network for tech leaders.",
+      "timestamp_start": "00:28:03",
+      "timestamp_end": "00:29:04",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "paige-costello_t9",
+      "title": "Coaching PMs through leading by example",
+      "summary": "They explore Paige\u2019s coaching style\u2014teaching via repetition and exposure (experience/exposure/education). Paige gives examples like running high-quality meetings and the advice to \u201canswer the question they should have asked.\u201d",
+      "timestamp_start": "00:29:04",
+      "timestamp_end": "00:33:43",
+      "speakers": [
+        "Lenny",
+        "Paige Costello"
+      ],
+      "themes": [
+        "Leadership",
+        "Coaching",
+        "Career Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "paige-costello_t10",
+      "title": "Career advice and conscious leadership mindset",
+      "summary": "Paige shares recurring advice: don\u2019t self-select out, \u201cthink big, ship small,\u201d and use conscious leadership tools like above/below the line and \u201chow might the opposite be true?\u201d to escape scarcity thinking.",
+      "timestamp_start": "00:33:43",
+      "timestamp_end": "00:40:05",
+      "speakers": [
+        "Lenny",
+        "Paige Costello"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership",
+        "Mindset"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "paige-costello_t11",
+      "title": "How Asana approaches AI and LLM product work",
+      "summary": "Paige explains Asana\u2019s approach: an existing ML foundation plus a dedicated rapid-prototyping team that bypasses normal process to test hypotheses quickly, then hands off proven concepts to domain teams to scale.",
+      "timestamp_start": "00:40:05",
+      "timestamp_end": "00:41:50",
+      "speakers": [
+        "Lenny",
+        "Paige Costello"
+      ],
+      "themes": [
+        "AI/ML",
+        "Product Strategy",
+        "Execution"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "paige-costello_t12",
+      "title": "Intuit training lessons: customer focus and feedback",
+      "summary": "Paige reflects on Intuit\u2019s APM and manager training, emphasizing deep customer-centricity and the SBI feedback model (situation-behavior-impact) as a practical way to deliver actionable, non-judgmental feedback.",
+      "timestamp_start": "00:41:50",
+      "timestamp_end": "00:45:52",
+      "speakers": [
+        "Lenny",
+        "Paige Costello"
+      ],
+      "themes": [
+        "Coaching",
+        "Leadership",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "paige-costello_t13",
+      "title": "What holds back new PMs and how to succeed",
+      "summary": "Paige argues new PMs often over-index on being the expert, leading to advocacy over inquiry and performative collaboration. She encourages genuine curiosity, collaborative discovery, and focusing on outcomes over promotion-chasing.",
+      "timestamp_start": "00:45:53",
+      "timestamp_end": "00:48:55",
+      "speakers": [
+        "Lenny",
+        "Paige Costello"
+      ],
+      "themes": [
+        "Product Management",
+        "Career Growth",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "paige-costello_t14",
+      "title": "Early management missteps: avoiding micromanagement",
+      "summary": "Paige begins sharing lessons from mistakes transitioning to management, including learning to give guidance without micromanaging and using tactics (like writing thoughts on Post-its) to create space for others to lead.",
+      "timestamp_start": "00:48:55",
+      "timestamp_end": "00:50:42",
+      "speakers": [
+        "Lenny",
+        "Paige Costello"
+      ],
+      "themes": [
+        "Leadership",
+        "Coaching",
+        "Career Growth"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "episode_id": "tamar-yehoshua",
+  "topics": [
+    {
+      "topic_id": "tamar-yehoshua_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Tamar Yehoshua, her roles at Glean, Slack, Google, and Amazon, and previews topics including leadership, cross-functional work, and AI strategy.",
+      "timestamp_start": "00:00:36",
+      "timestamp_end": "00:02:15",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tamar Yehoshua"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "tamar-yehoshua_t2",
+      "title": "Career success habits: excel and understand people",
+      "summary": "Tamar shares two core drivers of her success: doing an exceptional job in your current role (beyond table stakes) and developing deep understanding of people\u2019s motivations for both product building and leadership.",
+      "timestamp_start": "00:02:17",
+      "timestamp_end": "00:03:40",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tamar Yehoshua"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tamar-yehoshua_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Explo (embedded analytics) and Sprig (product experience insights and AI recommendations).",
+      "timestamp_start": "00:03:40",
+      "timestamp_end": "00:05:55",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Other"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "tamar-yehoshua_t4",
+      "title": "Learning to read the room and motivations",
+      "summary": "Tamar explains how observing reactions and asking questions builds intuition for what users and teammates want, drawing on lessons from her psychiatrist father about analyzing social dynamics.",
+      "timestamp_start": "00:05:55",
+      "timestamp_end": "00:07:58",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tamar Yehoshua"
+      ],
+      "themes": [
+        "Leadership",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tamar-yehoshua_t5",
+      "title": "Balancing metrics with intuition and perspective",
+      "summary": "She cautions against over-reliance on metrics, advocating for customer intuition, \u201cbeginner\u2019s mind,\u201d and earning UI prominence by focusing on what users are trying to accomplish rather than pushing pet features.",
+      "timestamp_start": "00:07:58",
+      "timestamp_end": "00:09:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tamar Yehoshua"
+      ],
+      "themes": [
+        "Product Management",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tamar-yehoshua_t6",
+      "title": "What \u201cdoing a great job\u201d really means",
+      "summary": "Tamar reframes performance as business impact\u2014building things people use and moving the company forward\u2014and shares an early-career story where she declined a management role because the team shouldn\u2019t exist.",
+      "timestamp_start": "00:09:33",
+      "timestamp_end": "00:11:19",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tamar Yehoshua"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tamar-yehoshua_t7",
+      "title": "Companies can win while being poorly run",
+      "summary": "They discuss how internal dysfunction (turnover, broken processes, unhappy teams) doesn\u2019t always correlate with business success, and Tamar highlights what matters most: product people want, distribution/sales, and runway.",
+      "timestamp_start": "00:11:19",
+      "timestamp_end": "00:14:29",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tamar Yehoshua"
+      ],
+      "themes": [
+        "Startups",
+        "Leadership",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tamar-yehoshua_t8",
+      "title": "Hypergrowth chaos: why it happens and limits",
+      "summary": "Tamar explains why hypergrowth creates operational breakage and communication issues, when chaos is acceptable vs harmful, and how scaling eventually requires stronger processes and professional management.",
+      "timestamp_start": "00:14:29",
+      "timestamp_end": "00:18:39",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tamar Yehoshua"
+      ],
+      "themes": [
+        "Startups",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tamar-yehoshua_t9",
+      "title": "You don\u2019t need a career plan: follow people",
+      "summary": "Tamar argues five-year plans aren\u2019t necessary; instead, optimize for learning by following exceptional people and talent hubs, building durable skills and networks rather than trying to predict outcomes.",
+      "timestamp_start": "00:18:39",
+      "timestamp_end": "00:23:36",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tamar Yehoshua"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tamar-yehoshua_t10",
+      "title": "Choosing roles: recruitability and avoiding mercenary traps",
+      "summary": "She advises leaders to pick jobs where hiring will \u201cmake people\u2019s careers,\u201d warns that financial outcomes are hard to predict, and notes even strong careers include missteps and companies that don\u2019t work out.",
+      "timestamp_start": "00:23:36",
+      "timestamp_end": "00:26:15",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tamar Yehoshua"
+      ],
+      "themes": [
+        "Career Growth",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tamar-yehoshua_t11",
+      "title": "Lessons from Jeff Bezos: principles and long-termism",
+      "summary": "Tamar recounts quarterly meetings with Bezos: six-pagers, listening-first leadership, exceptional depth, and the power of consistent principles; she shares his view that fewer resources can be an advantage over the long term.",
+      "timestamp_start": "00:26:15",
+      "timestamp_end": "00:30:14",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tamar Yehoshua"
+      ],
+      "themes": [
+        "Leadership",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tamar-yehoshua_t12",
+      "title": "Lessons from Stewart Butterfield: vision and prototyping",
+      "summary": "She describes Stewart\u2019s enduring 2014 Slack master plan and his insistence on prototyping to \u2018feel\u2019 product changes, including an extreme prototype that hid the entire UI behind one button to rethink information architecture.",
+      "timestamp_start": "00:30:14",
+      "timestamp_end": "00:32:43",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tamar Yehoshua"
+      ],
+      "themes": [
+        "Product Management",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tamar-yehoshua_t13",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Sidebar, a peer-group platform for senior tech leaders to get feedback, career support, and facilitated programming.",
+      "timestamp_start": "00:32:43",
+      "timestamp_end": "00:33:52",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Other"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "tamar-yehoshua_t14",
+      "title": "Making time for prototypes: mindset and tech stack",
+      "summary": "Tamar explains prototyping can be faster if engineering infrastructure supports it, teams embrace throwaway code, and design/engineering collaborate; they note AI tools are making prototyping even easier.",
+      "timestamp_start": "00:33:52",
+      "timestamp_end": "00:36:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tamar Yehoshua"
+      ],
+      "themes": [
+        "Product Management",
+        "AI"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tamar-yehoshua_t15",
+      "title": "Other leadership lessons: Benioff\u2019s marketing as product",
+      "summary": "Tamar highlights Marc Benioff\u2019s marketing mastery, describing how Dreamforce and keynote strategy reflect product-like thinking and bold competitive positioning.",
+      "timestamp_start": "00:36:12",
+      "timestamp_end": "00:37:58",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tamar Yehoshua"
+      ],
+      "themes": [
+        "Leadership",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tamar-yehoshua_t16",
+      "title": "Building strong PM\u2013engineering partnerships and alignment",
+      "summary": "Prompted by feedback from Fuzzy Khos, Tamar shares how to build cross-functional trust: choose a strong engineering partner, clarify ownership, avoid \u2018mom vs dad\u2019 dynamics, and create alignment through shared reviews and OKR rituals.",
+      "timestamp_start": "00:37:58",
+      "timestamp_end": "00:45:24",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tamar Yehoshua"
+      ],
+      "themes": [
+        "Leadership",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tamar-yehoshua_t17",
+      "title": "Don\u2019t over-index on unhappy users during changes",
+      "summary": "Tamar explains why product teams shouldn\u2019t be trapped by the vocal minority when removing or redesigning features; instead design for future scale while being transparent, respectful, and giving users time to adapt.",
+      "timestamp_start": "00:45:24",
+      "timestamp_end": "00:47:50",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tamar Yehoshua"
+      ],
+      "themes": [
+        "Product Management",
+        "Leadership"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

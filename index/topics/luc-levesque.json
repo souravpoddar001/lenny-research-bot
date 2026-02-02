@@ -1,0 +1,238 @@
+{
+  "episode_id": "luc-levesque",
+  "topics": [
+    {
+      "topic_id": "luc-levesque_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the show and guest Luc Levesque, highlighting his roles at Shopify, Meta, and as a growth advisor. He previews key topics: growth advising, SEO, routines/self-reflection, and stories about working with Mark Zuckerberg.",
+      "timestamp_start": "00:00:36",
+      "timestamp_end": "00:03:36",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career & Background"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "luc-levesque_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Mixpanel and Attio, describing product analytics and a flexible startup CRM, with promo links.",
+      "timestamp_start": "00:01:43",
+      "timestamp_end": "00:03:31",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "luc-levesque_t3",
+      "title": "First Facebook exec review: focus on impact",
+      "summary": "Luc recounts presenting a draft strategy at Facebook and being immediately pressed by Mark Zuckerberg on when results would show. He explains how Facebook\u2019s culture emphasizes measurable impact over activity and why that drives execution.",
+      "timestamp_start": "00:03:34",
+      "timestamp_end": "00:06:36",
+      "speakers": [
+        "Luc Levesque",
+        "Lenny"
+      ],
+      "themes": [
+        "Leadership & Management",
+        "Company Culture"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "luc-levesque_t4",
+      "title": "Impact as a recurring operating principle",
+      "summary": "They discuss why top companies repeatedly anchor on impact and outcomes rather than effort, and how growth work makes impact especially measurable. Luc contrasts impact-driven cultures with activity-driven ones.",
+      "timestamp_start": "00:06:36",
+      "timestamp_end": "00:09:20",
+      "speakers": [
+        "Lenny",
+        "Luc Levesque"
+      ],
+      "themes": [
+        "Leadership & Management",
+        "Metrics & Impact"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "luc-levesque_t5",
+      "title": "Being recruited by Zuck: hiring lessons",
+      "summary": "Luc shares what stood out about Zuckerberg\u2019s recruiting: involving the exec team, making it personal by including spouse/family, and maintaining relentless momentum over months. He connects these tactics to effective leadership hiring practices.",
+      "timestamp_start": "00:09:20",
+      "timestamp_end": "00:13:10",
+      "speakers": [
+        "Lenny",
+        "Luc Levesque"
+      ],
+      "themes": [
+        "Hiring & Talent",
+        "Leadership & Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "luc-levesque_t6",
+      "title": "Hiring as a core leadership skill",
+      "summary": "Luc explains why senior leaders must become world-class at hiring and describes his three-part playbook: finding, assessing, and closing talent. He emphasizes using past performance and \u201csigns of excellence\u201d as predictors.",
+      "timestamp_start": "00:13:10",
+      "timestamp_end": "00:16:56",
+      "speakers": [
+        "Lenny",
+        "Luc Levesque"
+      ],
+      "themes": [
+        "Hiring & Talent",
+        "Leadership & Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "luc-levesque_t7",
+      "title": "Signs of excellence and early-career signals",
+      "summary": "They dig into what counts as evidence of excellence even early in a career (awards, grit, standout achievements). Luc gives a strong signal example: a former boss leaving and returning to poach the person.",
+      "timestamp_start": "00:16:56",
+      "timestamp_end": "00:18:01",
+      "speakers": [
+        "Lenny",
+        "Luc Levesque"
+      ],
+      "themes": [
+        "Hiring & Talent"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "luc-levesque_t8",
+      "title": "When to bring on a growth advisor",
+      "summary": "Luc outlines timing for engaging growth help, stressing product-market fit before scaling growth to avoid amplifying a bad experience. He notes an exception: controlled, \u201coff-the-grid\u201d growth to gather PMF signal.",
+      "timestamp_start": "00:18:01",
+      "timestamp_end": "00:21:19",
+      "speakers": [
+        "Lenny",
+        "Luc Levesque"
+      ],
+      "themes": [
+        "Growth Strategy",
+        "Product-Market Fit"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "luc-levesque_t9",
+      "title": "What makes a great growth advisor",
+      "summary": "Luc explains that great advisors understand not just what works but why, and recommends using trusted growth experts to help vet advisors or growth hires. He argues a 10x growth advisor can be company-changing by identifying the right loop or lever.",
+      "timestamp_start": "00:21:19",
+      "timestamp_end": "00:24:17",
+      "speakers": [
+        "Luc Levesque",
+        "Lenny"
+      ],
+      "themes": [
+        "Growth Strategy",
+        "Advisors & Mentorship"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "luc-levesque_t10",
+      "title": "Advisor impact: needle-in-haystack insights",
+      "summary": "Luc shares how deep experience plus many experimentation reps enables advisors to spot issues quickly and drive outsized lifts. They discuss why advisor pricing can be high given the compressed transfer of hard-won knowledge.",
+      "timestamp_start": "00:24:17",
+      "timestamp_end": "00:28:36",
+      "speakers": [
+        "Lenny",
+        "Luc Levesque"
+      ],
+      "themes": [
+        "Advisors & Mentorship",
+        "Growth Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "luc-levesque_t11",
+      "title": "Structuring advisor relationships: equity and cliffs",
+      "summary": "Luc recommends equity for incentive alignment, front-loaded vesting to encourage fast knowledge transfer, and a three-month cliff to de-risk fit for both sides. He cautions against becoming indefinitely dependent on an advisor.",
+      "timestamp_start": "00:28:36",
+      "timestamp_end": "00:31:35",
+      "speakers": [
+        "Lenny",
+        "Luc Levesque"
+      ],
+      "themes": [
+        "Advisors & Mentorship",
+        "Hiring & Talent"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "luc-levesque_t12",
+      "title": "How to find growth advisors (and vet them)",
+      "summary": "Luc suggests starting with investor networks and founder referrals, or targeting world-class companies in the channel you need. They also warn against over-indexing on public \u201chalo\u201d signals like big followings without proper vetting.",
+      "timestamp_start": "00:31:35",
+      "timestamp_end": "00:38:13",
+      "speakers": [
+        "Luc Levesque",
+        "Lenny"
+      ],
+      "themes": [
+        "Advisors & Mentorship",
+        "Hiring & Talent"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "luc-levesque_t13",
+      "title": "How to become a growth advisor",
+      "summary": "Luc advises aspiring advisors to think like investors: pick companies carefully, expect long timelines to liquidity, and structure equity with a long tail to avoid expiration risk. He emphasizes committing for the long haul when choosing to engage.",
+      "timestamp_start": "00:38:13",
+      "timestamp_end": "00:40:52",
+      "speakers": [
+        "Lenny",
+        "Luc Levesque"
+      ],
+      "themes": [
+        "Advisors & Mentorship",
+        "Career & Background"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "luc-levesque_t14",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Eppo, an A/B testing and experimentation platform for modern growth teams, with a link to learn more.",
+      "timestamp_start": "00:40:52",
+      "timestamp_end": "00:41:59",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "luc-levesque_t15",
+      "title": "SEO segment kickoff: why SEO matters",
+      "summary": "Lenny transitions to SEO, framing Luc as an early SEO innovator through Tripadvisor and advising other SEO-driven companies. He asks what signals indicate a company is a strong fit for SEO as a major growth channel.",
+      "timestamp_start": "00:41:59",
+      "timestamp_end": "00:42:55",
+      "speakers": [
+        "Lenny",
+        "Luc Levesque"
+      ],
+      "themes": [
+        "SEO",
+        "Growth Strategy"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

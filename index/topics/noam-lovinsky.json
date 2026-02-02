@@ -1,0 +1,227 @@
+{
+  "episode_id": "noam-lovinsky",
+  "topics": [
+    {
+      "topic_id": "noam-lovinsky_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Noam Lovinsky and previews his unusual career arc across YouTube, Thumbtack, Facebook, and Grammarly, framing the episode around lessons from 0\u21921, -1\u21921, and turnaround experiences.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:20",
+      "speakers": [
+        "Lenny",
+        "Noam Lovinsky"
+      ],
+      "themes": [
+        "Career Growth",
+        "Product Strategy"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "noam-lovinsky_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Whimsical, Vanta, and later LinkedIn Ads.",
+      "timestamp_start": "00:02:36",
+      "timestamp_end": "00:35:29",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Other"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "noam-lovinsky_t3",
+      "title": "Why Noam avoids social media and posting",
+      "summary": "Noam explains why tweeting/newsletters don\u2019t feel authentic and how he learns and builds relationships through deep work and direct collaboration rather than scalable online presence.",
+      "timestamp_start": "00:04:22",
+      "timestamp_end": "00:06:31",
+      "speakers": [
+        "Lenny",
+        "Noam Lovinsky"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "noam-lovinsky_t4",
+      "title": "Career advice: lean into what energizes you",
+      "summary": "They discuss pressure to build an online brand and Noam\u2019s coaching: chart an authentic path, do what you enjoy, and you\u2019ll likely excel more than forcing activities that drain you.",
+      "timestamp_start": "00:06:31",
+      "timestamp_end": "00:08:51",
+      "speakers": [
+        "Lenny",
+        "Noam Lovinsky"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "noam-lovinsky_t5",
+      "title": "YouTube: killing your own project early",
+      "summary": "Noam recounts joining YouTube via acquisition, then advocating to wind down his initial project because it wasn\u2019t the best use of resources\u2014highlighting prioritization for the business over personal attachment.",
+      "timestamp_start": "00:08:52",
+      "timestamp_end": "00:12:32",
+      "speakers": [
+        "Lenny",
+        "Noam Lovinsky"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "noam-lovinsky_t6",
+      "title": "YouTube: asking to be layered for growth",
+      "summary": "Noam shares an atypical move\u2014requesting to report to another leader (Hunter Walk) to perform better\u2014illustrating humility, self-awareness, and optimizing for impact over optics.",
+      "timestamp_start": "00:12:32",
+      "timestamp_end": "00:16:49",
+      "speakers": [
+        "Lenny",
+        "Noam Lovinsky"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "noam-lovinsky_t7",
+      "title": "Principles for business-first prioritization",
+      "summary": "They unpack why strong PMs prioritize based on what\u2019s best for the business (often aligned with users) and how explicit principles (e.g., customer-first in marketplaces) help resolve tradeoffs.",
+      "timestamp_start": "00:16:49",
+      "timestamp_end": "00:19:38",
+      "speakers": [
+        "Lenny",
+        "Noam Lovinsky"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "noam-lovinsky_t8",
+      "title": "When to quit vs persist on a project",
+      "summary": "Noam discusses resilience versus sunk-cost: most efforts fail from lack of stamina, and a key signal is when teams lose energy and can\u2019t bring their best selves to high-ambiguity work.",
+      "timestamp_start": "00:19:38",
+      "timestamp_end": "00:22:05",
+      "speakers": [
+        "Lenny",
+        "Noam Lovinsky"
+      ],
+      "themes": [
+        "Leadership",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "noam-lovinsky_t9",
+      "title": "Thumbtack downturn: SEO dependence and negative growth",
+      "summary": "Noam describes Thumbtack\u2019s shift from rapid growth to negative YoY after SEO hits, and the broader lesson that single-channel growth is fragile and \u2018growth masks all problems.\u2019",
+      "timestamp_start": "00:22:05",
+      "timestamp_end": "00:26:25",
+      "speakers": [
+        "Lenny",
+        "Noam Lovinsky"
+      ],
+      "themes": [
+        "Growth",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "noam-lovinsky_t10",
+      "title": "Thumbtack turnaround: diversify channels and rebuild marketplace loop",
+      "summary": "He explains the turnaround playbook: expand beyond SEO into paid/other channels and redesign the high-friction marketplace flow (toward instant quotes/instant-like experiences) including monetization changes.",
+      "timestamp_start": "00:26:25",
+      "timestamp_end": "00:33:14",
+      "speakers": [
+        "Lenny",
+        "Noam Lovinsky"
+      ],
+      "themes": [
+        "Growth",
+        "Marketplaces"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "noam-lovinsky_t11",
+      "title": "Leadership-team alignment during hard times",
+      "summary": "Noam emphasizes that when growth turns negative, the exec team must operate as a cohesive unit\u2014no bystanders on product strategy\u2014and product leaders should make strategy legible for all functions to engage.",
+      "timestamp_start": "00:35:37",
+      "timestamp_end": "00:38:39",
+      "speakers": [
+        "Lenny",
+        "Noam Lovinsky"
+      ],
+      "themes": [
+        "Leadership",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "noam-lovinsky_t12",
+      "title": "Facebook NPE: value beyond finding the next Instagram",
+      "summary": "Noam reframes internal incubators: success isn\u2019t only a breakout app; it\u2019s also building \u2018start small\u2019 muscles, removing constraints (like customer access), and surfacing what\u2019s broken in big-company 0\u21921.",
+      "timestamp_start": "00:38:39",
+      "timestamp_end": "00:46:07",
+      "speakers": [
+        "Lenny",
+        "Noam Lovinsky"
+      ],
+      "themes": [
+        "Innovation",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "noam-lovinsky_t13",
+      "title": "How to run a startup-within-a-startup effectively",
+      "summary": "Advice for incubators: design incentives and time horizons that match 0\u21921 work, relax infrastructure/process constraints, and avoid performance systems that kill experimentation; Nike is cited as a strong model.",
+      "timestamp_start": "00:46:07",
+      "timestamp_end": "00:49:34",
+      "speakers": [
+        "Lenny",
+        "Noam Lovinsky"
+      ],
+      "themes": [
+        "Innovation",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "noam-lovinsky_t14",
+      "title": "Grammarly overview: profitable, larger than people think",
+      "summary": "Noam begins describing Grammarly\u2019s scale and long-term profitability, noting the company intentionally stayed under the radar despite being a rare successful consumer subscription business (with B2B as well).",
+      "timestamp_start": "00:49:34",
+      "timestamp_end": "00:50:26",
+      "speakers": [
+        "Lenny",
+        "Noam Lovinsky"
+      ],
+      "themes": [
+        "Business Models",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

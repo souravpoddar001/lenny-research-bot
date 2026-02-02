@@ -1,0 +1,288 @@
+{
+  "episode_id": "andy-raskin",
+  "topics": [
+    {
+      "topic_id": "andy-raskin_t1",
+      "title": "Introduction and Background",
+      "summary": "Cold open on why most pitches are wrong (\"arrogant doctor\") and the alternative movie-like structure based on a shift from an old game to a new game. Lenny introduces Andy Raskin and frames the episode around strategic narrative as an alignment tool across go-to-market and product.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:07",
+      "speakers": [
+        "Andy Raskin",
+        "Lenny"
+      ],
+      "themes": [
+        "Positioning & Messaging"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "andy-raskin_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Coda and Lennysjobs.com/talent.",
+      "timestamp_start": "00:02:07",
+      "timestamp_end": "00:04:16",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsorship"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "andy-raskin_t3",
+      "title": "Andy\u2019s origin story: failing pitch to story craft",
+      "summary": "Andy shares how a brutal VC rejection pushed him to study screenwriting books, realize structure matters, and rework his startup pitch to get traction and a term sheet. He explains how this eventually became his consulting focus despite initial skepticism that CEOs would pay for \u201cstory.\u201d",
+      "timestamp_start": "00:04:16",
+      "timestamp_end": "00:07:13",
+      "speakers": [
+        "Lenny",
+        "Andy Raskin"
+      ],
+      "themes": [
+        "Founder Story & Career"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "andy-raskin_t4",
+      "title": "Writing and solving your own problem",
+      "summary": "They discuss how career opportunities often emerge from solving personal problems and sharing learnings publicly. Lenny and Andy compare \u201covernight success\u201d perceptions vs. long build-up.",
+      "timestamp_start": "00:07:13",
+      "timestamp_end": "00:08:03",
+      "speakers": [
+        "Lenny",
+        "Andy Raskin"
+      ],
+      "themes": [
+        "Creator Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "andy-raskin_t5",
+      "title": "What a strategic narrative is",
+      "summary": "Andy defines strategic narrative as the single CEO-level story that becomes a strategic north star across marketing, sales, product, fundraising, and recruiting. He contrasts the \u201cproblem-solution\u201d pitch with a movement narrative anchored in a world shift.",
+      "timestamp_start": "00:08:03",
+      "timestamp_end": "00:10:34",
+      "speakers": [
+        "Lenny",
+        "Andy Raskin"
+      ],
+      "themes": [
+        "Positioning & Messaging"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "andy-raskin_t6",
+      "title": "Salesforce example: old game vs new game",
+      "summary": "They unpack how Salesforce could have competed on feature comparisons but instead reframed the market as a paradigm shift to the cloud. Andy explains how this move reclassifies incumbents as \u201cold game\u201d players and invites buyers into the new rules.",
+      "timestamp_start": "00:10:34",
+      "timestamp_end": "00:12:02",
+      "speakers": [
+        "Lenny",
+        "Andy Raskin"
+      ],
+      "themes": [
+        "Positioning & Messaging"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "andy-raskin_t7",
+      "title": "More examples: Zuora and Gong narratives",
+      "summary": "Andy shares Zuora\u2019s \u201csubscription economy\u201d narrative and Gong\u2019s \u201cgoodbye opinions, hello reality\u201d narrative. They discuss how Gong\u2019s story elevated it from a sales ops tool to a sales leadership platform and acted as a growth multiplier.",
+      "timestamp_start": "00:12:02",
+      "timestamp_end": "00:15:23",
+      "speakers": [
+        "Lenny",
+        "Andy Raskin"
+      ],
+      "themes": [
+        "Positioning & Messaging"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "andy-raskin_t8",
+      "title": "Impact of Andy\u2019s viral Zuora sales deck post",
+      "summary": "Andy explains how \u201cThe Greatest Sales Deck I\u2019ve Ever Seen\u201d drove massive reach and inbound demand, proving CEOs would budget for narrative work. They broaden into the power of writing platforms (Medium/LinkedIn) and the role of editors vs direct distribution.",
+      "timestamp_start": "00:15:23",
+      "timestamp_end": "00:17:53",
+      "speakers": [
+        "Lenny",
+        "Andy Raskin"
+      ],
+      "themes": [
+        "Creator Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "andy-raskin_t9",
+      "title": "Consistency vs viral hits in writing",
+      "summary": "They compare two content growth paths: consistent publishing vs breakout posts, with Andy noting his \u201cboom\u201d came after dozens of pieces and iterative traction. Andy shares why he avoids newsletters due to deadline pressure.",
+      "timestamp_start": "00:17:53",
+      "timestamp_end": "00:19:27",
+      "speakers": [
+        "Lenny",
+        "Andy Raskin"
+      ],
+      "themes": [
+        "Creator Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "andy-raskin_t10",
+      "title": "Strategic narrative framework: five core parts",
+      "summary": "Andy lays out the structure: name the old/new game shift, name the stakes (winners/losers), name the object of the new game (rallying cry), surface obstacles, then present \u201cmagic gifts\u201d (your solution) to overcome them. He emphasizes concise naming and emotional stakes (Star Wars analogy).",
+      "timestamp_start": "00:19:27",
+      "timestamp_end": "00:26:58",
+      "speakers": [
+        "Lenny",
+        "Andy Raskin"
+      ],
+      "themes": [
+        "Positioning & Messaging"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "andy-raskin_t11",
+      "title": "Hero\u2019s journey: useful but not the focus",
+      "summary": "They discuss parallels to the hero\u2019s journey while Andy explains why he avoids the abstract framing in practice. He clarifies he\u2019s not teaching generic storytelling skills but crafting one strategic story that turns the buyer into the hero.",
+      "timestamp_start": "00:26:58",
+      "timestamp_end": "00:30:17",
+      "speakers": [
+        "Lenny",
+        "Andy Raskin"
+      ],
+      "themes": [
+        "Positioning & Messaging"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "andy-raskin_t12",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Eco, then Lenny transitions back to applying the framework with a concrete company example.",
+      "timestamp_start": "00:30:17",
+      "timestamp_end": "00:31:41",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsorship"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "andy-raskin_t13",
+      "title": "Case study: 360Learning narrative rebuild",
+      "summary": "They walk through 360Learning\u2019s shift from a flat \u201ccollaborative learning\u201d pitch to a story about moving from top-down training to \u201cupskill from within,\u201d using winner examples and high stakes. Andy explains how this reframing reduced competitive comparison questions and sped up executive buy-in.",
+      "timestamp_start": "00:31:41",
+      "timestamp_end": "00:36:13",
+      "speakers": [
+        "Lenny",
+        "Andy Raskin"
+      ],
+      "themes": [
+        "Positioning & Messaging"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "andy-raskin_t14",
+      "title": "Business impact: marketing and product alignment",
+      "summary": "Andy describes outcomes he hears from CEOs: selling a movement rather than features, generating non-salesy thought leadership content, and using the narrative as a product roadmap filter for feature requests. Examples include Zuora\u2019s content engine and Gong\u2019s refusal to build \u201copinion\u201d features.",
+      "timestamp_start": "00:36:13",
+      "timestamp_end": "00:39:08",
+      "speakers": [
+        "Lenny",
+        "Andy Raskin"
+      ],
+      "themes": [
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "andy-raskin_t15",
+      "title": "Strong narrative example: Drift\u2019s conversational marketing",
+      "summary": "Andy highlights Drift\u2019s \u201cworld of forms/later\u201d to \u201cworld of now\u201d framing as a movement that differentiated them from many similar chatbots. The narrative created a new lens for buyer expectations and urgency.",
+      "timestamp_start": "00:39:08",
+      "timestamp_end": "00:40:35",
+      "speakers": [
+        "Lenny",
+        "Andy Raskin"
+      ],
+      "themes": [
+        "Positioning & Messaging"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "andy-raskin_t16",
+      "title": "Category creation vs movement narrative",
+      "summary": "Andy argues category naming is often overemphasized compared to the underlying narrative that makes a category meaningful. He positions strategic narrative as primary, with category as optional shorthand, citing Gong and HubSpot as examples where story mattered more than labels.",
+      "timestamp_start": "00:40:35",
+      "timestamp_end": "00:44:16",
+      "speakers": [
+        "Lenny",
+        "Andy Raskin"
+      ],
+      "themes": [
+        "Positioning & Messaging"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "andy-raskin_t17",
+      "title": "Where strategic narrative fits best",
+      "summary": "Andy explains the framework is most powerful for B2B enterprise tech with complex products, group buying, and fast-changing feature sets. He notes it\u2019s less applicable to many consumer products where spec comparison still dominates.",
+      "timestamp_start": "00:44:16",
+      "timestamp_end": "00:46:33",
+      "speakers": [
+        "Lenny",
+        "Andy Raskin"
+      ],
+      "themes": [
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "andy-raskin_t18",
+      "title": "When you need a narrative: scaling, expansion, pivots",
+      "summary": "Andy shares common triggers for CEOs seeking help: moving beyond founder-led \u201cbrute force\u201d selling (often around Series B), expanding into multiple product lines requiring a bigger story, or pivoting due to market change. The narrative becomes a mechanism for consistent decision-making and communication.",
+      "timestamp_start": "00:46:33",
+      "timestamp_end": "00:48:53",
+      "speakers": [
+        "Lenny",
+        "Andy Raskin"
+      ],
+      "themes": [
+        "Founder Story & Career"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "andy-raskin_t19",
+      "title": "How to start: draft, test in calls, avoid templates",
+      "summary": "Andy recommends drafting the structure and testing it quickly in real sales conversations, looking for prospects to engage with the shift and stakes. He cautions against copying slide templates (even Zuora\u2019s) because each narrative must be tailored; he prefers iterative validation over polished rollouts.",
+      "timestamp_start": "00:48:53",
+      "timestamp_end": "00:50:41",
+      "speakers": [
+        "Lenny",
+        "Andy Raskin"
+      ],
+      "themes": [
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

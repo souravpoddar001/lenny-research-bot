@@ -1,0 +1,219 @@
+{
+  "episode_id": "tobi-lutke",
+  "topics": [
+    {
+      "topic_id": "tobi-lutke_t1",
+      "title": "Opening philosophy: progress, optimism, dissatisfaction",
+      "summary": "Tobi shares his core energy source\u2014dissatisfaction with the status quo\u2014and argues that progress is the antidote to \u201cfuture dystopia\u201d narratives. He critiques business aesthetics (suits, pessimism, metric-theater) and elevates fun and delight as powerful forces.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:37",
+      "speakers": [
+        "Tobi L\u00fctke",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Maximizing Human Potential",
+        "First Principles Thinking",
+        "Leadership & Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tobi-lutke_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Tobi and frames the conversation around first principles thinking and maximizing human potential. He tees up the discussion style and recurring themes heard from Shopify leaders.",
+      "timestamp_start": "00:01:54",
+      "timestamp_end": "00:02:42",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Leadership & Management",
+        "First Principles Thinking",
+        "Maximizing Human Potential"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tobi-lutke_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Sinch (RCS messaging) and Liveblocks (collaboration features platform).",
+      "timestamp_start": "00:02:42",
+      "timestamp_end": "00:04:24",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tobi-lutke_t4",
+      "title": "The 'Tobi tornado' and rapid change management",
+      "summary": "Tobi defines the \u201cTobi tornado\u201d as compressing conflict, real talk, and change into a short window\u2014sometimes stopping projects and rebooting with the same team as \u201cfounders\u201d of the next version. He explains why acting quickly is fairer than letting teams grind on the wrong thing.",
+      "timestamp_start": "00:04:24",
+      "timestamp_end": "00:08:16",
+      "speakers": [
+        "Tobi L\u00fctke",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Leadership & Management",
+        "Decision-Making",
+        "Maximizing Human Potential"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tobi-lutke_t5",
+      "title": "Direct feedback as a tool for potential",
+      "summary": "Tobi explains his belief that no one is near their maximum potential and that high standards plus direct feedback help people surpass what they thought possible. He connects this to Shopify\u2019s mission: making entrepreneurs more successful and ambitious over time.",
+      "timestamp_start": "00:08:16",
+      "timestamp_end": "00:13:19",
+      "speakers": [
+        "Tobi L\u00fctke",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Maximizing Human Potential",
+        "Leadership & Management",
+        "Culture & Values"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tobi-lutke_t6",
+      "title": "Learning, school incentives, and curiosity preservation",
+      "summary": "They discuss how schooling can \u201coverfit\u201d to grades and suppress curiosity, contrasting fixed-time/variable-outcome learning with real skill development. Tobi suggests optimizing children\u2019s education for sustained curiosity rather than benchmark performance.",
+      "timestamp_start": "00:13:19",
+      "timestamp_end": "00:16:48",
+      "speakers": [
+        "Tobi L\u00fctke",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Maximizing Human Potential",
+        "Learning & Development",
+        "First Principles Thinking"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tobi-lutke_t7",
+      "title": "Operating without OKRs: metrics, taste, and Goodhart\u2019s law",
+      "summary": "Tobi explains why Shopify avoids OKRs/KPIs as goals (Goodhart\u2019s law) while remaining deeply data-informed with sophisticated instrumentation. He argues most product value is unquantifiable (taste, quality, brand pride) and that fun/delight can be leading indicators of future metric gains.",
+      "timestamp_start": "00:16:48",
+      "timestamp_end": "00:25:02",
+      "speakers": [
+        "Tobi L\u00fctke",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "First Principles Thinking",
+        "Product Strategy",
+        "Culture & Values"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tobi-lutke_t8",
+      "title": "First principles and futurism: designing for the world ahead",
+      "summary": "Prompted by Glen Coates\u2019 quote, Tobi describes deriving solutions from current atomic building blocks rather than copying path-dependent incumbents. He frames his motivation as dissatisfaction with the present and a duty to build toward progress.",
+      "timestamp_start": "00:25:02",
+      "timestamp_end": "00:31:33",
+      "speakers": [
+        "Tobi L\u00fctke",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "First Principles Thinking",
+        "Product Strategy",
+        "Leadership & Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tobi-lutke_t9",
+      "title": "Examples of first principles: Shopify\u2019s origin and search rebuilds",
+      "summary": "Tobi uses Shopify\u2019s founding as an example: optimize for new internet-native entrepreneurs rather than legacy retail complexity, which later proved strong for enterprise too. He also mentions revisiting search as models enable better retrieval and more delightful experiences.",
+      "timestamp_start": "00:31:33",
+      "timestamp_end": "00:35:50",
+      "speakers": [
+        "Tobi L\u00fctke",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "First Principles Thinking",
+        "Product Strategy",
+        "Entrepreneurship"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tobi-lutke_t10",
+      "title": "Re-running decisions like code: remote-work pivot",
+      "summary": "Tobi describes decision-making as re-running a function over updated assumptions; when a foundational boolean flips (COVID restrictions), the whole decision tree can land somewhere new. He explains why Shopify chose remote-first and why building remote culture is harder but strategically superior.",
+      "timestamp_start": "00:35:50",
+      "timestamp_end": "00:45:00",
+      "speakers": [
+        "Tobi L\u00fctke",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Decision-Making",
+        "Leadership & Management",
+        "First Principles Thinking"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tobi-lutke_t11",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Loom (async video messaging to reduce meetings and improve alignment).",
+      "timestamp_start": "00:45:00",
+      "timestamp_end": "00:46:46",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "tobi-lutke_t12",
+      "title": "Why Tobi still codes: craft, closeness to the metal",
+      "summary": "Tobi explains coding as his \u201chappy place,\u201d rooted in early apprenticeship and love of the craft, and as a way to sanity-check ideas and find insights in data. Lenny connects this to first principles leadership: staying close to implementation details rather than operating purely at the abstraction layer.",
+      "timestamp_start": "00:46:46",
+      "timestamp_end": "00:50:11",
+      "speakers": [
+        "Tobi L\u00fctke",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "First Principles Thinking",
+        "Leadership & Management",
+        "Learning & Development"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "tobi-lutke_t13",
+      "title": "Engineering strategy decisions: monorepo, sunk costs, changing minds",
+      "summary": "Tobi argues first principles requires understanding atomic building blocks (computers/software) and resisting sunk-cost fallacy. He describes being involved in consequential technical strategy (e.g., monorepo) and holding strong opinions that change quickly when evidence improves.",
+      "timestamp_start": "00:50:11",
+      "timestamp_end": "00:53:52",
+      "speakers": [
+        "Tobi L\u00fctke",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "First Principles Thinking",
+        "Decision-Making",
+        "Leadership & Management"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

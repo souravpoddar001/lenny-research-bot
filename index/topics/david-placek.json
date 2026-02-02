@@ -1,0 +1,255 @@
+{
+  "episode_id": "david-placek",
+  "topics": [
+    {
+      "topic_id": "david-placek_t1",
+      "title": "Introduction and Background",
+      "summary": "Cold open on why brand names matter long-term, then Lenny introduces David Placek and previews the episode\u2019s focus on the craft and science of naming.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:27",
+      "speakers": [
+        "David Placek",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Branding",
+        "Entrepreneurship",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "david-placek_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for WorkOS and Stripe, including enterprise auth/authorization tooling and Stripe\u2019s scale and product impact.",
+      "timestamp_start": "00:02:27",
+      "timestamp_end": "00:04:48",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsorship"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "david-placek_t3",
+      "title": "Sonos: fighting for an uncomfortable name",
+      "summary": "David recounts how Sonos was initially rejected for not feeling \u201centertainment-like,\u201d why he pushed back, and how reframing the name for customers (not founders) won the team over.",
+      "timestamp_start": "00:04:48",
+      "timestamp_end": "00:07:58",
+      "speakers": [
+        "Lenny Rachitsky",
+        "David Placek"
+      ],
+      "themes": [
+        "Branding",
+        "Decision-Making",
+        "Entrepreneurship"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "david-placek_t4",
+      "title": "Why you won\u2019t know the right name",
+      "summary": "They unpack the psychology of naming: people seek comfort and familiarity, but strong names often feel wrong at first; the goal is to create future advantage, not mirror the past.",
+      "timestamp_start": "00:07:58",
+      "timestamp_end": "00:11:34",
+      "speakers": [
+        "Lenny Rachitsky",
+        "David Placek"
+      ],
+      "themes": [
+        "Branding",
+        "Psychology",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "david-placek_t5",
+      "title": "Azure: avoiding \u201ccloud\u201d sameness with story",
+      "summary": "David shares how Microsoft wanted a \u201ccloud\u201d descriptor, why Lexicon argued for distinctiveness, and how Azure\u2019s linguistic qualities helped it stand out and scale into a massive brand.",
+      "timestamp_start": "00:11:34",
+      "timestamp_end": "00:14:34",
+      "speakers": [
+        "Lenny Rachitsky",
+        "David Placek"
+      ],
+      "themes": [
+        "Branding",
+        "Marketing",
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "david-placek_t6",
+      "title": "How great names create cumulative advantage",
+      "summary": "David explains why names matter: they\u2019re the most-used brand asset, build cumulative advantage over time, and can provide asymmetric advantage from day one; he illustrates with a classic strategy analogy.",
+      "timestamp_start": "00:14:34",
+      "timestamp_end": "00:18:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "David Placek"
+      ],
+      "themes": [
+        "Branding",
+        "Marketing",
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "david-placek_t7",
+      "title": "Lexicon\u2019s three-step naming process overview",
+      "summary": "David outlines Identify\u2013Invent\u2013Implement: behavior/experience-first discovery, competitive language landscape, creative framework, invention cycles, and implementation support like prototypes and internal sell-in.",
+      "timestamp_start": "00:18:12",
+      "timestamp_end": "00:28:08",
+      "speakers": [
+        "Lenny Rachitsky",
+        "David Placek"
+      ],
+      "themes": [
+        "Branding",
+        "Process",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "david-placek_t8",
+      "title": "Who makes great namers and why brainstorms fail",
+      "summary": "They discuss the profiles Lexicon hires (tenacious, low-ego, high-output writers) and why small teams outperform big brainstorms for generating enough viable, screenable naming candidates.",
+      "timestamp_start": "00:28:08",
+      "timestamp_end": "00:32:11",
+      "speakers": [
+        "Lenny Rachitsky",
+        "David Placek"
+      ],
+      "themes": [
+        "Hiring",
+        "Branding",
+        "Process"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "david-placek_t9",
+      "title": "Windsurf case study and compound-name multipliers",
+      "summary": "David explains how making intangible tech tangible led to Windsurf, why compounds can multiply associations (1+1=3), and how they persuaded the team to embrace a longer, image-rich name.",
+      "timestamp_start": "00:32:11",
+      "timestamp_end": "00:36:11",
+      "speakers": [
+        "Lenny Rachitsky",
+        "David Placek"
+      ],
+      "themes": [
+        "Branding",
+        "Product Strategy",
+        "Marketing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "david-placek_t10",
+      "title": "Naming AI products: engineers, speed, and trust",
+      "summary": "David contrasts AI naming with other categories: engineer-led preferences for \u201ccoded\u201d sophistication, extreme market velocity, and consumer skepticism that pushes toward more tangible, natural names.",
+      "timestamp_start": "00:36:11",
+      "timestamp_end": "00:39:23",
+      "speakers": [
+        "Lenny Rachitsky",
+        "David Placek"
+      ],
+      "themes": [
+        "AI",
+        "Branding",
+        "Market Trends"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "david-placek_t11",
+      "title": "When to change a company or product name",
+      "summary": "They cover common triggers for renaming: early-stage placeholder names, pivots that outgrow the original identity, and mergers that require a fresh market signal despite the operational cost.",
+      "timestamp_start": "00:39:23",
+      "timestamp_end": "00:41:38",
+      "speakers": [
+        "Lenny Rachitsky",
+        "David Placek"
+      ],
+      "themes": [
+        "Branding",
+        "Entrepreneurship",
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "david-placek_t12",
+      "title": "Sponsor Break",
+      "summary": "Mid-episode sponsor segment featuring OneSchema and its AI-powered FileFeeds for automating messy spreadsheet imports and validation.",
+      "timestamp_start": "00:41:38",
+      "timestamp_end": "00:43:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Andrew Luo"
+      ],
+      "themes": [
+        "Sponsorship"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "david-placek_t13",
+      "title": "Linguists as evaluators and cultural risk filters",
+      "summary": "David describes Lexicon\u2019s global linguist network and how it\u2019s used to evaluate candidate names for meaning, connotation, cultural/political baggage, and hidden local sensitivities.",
+      "timestamp_start": "00:43:12",
+      "timestamp_end": "00:45:55",
+      "speakers": [
+        "Lenny Rachitsky",
+        "David Placek"
+      ],
+      "themes": [
+        "Branding",
+        "Localization",
+        "Risk Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "david-placek_t14",
+      "title": "Sound symbolism: what letters feel like",
+      "summary": "They explore how letter sounds evoke consistent perceptions (e.g., V as vibrant, B as reliable, Z as noisy), and connect this to examples like Azure, Blackberry, and Vercel\u2019s processing fluency.",
+      "timestamp_start": "00:45:55",
+      "timestamp_end": "00:50:13",
+      "speakers": [
+        "Lenny Rachitsky",
+        "David Placek"
+      ],
+      "themes": [
+        "Branding",
+        "Linguistics",
+        "Psychology"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "david-placek_t15",
+      "title": "Implementation: prototypes, research, and internal buy-in",
+      "summary": "David details the Implement phase: helping teams sell names upward with rationales and prototypes, using customer research correctly (avoid \u201cfit to concept\u201d), and managing the funnel from thousands of ideas to a few finalists.",
+      "timestamp_start": "00:50:13",
+      "timestamp_end": "00:55:17",
+      "speakers": [
+        "Lenny Rachitsky",
+        "David Placek"
+      ],
+      "themes": [
+        "Branding",
+        "Research",
+        "Decision-Making"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

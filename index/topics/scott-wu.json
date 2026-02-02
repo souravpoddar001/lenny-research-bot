@@ -1,0 +1,272 @@
+{
+  "episode_id": "scott-wu",
+  "topics": [
+    {
+      "topic_id": "scott-wu_t1",
+      "title": "Introduction and Background",
+      "summary": "Scott shares how Cognition\u2019s 15-engineer team uses Devin internally, with Devin generating ~25% of PRs today and an expectation of >50% by year-end. Lenny introduces Scott, Cognition, and the episode\u2019s focus on the future of software engineering with AI agents.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:38",
+      "speakers": [
+        "Scott Wu",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Agents",
+        "Software Engineering",
+        "Future of Work"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "scott-wu_t2",
+      "title": "Sponsor Break: Enterpret and Paragon",
+      "summary": "Two sponsor segments: Enterpret (customer feedback analysis with AI models) and Paragon (building and maintaining integrations for AI products).",
+      "timestamp_start": "00:02:38",
+      "timestamp_end": "00:05:15",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brandon Foo"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "scott-wu_t3",
+      "title": "What Devin is and how it works",
+      "summary": "Scott defines Devin as a fully autonomous, asynchronous software engineer that can be assigned tasks via Slack/Linear and produces GitHub pull requests. The emphasis is on fitting into real team workflows like a junior remote engineer.",
+      "timestamp_start": "00:05:15",
+      "timestamp_end": "00:06:38",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Scott Wu"
+      ],
+      "themes": [
+        "AI Agents",
+        "Developer Tools",
+        "Software Engineering"
+      ],
+      "quote_count": 2
+    },
+    {
+      "topic_id": "scott-wu_t4",
+      "title": "Devin\u2019s evolution: capabilities and product interface",
+      "summary": "They compare Devin\u2019s \u201cseniority\u201d from early days to now (from student/intern to junior engineer), noting jagged intelligence. Scott highlights that progress came both from better models and from workflow features like integrations, planning, and code touch-ups.",
+      "timestamp_start": "00:06:38",
+      "timestamp_end": "00:09:15",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Scott Wu"
+      ],
+      "themes": [
+        "AI Agents",
+        "Product Design",
+        "Software Engineering"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "scott-wu_t5",
+      "title": "Adoption and use cases across company sizes",
+      "summary": "Scott describes Devin\u2019s usage from tiny startups to Fortune 100s, with different engineering contexts but a common theme of speed and leverage. He also notes Devin can accumulate team knowledge and reuse it across sessions.",
+      "timestamp_start": "00:09:15",
+      "timestamp_end": "00:10:23",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Scott Wu"
+      ],
+      "themes": [
+        "Enterprise AI",
+        "AI Agents",
+        "Software Engineering"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "scott-wu_t6",
+      "title": "Origin story: team background and early thesis",
+      "summary": "Scott explains how the founding team (with backgrounds like Lunchclub, Scale AI, Cursor) came together in late 2023. Their core beliefs: reinforcement learning would drive a capability leap, code is ideal due to fast feedback loops, and products would shift from text completion to autonomous agents.",
+      "timestamp_start": "00:10:23",
+      "timestamp_end": "00:14:08",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Scott Wu"
+      ],
+      "themes": [
+        "Company Building",
+        "AI Research",
+        "AI Agents"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "scott-wu_t7",
+      "title": "Hacker-house pivots and finding the agent workflow",
+      "summary": "Scott recounts iterative \u201chacker house\u201d development, starting with contest programming agents and evolving into a software engineering agent. Key learnings included making Devin interactive (planning, mid-course corrections) rather than purely handoff-and-return.",
+      "timestamp_start": "00:14:08",
+      "timestamp_end": "00:17:25",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Scott Wu"
+      ],
+      "themes": [
+        "Product Iteration",
+        "AI Agents",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "scott-wu_t8",
+      "title": "Why personify Devin: name, onboarding, and trust",
+      "summary": "They discuss the deliberate choice to give the agent a name and treat it like a junior teammate to guide user expectations. Scott explains onboarding patterns (start small, set up repo/VM, teach the agent) and the value of asynchronous collaboration.",
+      "timestamp_start": "00:17:25",
+      "timestamp_end": "00:19:29",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Scott Wu"
+      ],
+      "themes": [
+        "Product Design",
+        "AI Agents",
+        "Human-AI Collaboration"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "scott-wu_t9",
+      "title": "How engineering work changes with Devin today",
+      "summary": "Scott frames software engineering as instructing computers and argues it becomes more important as AI improves. He shares internal metrics (hundreds of Devin PRs/month; ~25% of PRs) and describes a workflow where humans handle the critical 10\u201320% while Devin executes the rest.",
+      "timestamp_start": "00:19:29",
+      "timestamp_end": "00:23:24",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Scott Wu"
+      ],
+      "themes": [
+        "Software Engineering",
+        "AI Agents",
+        "Productivity"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "scott-wu_t10",
+      "title": "From bricklayer to architect: future skill shifts",
+      "summary": "Scott predicts Devin-written PRs will exceed 50% by year-end and argues the core of engineering is problem definition and architecture, not boilerplate and debugging toil. They discuss learning to code, the importance of fundamentals/abstractions, and which skills grow in value (systems thinking, trade-offs, product context).",
+      "timestamp_start": "00:23:24",
+      "timestamp_end": "00:30:22",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Scott Wu"
+      ],
+      "themes": [
+        "Future of Work",
+        "Software Engineering",
+        "Education"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "scott-wu_t11",
+      "title": "Jevons Paradox and why engineers may increase",
+      "summary": "Scott explains Jevons Paradox and applies it to software: as coding gets cheaper/faster, total software built (and demand for builders) can rise rather than fall. He expects more programmers overall and more personalized software experiences.",
+      "timestamp_start": "00:30:22",
+      "timestamp_end": "00:30:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Scott Wu"
+      ],
+      "themes": [
+        "Economics of AI",
+        "Future of Work",
+        "Software Engineering"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "scott-wu_t12",
+      "title": "Managing a fleet: five Devins per engineer",
+      "summary": "Scott describes Cognition\u2019s internal practice of running up to ~5 Devins per engineer in parallel to maximize asynchronous throughput. They discuss the learning curve and why agentic workflows unlock larger productivity gains than simple code completion.",
+      "timestamp_start": "00:30:33",
+      "timestamp_end": "00:34:39",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Scott Wu"
+      ],
+      "themes": [
+        "AI Agents",
+        "Team Workflow",
+        "Productivity"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "scott-wu_t13",
+      "title": "Live demo: Devin adds a website feature",
+      "summary": "Scott kicks off a real-time task to modify the Devin web app to feature Lenny\u2019s newsletter, showing Devin\u2019s planning questions and how humans can steer decisions (e.g., open link in new tab). The segment highlights synchronous vs asynchronous collaboration and mid-task guidance.",
+      "timestamp_start": "00:34:39",
+      "timestamp_end": "00:37:24",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Scott Wu"
+      ],
+      "themes": [
+        "Product Demo",
+        "AI Agents",
+        "Developer Tools"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "scott-wu_t14",
+      "title": "Demo: Devin researches and builds a quiz app",
+      "summary": "Scott shows a playback where Devin researches Lenny (web browsing) and then builds a small quiz website to help Scott prep for the interview. They briefly run through quiz questions, illustrating agentic research-to-app creation.",
+      "timestamp_start": "00:37:24",
+      "timestamp_end": "00:39:53",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Scott Wu"
+      ],
+      "themes": [
+        "Product Demo",
+        "AI Agents",
+        "Automation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "scott-wu_t15",
+      "title": "Demo: Devin Wiki for codebase understanding",
+      "summary": "Scott demonstrates Devin\u2019s auto-generated wiki/index of a GitHub repo (DeepSeek), including architecture pages and Q&A over the codebase. The focus is on how codebase representations help both Devin and humans during scoping and development.",
+      "timestamp_start": "00:39:53",
+      "timestamp_end": "00:41:20",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Scott Wu"
+      ],
+      "themes": [
+        "Developer Tools",
+        "AI Agents",
+        "Code Intelligence"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "scott-wu_t16",
+      "title": "Sponsor Break: Attio",
+      "summary": "Lenny begins a sponsor read for Attio, an AI-native CRM that auto-builds a CRM from email/calendar and supports flexible data syncing and enrichment.",
+      "timestamp_start": "00:41:20",
+      "timestamp_end": "00:41:49",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

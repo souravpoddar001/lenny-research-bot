@@ -1,0 +1,226 @@
+{
+  "episode_id": "itamar-gilad",
+  "topics": [
+    {
+      "topic_id": "itamar-gilad_t1",
+      "title": "Wizard-of-Oz tests for Gmail tabbed inbox",
+      "summary": "Itamar opens with an example of early \u201cfake door/Wizard of Oz\u201d testing for Gmail\u2019s tabbed inbox, where a manual HTML facade let users experience sorted messages. The demo generated early evidence that the concept was valuable before building the real system.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:43",
+      "speakers": [
+        "Itamar Gilad"
+      ],
+      "themes": [
+        "Product Discovery & Experimentation"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "itamar-gilad_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the podcast and Itamar Gilad, highlighting his Google experience (Gmail, YouTube, Microsoft) and his book Evidence-Guided. He previews key frameworks to be discussed (confidence meter, metrics trees, GIST, ICE/OKRs).",
+      "timestamp_start": "00:00:43",
+      "timestamp_end": "00:01:49",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Product Management & Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "itamar-gilad_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Ezra (full-body cancer screening) and Vanta (security compliance automation), including offers and URLs.",
+      "timestamp_start": "00:01:49",
+      "timestamp_end": "00:04:40",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "itamar-gilad_t4",
+      "title": "Google+ integration: opinion-based product failure",
+      "summary": "Itamar recounts joining Gmail in 2011 to integrate Google+ amid Facebook\u2019s rise, describing massive investment, repeated iterations, and eventual rollback/shutdown. He frames it as a cautionary tale of \u201copinion-based development\u201d and missed opportunities like WhatsApp.",
+      "timestamp_start": "00:04:40",
+      "timestamp_end": "00:07:32",
+      "speakers": [
+        "Lenny",
+        "Itamar Gilad"
+      ],
+      "themes": [
+        "Product Management & Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "itamar-gilad_t5",
+      "title": "Scale and organizational cost of Google+",
+      "summary": "They discuss the magnitude of Google+\u2014a major internal reorg and a division peaking around ~1000 people. The segment emphasizes how large, top-down bets can create enormous waste when not validated early.",
+      "timestamp_start": "00:07:32",
+      "timestamp_end": "00:08:35",
+      "speakers": [
+        "Lenny",
+        "Itamar Gilad"
+      ],
+      "themes": [
+        "Product Management & Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "itamar-gilad_t6",
+      "title": "Tabbed inbox success through evidence-guided iteration",
+      "summary": "Itamar contrasts Google+ with Gmail\u2019s tabbed inbox, which began as a small, doubted idea and evolved through user research, dogfooding, usability studies, and ML-driven categorization. The result became a high-impact feature loved by a large majority of users.",
+      "timestamp_start": "00:08:35",
+      "timestamp_end": "00:13:33",
+      "speakers": [
+        "Lenny",
+        "Itamar Gilad"
+      ],
+      "themes": [
+        "Product Discovery & Experimentation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "itamar-gilad_t7",
+      "title": "Book pitch: moving organizations to evidence-guided",
+      "summary": "Itamar gives the elevator pitch for Evidence-Guided as a practical system to help product teams shift from opinion-led decisions to evidence-guided product management. He positions it as a meta-framework that helps organizations adopt modern practices despite real-world constraints.",
+      "timestamp_start": "00:13:33",
+      "timestamp_end": "00:14:23",
+      "speakers": [
+        "Lenny",
+        "Itamar Gilad"
+      ],
+      "themes": [
+        "Product Management & Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "itamar-gilad_t8",
+      "title": "Founders, vision, and the myth of pure intuition",
+      "summary": "They explore when top-down founder intuition is appropriate and how it should still be challenged with evidence. Itamar debunks the simplified \u201cSteve Jobs invented iPhone in a kitchen\u201d narrative, emphasizing iterative discovery and evidence over time.",
+      "timestamp_start": "00:14:23",
+      "timestamp_end": "00:16:26",
+      "speakers": [
+        "Lenny",
+        "Itamar Gilad"
+      ],
+      "themes": [
+        "Product Management & Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "itamar-gilad_t9",
+      "title": "How to push back with evidence in organizations",
+      "summary": "Itamar discusses using evidence to challenge senior opinions, noting that opinion debates tend to default to the highest-paid person\u2019s view. He suggests experiments and data can empower mid-level leaders, while acknowledging some cultures may punish dissent.",
+      "timestamp_start": "00:16:26",
+      "timestamp_end": "00:19:28",
+      "speakers": [
+        "Lenny",
+        "Itamar Gilad"
+      ],
+      "themes": [
+        "Product Leadership & Team Collaboration"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "itamar-gilad_t10",
+      "title": "Signs your company isn\u2019t truly evidence-guided",
+      "summary": "Itamar lists telltale symptoms: unclear/vague goals, missing user metrics, excessive roadmap planning, weak experimentation/learning loops, and disengaged teams focused on output. He argues evidence-guided systems can re-engage teams and improve outcomes.",
+      "timestamp_start": "00:19:28",
+      "timestamp_end": "00:21:05",
+      "speakers": [
+        "Lenny",
+        "Itamar Gilad"
+      ],
+      "themes": [
+        "Product Leadership & Team Collaboration"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "itamar-gilad_t11",
+      "title": "GIST model overview: Goals, Ideas, Steps, Tasks",
+      "summary": "Itamar introduces the GIST model as a structured way to implement evidence-guided product development, tying together lean startup, discovery, and delivery. They clarify where vision/strategy fits (outside GIST) and how teams often confuse goals with planning.",
+      "timestamp_start": "00:21:05",
+      "timestamp_end": "00:25:06",
+      "speakers": [
+        "Lenny",
+        "Itamar Gilad"
+      ],
+      "themes": [
+        "Product Management & Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "itamar-gilad_t12",
+      "title": "Goals layer: value exchange, North Star, metrics trees",
+      "summary": "They discuss defining goals via a value exchange loop (value delivered vs value captured), distinguishing North Star metrics from top business KPIs. Itamar explains metrics trees for alignment, ownership, team topology, and estimating how local changes affect global outcomes.",
+      "timestamp_start": "00:25:06",
+      "timestamp_end": "00:32:15",
+      "speakers": [
+        "Lenny",
+        "Itamar Gilad"
+      ],
+      "themes": [
+        "Metrics & Measurement"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "itamar-gilad_t13",
+      "title": "Sponsor Break",
+      "summary": "A sponsor message for LinkedIn Ads, including a $100 credit offer and examples of B2B success stories.",
+      "timestamp_start": "00:32:15",
+      "timestamp_end": "00:33:39",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "itamar-gilad_t14",
+      "title": "Ideas layer: ICE prioritization and confidence scoring",
+      "summary": "Itamar explains using ICE (Impact, Confidence, Ease) to evaluate ideas more consistently than politics or HiPPO decisions, and why impact estimation is hardest. He introduces the \u201cconfidence meter\u201d to prevent teams from claiming high confidence based on gut feel alone.",
+      "timestamp_start": "00:33:39",
+      "timestamp_end": "00:38:22",
+      "speakers": [
+        "Lenny",
+        "Itamar Gilad"
+      ],
+      "themes": [
+        "Prioritization & Roadmapping"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "itamar-gilad_t15",
+      "title": "Confidence meter: evidence ladder and testing tradeoffs",
+      "summary": "They walk through the confidence meter\u2019s spectrum from weak opinion-based signals to stronger data and real tests, and how confidence should guide investment size. The segment also covers balancing speed of delivery vs discovery, and tailoring rigor by company stage.",
+      "timestamp_start": "00:38:22",
+      "timestamp_end": "00:48:41",
+      "speakers": [
+        "Lenny",
+        "Itamar Gilad"
+      ],
+      "themes": [
+        "Product Discovery & Experimentation"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

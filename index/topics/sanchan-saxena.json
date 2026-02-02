@@ -1,0 +1,202 @@
+{
+  "episode_id": "sanchan-saxena",
+  "topics": [
+    {
+      "topic_id": "sanchan-saxena_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Sanchan Saxena\u2019s career (Microsoft, Yahoo, Instagram, Airbnb, Coinbase) and previews topics like leadership lessons, COVID at Airbnb, hiring PMs, and experimentation.",
+      "timestamp_start": "00:00:02",
+      "timestamp_end": "00:00:59",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career",
+        "Leadership",
+        "Product Strategy"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "sanchan-saxena_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Dovetail (user research/insights) and Persona (identity/KYC/AML).",
+      "timestamp_start": "00:00:59",
+      "timestamp_end": "00:02:52",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sanchan-saxena_t3",
+      "title": "Sanchan\u2019s path into product management",
+      "summary": "Sanchan shares his early entrepreneurial attempt, move to Microsoft (Hotmail), and progression through Instagram, Airbnb, and ultimately Coinbase, including his growing conviction in Web3.",
+      "timestamp_start": "00:03:26",
+      "timestamp_end": "00:06:31",
+      "speakers": [
+        "Lenny",
+        "Sanchan Saxena"
+      ],
+      "themes": [
+        "Career",
+        "Product Management",
+        "Crypto/Web3"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sanchan-saxena_t4",
+      "title": "Career advice: little bets and learning fast",
+      "summary": "He advises against rigid career planning, advocating \u201clittle bets,\u201d rapid recovery, and balancing the art and science of product management by choosing roles that maximize learning velocity.",
+      "timestamp_start": "00:06:31",
+      "timestamp_end": "00:09:20",
+      "speakers": [
+        "Lenny",
+        "Sanchan Saxena"
+      ],
+      "themes": [
+        "Career",
+        "Product Management",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sanchan-saxena_t5",
+      "title": "Choosing startups vs big companies to learn",
+      "summary": "Sanchan explains different learning modes (starter, 0\u21921, scaler) and how to pick environments that match your strengths\u2014startups for getting started, big tech for scaling systems and innovation.",
+      "timestamp_start": "00:09:20",
+      "timestamp_end": "00:12:03",
+      "speakers": [
+        "Lenny",
+        "Sanchan Saxena"
+      ],
+      "themes": [
+        "Career",
+        "Product Management",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sanchan-saxena_t6",
+      "title": "Why Airbnb was his biggest learning experience",
+      "summary": "He describes Airbnb as a compressed masterclass: building real-world products (not just software), learning product craft from Chesky, scaling the PM org, and leading through crisis.",
+      "timestamp_start": "00:12:03",
+      "timestamp_end": "00:16:21",
+      "speakers": [
+        "Lenny",
+        "Sanchan Saxena"
+      ],
+      "themes": [
+        "Leadership",
+        "Product Management",
+        "Crisis Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sanchan-saxena_t7",
+      "title": "Inside Airbnb\u2019s COVID crisis and turnaround",
+      "summary": "Sanchan recounts the sudden collapse in travel, layoffs and debt raise, shifting to two-week planning, dissolving team boundaries, and repositioning Airbnb vs hotels around safety and privacy.",
+      "timestamp_start": "00:16:21",
+      "timestamp_end": "00:21:32",
+      "speakers": [
+        "Lenny",
+        "Sanchan Saxena"
+      ],
+      "themes": [
+        "Crisis Management",
+        "Leadership",
+        "Company Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sanchan-saxena_t8",
+      "title": "Two-week planning mechanics and morale building",
+      "summary": "He details how top-down priorities and bottom-up signals drove biweekly execution, how leaders communicated uncertainty honestly, and how belief- and founder-led storytelling sustained morale amid poaching.",
+      "timestamp_start": "00:21:32",
+      "timestamp_end": "00:27:59",
+      "speakers": [
+        "Lenny",
+        "Sanchan Saxena"
+      ],
+      "themes": [
+        "Leadership",
+        "Crisis Management",
+        "Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sanchan-saxena_t9",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Productboard (product discovery, prioritization, and roadmapping).",
+      "timestamp_start": "00:27:59",
+      "timestamp_end": "00:28:48",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sanchan-saxena_t10",
+      "title": "Founder lessons: simplicity, intentionality, and Stories",
+      "summary": "Sanchan contrasts Instagram and Facebook approaches to Stories, highlighting Kevin Systrom\u2019s simplicity and conviction, and the importance of intentional product direction over over-reliance on A/B testing.",
+      "timestamp_start": "00:28:48",
+      "timestamp_end": "00:36:24",
+      "speakers": [
+        "Lenny",
+        "Sanchan Saxena"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Leadership",
+        "Experimentation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sanchan-saxena_t11",
+      "title": "Airbnb product philosophy: 15/10 vision then scale",
+      "summary": "He explains Chesky\u2019s method: design an unconstrained ideal end-state (15/10), build a non-scalable but lovable version in one place, then learn what works and scale selectively.",
+      "timestamp_start": "00:36:24",
+      "timestamp_end": "00:35:50",
+      "speakers": [
+        "Lenny",
+        "Sanchan Saxena"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Product Management",
+        "Leadership"
+      ],
+      "quote_count": 2
+    },
+    {
+      "topic_id": "sanchan-saxena_t12",
+      "title": "When to trust gut vs data and A/B tests",
+      "summary": "Sanchan frames intentionality as choosing the destination (like GPS), treats intuition as \u201cdata not yet significant,\u201d emphasizes persistence plus iteration, and shares an Instagram Stories example where vision overruled research.",
+      "timestamp_start": "00:36:35",
+      "timestamp_end": "00:41:34",
+      "speakers": [
+        "Lenny",
+        "Sanchan Saxena"
+      ],
+      "themes": [
+        "Experimentation",
+        "Product Strategy",
+        "Leadership"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "episode_id": "carilu-dietrich",
+  "topics": [
+    {
+      "topic_id": "carilu-dietrich_t1",
+      "title": "Hypergrowth essentials: product, virality, scaling leaders",
+      "summary": "Carilu opens with what drives true hypergrowth: an amazing product people love, organic/viral word-of-mouth that can\u2019t be bought, and \u201criding the lightning\u201d by hiring leaders who\u2019ve seen the next stage of scale.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:22",
+      "speakers": [
+        "Carilu Dietrich"
+      ],
+      "themes": [
+        "Growth",
+        "Product Strategy",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "carilu-dietrich_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the show and Carilu\u2019s background advising hypergrowth B2B companies and leading marketing at Atlassian through IPO, plus what the episode will cover.",
+      "timestamp_start": "00:00:55",
+      "timestamp_end": "00:01:22",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career",
+        "Leadership",
+        "Growth"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "carilu-dietrich_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Rows.com and Braintrust, covering modern spreadsheets with integrations and a decentralized talent network for hiring contractors quickly.",
+      "timestamp_start": "00:01:56",
+      "timestamp_end": "00:04:31",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "carilu-dietrich_t4",
+      "title": "Habits to reach the C-suite",
+      "summary": "Carilu shares executive-track tradeoffs and the behaviors that accelerate advancement: working hard, learning deeply, taking on \u201cwhite space\u201d responsibilities, and building cross-functional experience early.",
+      "timestamp_start": "00:04:31",
+      "timestamp_end": "00:07:15",
+      "speakers": [
+        "Lenny",
+        "Carilu Dietrich"
+      ],
+      "themes": [
+        "Career",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "carilu-dietrich_t5",
+      "title": "No shortcuts: discipline, learning, and executive mindset",
+      "summary": "They discuss the reality of sustained effort, then Carilu outlines executive mental models: tie work to revenue, speak CEO/board language, learn finance, do tours of duty across functions, build relationships, and pick high-momentum companies.",
+      "timestamp_start": "00:07:15",
+      "timestamp_end": "00:10:40",
+      "speakers": [
+        "Lenny",
+        "Carilu Dietrich"
+      ],
+      "themes": [
+        "Career",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "carilu-dietrich_t6",
+      "title": "How to pick winning companies",
+      "summary": "Carilu explains how she evaluates \u201cphenomenal\u201d companies (rule of 40, investor quality, NPS, NDR, growth/burn, market leadership, Glassdoor) and shares personal decision heuristics from her Post-its (e.g., \u201cHell yes or no\u201d).",
+      "timestamp_start": "00:10:40",
+      "timestamp_end": "00:16:32",
+      "speakers": [
+        "Lenny",
+        "Carilu Dietrich"
+      ],
+      "themes": [
+        "Career",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "carilu-dietrich_t7",
+      "title": "Career growth during downturns and layoffs",
+      "summary": "Advice for job seekers: endurance, don\u2019t settle for bad logos, leverage networks, and follow profitable industries; for employed folks: downturns create \u201cwhite space\u201d to take on more responsibility even if title/salary lag temporarily.",
+      "timestamp_start": "00:16:32",
+      "timestamp_end": "00:19:26",
+      "speakers": [
+        "Lenny",
+        "Carilu Dietrich"
+      ],
+      "themes": [
+        "Career",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "carilu-dietrich_t8",
+      "title": "Non-digital brand advertising: when it works",
+      "summary": "Carilu shares lessons from spending hundreds of millions on awareness campaigns (Oracle, Atlassian): ads amplify product reality, require sustained consistency, and can be effective when narrowly targeted (e.g., Snowflake\u2019s single billboard).",
+      "timestamp_start": "00:19:26",
+      "timestamp_end": "00:24:06",
+      "speakers": [
+        "Lenny",
+        "Carilu Dietrich"
+      ],
+      "themes": [
+        "Marketing",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "carilu-dietrich_t9",
+      "title": "What hypergrowth companies have in common",
+      "summary": "Using examples like Miro, 1Password, Productboard, and ChatGPT, Carilu highlights the core drivers: beloved products, organic inbound/viral sharing loops, and organizational ability to scale quickly by hiring ahead and using mentors/advisors.",
+      "timestamp_start": "00:24:06",
+      "timestamp_end": "00:28:15",
+      "speakers": [
+        "Lenny",
+        "Carilu Dietrich"
+      ],
+      "themes": [
+        "Growth",
+        "Product Strategy",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "carilu-dietrich_t10",
+      "title": "Beyond virality: consistency across growth levers",
+      "summary": "They address founders without obvious virality: Atlassian\u2019s growth relied heavily on SEO/SEM and steady execution; hypergrowth is built through customer obsession and incremental improvements across channels, not a single magic bullet.",
+      "timestamp_start": "00:28:15",
+      "timestamp_end": "00:30:16",
+      "speakers": [
+        "Lenny",
+        "Carilu Dietrich"
+      ],
+      "themes": [
+        "Growth",
+        "Marketing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "carilu-dietrich_t11",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Coda, describing how teams centralize docs, data, and workflows, plus a startup credit offer.",
+      "timestamp_start": "00:30:16",
+      "timestamp_end": "00:31:32",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "carilu-dietrich_t12",
+      "title": "How to accelerate word of mouth",
+      "summary": "Carilu outlines three levers: empower internal thought leaders (founders/experts in forums), publish genuinely helpful content, and build customer communities (user groups/events) where happy customers sell to prospects.",
+      "timestamp_start": "00:31:32",
+      "timestamp_end": "00:35:28",
+      "speakers": [
+        "Lenny",
+        "Carilu Dietrich"
+      ],
+      "themes": [
+        "Growth",
+        "Marketing",
+        "Community"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "carilu-dietrich_t13",
+      "title": "Atlassian\u2019s PLG model and delayed sales hiring",
+      "summary": "Carilu explains Atlassian\u2019s unique founder-controlled approach: minimal sales/marketing spend, heavy R&D investment, and sales focused on renewals/enterprise assistance rather than net-new prospecting; discussion covers when to add sales and PLG/sales hybrids.",
+      "timestamp_start": "00:35:28",
+      "timestamp_end": "00:42:56",
+      "speakers": [
+        "Lenny",
+        "Carilu Dietrich"
+      ],
+      "themes": [
+        "Product-Led Growth",
+        "Sales",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "carilu-dietrich_t14",
+      "title": "Making big growth strategy shifts cross-functionally",
+      "summary": "Carilu describes common growth levers (new products, segments, verticals, global, partners, upmarket) and why change fails when treated as a single-department issue; success requires CEO/C-suite alignment, resourcing, and coordinated product/marketing/sales/support moves.",
+      "timestamp_start": "00:43:03",
+      "timestamp_end": "00:47:01",
+      "speakers": [
+        "Lenny",
+        "Carilu Dietrich"
+      ],
+      "themes": [
+        "Strategy",
+        "Growth",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "carilu-dietrich_t15",
+      "title": "Why CEOs don\u2019t trust CMOs (and firing risks)",
+      "summary": "Carilu explains trust gaps: CMOs must connect spend to revenue, forecast levers credibly, and speak CEO/board metrics; she also notes leadership fundamentals (team quality, operations, strategic market thinking) that determine CMO success.",
+      "timestamp_start": "00:47:01",
+      "timestamp_end": "00:48:11",
+      "speakers": [
+        "Lenny",
+        "Carilu Dietrich"
+      ],
+      "themes": [
+        "Marketing Leadership",
+        "Leadership",
+        "Metrics"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

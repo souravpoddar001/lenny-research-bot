@@ -1,0 +1,202 @@
+{
+  "episode_id": "nickey-skarstad",
+  "topics": [
+    {
+      "topic_id": "nickey-skarstad_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Nickey Skarstad, her career path (Etsy, Airbnb, The Wing, Duolingo), and what the episode will cover (vision-to-goals execution, product quality, alignment, influence).",
+      "timestamp_start": "00:00:04",
+      "timestamp_end": "00:01:02",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career",
+        "Product strategy",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "nickey-skarstad_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Mixpanel (startup analytics credits) and Dovetail (user research suite).",
+      "timestamp_start": "00:01:02",
+      "timestamp_end": "00:02:41",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nickey-skarstad_t3",
+      "title": "How Nickey got into product at Etsy",
+      "summary": "Nickey shares her non-traditional entry into product: starting on Etsy\u2019s community team, becoming an internal voice of the seller, and transitioning into an APM role that launched her PM career.",
+      "timestamp_start": "00:03:30",
+      "timestamp_end": "00:05:27",
+      "speakers": [
+        "Lenny",
+        "Nickey Skarstad"
+      ],
+      "themes": [
+        "Career",
+        "Product management",
+        "Community"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nickey-skarstad_t4",
+      "title": "Airbnb Experiences: marketplace complexity and PMF",
+      "summary": "Nickey explains why she chose Airbnb, joining Experiences right after launch as the first PM, and the unique challenge of shaping both the digital booking flow and the real-world experience.",
+      "timestamp_start": "00:05:27",
+      "timestamp_end": "00:07:23",
+      "speakers": [
+        "Lenny",
+        "Nickey Skarstad"
+      ],
+      "themes": [
+        "Product strategy",
+        "Marketplaces",
+        "Product-market fit"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "nickey-skarstad_t5",
+      "title": "Operationalizing product quality with metrics and dogfooding",
+      "summary": "They discuss Airbnb\u2019s quality bar, using review rate as a balancing metric, operational levers (coaching/standards), and heavy dogfooding to quickly surface real customer experience issues.",
+      "timestamp_start": "00:07:23",
+      "timestamp_end": "00:11:49",
+      "speakers": [
+        "Lenny",
+        "Nickey Skarstad"
+      ],
+      "themes": [
+        "Product quality",
+        "Metrics",
+        "Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nickey-skarstad_t6",
+      "title": "Quality metrics beyond growth: Etsy onboarding example",
+      "summary": "Nickey describes how optimizing for fast shop creation hurt downstream success, leading Etsy to add onboarding friction to improve time-to-first-sale\u2014an example of balancing growth with quality.",
+      "timestamp_start": "00:11:49",
+      "timestamp_end": "00:14:40",
+      "speakers": [
+        "Lenny",
+        "Nickey Skarstad"
+      ],
+      "themes": [
+        "Metrics",
+        "Growth",
+        "Marketplaces"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nickey-skarstad_t7",
+      "title": "Post-Airbnb roles: startup lessons, Shopify mismatch, Duolingo",
+      "summary": "Nickey covers moving to a co-working/community startup (and leading through layoffs during COVID), then Shopify (platform role mismatch), and finally Duolingo for a new zero-to-one challenge.",
+      "timestamp_start": "00:14:40",
+      "timestamp_end": "00:17:12",
+      "speakers": [
+        "Lenny",
+        "Nickey Skarstad"
+      ],
+      "themes": [
+        "Career",
+        "Leadership",
+        "Product-market fit"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nickey-skarstad_t8",
+      "title": "How to know a role isn\u2019t a fit",
+      "summary": "Nickey shares a practical technique: color-code meetings red/yellow/green based on energy to diagnose fit, plus advice to clarify what you love in PM work and optimize roles accordingly.",
+      "timestamp_start": "00:17:12",
+      "timestamp_end": "00:20:06",
+      "speakers": [
+        "Lenny",
+        "Nickey Skarstad"
+      ],
+      "themes": [
+        "Career",
+        "Self-management",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nickey-skarstad_t9",
+      "title": "Product org structures: functional vs GM models",
+      "summary": "Nickey compares functional reporting structures (good for developing PM craft at scale) with GM-led business units (useful for autonomous new bets like Airbnb Experiences), emphasizing context-dependent choices.",
+      "timestamp_start": "00:20:06",
+      "timestamp_end": "00:25:52",
+      "speakers": [
+        "Lenny",
+        "Nickey Skarstad"
+      ],
+      "themes": [
+        "Org design",
+        "Leadership",
+        "Product strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nickey-skarstad_t10",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Unit (banking-as-a-service) and brief commentary on org structures evolving over time (e.g., Airbnb shifting models).",
+      "timestamp_start": "00:25:52",
+      "timestamp_end": "00:27:18",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "nickey-skarstad_t11",
+      "title": "Setting vision and translating it into goals",
+      "summary": "Nickey outlines principles for strategy work: don\u2019t create strategy in a vacuum, bring the team along without making it a vote, and align with leadership; she uses a vision\u2013mission\u2013strategy\u2013objectives pyramid to connect long-term direction to near-term OKRs.",
+      "timestamp_start": "00:27:18",
+      "timestamp_end": "00:35:53",
+      "speakers": [
+        "Lenny",
+        "Nickey Skarstad"
+      ],
+      "themes": [
+        "Product strategy",
+        "Goal setting",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nickey-skarstad_t12",
+      "title": "Decision-making, alignment, and one-way vs two-way doors",
+      "summary": "They discuss how to drive alignment using empathy and negotiation tactics (Chris Voss), when PMs should push vs listen, and how to categorize decisions as reversible or irreversible with examples from Airbnb standards and Etsy marketplace policy.",
+      "timestamp_start": "00:35:53",
+      "timestamp_end": "00:41:18",
+      "speakers": [
+        "Lenny",
+        "Nickey Skarstad"
+      ],
+      "themes": [
+        "Decision-making",
+        "Leadership",
+        "Influence"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

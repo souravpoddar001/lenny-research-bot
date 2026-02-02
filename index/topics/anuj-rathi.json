@@ -1,0 +1,272 @@
+{
+  "episode_id": "anuj-rathi",
+  "topics": [
+    {
+      "topic_id": "anuj-rathi_t1",
+      "title": "Leadership diagnosis: can\u2019t, won\u2019t, not set up",
+      "summary": "Anuj shares a leadership framework for why execution fails: capability gaps, motivation/alignment issues, or poor setup/ways of working. He outlines how leaders should respond\u2014coach/mentor, realign incentives/vision, or fix the system they designed.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:50",
+      "speakers": [
+        "Anuj Rathi"
+      ],
+      "themes": [
+        "Leadership",
+        "Product Management",
+        "Team Collaboration"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "anuj-rathi_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Anuj Rathi\u2019s background (Flipkart, Walmart Labs, Snapdeal, Swiggy, Jupiter) and previews topics: India product context, onboarding/new users, working backwards, divergent exploration, and full-stack PM thinking.",
+      "timestamp_start": "00:00:50",
+      "timestamp_end": "00:02:08",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career",
+        "Product Management",
+        "Industry Insights"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "anuj-rathi_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Sanity (headless CMS for fast content iteration) and Vanta (security compliance automation), followed later by Wix Studio (agency website building platform).",
+      "timestamp_start": "00:02:08",
+      "timestamp_end": "00:39:14",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "anuj-rathi_t4",
+      "title": "How product building differs in India",
+      "summary": "Anuj explains India\u2019s product-management evolution: limited consumer-product history pre-2010, lack of playbooks, and cross-functional leaders coming from non-software backgrounds. He contrasts predictable \u201cmachinery\u201d thinking with the uncertainty of software and consumer behavior.",
+      "timestamp_start": "00:05:20",
+      "timestamp_end": "00:08:34",
+      "speakers": [
+        "Lenny",
+        "Anuj Rathi"
+      ],
+      "themes": [
+        "Industry Insights",
+        "Product Management",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "anuj-rathi_t5",
+      "title": "When India\u2019s consumer internet really ramped",
+      "summary": "They discuss early India internet categories (travel, matrimony) and why 2010 marked the broader startup wave (Flipkart, Ola, later Swiggy). Anuj notes the shift from \u201cX for India\u201d clones to more uniquely innovative India-first products.",
+      "timestamp_start": "00:08:34",
+      "timestamp_end": "00:10:24",
+      "speakers": [
+        "Lenny",
+        "Anuj Rathi"
+      ],
+      "themes": [
+        "Industry Insights",
+        "Startups",
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "anuj-rathi_t6",
+      "title": "India\u2019s scale, infrastructure, and complexity",
+      "summary": "Anuj highlights the Jio internet wave, UPI/India Stack digitization, and the diversity of languages/cultures that breaks many standard product frameworks. He also explains the monetization challenge: massive engagement potential but low willingness/ability to pay, requiring sharper segmentation and pricing strategy.",
+      "timestamp_start": "00:10:24",
+      "timestamp_end": "00:14:01",
+      "speakers": [
+        "Lenny",
+        "Anuj Rathi"
+      ],
+      "themes": [
+        "Industry Insights",
+        "Product Strategy",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "anuj-rathi_t7",
+      "title": "Designing for new users: lazy, vain, selfish",
+      "summary": "Anuj introduces Scott Belsky\u2019s framing of modern users as lazy, vain, and selfish, and argues onboarding and first impressions often matter more than advanced features. The key is empathizing with users who don\u2019t care yet and building messaging, copy, and flows that quickly show personal value.",
+      "timestamp_start": "00:14:01",
+      "timestamp_end": "00:17:06",
+      "speakers": [
+        "Lenny",
+        "Anuj Rathi"
+      ],
+      "themes": [
+        "User Experience",
+        "Product Management",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "anuj-rathi_t8",
+      "title": "Applying onboarding insights at Swiggy and Jupiter",
+      "summary": "He describes connecting acquisition messaging to in-app onboarding (continuity from ad/promo to first session) and investigating triggers for download and past rejection. For multi-product apps like Jupiter, he emphasizes behavioral design to move users from one service to another rather than pitching everything at once.",
+      "timestamp_start": "00:17:06",
+      "timestamp_end": "00:20:00",
+      "speakers": [
+        "Lenny",
+        "Anuj Rathi"
+      ],
+      "themes": [
+        "Growth",
+        "User Experience",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "anuj-rathi_t9",
+      "title": "PMs as full-stack influencers (users and teams)",
+      "summary": "Anuj argues PMs are in the business of influence\u2014internally across stakeholders and externally on user behavior. He stresses choosing a clear positioning, timing cross-sell carefully, and avoiding \u201chere\u2019s the app, go figure it out\u201d product design.",
+      "timestamp_start": "00:20:00",
+      "timestamp_end": "00:23:42",
+      "speakers": [
+        "Lenny",
+        "Anuj Rathi"
+      ],
+      "themes": [
+        "Product Management",
+        "Leadership",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "anuj-rathi_t10",
+      "title": "Operationalizing Working Backwards with PR/FAQ",
+      "summary": "Anuj explains working backwards as planning the full go-to-market machine, not just customer value. He uses PR/FAQ to negotiate scope and timelines, surface misalignment via stakeholder quotes, and ensure cross-functional readiness.",
+      "timestamp_start": "00:23:42",
+      "timestamp_end": "00:27:07",
+      "speakers": [
+        "Lenny",
+        "Anuj Rathi"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Execution",
+        "Team Collaboration"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "anuj-rathi_t11",
+      "title": "Power of three: write three divergent PR/FAQs",
+      "summary": "He pushes teams to draft three fully formed, divergent press releases to explore alternatives, show what was considered, and help leadership compare tradeoffs. This also helps counter top-down directives by offering better options with clear rationale.",
+      "timestamp_start": "00:27:07",
+      "timestamp_end": "00:28:36",
+      "speakers": [
+        "Lenny",
+        "Anuj Rathi"
+      ],
+      "themes": [
+        "Decision Making",
+        "Product Strategy",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "anuj-rathi_t12",
+      "title": "Using FAQs to manage marketplace complexity",
+      "summary": "Anuj describes embedding mandatory FAQ sections (compliance at Jupiter; multi-sided impacts at Swiggy) to force teams to consider second-order effects. This creates tighter coordination across marketplace participants and reduces surprises from interconnected changes.",
+      "timestamp_start": "00:28:36",
+      "timestamp_end": "00:30:10",
+      "speakers": [
+        "Lenny",
+        "Anuj Rathi"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Risk Management",
+        "Team Collaboration"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "anuj-rathi_t13",
+      "title": "Why full-stack PMs win: outcomes over features",
+      "summary": "He argues PM success requires owning outcomes and understanding competition, marketing, engineering, and adjacent teams\u2014not just a narrow feature area. He cites the \u2018Range\u2019 idea: broader experience helps connect dots and build better products.",
+      "timestamp_start": "00:30:10",
+      "timestamp_end": "00:32:41",
+      "speakers": [
+        "Lenny",
+        "Anuj Rathi"
+      ],
+      "themes": [
+        "Product Management",
+        "Career",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "anuj-rathi_t14",
+      "title": "Show don\u2019t tell: person-based journeys and walls",
+      "summary": "Anuj explains a concrete, narrative approach to product design: model a real \u2018person\u2019 (not a persona), map triggers, emotions, and end-to-end flows, and visualize scenarios (including marketplace real-time dynamics). He recommends maintaining current vs. future journey artifacts to drive clarity and stakeholder alignment.",
+      "timestamp_start": "00:32:41",
+      "timestamp_end": "00:38:09",
+      "speakers": [
+        "Lenny",
+        "Anuj Rathi"
+      ],
+      "themes": [
+        "User Experience",
+        "Product Discovery",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "anuj-rathi_t15",
+      "title": "Impact of show don\u2019t tell: alignment and decisions",
+      "summary": "They discuss how concrete artifacts improve cross-functional alignment and help teams choose among strategic alternatives by evaluating the whole system rather than debating isolated points. Anuj ties this to the broader benefit of \u2018working backwards\u2019\u2014forcing specificity to reveal weak ideas early.",
+      "timestamp_start": "00:39:14",
+      "timestamp_end": "00:41:36",
+      "speakers": [
+        "Lenny",
+        "Anuj Rathi"
+      ],
+      "themes": [
+        "Team Collaboration",
+        "Decision Making",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "anuj-rathi_t16",
+      "title": "Four BB framework for product strategy allocation",
+      "summary": "Anuj introduces a portfolio framework for allocating capacity: Brilliant Basics (foundational/platform work), Bread and Butter (incremental backlog), Big Bets (cross-team high-upside initiatives), and Breaking Bad (identity shifts/pivots). He emphasizes these are strategy-level tradeoffs that leadership must explicitly choose and communicate.",
+      "timestamp_start": "00:41:36",
+      "timestamp_end": "00:45:53",
+      "speakers": [
+        "Lenny",
+        "Anuj Rathi"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Prioritization",
+        "Company Building"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "episode_id": "jeffrey-pfeffer",
+  "topics": [
+    {
+      "topic_id": "jeffrey-pfeffer_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the episode\u2019s focus on building power and influence, previews Pfeffer\u2019s \u201cSeven Rules of Power,\u201d and frames the conversation as a realistic guide to career advancement even if it feels uncomfortable.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:40",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jeffrey Pfeffer"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership",
+        "Influence & Power"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jeffrey-pfeffer_t2",
+      "title": "Why power feels uncomfortable, why it matters",
+      "summary": "Pfeffer explains research linking political skill to promotions, pay, and lower stress, and argues discomfort comes from confusing power as a tool with unethical uses of it. They discuss why underrepresented groups especially benefit from learning power skills.",
+      "timestamp_start": "00:02:40",
+      "timestamp_end": "00:05:41",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jeffrey Pfeffer"
+      ],
+      "themes": [
+        "Influence & Power",
+        "Career Growth",
+        "Workplace Dynamics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jeffrey-pfeffer_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Uizard and Webflow.",
+      "timestamp_start": "00:05:41",
+      "timestamp_end": "00:07:51",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jeffrey-pfeffer_t4",
+      "title": "Being less judgmental to build influence",
+      "summary": "Pfeffer explains why his class \u201cis not for everyone\u201d and why suspending judgment is essential when you need others\u2019 cooperation. He emphasizes relationship-building, emotional control, and not telegraphing disrespect.",
+      "timestamp_start": "00:07:51",
+      "timestamp_end": "00:11:21",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jeffrey Pfeffer"
+      ],
+      "themes": [
+        "Workplace Dynamics",
+        "Influence & Power",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jeffrey-pfeffer_t5",
+      "title": "Seven Rules overview and Doing Power practice",
+      "summary": "They outline the Seven Rules of Power and discuss Pfeffer\u2019s \u201cDoing Power\u201d assignments designed to close the knowing-doing gap. Pfeffer shares an extreme example of a student leveraging the project into major political and government roles.",
+      "timestamp_start": "00:11:21",
+      "timestamp_end": "00:15:35",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jeffrey Pfeffer"
+      ],
+      "themes": [
+        "Influence & Power",
+        "Career Growth",
+        "Learning & Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jeffrey-pfeffer_t6",
+      "title": "Rule: Build a powerful personal brand",
+      "summary": "Pfeffer argues visibility is required for advancement and gives examples (consulting, VC, startups) of differentiating through projects, content, events, and distinctive presence. They discuss balancing substance with visibility and reframing self-promotion as amplifying impact.",
+      "timestamp_start": "00:15:35",
+      "timestamp_end": "00:21:11",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jeffrey Pfeffer"
+      ],
+      "themes": [
+        "Personal Branding",
+        "Career Growth",
+        "Influence & Power"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jeffrey-pfeffer_t7",
+      "title": "Rule: Get out of your own way",
+      "summary": "They cover how discomfort, imposter syndrome, and excessive apologizing undermine perceived competence and authority. Pfeffer stresses prioritizing performance and respect over being liked, using examples from high-stakes professions.",
+      "timestamp_start": "00:21:11",
+      "timestamp_end": "00:26:04",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jeffrey Pfeffer"
+      ],
+      "themes": [
+        "Mindset",
+        "Career Growth",
+        "Influence & Power"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jeffrey-pfeffer_t8",
+      "title": "Rule: Break the rules to stand out",
+      "summary": "Pfeffer explains rule-breaking as a way to become memorable and disrupt systems designed for incumbents, including the simple but powerful act of asking for what you want. Jason Calacanis is discussed as an example of unconventional career and investing tactics.",
+      "timestamp_start": "00:26:04",
+      "timestamp_end": "00:30:34",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jeffrey Pfeffer"
+      ],
+      "themes": [
+        "Influence & Power",
+        "Career Growth",
+        "Risk & Decision-Making"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jeffrey-pfeffer_t9",
+      "title": "Rule: Network relentlessly (and generously)",
+      "summary": "Networking is reframed as generosity and usefulness\u2014introducing people, sharing resources, and building broad connections to gain non-redundant knowledge. Pfeffer shares Omid Kordestani\u2019s story of networking into Google and offers practical exercises to meet key people.",
+      "timestamp_start": "00:30:34",
+      "timestamp_end": "00:39:00",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jeffrey Pfeffer"
+      ],
+      "themes": [
+        "Networking",
+        "Influence & Power",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jeffrey-pfeffer_t10",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Heap.",
+      "timestamp_start": "00:39:03",
+      "timestamp_end": "00:40:10",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "jeffrey-pfeffer_t11",
+      "title": "Weak ties and brokerage as networking strategy",
+      "summary": "They discuss why weak ties provide better job leads and novel information (Granovetter\u2019s research) and why becoming a connector/broker increases influence. Pfeffer gives examples of connecting experts and funders as a value-creating power move.",
+      "timestamp_start": "00:40:10",
+      "timestamp_end": "00:42:00",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jeffrey Pfeffer"
+      ],
+      "themes": [
+        "Networking",
+        "Influence & Power",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jeffrey-pfeffer_t12",
+      "title": "Rule: Use your power to get more power",
+      "summary": "Pfeffer explains the self-reinforcing loop: using authority to deliver results attracts resources, opportunities, and allies. They touch on how visible power signals draw followers and set up a transition into appearing powerful.",
+      "timestamp_start": "00:42:00",
+      "timestamp_end": "00:44:26",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jeffrey Pfeffer"
+      ],
+      "themes": [
+        "Influence & Power",
+        "Leadership",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jeffrey-pfeffer_t13",
+      "title": "Rule: Show up in a powerful fashion",
+      "summary": "They explore how appearance, voice, and body language shape perceived power more than content, with examples from corporate crises and Steve Jobs\u2019 coached transformation. Pfeffer lists practical tactics (eye contact, no notes, posture, volume, proximity) and emphasizes these are learnable skills.",
+      "timestamp_start": "00:44:26",
+      "timestamp_end": "00:49:40",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jeffrey Pfeffer"
+      ],
+      "themes": [
+        "Communication",
+        "Influence & Power",
+        "Leadership"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

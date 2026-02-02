@@ -1,0 +1,254 @@
+{
+  "episode_id": "melanie-perkins",
+  "topics": [
+    {
+      "topic_id": "melanie-perkins_t1",
+      "title": "Introduction and Background",
+      "summary": "Cold open highlights Canva\u2019s early investor rejections, the idea of Crazy Big Goals, and Canva\u2019s broad product scope. Lenny introduces Melanie and previews major lessons (fundraising rejection, pivots, rewrites, profitability).",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:21",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Melanie Perkins"
+      ],
+      "themes": [
+        "Company Building",
+        "Fundraising",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melanie-perkins_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Vanta (SOC 2/compliance automation) and Stripe (payments infrastructure and Stripe Startups program).",
+      "timestamp_start": "00:02:21",
+      "timestamp_end": "00:04:49",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melanie-perkins_t3",
+      "title": "Column B thinking: dream future, work backward",
+      "summary": "Melanie explains \u201cColumn B\u201d planning: start from an ideal future vision rather than today\u2019s constraints (\u201cstacking bricks\u201d). They connect it to Canva\u2019s origin and why this mindset matters for founders.",
+      "timestamp_start": "00:04:49",
+      "timestamp_end": "00:08:08",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Melanie Perkins"
+      ],
+      "themes": [
+        "Company Building",
+        "Strategy",
+        "Founder Mindset"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melanie-perkins_t4",
+      "title": "How to build Column B: vision to ladder",
+      "summary": "Melanie describes practical steps: define wild success/terrible failure over a 10+ year horizon, then create a \u201cladder\u201d of small rungs toward the moonshot. Emphasis on making time to think beyond day-to-day noise.",
+      "timestamp_start": "00:08:17",
+      "timestamp_end": "00:11:49",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Melanie Perkins"
+      ],
+      "themes": [
+        "Strategy",
+        "Goal Setting",
+        "Founder Mindset"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melanie-perkins_t5",
+      "title": "Operationalizing ideas: chaos-to-clarity vision decks",
+      "summary": "They discuss Canva\u2019s \u201cchaos to clarity\u201d process: write ideas down, turn them into decks/prototypes, and iteratively add clarity so others can see and build them. Melanie notes early-stage ideas feel embarrassing because you lack answers.",
+      "timestamp_start": "00:11:49",
+      "timestamp_end": "00:14:50",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Melanie Perkins"
+      ],
+      "themes": [
+        "Product Development",
+        "Execution",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melanie-perkins_t6",
+      "title": "Crazy Big Goals: setting, measuring, celebrating",
+      "summary": "Melanie explains why Canva values Crazy Big Goals: they create urgency, resilience through obstacles, and long-term compounding progress. She gives examples across mission pillars (anything, any language, any device) and describes celebration rituals (plates, doves, festivals).",
+      "timestamp_start": "00:14:50",
+      "timestamp_end": "00:21:49",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Melanie Perkins"
+      ],
+      "themes": [
+        "Goal Setting",
+        "Company Culture",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melanie-perkins_t7",
+      "title": "Scaling pains and the two-year rewrite tunnel",
+      "summary": "Melanie shares how systems break as Canva doubles and how internal rituals evolved (standups to season openers). She recounts a major front-end rewrite that took two years, halted feature shipping, and required morale-boosting tactics to endure.",
+      "timestamp_start": "00:21:49",
+      "timestamp_end": "00:26:30",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Melanie Perkins"
+      ],
+      "themes": [
+        "Scaling",
+        "Engineering",
+        "Execution"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "melanie-perkins_t8",
+      "title": "100+ investor rejections: iterate the pitch, not ego",
+      "summary": "Melanie explains how repeated investor \u201cno\u2019s\u201d became structured feedback to strengthen Canva\u2019s pitch deck (market size, differentiation, problem framing). The vision stayed consistent; the articulation improved to reduce time-to-understanding.",
+      "timestamp_start": "00:26:30",
+      "timestamp_end": "00:29:38",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Melanie Perkins"
+      ],
+      "themes": [
+        "Fundraising",
+        "Resilience",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melanie-perkins_t9",
+      "title": "Fundraising advice: control what you can",
+      "summary": "Melanie advises founders to treat rejection as iteration fuel, increase volume of conversations, and find investors aligned with your approach. She notes some investors will never be a fit, and that\u2019s okay.",
+      "timestamp_start": "00:29:38",
+      "timestamp_end": "00:30:47",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Melanie Perkins"
+      ],
+      "themes": [
+        "Fundraising",
+        "Founder Mindset",
+        "Resilience"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melanie-perkins_t10",
+      "title": "Leadership growth: authenticity over imported playbooks",
+      "summary": "Melanie reflects on scaling leadership by \u201cgiving away hats\u201d and resisting copying other companies\u2019 processes. Canva learned that importing \u201cbricks\u201d from other cultures often doesn\u2019t fit; instead they evolve systems consistent with Canva\u2019s DNA.",
+      "timestamp_start": "00:30:58",
+      "timestamp_end": "00:33:48",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Melanie Perkins"
+      ],
+      "themes": [
+        "Leadership",
+        "Scaling",
+        "Company Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melanie-perkins_t11",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Justworks (payroll, benefits, HR support, and international hiring).",
+      "timestamp_start": "00:33:50",
+      "timestamp_end": "00:34:38",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melanie-perkins_t12",
+      "title": "Mission-to-goals operating system and authenticity",
+      "summary": "Melanie describes Canva\u2019s goal-driven structure: mission \u2192 mission pillars \u2192 concrete goals \u2192 celebrations. She argues many companies\u2019 missions drift from daily work, and Canva tries to keep tight alignment for internal clarity and customer trust.",
+      "timestamp_start": "00:34:38",
+      "timestamp_end": "00:35:47",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Melanie Perkins"
+      ],
+      "themes": [
+        "Company Culture",
+        "Strategy",
+        "Goal Setting"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melanie-perkins_t13",
+      "title": "Sustainable pace: boundaries, habits, perspective",
+      "summary": "Melanie shares her shift from nonstop early grinding to healthier routines that preserve performance (no email on phone, clear on/off work modes, sleep, walks, yoga, journaling). She emphasizes stepping away to avoid working hard on the wrong things.",
+      "timestamp_start": "00:35:47",
+      "timestamp_end": "00:38:04",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Melanie Perkins"
+      ],
+      "themes": [
+        "Founder Mindset",
+        "Leadership",
+        "Productivity"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melanie-perkins_t14",
+      "title": "Community-driven product: closing the loop at scale",
+      "summary": "Canva collects 1M+ feature requests annually and routes them to product teams, closing 200+ loops this year. Melanie highlights explicit requests (e.g., gradient text, Sheets) plus user testing as a core engine for prioritization and UX improvements.",
+      "timestamp_start": "00:38:04",
+      "timestamp_end": "00:40:36",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Melanie Perkins"
+      ],
+      "themes": [
+        "Product Development",
+        "Customer Focus",
+        "Feedback Loops"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "melanie-perkins_t15",
+      "title": "Two-step plan: build value, then do maximum good",
+      "summary": "Melanie explains Canva\u2019s \u201ctwo-step plan\u201d: build one of the world\u2019s most valuable companies and do the most good possible\u2014simultaneously, since each fuels the other. She describes the 1% pledge, donating 30% of their equity via Canva Foundation, and major GiveDirectly commitments.",
+      "timestamp_start": "00:40:36",
+      "timestamp_end": "00:43:17",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Melanie Perkins"
+      ],
+      "themes": [
+        "Mission",
+        "Social Impact",
+        "Company Building"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

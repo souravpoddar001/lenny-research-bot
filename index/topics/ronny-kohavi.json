@@ -1,0 +1,234 @@
+{
+  "episode_id": "ronny-kohavi",
+  "topics": [
+    {
+      "topic_id": "ronny-kohavi_t1",
+      "title": "Test-everything mindset and expected failure rates",
+      "summary": "Ronny argues every code/feature change should be experimented on, emphasizing that even small fixes can have unexpected impacts. He sets expectations that most ideas\u2014especially big bets\u2014will fail, so teams must be psychologically and operationally ready for frequent null/negative results.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:14",
+      "speakers": [
+        "Ronny Kohavi",
+        "Lenny"
+      ],
+      "themes": [
+        "Experimentation & A/B Testing",
+        "Product Strategy",
+        "Decision Making"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ronny-kohavi_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the show and Ronny\u2019s background across Airbnb, Microsoft, and Amazon, plus what the episode will cover (validity, trust, p-values, culture, and getting started).",
+      "timestamp_start": "00:01:05",
+      "timestamp_end": "00:02:39",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Experimentation & A/B Testing",
+        "Career & Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ronny-kohavi_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Mixpanel and Round.",
+      "timestamp_start": "00:02:39",
+      "timestamp_end": "00:04:30",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors & Promotions"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ronny-kohavi_t4",
+      "title": "Surprising wins: tiny UI change, huge revenue",
+      "summary": "Ronny shares Bing\u2019s famous experiment moving an ad line, which unexpectedly increased revenue ~12% without hurting guardrails, illustrating why intuition is unreliable. They discuss follow-on experiments to understand the causal drivers and how small changes can produce outsized gains.",
+      "timestamp_start": "00:04:30",
+      "timestamp_end": "00:10:35",
+      "speakers": [
+        "Ronny Kohavi",
+        "Lenny"
+      ],
+      "themes": [
+        "Experimentation & A/B Testing",
+        "Growth",
+        "Product Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ronny-kohavi_t5",
+      "title": "How often big wins happen and why most fail",
+      "summary": "Ronny explains that most progress is incremental (many small lifts compounding), citing Bing and Airbnb examples. He shares typical failure rates (66% to 92% by context) and clarifies that experiment-level failure includes aborted runs and iterations, not just \u201cbad ideas.\u201d",
+      "timestamp_start": "00:10:35",
+      "timestamp_end": "00:15:29",
+      "speakers": [
+        "Ronny Kohavi",
+        "Lenny"
+      ],
+      "themes": [
+        "Experimentation & A/B Testing",
+        "Metrics & Measurement",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ronny-kohavi_t6",
+      "title": "Reusable patterns and institutional learning systems",
+      "summary": "They discuss collecting \u201cwhat works\u201d patterns (papers like Rules of Thumb and resources like goodui.org) and the importance of institutional memory. Ronny recommends searchable experiment archives and quarterly reviews of the most surprising wins/losses to drive learning and culture.",
+      "timestamp_start": "00:15:29",
+      "timestamp_end": "00:20:45",
+      "speakers": [
+        "Ronny Kohavi",
+        "Lenny"
+      ],
+      "themes": [
+        "Experimentation & A/B Testing",
+        "Knowledge Management",
+        "Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ronny-kohavi_t7",
+      "title": "Can experimentation hinder innovation? Portfolio approach",
+      "summary": "Ronny argues you can\u2019t experiment too much, but you can over-focus on incrementalism; teams should run a portfolio of low-risk iterations plus high-risk, high-reward bets. He gives Bing\u2019s social integration effort as an example of a large bet that failed despite heavy investment and many experiments.",
+      "timestamp_start": "00:20:45",
+      "timestamp_end": "00:24:48",
+      "speakers": [
+        "Ronny Kohavi",
+        "Lenny"
+      ],
+      "themes": [
+        "Experimentation & A/B Testing",
+        "Product Strategy",
+        "Innovation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ronny-kohavi_t8",
+      "title": "When not to A/B test and when to start",
+      "summary": "Ronny notes some domains aren\u2019t testable (e.g., M&A) and that small companies may lack sufficient sample sizes. He gives practical thresholds: tens of thousands of users to start (only detect big effects), and ~200k users where experimentation becomes much more powerful.",
+      "timestamp_start": "00:24:48",
+      "timestamp_end": "00:28:00",
+      "speakers": [
+        "Ronny Kohavi",
+        "Lenny"
+      ],
+      "themes": [
+        "Experimentation & A/B Testing",
+        "Statistics",
+        "Startup Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ronny-kohavi_t9",
+      "title": "OEC: optimizing for long-term user value",
+      "summary": "Ronny explains the Overall Evaluation Criterion (OEC) as a way to avoid short-term revenue hacks by incorporating guardrails and long-term value proxies. Examples include ad load constraints in search and using predicted post-stay satisfaction/ratings in travel marketplaces.",
+      "timestamp_start": "00:28:00",
+      "timestamp_end": "00:32:43",
+      "speakers": [
+        "Ronny Kohavi",
+        "Lenny"
+      ],
+      "themes": [
+        "Metrics & Measurement",
+        "Experimentation & A/B Testing",
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ronny-kohavi_t10",
+      "title": "Measuring long-term effects: holdouts and models",
+      "summary": "They cover approaches to long-term impact: running longer experiments for learning and building models that price in downstream costs. Ronny\u2019s Amazon email example shows how adding unsubscribe cost revealed many campaigns were net-negative and led to better unsubscribe UX and healthier incentives.",
+      "timestamp_start": "00:32:43",
+      "timestamp_end": "00:36:31",
+      "speakers": [
+        "Ronny Kohavi",
+        "Lenny"
+      ],
+      "themes": [
+        "Experimentation & A/B Testing",
+        "Metrics & Measurement",
+        "Data Science"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ronny-kohavi_t11",
+      "title": "Why big redesigns fail and how to de-risk",
+      "summary": "Ronny and Lenny discuss how full redesigns often test negative and create sunk-cost pressure to ship anyway. Ronny recommends decomposing changes (OFAT or small bundles), testing iteratively, and not shipping flat results due to maintenance costs\u2014except for true constraints like legal requirements.",
+      "timestamp_start": "00:36:31",
+      "timestamp_end": "00:45:25",
+      "speakers": [
+        "Ronny Kohavi",
+        "Lenny"
+      ],
+      "themes": [
+        "Experimentation & A/B Testing",
+        "Product Design",
+        "Decision Making"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ronny-kohavi_t12",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Eppo, an A/B testing platform.",
+      "timestamp_start": "00:41:48",
+      "timestamp_end": "00:42:55",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors & Promotions"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ronny-kohavi_t13",
+      "title": "Airbnb experimentation culture and Covid-era decisions",
+      "summary": "Ronny shares limited observations: his Airbnb search relevance org tested everything, while other areas varied; he argues more experimentation likely would have improved outcomes, though the counterfactual is unknowable. He also contends crises like Covid make experimentation more\u2014not less\u2014important, citing examples like online experiences as a bet with weak data.",
+      "timestamp_start": "00:45:25",
+      "timestamp_end": "00:50:01",
+      "speakers": [
+        "Ronny Kohavi",
+        "Lenny"
+      ],
+      "themes": [
+        "Experimentation & A/B Testing",
+        "Culture",
+        "Company Case Studies"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ronny-kohavi_t14",
+      "title": "Writing the book and its reception",
+      "summary": "Ronny begins reflecting on writing Trustworthy Online Controlled Experiments, noting he was surprised by how well it sold relative to publisher expectations and how niche he initially thought the topic was.",
+      "timestamp_start": "00:50:01",
+      "timestamp_end": "00:50:47",
+      "speakers": [
+        "Ronny Kohavi",
+        "Lenny"
+      ],
+      "themes": [
+        "Experimentation & A/B Testing",
+        "Career & Leadership"
+      ],
+      "quote_count": 3
+    }
+  ]
+}

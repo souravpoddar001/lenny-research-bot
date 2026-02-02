@@ -1,0 +1,292 @@
+{
+  "episode_id": "lane-shackleton",
+  "topics": [
+    {
+      "topic_id": "lane-shackleton_t1",
+      "title": "Career growth through \u201coh shit\u201d moments",
+      "summary": "Lane shares a sharper way to assess career growth: count recent moments where you felt underqualified or stretched. If you haven\u2019t had any in a long time, it may be a signal to seek new challenges.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:51",
+      "speakers": [
+        "Lane Shackleton"
+      ],
+      "themes": [
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lane-shackleton_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the show and guest Lane Shackleton (CPO of Coda), teasing Lane\u2019s unusual career path and the episode\u2019s focus on principles and rituals of great product teams.",
+      "timestamp_start": "00:00:51",
+      "timestamp_end": "00:01:55",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Product Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "lane-shackleton_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Eppo (A/B testing platform) and Vanta (security compliance automation).",
+      "timestamp_start": "00:01:55",
+      "timestamp_end": "00:04:04",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "lane-shackleton_t4",
+      "title": "Shackleton legacy and exploration inspiration",
+      "summary": "Lane discusses his (likely distant) relation to Ernest Shackleton and lessons from the Endurance story\u2014especially people-first leadership and resilience.",
+      "timestamp_start": "00:04:04",
+      "timestamp_end": "00:05:28",
+      "speakers": [
+        "Lenny",
+        "Lane Shackleton"
+      ],
+      "themes": [
+        "Leadership"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "lane-shackleton_t5",
+      "title": "From Alaskan mountain guide to product",
+      "summary": "Lane explains why he became a mountain guide, what ended that chapter (a dangerous crevasse fall while roped to a client), and how it pushed him toward a different career.",
+      "timestamp_start": "00:05:28",
+      "timestamp_end": "00:07:29",
+      "speakers": [
+        "Lenny",
+        "Lane Shackleton"
+      ],
+      "themes": [
+        "Career Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "lane-shackleton_t6",
+      "title": "Mountain guiding lessons applied to product work",
+      "summary": "Lane draws parallels between guiding and building software: deep preparation, checklists and redundancy, and staying calm to assess, prioritize, and act under pressure.",
+      "timestamp_start": "00:07:29",
+      "timestamp_end": "00:09:12",
+      "speakers": [
+        "Lenny",
+        "Lane Shackleton"
+      ],
+      "themes": [
+        "Product Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lane-shackleton_t7",
+      "title": "Why Lane studies principles and team rituals",
+      "summary": "Lane explains his motivation: scaling repeated 1:1 advice, frustration with complex career ladders, and inspiration from Brett Victor\u2019s \u201cInventing on Principle\u201d to define guiding principles that transcend levels.",
+      "timestamp_start": "00:09:12",
+      "timestamp_end": "00:12:49",
+      "speakers": [
+        "Lenny",
+        "Lane Shackleton"
+      ],
+      "themes": [
+        "Product Leadership",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lane-shackleton_t8",
+      "title": "Coda\u2019s role stages and compensation approach",
+      "summary": "Lane describes Coda\u2019s simplified five-stage leveling model (apprentice to principal), low emphasis on titles/levels, and a centralized compensation committee to reduce perverse incentives.",
+      "timestamp_start": "00:12:49",
+      "timestamp_end": "00:16:31",
+      "speakers": [
+        "Lenny",
+        "Lane Shackleton"
+      ],
+      "themes": [
+        "Org Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lane-shackleton_t9",
+      "title": "Core PM job: ambiguity to clarity",
+      "summary": "Lane frames product management as continuously turning ambiguity into clarity\u2014about roles, problems, customers, and solutions\u2014setting up why principles and rituals matter.",
+      "timestamp_start": "00:16:31",
+      "timestamp_end": "00:17:41",
+      "speakers": [
+        "Lenny",
+        "Lane Shackleton"
+      ],
+      "themes": [
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lane-shackleton_t10",
+      "title": "Principle: systems not goals",
+      "summary": "Using Jerry Seinfeld\u2019s writing routine, Lane argues that durable systems beat goal-setting. He illustrates with customer research: default-on weekly customer touchpoints build instincts better than quarterly OKRs.",
+      "timestamp_start": "00:17:41",
+      "timestamp_end": "00:24:05",
+      "speakers": [
+        "Lenny",
+        "Lane Shackleton"
+      ],
+      "themes": [
+        "Product Management",
+        "Customer Research"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lane-shackleton_t11",
+      "title": "Other principles: cathedrals not bricks",
+      "summary": "Lane shares the cathedral metaphor: teams perform best when they understand the larger mission, not just tasks. He notes leaders must show multiple \u201cfacets\u201d of the cathedral (docs, metrics, mocks) so everyone can connect.",
+      "timestamp_start": "00:24:05",
+      "timestamp_end": "00:27:26",
+      "speakers": [
+        "Lenny",
+        "Lane Shackleton"
+      ],
+      "themes": [
+        "Leadership",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lane-shackleton_t12",
+      "title": "How to develop your own principles",
+      "summary": "Lane recommends reading broadly beyond tech (sports, storytelling) and noticing repeated advice you give in mentorship. He highlights learning from top practitioners and deliberately choosing uncomfortable growth opportunities.",
+      "timestamp_start": "00:27:26",
+      "timestamp_end": "00:31:18",
+      "speakers": [
+        "Lenny",
+        "Lane Shackleton"
+      ],
+      "themes": [
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lane-shackleton_t13",
+      "title": "\u201cOh shit moments\u201d as a growth metric",
+      "summary": "Lane expands on Seth Godin\u2019s idea: seek situations that make you feel underqualified. He proposes asking yourself how many such moments you\u2019ve had recently as a clearer signal of growth than vague self-assessments.",
+      "timestamp_start": "00:31:18",
+      "timestamp_end": "00:34:08",
+      "speakers": [
+        "Lenny",
+        "Lane Shackleton"
+      ],
+      "themes": [
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lane-shackleton_t14",
+      "title": "Studying rituals: noticing and rituals dinners",
+      "summary": "Lane explains how Coda learns rituals by observing teams closely, asking questions, and co-creating new rituals with customers. He mentions Shishir\u2019s work on a rituals book and Coda\u2019s \u201crituals dinners\u201d for sharing practices.",
+      "timestamp_start": "00:34:08",
+      "timestamp_end": "00:36:03",
+      "speakers": [
+        "Lenny",
+        "Lane Shackleton"
+      ],
+      "themes": [
+        "Team Rituals"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lane-shackleton_t15",
+      "title": "Ritual: HubSpot-style feedback flash tags",
+      "summary": "Lane describes Dharmesh Shah\u2019s \u201cflash tags\u201d to calibrate feedback importance: FYI, suggestion, recommendation, plea. The shared language prevents overreacting to minor notes and helps teams focus on what matters most.",
+      "timestamp_start": "00:36:03",
+      "timestamp_end": "00:40:22",
+      "speakers": [
+        "Lenny",
+        "Lane Shackleton"
+      ],
+      "themes": [
+        "Team Rituals",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lane-shackleton_t16",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Ezra (full-body MRI cancer screening) including Lenny\u2019s personal experience and discount code.",
+      "timestamp_start": "00:40:22",
+      "timestamp_end": "00:42:15",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lane-shackleton_t17",
+      "title": "Ritual: Catalyst for scalable product reviews",
+      "summary": "Lane explains Catalyst, Coda\u2019s review/decision forum designed to avoid bottlenecks from standing attendees and single-threaded meetings. It uses rotating topics, role clarity (driver/maker/braintrust/interested), and parallel sessions to increase throughput.",
+      "timestamp_start": "00:42:15",
+      "timestamp_end": "00:46:45",
+      "speakers": [
+        "Lenny",
+        "Lane Shackleton"
+      ],
+      "themes": [
+        "Team Rituals",
+        "Decision Making"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lane-shackleton_t18",
+      "title": "Transplanting rituals and $100 voting",
+      "summary": "Lane discusses when rituals are easy to adopt (team-level tools) vs harder (org-wide process changes). He shares $100 voting as a lightweight planning ritual to surface disagreements and reduce ambiguity.",
+      "timestamp_start": "00:46:45",
+      "timestamp_end": "00:49:48",
+      "speakers": [
+        "Lenny",
+        "Lane Shackleton"
+      ],
+      "themes": [
+        "Team Rituals",
+        "Product Planning"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lane-shackleton_t19",
+      "title": "Process stability vs iteration at Coda",
+      "summary": "Lane explains Coda has a stable backbone of operating rituals (e.g., Catalyst) with continuous iteration on top, balancing consistency with ongoing improvements.",
+      "timestamp_start": "00:49:48",
+      "timestamp_end": "00:50:11",
+      "speakers": [
+        "Lenny",
+        "Lane Shackleton"
+      ],
+      "themes": [
+        "Org Design"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

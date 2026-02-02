@@ -1,0 +1,258 @@
+{
+  "episode_id": "pete-kazanjy",
+  "topics": [
+    {
+      "topic_id": "pete-kazanjy_t1",
+      "title": "Introduction and Background",
+      "summary": "Pete encourages founders not to fear sales; Lenny introduces Pete, his book Founding Sales, Modern Sales Pros, and Atrium, and previews the episode\u2019s focus on founder-led selling, hiring the first salesperson, and tactical sales improvement.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:28",
+      "speakers": [
+        "Pete Kazanjy",
+        "Lenny"
+      ],
+      "themes": [
+        "Founder-led Sales",
+        "Sales Hiring",
+        "Sales Skills"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "pete-kazanjy_t2",
+      "title": "Sponsor Break",
+      "summary": "Two sponsor segments: Vanta (SOC 2/security compliance automation) and Flatfile (reliable CSV/data onboarding to improve onboarding and retention).",
+      "timestamp_start": "00:01:28",
+      "timestamp_end": "00:03:49",
+      "speakers": [
+        "Lenny",
+        "Ashley Mulligan"
+      ],
+      "themes": [
+        "Sponsorship"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "pete-kazanjy_t3",
+      "title": "Pete and Lenny origin story",
+      "summary": "They recount how they met via Lenny\u2019s writing and SaaS School, leading to ongoing collaboration and Pete encouraging Lenny to turn posts into a book.",
+      "timestamp_start": "00:04:00",
+      "timestamp_end": "00:05:00",
+      "speakers": [
+        "Lenny",
+        "Pete Kazanjy"
+      ],
+      "themes": [
+        "Career & Background"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "pete-kazanjy_t4",
+      "title": "Pete\u2019s background and learning sales",
+      "summary": "Pete explains his non-traditional path (product marketing/PM) to learning sales as a founder at TalentBin, then writing Founding Sales, building Modern Sales Pros, and founding Atrium.",
+      "timestamp_start": "00:05:01",
+      "timestamp_end": "00:06:59",
+      "speakers": [
+        "Lenny",
+        "Pete Kazanjy"
+      ],
+      "themes": [
+        "Career & Background",
+        "Founder-led Sales"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "pete-kazanjy_t5",
+      "title": "Modern sales versus old-school sales",
+      "summary": "Pete reframes sales as matching supply to demand and emphasizes measurability/analytics (CRMs, digital exhaust) as the shift to \u201cmodern sales,\u201d akin to Moneyball and modern product analytics.",
+      "timestamp_start": "00:06:59",
+      "timestamp_end": "00:09:17",
+      "speakers": [
+        "Lenny",
+        "Pete Kazanjy"
+      ],
+      "themes": [
+        "Sales Strategy",
+        "Sales Analytics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "pete-kazanjy_t6",
+      "title": "Why founders must lead early sales",
+      "summary": "Pete describes founder-led sales as the sequel to Lean Startup: after MVP, founders must close early customers to learn positioning, validate value, and avoid losing the feedback loop by outsourcing too early.",
+      "timestamp_start": "00:09:17",
+      "timestamp_end": "00:15:00",
+      "speakers": [
+        "Lenny",
+        "Pete Kazanjy"
+      ],
+      "themes": [
+        "Founder-led Sales",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "pete-kazanjy_t7",
+      "title": "When to hire the first salesperson",
+      "summary": "Heuristics for hiring: achieve a repeatable, statistically meaningful sales motion (e.g., ~15\u201325% win rate from first meetings) across 50\u2013100 at-bats, then \u201cpackage\u201d the motion for others and scale gradually (2\u21924\u21928\u2026).",
+      "timestamp_start": "00:15:00",
+      "timestamp_end": "00:18:21",
+      "speakers": [
+        "Lenny",
+        "Pete Kazanjy"
+      ],
+      "themes": [
+        "Sales Hiring",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "pete-kazanjy_t8",
+      "title": "Iterating the sales motion like software",
+      "summary": "Pete advises running sales in cohorts, iterating after each batch, and treating collateral/talk tracks as \u201csource code\u201d that gets updated with each objection and learning to improve conversion through stages.",
+      "timestamp_start": "00:18:21",
+      "timestamp_end": "00:20:55",
+      "speakers": [
+        "Lenny",
+        "Pete Kazanjy"
+      ],
+      "themes": [
+        "Sales Process",
+        "Sales Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "pete-kazanjy_t9",
+      "title": "Leading indicators: stage conversions and second dates",
+      "summary": "Because wins are lagging indicators, track leading indicators like second/third meetings and stage-to-stage conversion rates; diagnose issues early (targeting, messaging, discovery) when progression stalls.",
+      "timestamp_start": "00:20:55",
+      "timestamp_end": "00:23:42",
+      "speakers": [
+        "Lenny",
+        "Pete Kazanjy"
+      ],
+      "themes": [
+        "Sales Analytics",
+        "Sales Process"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "pete-kazanjy_t10",
+      "title": "Do PLG companies still need sales?",
+      "summary": "Pete argues most B2B companies eventually need sales (timing varies): PLG can drive adoption but enterprise expansion requires humans; warns not to confuse lead gen with the business and cites Dropbox/Slack-style lessons.",
+      "timestamp_start": "00:23:42",
+      "timestamp_end": "00:28:28",
+      "speakers": [
+        "Lenny",
+        "Pete Kazanjy"
+      ],
+      "themes": [
+        "Product-Led Growth",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "pete-kazanjy_t11",
+      "title": "How to get better at sales: mindset and practice",
+      "summary": "Sales requires a major mindset shift (high context switching, many new interactions, CRM discipline). Pete recommends practicing \u201cturbo rapport,\u201d asking better questions, and repeatedly rehearsing uncomfortable behaviors.",
+      "timestamp_start": "00:28:28",
+      "timestamp_end": "00:32:31",
+      "speakers": [
+        "Lenny",
+        "Pete Kazanjy"
+      ],
+      "themes": [
+        "Sales Skills",
+        "Sales Mindset"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "pete-kazanjy_t12",
+      "title": "Sponsor Break",
+      "summary": "Merge sponsor segment: Unified API to ship and maintain many third-party integrations faster, reducing engineering burden and accelerating sales cycles.",
+      "timestamp_start": "00:32:31",
+      "timestamp_end": "00:33:31",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsorship"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "pete-kazanjy_t13",
+      "title": "Reframing sales as helping, not persuading",
+      "summary": "Pete contrasts sleazy stereotypes with modern consultative selling: qualify for fit, use discovery to surface pain, and guide prospects to a better solution\u2014sometimes by not selling when it\u2019s wrong for them.",
+      "timestamp_start": "00:33:31",
+      "timestamp_end": "00:36:01",
+      "speakers": [
+        "Lenny",
+        "Pete Kazanjy"
+      ],
+      "themes": [
+        "Sales Mindset",
+        "Sales Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "pete-kazanjy_t14",
+      "title": "Practical next steps: rapport and ICP focus",
+      "summary": "Actionable advice: practice starting conversations with strangers to build rapport skills, and tighten your Ideal Customer Profile to avoid wasted cycles and concentrate learning on best-fit prospects.",
+      "timestamp_start": "00:36:01",
+      "timestamp_end": "00:39:15",
+      "speakers": [
+        "Lenny",
+        "Pete Kazanjy"
+      ],
+      "themes": [
+        "Sales Skills",
+        "ICP & Targeting"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "pete-kazanjy_t15",
+      "title": "Hiring early sales: avoid VP first, hire pioneers",
+      "summary": "Pete recommends hiring 2\u20133 gritty early-stage AEs before a VP of Sales; look for reps from similar motions/price points who can operate without polished enablement, then later hire a leader once reps are succeeding.",
+      "timestamp_start": "00:39:15",
+      "timestamp_end": "00:45:40",
+      "speakers": [
+        "Lenny",
+        "Pete Kazanjy"
+      ],
+      "themes": [
+        "Sales Hiring",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "pete-kazanjy_t16",
+      "title": "Evaluating early sales hires and ramp time",
+      "summary": "Signs it\u2019s not working: poor activity, weak win rates, and lack of progression to next steps\u2014assuming the founder has provided core enablement (deck, discovery questions, demo script). They begin discussing ramp time and the importance of leading indicators.",
+      "timestamp_start": "00:45:40",
+      "timestamp_end": "00:47:42",
+      "speakers": [
+        "Lenny",
+        "Pete Kazanjy"
+      ],
+      "themes": [
+        "Sales Hiring",
+        "Sales Analytics"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

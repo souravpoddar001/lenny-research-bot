@@ -1,0 +1,254 @@
+{
+  "episode_id": "grant-lee",
+  "topics": [
+    {
+      "topic_id": "grant-lee_t1",
+      "title": "Introduction and Background",
+      "summary": "Cold open highlights Gamma\u2019s improbable rise (\"worst idea\" investor reaction) and tees up key topics: influencer marketing, rapid experimentation, and profitable hypergrowth to $100M+ ARR.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:56",
+      "speakers": [
+        "Grant Lee",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Company Building",
+        "Growth",
+        "Product-Market Fit"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "grant-lee_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Vanta (SOC 2/compliance automation) and Justworks (payroll/benefits/international hiring support).",
+      "timestamp_start": "00:03:29",
+      "timestamp_end": "00:05:19",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "grant-lee_t3",
+      "title": "JPMorgan ads and setting the episode agenda",
+      "summary": "Light banter about Grant appearing in JPMorgan Chase ads, then Lenny frames the episode as an \u201canthropological study\u201d of Gamma\u2019s profitable AI growth and underdog category choice.",
+      "timestamp_start": "00:05:19",
+      "timestamp_end": "00:06:57",
+      "speakers": [
+        "Grant Lee",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Company Building",
+        "Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "grant-lee_t4",
+      "title": "Founding story and investor rejection lesson",
+      "summary": "Grant recounts pandemic-era Zoom fundraising and a brutal investor dismissal; it crystallizes a commitment to bake growth thinking in from day one despite lacking a growth background.",
+      "timestamp_start": "00:06:57",
+      "timestamp_end": "00:09:19",
+      "speakers": [
+        "Grant Lee",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Fundraising",
+        "Growth",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "grant-lee_t5",
+      "title": "Defining product-market fit through organic pull",
+      "summary": "Grant explains how a strong Product Hunt launch still lacked sustained word-of-mouth, prompting a \u201cbet the company\u201d onboarding rebuild; the relaunch triggered explosive organic signups without paid marketing.",
+      "timestamp_start": "00:09:53",
+      "timestamp_end": "00:13:11",
+      "speakers": [
+        "Grant Lee",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product-Market Fit",
+        "Growth",
+        "Product"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "grant-lee_t6",
+      "title": "Word-of-mouth machine and shareability loops",
+      "summary": "They unpack PMF signals: referral-driven leads and colleague sharing even in B2B; Gamma benefits from inherent sharing (presentations) but also focused on removing friction to create-and-share quickly.",
+      "timestamp_start": "00:13:11",
+      "timestamp_end": "00:15:43",
+      "speakers": [
+        "Grant Lee",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Growth",
+        "Product-Market Fit",
+        "Product"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "grant-lee_t7",
+      "title": "Avoiding vanity metrics and the Product Hunt trap",
+      "summary": "Winning Product Hunt accolades felt good but didn\u2019t translate into compounding momentum; Grant emphasizes being brutally honest about whether metrics reflect a real growth engine versus temporary spikes.",
+      "timestamp_start": "00:15:43",
+      "timestamp_end": "00:17:17",
+      "speakers": [
+        "Grant Lee",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product-Market Fit",
+        "Metrics",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "grant-lee_t8",
+      "title": "Onboarding magic: first 30 seconds and one egg",
+      "summary": "Grant details why the first 30 seconds matter (earning attention in increments), likening onboarding to a restaurant experience; he advocates focusing on one core value prop (\u201cone egg\u201d) rather than many features.",
+      "timestamp_start": "00:17:17",
+      "timestamp_end": "00:20:41",
+      "speakers": [
+        "Grant Lee",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product",
+        "User Experience",
+        "Product-Market Fit"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "grant-lee_t9",
+      "title": "Original insight: reimagining slides and AI timing",
+      "summary": "Gamma began from frustration with spending hours formatting decks instead of crafting content; AI wasn\u2019t the initial plan but became a perfect accelerant to deliver effortless creation aligned with the vision.",
+      "timestamp_start": "00:20:41",
+      "timestamp_end": "00:22:43",
+      "speakers": [
+        "Grant Lee",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product",
+        "Company Building",
+        "AI"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "grant-lee_t10",
+      "title": "Early user acquisition: friends, Product Hunt, and reality",
+      "summary": "Grant contrasts early \u201cfriends as users\u201d (often polite but not retained) with post-launch traction; after the improved onboarding/AI experience, user growth jumped from hundreds to tens of thousands quickly.",
+      "timestamp_start": "00:22:43",
+      "timestamp_end": "00:24:02",
+      "speakers": [
+        "Grant Lee",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Growth",
+        "Product-Market Fit"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "grant-lee_t11",
+      "title": "Provocative launch tweet and Paul Graham boost",
+      "summary": "Instead of Product Hunt for the AI relaunch, Gamma used a deliberately spicy tweet to drive engagement; Paul Graham\u2019s comment amplified reach, teaching Grant founder-led marketing and narrative control.",
+      "timestamp_start": "00:24:02",
+      "timestamp_end": "00:26:56",
+      "speakers": [
+        "Grant Lee",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Growth",
+        "Marketing",
+        "Founder-Led Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "grant-lee_t12",
+      "title": "Founder-led marketing: craft, practice, and platform fit",
+      "summary": "Grant argues founders should build marketing muscles like copywriting and storytelling to set a high bar for marketers/influencers; he shares a workflow (idea log, weekly blocks, stress-testing) and tailoring content by platform.",
+      "timestamp_start": "00:26:56",
+      "timestamp_end": "00:35:01",
+      "speakers": [
+        "Grant Lee",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Marketing",
+        "Founder-Led Growth",
+        "Content"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "grant-lee_t13",
+      "title": "Creating goodwill through value-first content",
+      "summary": "They discuss overcoming cringe by focusing on usefulness; Grant frames content as exchanging value for goodwill that later helps amplify product announcements, and shares his morning/night routine for writing.",
+      "timestamp_start": "00:35:01",
+      "timestamp_end": "00:38:07",
+      "speakers": [
+        "Grant Lee",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Marketing",
+        "Founder-Led Growth",
+        "Content"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "grant-lee_t14",
+      "title": "Scaling past $10M ARR: rebrand as growth unlock",
+      "summary": "Around ~$10M ARR, Gamma invested in a deeper, scalable brand DNA (art direction, voice/tone) to support high-volume creative production across social, ads, and influencer assets\u2014costly but ultimately worth it.",
+      "timestamp_start": "00:38:07",
+      "timestamp_end": "00:41:19",
+      "speakers": [
+        "Grant Lee",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Brand",
+        "Growth",
+        "Marketing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "grant-lee_t15",
+      "title": "Transition to influencer marketing deep dive",
+      "summary": "Lenny flags influencer marketing as a key early growth lever and asks for tactical details; Grant begins by challenging the assumption that influencer marketing is turnkey.",
+      "timestamp_start": "00:41:19",
+      "timestamp_end": "00:41:44",
+      "speakers": [
+        "Grant Lee",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Growth",
+        "Marketing"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

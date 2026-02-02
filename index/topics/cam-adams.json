@@ -1,0 +1,237 @@
+{
+  "episode_id": "cam-adams",
+  "topics": [
+    {
+      "topic_id": "cam-adams_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Canva\u2019s scale and growth, and Cam reflects on moments that make the success feel real (team gatherings, 10th birthday). Cam also shares his mindset of continual learning despite major achievements.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:04:50",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Cameron Adams"
+      ],
+      "themes": [
+        "Company Building",
+        "Leadership",
+        "Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "cam-adams_t2",
+      "title": "Fundraising scare and commitment to profitability",
+      "summary": "Cam recounts a near-collapse of a funding round when a lead investor tried to cut valuation by 50% days before signing. The experience reinforced Canva\u2019s focus on profitability to avoid dependency on external capital.",
+      "timestamp_start": "00:04:50",
+      "timestamp_end": "00:07:49",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Cameron Adams"
+      ],
+      "themes": [
+        "Fundraising",
+        "Company Building",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "cam-adams_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for WorkOS and Attio.",
+      "timestamp_start": "00:07:49",
+      "timestamp_end": "00:10:01",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "cam-adams_t4",
+      "title": "Product obsession and board meeting focus",
+      "summary": "They discuss Canva\u2019s product-led approach, including board meetings that emphasize product updates over financials. Cam explains how investor alignment and strong performance enable this product-first cadence.",
+      "timestamp_start": "00:10:01",
+      "timestamp_end": "00:12:02",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Cameron Adams"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Leadership",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "cam-adams_t5",
+      "title": "Homegrown leadership and culture fit",
+      "summary": "Cam explains why Canva prioritized internal promotions and careful external hiring to preserve culture and execution speed. He shares why some outside leaders fail: misalignment with Canva\u2019s ways of working and communication norms.",
+      "timestamp_start": "00:12:02",
+      "timestamp_end": "00:16:31",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Cameron Adams"
+      ],
+      "themes": [
+        "Hiring",
+        "Culture",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "cam-adams_t6",
+      "title": "Giving away your Legos to scale",
+      "summary": "Cam unpacks the \u201cgive away your Lego\u201d concept: letting go of tasks you love to increase impact through systems and team-building. He gives a concrete example (email copywriting scaling to global complexity) and how Canva reinforces this behavior.",
+      "timestamp_start": "00:16:31",
+      "timestamp_end": "00:21:44",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Cameron Adams"
+      ],
+      "themes": [
+        "Culture",
+        "Leadership",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "cam-adams_t7",
+      "title": "Coaching model instead of traditional managers",
+      "summary": "Canva\u2019s structure centers on specialty-based coaches rather than classic managers. Cam describes how coaches support skill growth, career progression, and performance cycles, including a large internal coach network.",
+      "timestamp_start": "00:21:44",
+      "timestamp_end": "00:24:29",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Cameron Adams"
+      ],
+      "themes": [
+        "Leadership",
+        "Culture",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "cam-adams_t8",
+      "title": "How Canva defines product management",
+      "summary": "Cam contrasts Google-style PM with Canva\u2019s experience- and vision-driven approach. He frames PMs as \u201cconnectives\u201d who align teams, constraints, data, and vision, and shares why Canva resisted the PM title early on.",
+      "timestamp_start": "00:24:29",
+      "timestamp_end": "00:27:56",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Cameron Adams"
+      ],
+      "themes": [
+        "Product Management",
+        "Product Strategy",
+        "Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "cam-adams_t9",
+      "title": "Co-founding dynamics with a married couple",
+      "summary": "Cam discusses the challenges and benefits of working with co-founders who are partners (Mel and Cliff), including rapid alignment outside work and the need for transparency to avoid information gaps.",
+      "timestamp_start": "00:27:56",
+      "timestamp_end": "00:29:44",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Cameron Adams"
+      ],
+      "themes": [
+        "Leadership",
+        "Company Building",
+        "Culture"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "cam-adams_t10",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Vanta.",
+      "timestamp_start": "00:29:44",
+      "timestamp_end": "00:30:37",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "cam-adams_t11",
+      "title": "MVP timing: why Canva waited a year",
+      "summary": "Cam explains why Canva didn\u2019t rush an early MVP despite Lean Startup pressure: the product\u2019s core is a joyful experience that fuels word-of-mouth. He emphasizes deep domain knowledge, extensive user testing, and launching when delight outweighs rough edges.",
+      "timestamp_start": "00:30:37",
+      "timestamp_end": "00:36:41",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Cameron Adams"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Startups",
+        "User Research"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "cam-adams_t12",
+      "title": "Finding the first ICP: social media managers",
+      "summary": "They cover how Canva identified social media managers as the earliest high-excitement segment through testing, then focused the initial product scope accordingly. Cam explains how onboarding clarified Canva\u2019s value and unlocked user productivity.",
+      "timestamp_start": "00:36:41",
+      "timestamp_end": "00:41:23",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Cameron Adams"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Product Strategy",
+        "User Research"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "cam-adams_t13",
+      "title": "Onboarding lessons: defeating the blank page",
+      "summary": "Cam shares Canva\u2019s early onboarding breakthrough: guiding users through tiny, low-effort steps (e.g., \u201csearch for a monkey\u201d) to quickly create something surprising and confidence-building. They connect onboarding quality to activation and retention, and mention \u201clearn and play\u201d for new feature adoption.",
+      "timestamp_start": "00:41:23",
+      "timestamp_end": "00:44:05",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Cameron Adams"
+      ],
+      "themes": [
+        "Onboarding",
+        "Product Strategy",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "cam-adams_t14",
+      "title": "SEO template growth engine and end-to-end flow",
+      "summary": "Cam describes how Andre operationalized SEO by mapping jobs-to-be-done to search intent, landing pages, templates, and a delightful in-product completion moment. The key insight: SEO only works at scale when the product experience fulfills the promise.",
+      "timestamp_start": "00:44:05",
+      "timestamp_end": "00:48:05",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Cameron Adams"
+      ],
+      "themes": [
+        "Growth",
+        "SEO",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "episode_id": "brian-chesky",
+  "topics": [
+    {
+      "topic_id": "brian-chesky_t1",
+      "title": "Founder leadership: clarity and being in details",
+      "summary": "Brian argues founders shouldn\u2019t apologize for their leadership style and explains the difference between micromanaging and being deeply in the details to ensure quality and alignment.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:01",
+      "speakers": [
+        "Brian Chesky"
+      ],
+      "themes": [
+        "Leadership",
+        "Product Management",
+        "Company Building"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "brian-chesky_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Brian, Airbnb\u2019s scale, and tees up the episode\u2019s focus: Airbnb\u2019s product org changes, a new operating model, and Brian\u2019s leadership approach.",
+      "timestamp_start": "00:01:01",
+      "timestamp_end": "00:02:17",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Leadership",
+        "Product Management",
+        "Company Building"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "brian-chesky_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Sidebar and Jira Product Discovery.",
+      "timestamp_start": "00:02:17",
+      "timestamp_end": "00:05:00",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "brian-chesky_t4",
+      "title": "Airbnb product management changes explained",
+      "summary": "Brian clarifies he didn\u2019t eliminate PMs, but redefined the function: combining inbound PM with product marketing, moving program work to program managers, and making the remaining group smaller and more senior.",
+      "timestamp_start": "00:05:00",
+      "timestamp_end": "00:08:31",
+      "speakers": [
+        "Lenny",
+        "Brian Chesky"
+      ],
+      "themes": [
+        "Product Management",
+        "Company Building",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "brian-chesky_t5",
+      "title": "Why designers cheered: bureaucracy and silos",
+      "summary": "Brian diagnoses why designers felt relief: design treated as a service, teams fragmenting into divisions, dependencies creating politics and bureaucracy, and marketing/engineering drifting apart.",
+      "timestamp_start": "00:08:31",
+      "timestamp_end": "00:15:24",
+      "speakers": [
+        "Brian Chesky",
+        "Lenny"
+      ],
+      "themes": [
+        "Company Building",
+        "Product Management",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "brian-chesky_t6",
+      "title": "Delegation arc and the limits of optimization",
+      "summary": "Brian describes the common founder journey from hands-on to delegated bureaucracy, including how excessive A/B testing and local optimization can stall cohesive product progress.",
+      "timestamp_start": "00:15:24",
+      "timestamp_end": "00:21:03",
+      "speakers": [
+        "Lenny",
+        "Brian Chesky"
+      ],
+      "themes": [
+        "Leadership",
+        "Product Management",
+        "Experimentation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "brian-chesky_t7",
+      "title": "Apple influence and Airbnb\u2019s pre-pandemic divisions",
+      "summary": "He explains how conversations with Hiroki Asai and Jony Ive shaped a new model, contrasting Apple\u2019s functional integration with Airbnb\u2019s many divisions (homes, flights, lux, China, etc.).",
+      "timestamp_start": "00:21:03",
+      "timestamp_end": "00:24:20",
+      "speakers": [
+        "Brian Chesky"
+      ],
+      "themes": [
+        "Company Building",
+        "Leadership",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "brian-chesky_t8",
+      "title": "Pandemic reset: functional org and CEO review cadence",
+      "summary": "After losing 80% of business, Airbnb simplified priorities, removed layers, shifted to a functional structure, created a rolling two-year roadmap, instituted frequent CEO reviews, and elevated program management and in-house creative.",
+      "timestamp_start": "00:24:20",
+      "timestamp_end": "00:32:57",
+      "speakers": [
+        "Brian Chesky",
+        "Lenny"
+      ],
+      "themes": [
+        "Company Building",
+        "Leadership",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "brian-chesky_t9",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Eppo (experimentation and feature management platform).",
+      "timestamp_start": "00:32:57",
+      "timestamp_end": "00:34:15",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "brian-chesky_t10",
+      "title": "Product-led growth philosophy and founder checklist",
+      "summary": "Lenny probes whether Airbnb\u2019s approach generalizes; Brian shares principles: CEO as CPO, functional alignment, expert leaders (no pure people managers), launches, story-driven roadmaps, and tighter marketing\u2013engineering integration.",
+      "timestamp_start": "00:34:15",
+      "timestamp_end": "00:38:48",
+      "speakers": [
+        "Lenny",
+        "Brian Chesky"
+      ],
+      "themes": [
+        "Growth",
+        "Leadership",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "brian-chesky_t11",
+      "title": "Winter release: reliability via Guest Favorites",
+      "summary": "Brian explains Airbnb\u2019s reliability challenge versus hotels and introduces Guest Favorites\u2014top ~2M homes selected using reviews, support signals, and cancellations\u2014plus upgrades to ratings and reviews.",
+      "timestamp_start": "00:38:48",
+      "timestamp_end": "00:41:47",
+      "speakers": [
+        "Lenny",
+        "Brian Chesky"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Customer Experience",
+        "Marketplace"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "brian-chesky_t12",
+      "title": "Host listing overhaul and new design direction",
+      "summary": "They discuss the redesigned host/listing tab, why guest/host split teams were removed, a new more dimensional visual aesthetic, and an AI-powered photo tour that organizes photos by room.",
+      "timestamp_start": "00:41:47",
+      "timestamp_end": "00:46:00",
+      "speakers": [
+        "Brian Chesky",
+        "Lenny"
+      ],
+      "themes": [
+        "Design",
+        "AI",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

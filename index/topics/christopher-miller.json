@@ -1,0 +1,231 @@
+{
+  "episode_id": "christopher-miller",
+  "topics": [
+    {
+      "topic_id": "christopher-miller_t1",
+      "title": "Radical accountability and early growth mindset",
+      "summary": "Chris describes HubSpot\u2019s tiny early growth team taking ownership of neglected self-serve revenue, \u201cblowing it up,\u201d and using radical accountability to find and solve problems the business wasn\u2019t explicitly asking for.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:48",
+      "speakers": [
+        "Chris Miller"
+      ],
+      "themes": [
+        "Growth Strategy",
+        "Product Leadership",
+        "Company Culture"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "christopher-miller_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the show and Chris Miller, outlining Chris\u2019s path from early growth work at HubSpot to leading Growth and AI, plus what the conversation will cover.",
+      "timestamp_start": "00:00:48",
+      "timestamp_end": "00:01:54",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career Development",
+        "Product Leadership"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "christopher-miller_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Vanta (security compliance automation) and Sidebar (peer groups/personal board of directors).",
+      "timestamp_start": "00:01:54",
+      "timestamp_end": "00:04:19",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Message"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "christopher-miller_t4",
+      "title": "VP of Product for Growth and AI",
+      "summary": "Chris explains his role spanning PLG and AI: building foundational AI tech and turning it into AI-powered experiences that help SMBs succeed on HubSpot.",
+      "timestamp_start": "00:04:24",
+      "timestamp_end": "00:05:33",
+      "speakers": [
+        "Lenny",
+        "Chris Miller"
+      ],
+      "themes": [
+        "AI Product Strategy",
+        "Growth Strategy",
+        "Product Leadership"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "christopher-miller_t5",
+      "title": "How Chris earned broader leadership scope",
+      "summary": "Chris attributes his trajectory to timing (post-free CRM launch), a growth-PM lens, pushing into strategic conversations, and building context through cross-functional curiosity and in-person serendipity.",
+      "timestamp_start": "00:05:33",
+      "timestamp_end": "00:09:17",
+      "speakers": [
+        "Lenny",
+        "Chris Miller"
+      ],
+      "themes": [
+        "Career Development",
+        "Product Leadership",
+        "Company Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christopher-miller_t6",
+      "title": "Taking risks: the Guinness pricing pitch",
+      "summary": "Chris shares a story of crashing a Guinness event, pitching a contrarian pricing/packaging idea to the COO, and earning an invite to present to executives\u2014opening doors for future influence.",
+      "timestamp_start": "00:09:17",
+      "timestamp_end": "00:12:42",
+      "speakers": [
+        "Lenny",
+        "Chris Miller"
+      ],
+      "themes": [
+        "Product Leadership",
+        "Growth Strategy",
+        "Career Development"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "christopher-miller_t7",
+      "title": "Traits of great growth PMs",
+      "summary": "Chris lists what he hires for: relentless curiosity, resilience (given high experiment failure rates), coachability, and creativity/comfort with simple solutions over complex ones.",
+      "timestamp_start": "00:12:42",
+      "timestamp_end": "00:16:53",
+      "speakers": [
+        "Lenny",
+        "Chris Miller"
+      ],
+      "themes": [
+        "Hiring",
+        "Growth Strategy",
+        "Product Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christopher-miller_t8",
+      "title": "Breaking into product management",
+      "summary": "Chris recounts Googling \u201cproduct management\u201d and asking to do it, then advises aspiring PMs to choose environments with strong structure, seek hands-on exposure, and volunteer to help PMs to earn sponsorship.",
+      "timestamp_start": "00:16:53",
+      "timestamp_end": "00:22:27",
+      "speakers": [
+        "Lenny",
+        "Chris Miller"
+      ],
+      "themes": [
+        "Career Development",
+        "Product Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christopher-miller_t9",
+      "title": "Learning PM craft: customers, data, and rigor",
+      "summary": "Chris contrasts a B2B2C role with limited end-user access versus a freemium B2C app where direct user research and large-scale data enabled hypothesis-driven decisions and accelerated his PM growth.",
+      "timestamp_start": "00:22:27",
+      "timestamp_end": "00:30:15",
+      "speakers": [
+        "Lenny",
+        "Chris Miller"
+      ],
+      "themes": [
+        "Product Discovery",
+        "Data-Driven Product",
+        "Career Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christopher-miller_t10",
+      "title": "Mentors vs sponsors and seeking hard feedback",
+      "summary": "Chris distinguishes mentors from sponsors/advocates who spend political capital, and shares how coachability, ego-free learning, and embracing tough feedback help attract people willing to invest in you.",
+      "timestamp_start": "00:30:15",
+      "timestamp_end": "00:34:00",
+      "speakers": [
+        "Lenny",
+        "Chris Miller"
+      ],
+      "themes": [
+        "Career Development",
+        "Product Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christopher-miller_t11",
+      "title": "What makes HubSpot special: customers and market focus",
+      "summary": "Chris highlights true customer obsession, long-term decision-making, and HubSpot\u2019s choice to stay focused on SMB/mid-market\u2014avoiding enterprise hostage dynamics and prioritizing broad customer benefit.",
+      "timestamp_start": "00:34:00",
+      "timestamp_end": "00:42:10",
+      "speakers": [
+        "Lenny",
+        "Chris Miller"
+      ],
+      "themes": [
+        "Company Culture",
+        "Growth Strategy",
+        "Product Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christopher-miller_t12",
+      "title": "Culture code and evolving rituals",
+      "summary": "Chris explains HubSpot\u2019s public culture code, the need to re-evaluate legacy in-jokes for inclusivity, and describes PEER Week as a key ritual for connection and in-person collaboration.",
+      "timestamp_start": "00:42:10",
+      "timestamp_end": "00:44:07",
+      "speakers": [
+        "Lenny",
+        "Chris Miller"
+      ],
+      "themes": [
+        "Company Culture",
+        "Product Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "christopher-miller_t13",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Merge (Unified API for integrations across HR, accounting, ATS, ticketing, CRM, etc.).",
+      "timestamp_start": "00:44:07",
+      "timestamp_end": "00:45:10",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Message"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "christopher-miller_t14",
+      "title": "Transition to HubSpot growth history and PLG roots",
+      "summary": "Lenny pivots to how HubSpot grew; Chris begins by pointing to early freemium years and credits Brian Balfour for injecting early PLG DNA into HubSpot.",
+      "timestamp_start": "00:45:10",
+      "timestamp_end": "00:48:03",
+      "speakers": [
+        "Lenny",
+        "Chris Miller"
+      ],
+      "themes": [
+        "Growth Strategy",
+        "Product-Led Growth",
+        "Company History"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

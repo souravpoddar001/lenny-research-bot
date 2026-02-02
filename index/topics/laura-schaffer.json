@@ -1,0 +1,217 @@
+{
+  "episode_id": "laura-schaffer",
+  "topics": [
+    {
+      "topic_id": "laura-schaffer_t1",
+      "title": "Cold open: surprising signup experiment lift",
+      "summary": "Laura recounts an A/B test where adding questions to the signup flow unexpectedly increased conversion by ~5%, setting up the episode\u2019s experimentation theme.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:50",
+      "speakers": [
+        "Laura Schaffer"
+      ],
+      "themes": [
+        "Experimentation"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "laura-schaffer_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Laura (new Head of Growth at Amplitude; previously Twilio, Rapid) and previews topics: career frameworks, experimentation, growth strategy, and selling to developers.",
+      "timestamp_start": "00:00:50",
+      "timestamp_end": "00:01:55",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "laura-schaffer_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Public.com treasury accounts and Eppo A/B testing platform.",
+      "timestamp_start": "00:01:55",
+      "timestamp_end": "00:04:15",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Other"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "laura-schaffer_t4",
+      "title": "Laura joins: new role and Twilio tenure",
+      "summary": "They banter about Elena Verna\u2019s referral, Laura\u2019s first days at Amplitude, and her early-employee rank at Twilio.",
+      "timestamp_start": "00:04:15",
+      "timestamp_end": "00:05:51",
+      "speakers": [
+        "Lenny",
+        "Laura Schaffer"
+      ],
+      "themes": [
+        "Career Growth"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "laura-schaffer_t5",
+      "title": "Career growth: limits of the traditional path",
+      "summary": "Laura explains why relying solely on excelling in-role and manager advocacy can be limiting, and introduces her approach: create leverage by bringing customer insights to leadership.",
+      "timestamp_start": "00:05:51",
+      "timestamp_end": "00:10:18",
+      "speakers": [
+        "Laura Schaffer",
+        "Lenny"
+      ],
+      "themes": [
+        "Career Growth",
+        "Customer Insights"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "laura-schaffer_t6",
+      "title": "Build internal brand through customer understanding",
+      "summary": "They discuss how consistently sharing customer learnings builds reputation and visibility, even if ideas aren\u2019t always adopted immediately.",
+      "timestamp_start": "00:10:18",
+      "timestamp_end": "00:12:05",
+      "speakers": [
+        "Lenny",
+        "Laura Schaffer"
+      ],
+      "themes": [
+        "Career Growth",
+        "Customer Insights"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "laura-schaffer_t7",
+      "title": "Twilio example: voice-of-customer to create growth team",
+      "summary": "Laura describes starting a voice-of-customer digest, earning executive attention (including the CEO), and using that credibility plus allies to pitch and form Twilio\u2019s growth team.",
+      "timestamp_start": "00:12:05",
+      "timestamp_end": "00:16:14",
+      "speakers": [
+        "Laura Schaffer",
+        "Lenny"
+      ],
+      "themes": [
+        "Career Growth",
+        "Customer Insights"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "laura-schaffer_t8",
+      "title": "More career tactics: ungate knowledge and be an SME",
+      "summary": "Laura advises proactively sharing what you know (customer insights or other strengths) to become a go-to subject matter expert and create cross-team opportunities.",
+      "timestamp_start": "00:16:14",
+      "timestamp_end": "00:20:21",
+      "speakers": [
+        "Lenny",
+        "Laura Schaffer"
+      ],
+      "themes": [
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "laura-schaffer_t9",
+      "title": "Experimentation story: signup questions increased conversion",
+      "summary": "Laura details Twilio\u2019s contentious decision to add several signup questions and how it boosted conversion by reducing user anxiety and confirming fit\u2014illustrating \u201cgood friction.\u201d",
+      "timestamp_start": "00:20:21",
+      "timestamp_end": "00:29:37",
+      "speakers": [
+        "Laura Schaffer",
+        "Lenny"
+      ],
+      "themes": [
+        "Experimentation",
+        "Onboarding"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "laura-schaffer_t10",
+      "title": "Onboarding psychology: hide scary steps like telecom",
+      "summary": "A later onboarding experiment showed developers were intimidated by phone-number/telecom steps; moving code-first and embedding the telecom step later improved outcomes (\u201cpill in a hotdog\u201d).",
+      "timestamp_start": "00:29:37",
+      "timestamp_end": "00:33:59",
+      "speakers": [
+        "Laura Schaffer",
+        "Lenny"
+      ],
+      "themes": [
+        "Onboarding",
+        "Experimentation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "laura-schaffer_t11",
+      "title": "Iterate vs redesign: why big rewrites often fail",
+      "summary": "They discuss why iterative experimentation beats full redesigns, citing high hypothesis failure rates (often 80\u201390%) and the value of learning quickly from small tests.",
+      "timestamp_start": "00:33:59",
+      "timestamp_end": "00:38:39",
+      "speakers": [
+        "Laura Schaffer",
+        "Lenny"
+      ],
+      "themes": [
+        "Experimentation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "laura-schaffer_t12",
+      "title": "Fail faster: cheaper validation than A/B tests",
+      "summary": "Laura argues A/B tests are expensive and recommends faster pre-validation methods like painted-door tests and mocks to filter ideas before engineering-heavy experiments.",
+      "timestamp_start": "00:38:39",
+      "timestamp_end": "00:40:59",
+      "speakers": [
+        "Laura Schaffer",
+        "Lenny"
+      ],
+      "themes": [
+        "Experimentation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "laura-schaffer_t13",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Writer, an enterprise generative AI platform for on-brand content creation.",
+      "timestamp_start": "00:40:59",
+      "timestamp_end": "00:41:59",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Other"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "laura-schaffer_t14",
+      "title": "Data vs gut: confidence thresholds in experiments",
+      "summary": "Laura explains being data-driven while using qualitative signals, challenges strict 95% confidence for many product experiments, and stresses pre-committing to decision rules and validation plans.",
+      "timestamp_start": "00:41:59",
+      "timestamp_end": "00:46:03",
+      "speakers": [
+        "Lenny",
+        "Laura Schaffer"
+      ],
+      "themes": [
+        "Experimentation",
+        "Metrics & Analytics"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "episode_id": "jess-lachs",
+  "topics": [
+    {
+      "topic_id": "jess-lachs_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Jess Lachs, her DoorDash history, and frames the episode focus: building/scaling a high-impact data org in a complex marketplace business.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:42",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Lachs"
+      ],
+      "themes": [
+        "Career",
+        "Data teams",
+        "Leadership"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "jess-lachs_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Webflow and Anvil.",
+      "timestamp_start": "00:02:42",
+      "timestamp_end": "00:04:46",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jess-lachs_t3",
+      "title": "Analytics as a business-driving seat at table",
+      "summary": "Jess explains her philosophy that analytics should drive business impact (answering \u201cso what / what now\u201d), not operate as a ticket-taking dashboard service.",
+      "timestamp_start": "00:04:59",
+      "timestamp_end": "00:06:36",
+      "speakers": [
+        "Jessica Lachs",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Data teams",
+        "Strategy",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jess-lachs_t4",
+      "title": "Centralized vs embedded data org model",
+      "summary": "Jess defines central vs embedded reporting lines, argues for a centralized center-of-excellence model, and describes how DoorDash uses pods aligned to partner orgs while keeping central reporting.",
+      "timestamp_start": "00:06:36",
+      "timestamp_end": "00:11:05",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Lachs"
+      ],
+      "themes": [
+        "Org design",
+        "Data teams",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jess-lachs_t5",
+      "title": "Benefits of centralization: talent, growth, consistency",
+      "summary": "Jess outlines key advantages: consistent hiring bar, better career mobility/retention, shared methodologies/metrics, less duplicated work, and stronger team culture/brand.",
+      "timestamp_start": "00:11:05",
+      "timestamp_end": "00:15:11",
+      "speakers": [
+        "Jessica Lachs",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Org design",
+        "Hiring",
+        "Data teams"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jess-lachs_t6",
+      "title": "Balancing reactive requests with proactive deep dives",
+      "summary": "They discuss how to protect time for exploratory work despite constant inbound asks, including intentional goal-setting and running analytics hackathons.",
+      "timestamp_start": "00:15:11",
+      "timestamp_end": "00:17:23",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Lachs"
+      ],
+      "themes": [
+        "Execution",
+        "Data teams",
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jess-lachs_t7",
+      "title": "Hackathon case study: referral fraud discovery",
+      "summary": "Jess shares a hackathon deep dive into referrals that uncovered a bimodal distribution driven by fraud; the work led to recommendations like fraud checks and referral caps.",
+      "timestamp_start": "00:17:23",
+      "timestamp_end": "00:20:21",
+      "speakers": [
+        "Jessica Lachs",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Analytics",
+        "Growth",
+        "Execution"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jess-lachs_t8",
+      "title": "How data teams push back: trade-offs and prioritization",
+      "summary": "Jess explains a practical approach to saying no: align on shared goals, make trade-offs explicit, and regularly re-prioritize with partners\u2014while occasionally doing quick asks to build goodwill.",
+      "timestamp_start": "00:20:21",
+      "timestamp_end": "00:24:18",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Lachs"
+      ],
+      "themes": [
+        "Execution",
+        "Collaboration",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jess-lachs_t9",
+      "title": "Hiring for curiosity and real-world problem solving",
+      "summary": "Jess describes what she looks for beyond technical skills\u2014especially curiosity\u2014and how DoorDash interviews use coding plus real DoorDash case problems to test ambiguity handling and adaptability.",
+      "timestamp_start": "00:24:19",
+      "timestamp_end": "00:28:57",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Lachs"
+      ],
+      "themes": [
+        "Hiring",
+        "Data teams",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jess-lachs_t10",
+      "title": "Non-traditional path into data leadership",
+      "summary": "Jess recounts becoming a data scientist out of necessity at DoorDash, self-teaching SQL/Python, and leveraging a pragmatic business-impact lens while hiring deep technical experts.",
+      "timestamp_start": "00:28:57",
+      "timestamp_end": "00:31:21",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Lachs"
+      ],
+      "themes": [
+        "Career",
+        "Leadership",
+        "Data teams"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jess-lachs_t11",
+      "title": "Habits behind success: first principles and competitiveness",
+      "summary": "Jess attributes her growth to solving the problem in front of her, unblocking herself, and a competitive \u201cdo what it takes\u201d mindset rooted in DoorDash\u2019s early culture.",
+      "timestamp_start": "00:31:21",
+      "timestamp_end": "00:34:40",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Lachs"
+      ],
+      "themes": [
+        "Career",
+        "Mindset",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jess-lachs_t12",
+      "title": "Early DoorDash stories and customer-first culture",
+      "summary": "Jess shares stories from launching Boston (handing out promo codes at 5am) and a major outage where everyone did support; emphasizes extreme ownership and doing right by customers.",
+      "timestamp_start": "00:34:40",
+      "timestamp_end": "00:38:20",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Lachs"
+      ],
+      "themes": [
+        "Culture",
+        "Startups",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jess-lachs_t13",
+      "title": "WeDash program and building empathy across marketplace",
+      "summary": "Jess explains DoorDash\u2019s WeDash program where employees dash or do support quarterly to build empathy, uncover product issues, and stay close to merchants/dashers/consumers.",
+      "timestamp_start": "00:38:20",
+      "timestamp_end": "00:39:43",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Lachs"
+      ],
+      "themes": [
+        "Culture",
+        "Customer focus",
+        "Execution"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jess-lachs_t14",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Attio CRM.",
+      "timestamp_start": "00:39:43",
+      "timestamp_end": "00:40:39",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jess-lachs_t15",
+      "title": "Instilling extreme ownership in data teams",
+      "summary": "They discuss how extreme ownership is cultural and expected: data scientists go beyond role boundaries (e.g., calling customers) to unblock decisions; this also enables cross-functional career moves.",
+      "timestamp_start": "00:40:39",
+      "timestamp_end": "00:44:17",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Lachs"
+      ],
+      "themes": [
+        "Culture",
+        "Leadership",
+        "Data teams"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jess-lachs_t16",
+      "title": "Defining great metrics: inputs, simplicity, common currency",
+      "summary": "Jess shares lessons from bad metrics: avoid goaling on lagging outcomes like retention, prefer actionable input metrics, keep metrics simple (avoid opaque composites), and translate levers into a shared currency like GOV/volume for trade-offs.",
+      "timestamp_start": "00:44:17",
+      "timestamp_end": "00:50:56",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Lachs"
+      ],
+      "themes": [
+        "Metrics",
+        "Strategy",
+        "Analytics"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

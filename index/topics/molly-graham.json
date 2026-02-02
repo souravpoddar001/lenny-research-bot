@@ -1,0 +1,189 @@
+{
+  "episode_id": "molly-graham",
+  "topics": [
+    {
+      "topic_id": "molly-graham_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Molly Graham\u2019s background (Google, Facebook, Quip, CZI) and frames the episode as a \u201cgreatest hits\u201d of her leadership frameworks for scaling and change.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:05:29",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Molly Graham"
+      ],
+      "themes": [
+        "Leadership",
+        "Career Growth",
+        "Company Scaling"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "molly-graham_t2",
+      "title": "Where Molly\u2019s frameworks come from",
+      "summary": "Molly explains her advice is rooted in hard-earned mistakes and rapid-scaling experiences at Google, Facebook, Quip, and CZI, plus her focus on what helps leaders thrive amid constant change.",
+      "timestamp_start": "00:05:29",
+      "timestamp_end": "00:10:24",
+      "speakers": [
+        "Molly Graham",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Leadership",
+        "Company Scaling",
+        "Learning & Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "molly-graham_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for DX (developer intelligence platform) and Brex (finance platform with AI agents).",
+      "timestamp_start": "00:03:01",
+      "timestamp_end": "00:04:36",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "molly-graham_t4",
+      "title": "Giving away your Legos framework",
+      "summary": "Molly introduces the \u201cLegos\u201d metaphor for scaling: as companies grow, leaders must repeatedly hand off what they\u2019ve mastered and move to new, unfamiliar problems to stay on top of the growth curve.",
+      "timestamp_start": "00:11:30",
+      "timestamp_end": "00:16:45",
+      "speakers": [
+        "Molly Graham",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Leadership",
+        "Company Scaling",
+        "Career Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "molly-graham_t5",
+      "title": "Managing emotions: the \u201cBob\u201d monster",
+      "summary": "Molly describes externalizing unhelpful change-related emotions into \u201cBob,\u201d and shares a practical rule: most reactions pass quickly, but if something persists for two weeks, discuss it with someone.",
+      "timestamp_start": "00:17:07",
+      "timestamp_end": "00:19:50",
+      "speakers": [
+        "Molly Graham",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Leadership",
+        "Mindset",
+        "Change Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "molly-graham_t6",
+      "title": "When to resist change vs embrace it",
+      "summary": "They discuss whether there are times not to \u201cgive away Legos,\u201d with Molly emphasizing future-focus, non-attachment, and viewing tough changes (like being layered) as potential growth opportunities.",
+      "timestamp_start": "00:20:00",
+      "timestamp_end": "00:23:26",
+      "speakers": [
+        "Molly Graham",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Leadership",
+        "Career Growth",
+        "Change Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "molly-graham_t7",
+      "title": "J-curve vs stairs career growth",
+      "summary": "Molly shares the origin story from Facebook (Chamath\u2019s pitch) contrasting predictable \u201cstairs\u201d promotions with \u201cJ-curve\u201d cliff-jumps that involve a painful learning dip but lead to outsized growth.",
+      "timestamp_start": "00:23:26",
+      "timestamp_end": "00:29:22",
+      "speakers": [
+        "Molly Graham",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Career Growth",
+        "Risk Taking",
+        "Learning & Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "molly-graham_t8",
+      "title": "Choosing the right fear and managing runway",
+      "summary": "Molly distinguishes financial fear (do the math; ensure runway) from capability fear (a green light for growth), emphasizing self-knowledge gained from taking risks\u2014even when you fail.",
+      "timestamp_start": "00:29:46",
+      "timestamp_end": "00:34:29",
+      "speakers": [
+        "Molly Graham",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Career Growth",
+        "Risk Taking",
+        "Mindset"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "molly-graham_t9",
+      "title": "Surviving the falling phase: professional idiot",
+      "summary": "They cover how to navigate the early J-curve dip by embracing being a \u201cprofessional idiot,\u201d asking basic questions, and focusing on learning as the durable asset regardless of outcomes.",
+      "timestamp_start": "00:34:49",
+      "timestamp_end": "00:38:31",
+      "speakers": [
+        "Molly Graham",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Learning & Development",
+        "Career Growth",
+        "Mindset"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "molly-graham_t10",
+      "title": "Waterline model: snorkel before scuba",
+      "summary": "Molly explains the Waterline Model for diagnosing team problems: start with structural issues (goals, roles, expectations), then dynamics, before assuming interpersonal/intrapersonal causes.",
+      "timestamp_start": "00:38:50",
+      "timestamp_end": "00:44:11",
+      "speakers": [
+        "Molly Graham",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Leadership",
+        "Team Management",
+        "Company Scaling"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "molly-graham_t11",
+      "title": "Applying waterline: clarify roles and expectations",
+      "summary": "Molly gives practical guidance for managers: use two-way dialogue to align on what the role is and what success looks like, and repeat the message often because clarity decays quickly at scale.",
+      "timestamp_start": "00:44:11",
+      "timestamp_end": "00:46:20",
+      "speakers": [
+        "Molly Graham",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Team Management",
+        "Leadership",
+        "Communication"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

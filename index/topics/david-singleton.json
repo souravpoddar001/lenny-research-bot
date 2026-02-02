@@ -1,0 +1,204 @@
+{
+  "episode_id": "david-singleton",
+  "topics": [
+    {
+      "topic_id": "david-singleton_t1",
+      "title": "Co-creating products with early power users",
+      "summary": "David explains Stripe\u2019s product development approach: identify the right early users and co-create with them. He uses Stripe Billing (with companies like Slack and Figma) as an example of tight feedback loops before broader launch.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:32",
+      "speakers": [
+        "David Singleton"
+      ],
+      "themes": [
+        "Product Development",
+        "Customer Focus",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "david-singleton_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the show and David Singleton (CTO of Stripe), previewing topics like hiring, product-oriented engineering, meticulous craft, reliability, and AI\u2019s impact on work.",
+      "timestamp_start": "00:01:04",
+      "timestamp_end": "00:02:22",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Leadership",
+        "Product Development",
+        "Company Culture"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "david-singleton_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Mixpanel (self-serve product analytics) and Eppo (A/B testing and experimentation platform).",
+      "timestamp_start": "00:02:22",
+      "timestamp_end": "00:04:25",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Other"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "david-singleton_t4",
+      "title": "Stripe Sessions and learning from customers",
+      "summary": "David describes Stripe Sessions as an energizing annual user conference to share updates and learn directly from businesses building on Stripe, including preparing demos.",
+      "timestamp_start": "00:04:25",
+      "timestamp_end": "00:05:05",
+      "speakers": [
+        "David Singleton",
+        "Lenny"
+      ],
+      "themes": [
+        "Customer Focus",
+        "Product Development",
+        "Company Culture"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "david-singleton_t5",
+      "title": "How Stripe attracts and retains top talent",
+      "summary": "David outlines why Stripe draws high-caliber people: mission-driven work (internet economic infrastructure), long-term problem solving, collaboration, and deep user empathy. He also describes patient, relationship-based hiring and strong learning opportunities inside Stripe.",
+      "timestamp_start": "00:05:05",
+      "timestamp_end": "00:12:22",
+      "speakers": [
+        "David Singleton",
+        "Lenny"
+      ],
+      "themes": [
+        "Hiring",
+        "Company Culture",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "david-singleton_t6",
+      "title": "Stripe\u2019s structured, realistic interview loops",
+      "summary": "David explains Stripe\u2019s consistent hiring loops with non-trick, job-realistic exercises: pair-programming style coding for engineers and written/problem exercises for PMs, often time-boxed and done remotely in hybrid mode.",
+      "timestamp_start": "00:14:22",
+      "timestamp_end": "00:16:40",
+      "speakers": [
+        "David Singleton",
+        "Lenny"
+      ],
+      "themes": [
+        "Hiring",
+        "Product Management",
+        "Engineering"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "david-singleton_t7",
+      "title": "Product-minded engineers and PM role at Stripe",
+      "summary": "They discuss Stripe\u2019s early lack of PMs due to highly product-minded engineers, especially for developer products. David explains how PMs later became crucial as cross-functional \u201clinchpins\u201d for synthesis, strategy, and coordination across partnerships, legal, risk, and compliance.",
+      "timestamp_start": "00:16:40",
+      "timestamp_end": "00:21:56",
+      "speakers": [
+        "David Singleton",
+        "Lenny"
+      ],
+      "themes": [
+        "Product Management",
+        "Engineering",
+        "Company Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "david-singleton_t8",
+      "title": "Operationalizing 'be meticulous in your craft'",
+      "summary": "David explains Stripe\u2019s operating principles and how meticulous craft is made real through user-first focus, friction logging, and investing in edge cases. He shares examples like API error messages linking to docs, checkout optimizations yielding major revenue uplift, and high-craft marketing pages that communicate trust and capability.",
+      "timestamp_start": "00:21:56",
+      "timestamp_end": "00:32:22",
+      "speakers": [
+        "David Singleton",
+        "Lenny"
+      ],
+      "themes": [
+        "Company Culture",
+        "Product Development",
+        "Customer Focus"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "david-singleton_t9",
+      "title": "Friction logging: cadence, template, and prioritization",
+      "summary": "David details how teams (including executives) regularly run end-to-end product flows as specific user personas, capturing stream-of-consciousness friction notes and praise. He explains how findings are routed and prioritized, with teams reserving capacity (no fixed % rule) for polish and operational remediations.",
+      "timestamp_start": "00:32:28",
+      "timestamp_end": "00:36:52",
+      "speakers": [
+        "David Singleton",
+        "Lenny"
+      ],
+      "themes": [
+        "Product Development",
+        "Customer Focus",
+        "Company Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "david-singleton_t10",
+      "title": "UX reviews, 'walk the store,' and shared quality bar",
+      "summary": "David describes collaborative UX reviews where cross-functional partners experience flows together and log issues live, plus company-wide 'Walk the Store' sessions during Friday Fireside to build shared language and standards for product quality.",
+      "timestamp_start": "00:36:53",
+      "timestamp_end": "00:41:17",
+      "speakers": [
+        "David Singleton",
+        "Lenny"
+      ],
+      "themes": [
+        "Product Development",
+        "Company Culture",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "david-singleton_t11",
+      "title": "Preparing teams for exec product reviews",
+      "summary": "David advises teams to anchor discussions in the user experience and intended outcomes, reducing stress and avoiding feedback being taken out of context. He notes the importance of leaders framing feedback around user impact and importance.",
+      "timestamp_start": "00:41:17",
+      "timestamp_end": "00:42:51",
+      "speakers": [
+        "David Singleton",
+        "Lenny"
+      ],
+      "themes": [
+        "Leadership",
+        "Product Development",
+        "Company Culture"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "david-singleton_t12",
+      "title": "Advice for building better products: tight user loops",
+      "summary": "David emphasizes that the most reliable way to build great product is a strong feedback loop: get something into the right users\u2019 hands quickly, learn, and iterate. He notes many teams still lack this loop and should prioritize creating it.",
+      "timestamp_start": "00:42:51",
+      "timestamp_end": "00:43:34",
+      "speakers": [
+        "David Singleton",
+        "Lenny"
+      ],
+      "themes": [
+        "Product Development",
+        "Customer Focus",
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

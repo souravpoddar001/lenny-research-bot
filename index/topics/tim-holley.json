@@ -1,0 +1,270 @@
+{
+  "episode_id": "tim-holley",
+  "topics": [
+    {
+      "topic_id": "tim-holley_t1",
+      "title": "Introduction and Background",
+      "summary": "Cold open on Etsy\u2019s COVID mask surge, then Lenny introduces Tim Holley, his role at Etsy, and what the episode will cover.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:07",
+      "speakers": [
+        "Tim Holley",
+        "Lenny"
+      ],
+      "themes": [
+        "Company & Role Background"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "tim-holley_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for productroadmap.ai (Ignition) and Eppo.",
+      "timestamp_start": "00:02:07",
+      "timestamp_end": "00:04:24",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tim-holley_t3",
+      "title": "Leaving Etsy for SoulCycle and returning",
+      "summary": "Tim explains why he left Etsy to lead product at SoulCycle, why it wasn\u2019t the right fit, and what drew him back\u2014mission impact, people, and culture.",
+      "timestamp_start": "00:04:24",
+      "timestamp_end": "00:06:25",
+      "speakers": [
+        "Lenny",
+        "Tim Holley"
+      ],
+      "themes": [
+        "Career & Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tim-holley_t4",
+      "title": "Etsy\u2019s 2017 cultural shift under new CEO",
+      "summary": "They discuss the difficult transition from consensus-driven culture to a faster, business-focused operating model, including the emotional impact and layoffs.",
+      "timestamp_start": "00:06:35",
+      "timestamp_end": "00:09:20",
+      "speakers": [
+        "Lenny",
+        "Tim Holley"
+      ],
+      "themes": [
+        "Org Design & Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tim-holley_t5",
+      "title": "How leadership drove change: KPI and narrative",
+      "summary": "Tim highlights what worked: a clear north-star metric (GMS), consistent storytelling, repetition, and adopting an outside-in competitive perspective.",
+      "timestamp_start": "00:09:20",
+      "timestamp_end": "00:12:15",
+      "speakers": [
+        "Lenny",
+        "Tim Holley"
+      ],
+      "themes": [
+        "Metrics & Goal Setting",
+        "Org Design & Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tim-holley_t6",
+      "title": "Etsy guiding principles and product operating mindset",
+      "summary": "Tim shares Etsy\u2019s guiding principles like \u201cdig deeper\u201d and \u201cminimize waste,\u201d emphasizing insight-driven decisions and stopping low-value work given limited resources.",
+      "timestamp_start": "00:12:15",
+      "timestamp_end": "00:13:31",
+      "speakers": [
+        "Lenny",
+        "Tim Holley"
+      ],
+      "themes": [
+        "Org Design & Culture",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tim-holley_t7",
+      "title": "COVID shock: masks, seller mobilization, retention focus",
+      "summary": "Tim recounts the overnight demand spike for masks, Etsy\u2019s unprecedented call to sellers, hands-on seller outreach, and the subsequent push to retain new buyers beyond masks.",
+      "timestamp_start": "00:13:31",
+      "timestamp_end": "00:16:39",
+      "speakers": [
+        "Lenny",
+        "Tim Holley"
+      ],
+      "themes": [
+        "Marketplace Dynamics",
+        "Growth & Acquisition"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tim-holley_t8",
+      "title": "Leading teams through COVID and retention measurement",
+      "summary": "They cover people-management adaptations (check-ins, avoiding meeting overload) and how retention/frequency work forced Etsy to expand beyond short-horizon A/B testing.",
+      "timestamp_start": "00:16:39",
+      "timestamp_end": "00:18:46",
+      "speakers": [
+        "Lenny",
+        "Tim Holley"
+      ],
+      "themes": [
+        "Leadership & Management",
+        "Experimentation & Analytics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tim-holley_t9",
+      "title": "Marketplace fundamentals: seller roots to buyer experience",
+      "summary": "Tim explains Etsy\u2019s early seller immersion (studio visits, co-creation) and the later emphasis on a world-class buyer experience for unique inventory, including trust and structured data.",
+      "timestamp_start": "00:18:46",
+      "timestamp_end": "00:21:04",
+      "speakers": [
+        "Lenny",
+        "Tim Holley"
+      ],
+      "themes": [
+        "Marketplace Dynamics",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tim-holley_t10",
+      "title": "Balancing supply vs demand and who to prioritize",
+      "summary": "They discuss the non-linear marketplace balancing act, Etsy\u2019s current framing around facilitating transactions (GMS), and how marketplace data helps guide seller actions.",
+      "timestamp_start": "00:21:04",
+      "timestamp_end": "00:24:37",
+      "speakers": [
+        "Lenny",
+        "Tim Holley"
+      ],
+      "themes": [
+        "Marketplace Dynamics",
+        "Metrics & Goal Setting"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tim-holley_t11",
+      "title": "Supply constraints by category and seller guidance",
+      "summary": "Tim describes how Etsy is broadly supply-rich but can be constrained in pockets; Etsy nudges sellers with data-driven recommendations and seasonal prioritization of what matters most.",
+      "timestamp_start": "00:24:37",
+      "timestamp_end": "00:28:06",
+      "speakers": [
+        "Lenny",
+        "Tim Holley"
+      ],
+      "themes": [
+        "Marketplace Dynamics",
+        "Growth & Acquisition"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tim-holley_t12",
+      "title": "Conversion wins: reviews, nudges, and trust signals",
+      "summary": "They cover conversion levers like buyer review photos/videos, behavioral nudges (scarcity, quick summaries), and how small UI signals can meaningfully improve decision-making.",
+      "timestamp_start": "00:28:06",
+      "timestamp_end": "00:32:21",
+      "speakers": [
+        "Lenny",
+        "Tim Holley"
+      ],
+      "themes": [
+        "Conversion & Funnel Optimization",
+        "Experimentation & Analytics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tim-holley_t13",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for OneSchema (CSV importer).",
+      "timestamp_start": "00:32:21",
+      "timestamp_end": "00:33:27",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tim-holley_t14",
+      "title": "Experimentation surprises and Etsy\u2019s testing philosophy",
+      "summary": "Tim shares examples of unexpectedly high-impact copy changes (carbon-offset messaging), notes high experiment failure rates, and explains when Etsy uses alternatives to A/B tests.",
+      "timestamp_start": "00:33:27",
+      "timestamp_end": "00:37:55",
+      "speakers": [
+        "Lenny",
+        "Tim Holley"
+      ],
+      "themes": [
+        "Experimentation & Analytics",
+        "Conversion & Funnel Optimization"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tim-holley_t15",
+      "title": "Acquisition: early seller growth, SEO, and referrals",
+      "summary": "Tim explains Etsy\u2019s early seller acquisition via craft fairs and word of mouth, buyer acquisition via SEO/Google Shopping long-tail inventory, and lessons from referral programs.",
+      "timestamp_start": "00:37:55",
+      "timestamp_end": "00:42:27",
+      "speakers": [
+        "Lenny",
+        "Tim Holley"
+      ],
+      "themes": [
+        "Growth & Acquisition",
+        "Marketplace Dynamics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tim-holley_t16",
+      "title": "Retention loops: favorites, updates feed, notifications",
+      "summary": "They discuss retention mechanics built around favorites/intent signals, closing the habit loop with updates (sales, scarcity), and using push notifications to bring buyers back.",
+      "timestamp_start": "00:42:27",
+      "timestamp_end": "00:44:11",
+      "speakers": [
+        "Lenny",
+        "Tim Holley"
+      ],
+      "themes": [
+        "Retention & Engagement",
+        "Growth & Acquisition"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tim-holley_t17",
+      "title": "Differentiation vs Amazon/eBay: brand and marketplace integrity",
+      "summary": "Tim argues Etsy\u2019s defensibility comes from a distinct brand rooted in unique supply and policies that protect marketplace integrity, shaping clear buyer expectations.",
+      "timestamp_start": "00:44:11",
+      "timestamp_end": "00:46:38",
+      "speakers": [
+        "Lenny",
+        "Tim Holley"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Marketplace Dynamics"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

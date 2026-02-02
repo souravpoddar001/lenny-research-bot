@@ -1,0 +1,220 @@
+{
+  "episode_id": "claire-vo",
+  "topics": [
+    {
+      "topic_id": "claire-vo_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Claire Vo\u2019s background (CPO at multiple companies, founder, creator of ChatPRD) and previews major themes: AI\u2019s impact on PMs, career agency, operating fast with high quality, and leadership topics.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:23",
+      "speakers": [
+        "Claire Vo",
+        "Lenny"
+      ],
+      "themes": [
+        "Career Growth",
+        "AI in Product Management",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "claire-vo_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Orb (usage-based billing) and Dovetail (customer insights conference Insight Out).",
+      "timestamp_start": "00:02:23",
+      "timestamp_end": "00:04:16",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "claire-vo_t3",
+      "title": "Career progression: clarity, asking, making it easy",
+      "summary": "Claire shares her \u201csecret sauce\u201d for rapid growth: know what you want, ask clearly, and make it easy for leaders to say yes\u2014illustrated by proposing an org chart and JD to take over marketing/growth.",
+      "timestamp_start": "00:04:16",
+      "timestamp_end": "00:09:24",
+      "speakers": [
+        "Claire Vo",
+        "Lenny"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership",
+        "Org Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "claire-vo_t4",
+      "title": "Promotion balance: timing, norms, and company needs",
+      "summary": "They discuss avoiding promotion-obsession by understanding promotion cycles and reframing asks around business problems (span of control, leverage) rather than personal ambition.",
+      "timestamp_start": "00:09:24",
+      "timestamp_end": "00:12:41",
+      "speakers": [
+        "Claire Vo",
+        "Lenny"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership",
+        "Org Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "claire-vo_t5",
+      "title": "Expanding scope: leading engineering and going sideways",
+      "summary": "Claire explains how she expanded into engineering and operations by targeting urgent company problems she could solve, and advises PMs to grow by moving left/right (e.g., marketing, ops) as a path upward.",
+      "timestamp_start": "00:12:41",
+      "timestamp_end": "00:16:30",
+      "speakers": [
+        "Claire Vo",
+        "Lenny"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership",
+        "Org Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "claire-vo_t6",
+      "title": "Avoiding overload: zone of genius and sustainability",
+      "summary": "Claire addresses the risk of being given \u201ceverything\u201d by emphasizing operating in your zone of genius, ensuring work is energizing and sustainable, and protecting builder time through calendar/time management.",
+      "timestamp_start": "00:16:30",
+      "timestamp_end": "00:19:21",
+      "speakers": [
+        "Claire Vo",
+        "Lenny"
+      ],
+      "themes": [
+        "Leadership",
+        "Career Growth",
+        "Productivity"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "claire-vo_t7",
+      "title": "Finding your zone of genius",
+      "summary": "Claire recommends an \u201cenergy audit\u201d of your calendar to identify energizing work, plus asking what you uniquely do that others can\u2019t; she cites her cross-functional fluency and ability to go from strategy to details.",
+      "timestamp_start": "00:19:21",
+      "timestamp_end": "00:22:29",
+      "speakers": [
+        "Claire Vo",
+        "Lenny"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership",
+        "Productivity"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "claire-vo_t8",
+      "title": "Moving fast at scale: clock speed and SLAs",
+      "summary": "Claire shares tactics for startup-like pace in larger orgs: don\u2019t let meeting cadence dictate execution, pull timelines in \u201cone click faster,\u201d and maintain a fast personal SLA so leadership isn\u2019t a bottleneck.",
+      "timestamp_start": "00:22:29",
+      "timestamp_end": "00:27:12",
+      "speakers": [
+        "Claire Vo",
+        "Lenny"
+      ],
+      "themes": [
+        "Execution",
+        "Leadership",
+        "Productivity"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "claire-vo_t9",
+      "title": "Keeping a high bar: talent standards and candid feedback",
+      "summary": "Claire outlines building high quality via clear measurable expectations, normalized feedback (\u201cclear is kind\u201d), and acting quickly on misfits; she gives an example of bluntly resetting expectations for two leaders in conflict.",
+      "timestamp_start": "00:27:12",
+      "timestamp_end": "00:32:36",
+      "speakers": [
+        "Claire Vo",
+        "Lenny"
+      ],
+      "themes": [
+        "Leadership",
+        "Team Building",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "claire-vo_t10",
+      "title": "Being a woman in tech: realities and leverage points",
+      "summary": "Claire discusses structural underrepresentation, why it\u2019s not about imposter syndrome, and how curiosity plus empowerment helps her navigate ongoing bias; she shares the recurring experience of being questioned as \u201ctechnical enough.\u201d",
+      "timestamp_start": "00:32:36",
+      "timestamp_end": "00:41:40",
+      "speakers": [
+        "Claire Vo",
+        "Lenny"
+      ],
+      "themes": [
+        "Diversity & Inclusion",
+        "Leadership",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "claire-vo_t11",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Vanta (trust management, compliance automation, and Vanta AI for security questionnaires).",
+      "timestamp_start": "00:41:44",
+      "timestamp_end": "00:42:36",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "claire-vo_t12",
+      "title": "Scrappiness and agency: selling her startup while pregnant",
+      "summary": "Claire tells the story of engineering her way into the right room (Microsoft experimentation day) to meet Optimizely leaders, demonstrating \u201cbend the universe to your will\u201d scrappiness and decisive deal-making late in pregnancy.",
+      "timestamp_start": "00:42:36",
+      "timestamp_end": "00:46:33",
+      "speakers": [
+        "Claire Vo",
+        "Lenny"
+      ],
+      "themes": [
+        "Entrepreneurship",
+        "Career Growth",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "claire-vo_t13",
+      "title": "The rise of the CPTO: combining product and engineering",
+      "summary": "Claire explains the CPTO role (product + engineering + design under one leader), why it may be increasing, and what it requires: real technical depth, operational rigor, org design skill, and attention to architecture and engineering performance.",
+      "timestamp_start": "00:46:33",
+      "timestamp_end": "00:48:10",
+      "speakers": [
+        "Claire Vo",
+        "Lenny"
+      ],
+      "themes": [
+        "Org Design",
+        "Leadership",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

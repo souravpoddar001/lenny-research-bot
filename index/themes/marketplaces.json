@@ -1,0 +1,52 @@
+{
+  "id": "marketplaces",
+  "name": "Marketplaces",
+  "description": "Across these episodes, \u201cMarketplaces\u201d covers how to design, launch, and scale two-sided (or multi-sided) systems where value depends on balancing supply, demand, and trust. The theme repeatedly tackles why marketplace changes create second-order effects (winners/losers), how to operationalize quality and liquidity, and how product, data, and operations must work together to make the ecosystem durable and fair.",
+  "episode_count": 21,
+  "episodes": [
+    "adriel-frederick",
+    "benjamin-lauzier",
+    "brendan-foody",
+    "brian-chesky",
+    "brian-tolkin",
+    "camille-hearst",
+    "crystal-w",
+    "dan-hockenmaier",
+    "deb-liu",
+    "eeke-de-milliano",
+    "hari-srinivasan",
+    "jess-lachs",
+    "jiaona-zhang",
+    "keith-yandell",
+    "kevin-aluwi",
+    "laura-modi",
+    "nickey-skarstad",
+    "noam-lovinsky",
+    "ramesh-johari",
+    "sarah-tavel",
+    "tim-holley"
+  ],
+  "subtopics": [
+    "Finding real marketplace PMF: validating the core value exchange and a repeatable growth motion before over-optimizing marketplace mechanics",
+    "Liquidity and matching: improving time-to-value, reducing transaction costs, and designing ranking/matching systems that balance algorithms with human judgment",
+    "Trust, safety, and quality: reviews/ratings, fraud/risk controls, guardrails, and when to use hands-on interventions vs. self-serve tools",
+    "Incentives and pricing: how small changes can create delayed ecosystem effects; designing incentives that don\u2019t degrade quality or long-term supply",
+    "Operating model for marketplaces: tight coupling of product + ops, feedback loops with field teams, and analytics as a decision engine",
+    "Measuring what matters: defining the \u201ccore action,\u201d engagement-driven growth, and using experimentation/data science to manage tradeoffs"
+  ],
+  "key_episodes": [
+    "ramesh-johari",
+    "benjamin-lauzier",
+    "dan-hockenmaier",
+    "brian-tolkin",
+    "sarah-tavel"
+  ],
+  "common_frameworks": [
+    "Transaction-cost framing: marketplaces \u201csell\u201d reduced friction for both sides (time, uncertainty, coordination)",
+    "Liquidity loop thinking: supply acquisition/activation \u2194 demand activation \u2194 matching efficiency \u2194 retention",
+    "Core action / true activation metric (engagement-first growth vs. vanity metrics)",
+    "Guardrails + enablement + targeted intervention model (set quality standards, give tools/coaching, then intervene selectively)",
+    "Experimentation and data-science-driven tradeoff management (expect \u201cwhac-a-mole\u201d effects; monitor winners/losers and second-order impacts)",
+    "Product\u2013Ops tight coupling: operational feedback loops as a first-class part of the product system (often via product ops / field loops)"
+  ]
+}

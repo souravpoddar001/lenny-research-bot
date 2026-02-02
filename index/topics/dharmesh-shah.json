@@ -1,0 +1,212 @@
+{
+  "episode_id": "dharmesh-shah",
+  "topics": [
+    {
+      "topic_id": "dharmesh-shah_t1",
+      "title": "Cold open: Zigging versus startup conventional wisdom",
+      "summary": "Dharmesh opens with a contrarian early HubSpot \u201czig\u201d: doing the opposite of the classic advice to focus on one thing and be world-class at it.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:11",
+      "speakers": [
+        "Dharmesh Shah",
+        "Lenny"
+      ],
+      "themes": [
+        "Strategy",
+        "Startups"
+      ],
+      "quote_count": 2
+    },
+    {
+      "topic_id": "dharmesh-shah_t2",
+      "title": "Rapid-fire fun facts about Dharmesh",
+      "summary": "Lenny runs through notable facts (no direct reports, side projects, chat.com deal, billionaire status, upbringing, and founding story), setting up the episode\u2019s main threads.",
+      "timestamp_start": "00:04:16",
+      "timestamp_end": "00:06:52",
+      "speakers": [
+        "Lenny",
+        "Dharmesh Shah"
+      ],
+      "themes": [
+        "Career",
+        "Startups"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "dharmesh-shah_t3",
+      "title": "Keynote craft: engineering humor with LPM",
+      "summary": "Dharmesh explains how he decomposes public speaking into learnable sub-skills and uses custom software to measure \u201claughs per minute,\u201d iterating via transcripts, recordings, and live practice audiences.",
+      "timestamp_start": "00:06:52",
+      "timestamp_end": "00:11:29",
+      "speakers": [
+        "Dharmesh Shah",
+        "Lenny"
+      ],
+      "themes": [
+        "Communication",
+        "Personal Productivity"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dharmesh-shah_t4",
+      "title": "Tactical tips for being funnier on stage",
+      "summary": "Dharmesh shares practical comedy lessons: place the funny words last, pause to let laughter land, and reuse story setup to deliver multiple punchlines; he also benchmarks realistic LPM targets for business talks.",
+      "timestamp_start": "00:11:45",
+      "timestamp_end": "00:14:26",
+      "speakers": [
+        "Lenny",
+        "Dharmesh Shah"
+      ],
+      "themes": [
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dharmesh-shah_t5",
+      "title": "SoloWare: building tools for one user",
+      "summary": "Dharmesh describes his philosophy of \u201cSoloWare\u201d\u2014software built just for himself\u2014highlighting why he avoids productizing internal tools unless the utility justifies the ongoing obligation to users.",
+      "timestamp_start": "00:14:26",
+      "timestamp_end": "00:15:22",
+      "speakers": [
+        "Lenny",
+        "Dharmesh Shah"
+      ],
+      "themes": [
+        "Product",
+        "Personal Productivity"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dharmesh-shah_t6",
+      "title": "Why Dharmesh has zero direct reports",
+      "summary": "He recounts the founding decision to avoid management entirely, arguing for leaning into strengths, not spending years becoming \u201cpassively okay\u201d at management, and designing a role that keeps him energized at scale.",
+      "timestamp_start": "00:15:28",
+      "timestamp_end": "00:18:46",
+      "speakers": [
+        "Lenny",
+        "Dharmesh Shah"
+      ],
+      "themes": [
+        "Leadership",
+        "Career"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dharmesh-shah_t7",
+      "title": "Designing company rules: no meetings before 11",
+      "summary": "Dharmesh and Lenny discuss intentionally shaping company norms, including HubSpot\u2019s early rule of no meetings before 11 a.m. (and later, no co-founder invited before 11).",
+      "timestamp_start": "00:18:46",
+      "timestamp_end": "00:20:02",
+      "speakers": [
+        "Lenny",
+        "Dharmesh Shah"
+      ],
+      "themes": [
+        "Leadership",
+        "Personal Productivity"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dharmesh-shah_t8",
+      "title": "Going public: benefits founders underestimate",
+      "summary": "Dharmesh argues IPO fears are often overblown, noting advantages like continuous market pricing, long-term value focus, and broader participation in wealth creation beyond private investors.",
+      "timestamp_start": "00:20:02",
+      "timestamp_end": "00:23:42",
+      "speakers": [
+        "Lenny",
+        "Dharmesh Shah"
+      ],
+      "themes": [
+        "Strategy",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "dharmesh-shah_t9",
+      "title": "Radical transparency: everyone becomes an insider",
+      "summary": "He tells the story of preserving HubSpot\u2019s transparency by designating every employee as a legal insider post-IPO, enabling open sharing of financials while accepting trading-window constraints.",
+      "timestamp_start": "00:23:42",
+      "timestamp_end": "00:27:18",
+      "speakers": [
+        "Lenny",
+        "Dharmesh Shah"
+      ],
+      "themes": [
+        "Culture",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dharmesh-shah_t10",
+      "title": "Contrarian bets and iterating: SMB focus and titles",
+      "summary": "Dharmesh distinguishes first principles from founding principles, advocates \u201chigh conviction, low consensus\u201d bets (like committing to SMB), and shares how HubSpot eventually adopted standard job titles after experimenting with none.",
+      "timestamp_start": "00:27:18",
+      "timestamp_end": "00:32:25",
+      "speakers": [
+        "Lenny",
+        "Dharmesh Shah"
+      ],
+      "themes": [
+        "Strategy",
+        "Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dharmesh-shah_t11",
+      "title": "Simplicity as a system: pay, access, seating lottery",
+      "summary": "He explains HubSpot\u2019s bias for simple, binary rules (universal transparency, equal early salaries) and the seat-lottery algorithm that reduced politics and improved cross-team mixing as the company scaled.",
+      "timestamp_start": "00:32:25",
+      "timestamp_end": "00:37:13",
+      "speakers": [
+        "Lenny",
+        "Dharmesh Shah"
+      ],
+      "themes": [
+        "Culture",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dharmesh-shah_t12",
+      "title": "Fighting entropy: simplicity versus complexity at scale",
+      "summary": "Dharmesh frames leadership as battling the second law of thermodynamics\u2014complexity naturally grows\u2014so organizations must actively \u201cfight for simplicity\u201d to avoid slow death by process and bloat.",
+      "timestamp_start": "00:37:13",
+      "timestamp_end": "00:40:28",
+      "speakers": [
+        "Lenny",
+        "Dharmesh Shah"
+      ],
+      "themes": [
+        "Leadership",
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dharmesh-shah_t13",
+      "title": "Product simplicity: feature tradeoffs and complexity costs",
+      "summary": "He describes a product rule: adding a \u201cknob\u201d requires removing one, and expands on first-, second-, and third-order costs of features\u2014especially the dimensional complexity that multiplies decisions across products.",
+      "timestamp_start": "00:40:28",
+      "timestamp_end": "00:42:43",
+      "speakers": [
+        "Dharmesh Shah",
+        "Lenny"
+      ],
+      "themes": [
+        "Product",
+        "Strategy"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

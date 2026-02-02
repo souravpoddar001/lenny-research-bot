@@ -1,0 +1,204 @@
+{
+  "episode_id": "matt-mullenweg",
+  "topics": [
+    {
+      "topic_id": "matt-mullenweg_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Matt Mullenweg and frames the episode around recent WordPress drama plus broader topics like open source and AI. Matt is welcomed on and the agenda is set for a candid conversation.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:24",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Speaker 1",
+        "Matt Mullenweg"
+      ],
+      "themes": [
+        "Introduction"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "matt-mullenweg_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for WorkOS and Vanta, including what each product does and a listener discount for Vanta.",
+      "timestamp_start": "00:02:24",
+      "timestamp_end": "00:05:10",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Christina Cacioppo"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-mullenweg_t3",
+      "title": "Matt\u2019s roles: WordPress, Automattic, investing, jazz",
+      "summary": "Matt outlines his work: co-founding WordPress, building Automattic and its product portfolio, leading WordPress.org, angel investing via Audrey Capital, and co-owning a San Francisco jazz club.",
+      "timestamp_start": "00:05:14",
+      "timestamp_end": "00:10:22",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt Mullenweg"
+      ],
+      "themes": [
+        "Career",
+        "Entrepreneurship",
+        "Open Source"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-mullenweg_t4",
+      "title": "WordPress scale and Tumblr moderation challenges",
+      "summary": "They discuss WordPress\u2019s massive share of the web and how it compares to competitors. Matt notes Tumblr ownership and why running a social network and moderation is uniquely difficult.",
+      "timestamp_start": "00:10:22",
+      "timestamp_end": "00:11:15",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt Mullenweg"
+      ],
+      "themes": [
+        "Product",
+        "Platforms",
+        "Community"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "matt-mullenweg_t5",
+      "title": "Bay Lights: public art funding and SF optimism",
+      "summary": "Matt explains how the Bay Lights project started, his early funding and later major donation to complete it, and the upcoming Bay Lights 360 reinstall. He also shares a philosophy of philanthropy and optimism about San Francisco\u2019s next chapter.",
+      "timestamp_start": "00:11:15",
+      "timestamp_end": "00:17:03",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt Mullenweg"
+      ],
+      "themes": [
+        "Philanthropy",
+        "Culture"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "matt-mullenweg_t6",
+      "title": "Origin story: jazz, economics, and open source ideals",
+      "summary": "Matt traces his path from a broke kid in Houston trading websites for music lessons to discovering open source. He connects civic/economic philosophy to software freedom and explains WordPress\u2019s GPL foundations and its origin as a fork of b2.",
+      "timestamp_start": "00:17:26",
+      "timestamp_end": "00:21:36",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt Mullenweg"
+      ],
+      "themes": [
+        "Open Source",
+        "Career",
+        "Philosophy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-mullenweg_t7",
+      "title": "Open source business skepticism and validation",
+      "summary": "Matt recounts an early fundraising meeting with Marc Andreessen where open source and remote work were heavily challenged, then ultimately endorsed. The story highlights how defending contrarian theses can strengthen strategy.",
+      "timestamp_start": "00:21:52",
+      "timestamp_end": "00:23:15",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt Mullenweg"
+      ],
+      "themes": [
+        "Entrepreneurship",
+        "Open Source"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "matt-mullenweg_t8",
+      "title": "Why Llama is \u201cfake open source\u201d",
+      "summary": "Matt argues Meta\u2019s Llama license isn\u2019t truly open source due to usage restrictions above a user threshold, violating OSI/open-source definitions. He speculates Meta\u2019s \u201copen source\u201d framing may be driven by regulation despite Meta\u2019s strong open-source track record.",
+      "timestamp_start": "00:23:15",
+      "timestamp_end": "00:26:36",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt Mullenweg"
+      ],
+      "themes": [
+        "AI",
+        "Open Source",
+        "Policy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "matt-mullenweg_t9",
+      "title": "AI trained on open source and how to contribute",
+      "summary": "They discuss how AI coding models rely heavily on open-source code and why that aligns with open-source licensing and long-term societal value. Matt encourages listeners to contribute and points to make.wordpress.org and non-code contribution paths.",
+      "timestamp_start": "00:26:36",
+      "timestamp_end": "00:30:53",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt Mullenweg"
+      ],
+      "themes": [
+        "AI",
+        "Open Source",
+        "Community"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-mullenweg_t10",
+      "title": "AI agents, security scanning, and maintenance mindset",
+      "summary": "Matt predicts AI-assisted code will become a majority and highlights automated security scanning as crucial for WordPress\u2019s plugin/theme ecosystem. He also emphasizes maintenance and technical debt, noting Automattic\u2019s focus on simplifying and improving neglected UX areas.",
+      "timestamp_start": "00:30:53",
+      "timestamp_end": "00:35:21",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt Mullenweg"
+      ],
+      "themes": [
+        "AI",
+        "Security",
+        "Product"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-mullenweg_t11",
+      "title": "Building WordPress as a movement and platform moat",
+      "summary": "Matt shares community-building lessons: systems thinking, collaboration, and creating belief (e.g., \u201cCode is poetry,\u201d jazz release names). He explains WordPress\u2019s plugin/theme ecosystem as a defensible moat and contrasts open platforms with proprietary ones that can rug-pull developers.",
+      "timestamp_start": "00:35:21",
+      "timestamp_end": "00:39:13",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt Mullenweg"
+      ],
+      "themes": [
+        "Community",
+        "Platforms",
+        "Open Source"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-mullenweg_t12",
+      "title": "WP Engine conflict: trademarks, product changes, lawsuit",
+      "summary": "Matt gives a high-level account of the dispute with WP Engine after its private equity acquisition: reduced contributions, confusing trademark use, and cost-cutting changes that degrade WordPress UX. He describes failed negotiations, a public talk, and then a major lawsuit and PR campaign, framing his response as defending open-source ideals.",
+      "timestamp_start": "00:39:13",
+      "timestamp_end": "00:46:19",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt Mullenweg"
+      ],
+      "themes": [
+        "Open Source",
+        "Legal",
+        "Business"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

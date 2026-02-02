@@ -1,0 +1,259 @@
+{
+  "episode_id": "crystal-w",
+  "topics": [
+    {
+      "topic_id": "crystal-w_t1",
+      "title": "Introduction and Background",
+      "summary": "Crystal recounts joining Gojek very early, including the risky leap and the company\u2019s rapid growth even at small scale. Lenny introduces Crystal\u2019s background and what the episode will cover.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:58",
+      "speakers": [
+        "Crystal Widjaja",
+        "Lenny"
+      ],
+      "themes": [
+        "Career",
+        "Growth",
+        "Startups"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "crystal-w_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Amplitude (analytics) and Flatfile (CSV/data onboarding), including why onboarding and data import reliability matter for conversion and retention.",
+      "timestamp_start": "00:01:59",
+      "timestamp_end": "00:03:34",
+      "speakers": [
+        "Lenny",
+        "Ashley"
+      ],
+      "themes": [
+        "Analytics",
+        "Operations",
+        "Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "crystal-w_t3",
+      "title": "Crystal\u2019s nontraditional path into product and growth",
+      "summary": "Crystal describes moving from investment banking research into tech by teaching herself databases, then cold-emailing Gojek and moving to Indonesia. She explains how she built data, fraud/risk, performance marketing, and eventually growth functions.",
+      "timestamp_start": "00:03:34",
+      "timestamp_end": "00:07:55",
+      "speakers": [
+        "Lenny",
+        "Crystal Widjaja"
+      ],
+      "themes": [
+        "Career",
+        "Product",
+        "Analytics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "crystal-w_t4",
+      "title": "Gojek and Kumu scale, and super-app dynamics",
+      "summary": "Crystal explains Gojek/GoTo\u2019s scale and breadth of services, and positions Kumu as a social \u201csuper app.\u201d They discuss why super apps emerged in Southeast Asia but not the US (trust in conglomerates, mobile-first constraints, limited device storage).",
+      "timestamp_start": "00:07:55",
+      "timestamp_end": "00:13:02",
+      "speakers": [
+        "Lenny",
+        "Crystal Widjaja"
+      ],
+      "themes": [
+        "Product",
+        "Markets",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "crystal-w_t5",
+      "title": "Scrappy growth: doing things that don\u2019t scale",
+      "summary": "Crystal shares scrappy tactics from Gojek: stadium hiring, Wizard-of-Oz tests via WhatsApp groups, vouchers, in-app message mock screens, and Typeform-based feature tests. Core idea: validate hypotheses with real user behavior before building.",
+      "timestamp_start": "00:13:02",
+      "timestamp_end": "00:17:21",
+      "speakers": [
+        "Lenny",
+        "Crystal Widjaja"
+      ],
+      "themes": [
+        "Growth",
+        "Experimentation",
+        "Product"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "crystal-w_t6",
+      "title": "Experimentation at tiny sample sizes",
+      "summary": "Crystal argues startups should run experiments even with ~30 users: trends are directionally useful even if precision is low. She emphasizes breaking down retention into concrete preceding steps and decision barriers like trust.",
+      "timestamp_start": "00:17:21",
+      "timestamp_end": "00:20:31",
+      "speakers": [
+        "Lenny",
+        "Crystal Widjaja"
+      ],
+      "themes": [
+        "Experimentation",
+        "Growth",
+        "Analytics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "crystal-w_t7",
+      "title": "Retention and conversion: what to optimize and why",
+      "summary": "They discuss why \u201cretention\u201d is often too vague, and how improving the step right before conversion can lift retention. Crystal shares benchmarks (e.g., week-1 retention targets) and cautions about misleading early growth signals in new markets.",
+      "timestamp_start": "00:20:31",
+      "timestamp_end": "00:27:50",
+      "speakers": [
+        "Lenny",
+        "Crystal Widjaja"
+      ],
+      "themes": [
+        "Growth",
+        "Metrics",
+        "Product"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "crystal-w_t8",
+      "title": "Growth strategy framework: physics, constraints, and loops",
+      "summary": "Crystal outlines a practical growth-modeling process: define the \u201cphysics\u201d (market/product/model/channels), identify constraints and underused levers, then improve one variable at a time. Example: leveraging drivers as a real-world acquisition channel and as sales for GoPay.",
+      "timestamp_start": "00:27:50",
+      "timestamp_end": "00:35:01",
+      "speakers": [
+        "Lenny",
+        "Crystal Widjaja"
+      ],
+      "themes": [
+        "Growth",
+        "Strategy",
+        "Business Models"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "crystal-w_t9",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Eppo, an experimentation platform, highlighting faster analysis, slicing results, and support for north-star metrics across surfaces.",
+      "timestamp_start": "00:30:38",
+      "timestamp_end": "00:31:16",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Experimentation",
+        "Analytics",
+        "Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "crystal-w_t10",
+      "title": "Applying the framework to Kumu\u2019s social product",
+      "summary": "Crystal explains why social growth is harder to measure than transactional products: success is emotional and implicit (friendship/community). Kumu uses intentional friction (questionnaires/forms) to segment intent and identify meaningful user paths.",
+      "timestamp_start": "00:35:01",
+      "timestamp_end": "00:36:38",
+      "speakers": [
+        "Lenny",
+        "Crystal Widjaja"
+      ],
+      "themes": [
+        "Product",
+        "Growth",
+        "User Research"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "crystal-w_t11",
+      "title": "Big growth unlocks: copy, familiarity, and churn reduction",
+      "summary": "Crystal shares examples of impactful growth wins: improving copy and mental models (e.g., representing a wallet as a familiar \u201ccard\u201d), and reducing churn by adding \u201cpause\u201d instead of forcing cancellation. Emphasis on solving the real user problem at the constraint point.",
+      "timestamp_start": "00:36:38",
+      "timestamp_end": "00:40:18",
+      "speakers": [
+        "Lenny",
+        "Crystal Widjaja"
+      ],
+      "themes": [
+        "Growth",
+        "Product",
+        "Retention"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "crystal-w_t12",
+      "title": "Why analytics efforts fail: insights vs measurements",
+      "summary": "Crystal explains that dashboards often become \u201centertainment\u201d instead of decision-changing information. She distinguishes observations from actionable insights by adding context, segmentation, and hypotheses that lead to changed behavior and experiments.",
+      "timestamp_start": "00:40:18",
+      "timestamp_end": "00:44:24",
+      "speakers": [
+        "Lenny",
+        "Crystal Widjaja"
+      ],
+      "themes": [
+        "Analytics",
+        "Metrics",
+        "Experimentation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "crystal-w_t13",
+      "title": "Instrumentation quality: event properties and context",
+      "summary": "Crystal describes how to spot bad tracking (many events, few/no properties) and what good instrumentation looks like (capturing experience context like supply, location, pricing, vouchers). She recommends mapping user decisions and tracking the \u201cwhy\u201d drivers.",
+      "timestamp_start": "00:44:24",
+      "timestamp_end": "00:47:05",
+      "speakers": [
+        "Lenny",
+        "Crystal Widjaja"
+      ],
+      "themes": [
+        "Analytics",
+        "Product",
+        "Metrics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "crystal-w_t14",
+      "title": "Recommended analytics stack by company stage",
+      "summary": "Crystal suggests tooling based on maturity: lightweight dashboards (Data Studio/Metabase), mobile event tracking (CleverTap), CDP/pipe needs (Segment), and experimentation (Eppo).",
+      "timestamp_start": "00:47:05",
+      "timestamp_end": "00:48:21",
+      "speakers": [
+        "Lenny",
+        "Crystal Widjaja"
+      ],
+      "themes": [
+        "Analytics",
+        "Tools",
+        "Experimentation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "crystal-w_t15",
+      "title": "How to set up and evolve a growth team",
+      "summary": "Using Gojek as an example, Crystal explains growth as filling critical gaps alongside core product work (onboarding, OTP delivery, first-time user education). Over time, growth PMs embed into teams and mature into owners of specific product areas.",
+      "timestamp_start": "00:48:21",
+      "timestamp_end": "00:51:11",
+      "speakers": [
+        "Lenny",
+        "Crystal Widjaja"
+      ],
+      "themes": [
+        "Org Design",
+        "Growth",
+        "Product"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "episode_id": "elena-verna-30",
+  "topics": [
+    {
+      "topic_id": "elena-verna-30_t1",
+      "title": "Introduction and Background",
+      "summary": "Elena frames growth as a young, hype-driven field full of out-of-context \u201cgrowth hacks,\u201d leading to churn in growth roles and widespread misunderstanding of what growth teams can actually do.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:08:31",
+      "speakers": [
+        "Elena Verna",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Growth",
+        "Leadership",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elena-verna-30_t2",
+      "title": "Mistake #1: Hiring growth too early",
+      "summary": "Elena argues founders must drive early growth until there\u2019s real PMF and enough data volume to run experiments; hiring growth before that is outsourcing the hardest founder job and sets everyone up to fail.",
+      "timestamp_start": "00:08:34",
+      "timestamp_end": "00:12:24",
+      "speakers": [
+        "Elena Verna",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Growth",
+        "Hiring",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elena-verna-30_t3",
+      "title": "Growth vs sales: when to hire which",
+      "summary": "They distinguish sales-led vs product-led motions: if sales is the monetization engine, hire sales before growth; if product drives acquisition/activation/monetization, growth may come earlier.",
+      "timestamp_start": "00:12:24",
+      "timestamp_end": "00:15:13",
+      "speakers": [
+        "Elena Verna",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Growth",
+        "Sales",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elena-verna-30_t4",
+      "title": "Mistake #2: Hiring growth to reverse decline",
+      "summary": "Elena warns that when the core business is slowing, a new head of growth can\u2019t create a miracle re-acceleration; first address core product/PMF or GTM issues and at least stop the decline.",
+      "timestamp_start": "00:15:16",
+      "timestamp_end": "00:19:18",
+      "speakers": [
+        "Elena Verna",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Growth",
+        "Leadership",
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elena-verna-30_t5",
+      "title": "Mistake #3: Rebrand/redesign as growth lever",
+      "summary": "They discuss how homepage/marketing-site redesigns usually hurt performance at launch and require months of post-launch optimization; rebrands can be strategic, but shouldn\u2019t be promised as immediate growth drivers.",
+      "timestamp_start": "00:19:23",
+      "timestamp_end": "00:25:08",
+      "speakers": [
+        "Elena Verna",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Growth",
+        "Marketing",
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elena-verna-30_t6",
+      "title": "Mistake #4: Copying competitors and benchmarks",
+      "summary": "Elena advocates using competitors for inspiration and pattern-spotting, not direct copying; she also cautions that benchmarks are often misleading due to inconsistent metric definitions and contexts.",
+      "timestamp_start": "00:25:13",
+      "timestamp_end": "00:34:00",
+      "speakers": [
+        "Elena Verna",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Growth",
+        "Strategy",
+        "Product"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elena-verna-30_t7",
+      "title": "Mistake #5: Treating problems as unique",
+      "summary": "Elena argues most growth problems have precedents; teams should avoid reinventing solutions, talk to people who\u2019ve solved similar issues, and build reusable patterns/frameworks to move faster.",
+      "timestamp_start": "00:34:02",
+      "timestamp_end": "00:40:54",
+      "speakers": [
+        "Elena Verna",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Growth",
+        "Learning",
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elena-verna-30_t8",
+      "title": "Sponsor Break",
+      "summary": "Sponsored segment featuring OneSchema and its File Feeds product for building and maintaining reliable CSV-based integrations with validation and alerting.",
+      "timestamp_start": "00:41:01",
+      "timestamp_end": "00:42:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Christina Gilbert"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elena-verna-30_t9",
+      "title": "Recap of mistakes #1\u2013#5",
+      "summary": "Lenny summarizes the first five \u201cnever works\u201d tactics: hiring growth too early, hiring growth to fix decline, expecting redesigns to drive growth, copying competitors, and reinventing common solutions.",
+      "timestamp_start": "00:42:33",
+      "timestamp_end": "00:43:55",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Elena Verna"
+      ],
+      "themes": [
+        "Growth",
+        "Strategy",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "elena-verna-30_t10",
+      "title": "Mistake #6: Growth teams over-focus on paid/SEO",
+      "summary": "Elena argues growth should prioritize building \u201cearned\u201d channels (virality, referrals, UGC/community) that the company owns, rather than relying primarily on algorithm-driven channels like SEO/SEM and paid social.",
+      "timestamp_start": "00:43:57",
+      "timestamp_end": "00:48:46",
+      "speakers": [
+        "Elena Verna",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Growth",
+        "Marketing",
+        "Product"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

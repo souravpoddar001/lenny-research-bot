@@ -1,0 +1,270 @@
+{
+  "episode_id": "aparna-chennapragada",
+  "topics": [
+    {
+      "topic_id": "aparna-chennapragada_t1",
+      "title": "Cold open: prototyping, NLX, and Copilot vs Cursor",
+      "summary": "Quick teaser clips preview Aparna\u2019s views on AI prototyping, natural language interfaces (NLX), and a coming discussion about Microsoft\u2019s positioning in AI coding tools versus fast-growing newcomers like Cursor.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:06",
+      "speakers": [
+        "Aparna Chennapragada",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Product Design",
+        "Developer Tools"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "aparna-chennapragada_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Aparna\u2019s background (Microsoft CPO, ex-Robinhood/Google) and previews key topics: enterprise product building, agents, coding, PM\u2019s future, and NLX.",
+      "timestamp_start": "00:01:08",
+      "timestamp_end": "00:02:11",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "AI Product Development",
+        "Enterprise Software"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "aparna-chennapragada_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Eppo (experimentation platform) and Pragmatic Institute (product training/certifications).",
+      "timestamp_start": "00:02:11",
+      "timestamp_end": "00:04:35",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "aparna-chennapragada_t4",
+      "title": "Stand-up comedy as product iteration training",
+      "summary": "Aparna shares her stand-up comedy practice and connects it to product building: rapid iteration cycles, live user feedback, resilience, and \u201cpunchline-market fit.\u201d",
+      "timestamp_start": "00:04:35",
+      "timestamp_end": "00:07:24",
+      "speakers": [
+        "Aparna Chennapragada",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Management",
+        "User Research",
+        "Career & Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "aparna-chennapragada_t5",
+      "title": "Consumer vs enterprise: governance and change management",
+      "summary": "Aparna contrasts consumer product work with enterprise: every feature must balance usability with governance/security, and adoption is constrained by slow-changing habits even as AI cycles accelerate.",
+      "timestamp_start": "00:07:24",
+      "timestamp_end": "00:10:10",
+      "speakers": [
+        "Aparna Chennapragada",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Enterprise Software",
+        "Security & Governance",
+        "AI Product Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "aparna-chennapragada_t6",
+      "title": "Frontier program: operationalizing \u201cliving in the future\u201d",
+      "summary": "She describes Microsoft\u2019s Frontier approach: letting early adopters use cutting-edge, rough-edge AI features via a \u201cfake company\u201d sandbox to experience \u201cone year in the future\u201d without blocking broader enterprise rollout needs.",
+      "timestamp_start": "00:10:10",
+      "timestamp_end": "00:13:29",
+      "speakers": [
+        "Aparna Chennapragada",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Enterprise Software",
+        "Innovation Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "aparna-chennapragada_t7",
+      "title": "What agents are: autonomy, complexity, natural interaction",
+      "summary": "Aparna frames agents pragmatically as tools on a spectrum: more autonomous delegation, handling multi-step complex tasks, and enabling more natural interaction (including async work and richer collaboration).",
+      "timestamp_start": "00:13:29",
+      "timestamp_end": "00:17:58",
+      "speakers": [
+        "Aparna Chennapragada",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Agents",
+        "AI Product Development",
+        "Future of Work"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "aparna-chennapragada_t8",
+      "title": "NLX is the new UX: designing conversations",
+      "summary": "They discuss natural language as an interface that still requires design: prompts as UI elements, editable plans, showing work/progress, follow-ups, and personalization tradeoffs between verbosity and trust.",
+      "timestamp_start": "00:17:58",
+      "timestamp_end": "00:22:28",
+      "speakers": [
+        "Aparna Chennapragada",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Design",
+        "AI Product Development",
+        "AI Agents"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "aparna-chennapragada_t9",
+      "title": "How product development changes: prototypes, taste, coding",
+      "summary": "Aparna argues teams must prototype constantly (\u201cprompt sets are the new PRDs\u201d), expect faster time-to-demo but longer time-to-deploy, and rely on strong editorial taste to avoid \u201cFrankenstein products\u201d; she also rejects \u201ccoding is dead.\u201d",
+      "timestamp_start": "00:22:28",
+      "timestamp_end": "00:28:01",
+      "speakers": [
+        "Aparna Chennapragada",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Product Management",
+        "Developer Tools"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "aparna-chennapragada_t10",
+      "title": "PM\u2019s future: less process, more taste and editing",
+      "summary": "They explore how AI shifts PM value from process to judgment: with idea/prototype supply exploding, PMs must earn authority through taste-making and prioritization while enabling more cross-functional idea generation.",
+      "timestamp_start": "00:28:01",
+      "timestamp_end": "00:33:18",
+      "speakers": [
+        "Aparna Chennapragada",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Management",
+        "AI Product Development",
+        "Career & Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "aparna-chennapragada_t11",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Coda and how Lenny uses it to run the podcast and community workflows.",
+      "timestamp_start": "00:33:19",
+      "timestamp_end": "00:34:45",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "aparna-chennapragada_t12",
+      "title": "Reflexive AI usage: the new-tab AI reminder",
+      "summary": "Aparna explains her self-built Chrome new-tab reminder (\u201cHow can you use AI right now?\u201d), why updating priors about AI capability is hard, and how pushing expectations creates an adoption advantage.",
+      "timestamp_start": "00:34:45",
+      "timestamp_end": "00:35:43",
+      "speakers": [
+        "Aparna Chennapragada",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Adoption",
+        "AI Product Development",
+        "Future of Work"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "aparna-chennapragada_t13",
+      "title": "Leadership lessons: Sundar vs Satya",
+      "summary": "Aparna compares Sundar Pichai\u2019s calm ecosystem navigation with Satya Nadella\u2019s learning appetite and ability to operate at multiple zoom levels, sharing what she\u2019s learned from both.",
+      "timestamp_start": "00:35:43",
+      "timestamp_end": "00:37:39",
+      "speakers": [
+        "Aparna Chennapragada",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "Strategy",
+        "Product Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "aparna-chennapragada_t14",
+      "title": "Counterintuitive product lessons: solve before scale",
+      "summary": "She argues zero-to-one requires embracing apparent chaos and avoiding premature scaling; metrics can be misleading early, so teams should focus on nailing a few core use cases before claiming broad capability.",
+      "timestamp_start": "00:37:39",
+      "timestamp_end": "00:41:21",
+      "speakers": [
+        "Aparna Chennapragada",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Product Management",
+        "User Research"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "aparna-chennapragada_t15",
+      "title": "Zero-to-one \u201cwhy now\u201d framework: 2 of 3 inflections",
+      "summary": "Aparna\u2019s framework for new categories: look for at least two of three inflection points\u2014tech step-change, consumer behavior shift, and business model shift\u2014illustrated with Google Lens, Robinhood, and AI monetization models.",
+      "timestamp_start": "00:41:21",
+      "timestamp_end": "00:45:16",
+      "speakers": [
+        "Aparna Chennapragada",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Business Models",
+        "AI Product Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "aparna-chennapragada_t16",
+      "title": "Hot seat: Microsoft, Copilot, and AI coding tools",
+      "summary": "Lenny challenges why Cursor and others grew so fast despite Microsoft\u2019s head start; Aparna reframes GitHub Copilot as part of a broader developer system (repo + context + multiple agentic features) rather than a single point product.",
+      "timestamp_start": "00:45:16",
+      "timestamp_end": "00:48:30",
+      "speakers": [
+        "Aparna Chennapragada",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Developer Tools",
+        "AI Product Development",
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

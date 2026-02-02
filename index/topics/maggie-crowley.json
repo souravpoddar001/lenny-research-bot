@@ -1,0 +1,177 @@
+{
+  "episode_id": "maggie-crowley",
+  "topics": [
+    {
+      "topic_id": "maggie-crowley_t1",
+      "title": "Introduction and Background",
+      "summary": "Maggie opens with a mindset about doing whatever it takes, and Lenny introduces her background (Toast, Drift, TripAdvisor, Olympic speed skating) and what they\u2019ll cover in the episode.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:44",
+      "speakers": [
+        "Maggie Crowley",
+        "Lenny"
+      ],
+      "themes": [
+        "Career Growth",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "maggie-crowley_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Productroadmap.ai (AI roadmapping aligned to revenue) and Composer (algorithmic trading platform with AI tools).",
+      "timestamp_start": "00:01:44",
+      "timestamp_end": "00:04:06",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "maggie-crowley_t3",
+      "title": "Three traits of the best PMs",
+      "summary": "Maggie shares three consistent traits she sees in top PMs across company stages: simplifying/prioritizing, following up on results, and \u201ccarrying the water\u201d (doing unglamorous work to drive outcomes).",
+      "timestamp_start": "00:04:06",
+      "timestamp_end": "00:10:54",
+      "speakers": [
+        "Lenny",
+        "Maggie Crowley"
+      ],
+      "themes": [
+        "Product Management",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "maggie-crowley_t4",
+      "title": "How to build the simplification muscle",
+      "summary": "They discuss practical ways to simplify: read writing out loud, restate the core point, get feedback from experienced leaders, and resist constant re-litigation of priorities.",
+      "timestamp_start": "00:10:54",
+      "timestamp_end": "00:17:54",
+      "speakers": [
+        "Lenny",
+        "Maggie Crowley"
+      ],
+      "themes": [
+        "Product Management",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "maggie-crowley_t5",
+      "title": "Writing tactics and peer feedback loops",
+      "summary": "Concrete writing heuristics (rule of three, cut the first paragraphs, Minto Pyramid) and the value of a small trusted peer group to edit and pressure-test thinking.",
+      "timestamp_start": "00:17:54",
+      "timestamp_end": "00:21:39",
+      "speakers": [
+        "Lenny",
+        "Maggie Crowley"
+      ],
+      "themes": [
+        "Communication",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "maggie-crowley_t6",
+      "title": "Following up on results to learn and advance",
+      "summary": "Maggie explains why post-launch follow-ups are rare but high leverage: set calendar reminders, share outcomes proactively, and use learnings to improve future bets and visibility.",
+      "timestamp_start": "00:21:39",
+      "timestamp_end": "00:24:19",
+      "speakers": [
+        "Lenny",
+        "Maggie Crowley"
+      ],
+      "themes": [
+        "Product Management",
+        "Analytics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "maggie-crowley_t7",
+      "title": "How long it takes to get good",
+      "summary": "They discuss realistic timelines for PM mastery, why depth (seeing multiple cycles) can accelerate learning, and the tradeoffs of job hopping vs staying to observe consequences.",
+      "timestamp_start": "00:24:19",
+      "timestamp_end": "00:27:16",
+      "speakers": [
+        "Lenny",
+        "Maggie Crowley"
+      ],
+      "themes": [
+        "Career Growth",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "maggie-crowley_t8",
+      "title": "Carrying the water and doing unglamorous work",
+      "summary": "Maggie argues that PMs own outcomes, so anything that blocks success is \u201cyour job\u201d\u2014including QA, support, sales calls, implementation, and keeping team morale high.",
+      "timestamp_start": "00:27:16",
+      "timestamp_end": "00:31:42",
+      "speakers": [
+        "Lenny",
+        "Maggie Crowley"
+      ],
+      "themes": [
+        "Product Management",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "maggie-crowley_t9",
+      "title": "Breaking into product management",
+      "summary": "Maggie shares common entry paths (internal transfer, startups, limited APM programs), why hiring career-switchers is manager-intensive, and why getting the first PM title is pivotal.",
+      "timestamp_start": "00:31:42",
+      "timestamp_end": "00:34:36",
+      "speakers": [
+        "Lenny",
+        "Maggie Crowley"
+      ],
+      "themes": [
+        "Career Growth",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "maggie-crowley_t10",
+      "title": "A tactical template for writing product strategy",
+      "summary": "Maggie outlines a practical strategy doc structure: mission/goals, landscape (market, competitors, risks), current state (product, customer feedback, tech constraints), opportunity, challenges, solution bets, and sequencing\u2014shared openly to align debate on facts.",
+      "timestamp_start": "00:34:36",
+      "timestamp_end": "00:43:58",
+      "speakers": [
+        "Lenny",
+        "Maggie Crowley"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "maggie-crowley_t11",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Eppo, an A/B testing and feature management platform for modern experimentation and deep analysis.",
+      "timestamp_start": "00:43:58",
+      "timestamp_end": "00:44:38",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

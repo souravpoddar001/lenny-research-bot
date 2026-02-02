@@ -1,0 +1,221 @@
+{
+  "episode_id": "matt-macinnis",
+  "topics": [
+    {
+      "topic_id": "matt-macinnis_t1",
+      "title": "Introduction and Background",
+      "summary": "Matt\u2019s core leadership beliefs are previewed (deliberate understaffing, extraordinary effort, escalating issues), followed by Lenny\u2019s formal intro of Matt and Rippling\u2019s scale and impact.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:39",
+      "speakers": [
+        "Matt MacInnis",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Leadership",
+        "Company Building",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-macinnis_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages from Google (Gemini in AI Studio) and Datadog (analytics, experimentation, session replay, feature flags).",
+      "timestamp_start": "00:02:48",
+      "timestamp_end": "00:04:43",
+      "speakers": [
+        "Amar",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-macinnis_t3",
+      "title": "Extraordinary results require extraordinary effort",
+      "summary": "Matt explains why 99th-percentile outcomes demand discomfort and sustained intensity, framing it as a universal management principle beyond product.",
+      "timestamp_start": "00:04:43",
+      "timestamp_end": "00:06:23",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt MacInnis"
+      ],
+      "themes": [
+        "Leadership",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-macinnis_t4",
+      "title": "What extraordinary effort looks like day-to-day",
+      "summary": "Rather than big heroic moments, Matt points to constant grind: escalations, bug triage, and late-night pushes\u2014made worthwhile when the company is truly winning.",
+      "timestamp_start": "00:06:23",
+      "timestamp_end": "00:08:38",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt MacInnis"
+      ],
+      "themes": [
+        "Leadership",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-macinnis_t5",
+      "title": "Relentlessness, competition, and deliberate understaffing",
+      "summary": "They discuss why teams can\u2019t \u201ctake a break\u201d in competitive markets, and Matt introduces his management heuristic: under-staffing is less harmful than overstaffing because it avoids politics, waste, and cruft.",
+      "timestamp_start": "00:08:38",
+      "timestamp_end": "00:13:56",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt MacInnis"
+      ],
+      "themes": [
+        "Leadership",
+        "Execution",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-macinnis_t6",
+      "title": "Learning more from success than failure",
+      "summary": "Matt argues that success teaches more than failure, drawing on Inkling vs. Rippling, and advises people to join winning teams to accelerate learning and career growth.",
+      "timestamp_start": "00:13:56",
+      "timestamp_end": "00:16:35",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt MacInnis"
+      ],
+      "themes": [
+        "Career",
+        "Leadership",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-macinnis_t7",
+      "title": "Why Matt moved from COO to CPO",
+      "summary": "Matt describes stepping into product after leadership hiring misses left R&D \u201clocally optimized but globally incoherent,\u201d and outlines his mandate: bring order, consistency, and better product experience.",
+      "timestamp_start": "00:16:35",
+      "timestamp_end": "00:22:46",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt MacInnis"
+      ],
+      "themes": [
+        "Product Management",
+        "Leadership",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-macinnis_t8",
+      "title": "First-principles product leadership and sequencing basics",
+      "summary": "He explains the hierarchy-of-needs in product orgs: you must fix foundational quality/process before higher-order goals like adoption metrics, and apply metrics selectively where the product is mature.",
+      "timestamp_start": "00:22:46",
+      "timestamp_end": "00:25:28",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt MacInnis"
+      ],
+      "themes": [
+        "Product Management",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-macinnis_t9",
+      "title": "Alpha vs beta: process lowers volatility",
+      "summary": "Matt introduces an alpha/beta framework for people and product areas: process exists to lower beta (volatility) but can suppress alpha (upside), so leaders must apply process judiciously by domain.",
+      "timestamp_start": "00:25:28",
+      "timestamp_end": "00:28:35",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt MacInnis"
+      ],
+      "themes": [
+        "Leadership",
+        "Product Management",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-macinnis_t10",
+      "title": "PQL 'pickle': quality checklist and feature flags",
+      "summary": "Matt explains creating a memorable artifact (Product Quality List) to drive culture and consistency, then shares a dogfooding failure caused by a forgotten feature flag and how it updated the checklist.",
+      "timestamp_start": "00:28:35",
+      "timestamp_end": "00:33:34",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt MacInnis"
+      ],
+      "themes": [
+        "Product Management",
+        "Execution",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-macinnis_t11",
+      "title": "Hiring frameworks: SPOTAC and hard case studies",
+      "summary": "Matt shares how he decodes intuition using SPOTAC (smart, passionate, optimistic, tenacious, adaptable, kind) and describes Rippling\u2019s approach of giving all PM candidates the same very hard case study.",
+      "timestamp_start": "00:33:34",
+      "timestamp_end": "00:39:28",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt MacInnis"
+      ],
+      "themes": [
+        "Hiring",
+        "Leadership",
+        "Career"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-macinnis_t12",
+      "title": "Why product is the high-order bit",
+      "summary": "Matt contrasts COO vs CPO perspectives: operations optimizes around the product, but getting product right makes everything else easier; they also discuss skepticism toward PMs and the value of great PMs.",
+      "timestamp_start": "00:39:28",
+      "timestamp_end": "00:42:47",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt MacInnis"
+      ],
+      "themes": [
+        "Product Management",
+        "Leadership",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "matt-macinnis_t13",
+      "title": "Product-market fit clarity and quitting advice",
+      "summary": "Matt explains that PMF is unmistakable when real, critiques the \u201cnever quit\u201d Silicon Valley trope as VC-aligned, and urges founders to reset rather than persist in delusion when PMF isn\u2019t there.",
+      "timestamp_start": "00:42:47",
+      "timestamp_end": "00:46:45",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Matt MacInnis"
+      ],
+      "themes": [
+        "Startups",
+        "Company Building",
+        "Leadership"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

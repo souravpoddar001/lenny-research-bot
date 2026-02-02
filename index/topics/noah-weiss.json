@@ -1,0 +1,256 @@
+{
+  "episode_id": "noah-weiss",
+  "topics": [
+    {
+      "topic_id": "noah-weiss_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Noah Weiss (CPO of Slack) and previews key topics: traits of great PMs, working with founders, AI in product, Complaint Storms, and Slack\u2019s growth lessons.",
+      "timestamp_start": "00:00:45",
+      "timestamp_end": "00:04:08",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Product Leadership",
+        "Career",
+        "AI/ML"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "noah-weiss_t2",
+      "title": "Pat leave and new-parent maxims",
+      "summary": "Noah shares three guiding maxims for early parenthood: improve a little every day, don\u2019t extrapolate from the early days, and be fully present (including a digital detox).",
+      "timestamp_start": "00:04:25",
+      "timestamp_end": "00:07:21",
+      "speakers": [
+        "Lenny",
+        "Noah Weiss"
+      ],
+      "themes": [
+        "Career",
+        "Leadership",
+        "Personal Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "noah-weiss_t3",
+      "title": "Foursquare memories and consumer-to-B2B pivots",
+      "summary": "Lenny recounts building a startup on Foursquare\u2019s API; Noah reflects on learning from products that don\u2019t fully work out and why many consumer companies pivot to B2B for clearer monetization signals.",
+      "timestamp_start": "00:07:23",
+      "timestamp_end": "00:11:34",
+      "speakers": [
+        "Lenny",
+        "Noah Weiss"
+      ],
+      "themes": [
+        "Startups",
+        "Product Strategy",
+        "Career"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "noah-weiss_t4",
+      "title": "Working with strongly opinionated product founders",
+      "summary": "Noah explains how to succeed with product-minded CEOs: align on product principles as shared language, and use a \u201cU-curve\u201d involvement model (early alignment, mid autonomy, late-stage soup-tasting).",
+      "timestamp_start": "00:11:34",
+      "timestamp_end": "00:16:38",
+      "speakers": [
+        "Lenny",
+        "Noah Weiss"
+      ],
+      "themes": [
+        "Leadership",
+        "Product Leadership",
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "noah-weiss_t5",
+      "title": "Slack product principles: host mindset and simplicity",
+      "summary": "Noah shares Slack\u2019s product principles such as \u201cBe a great host\u201d and \u201cDon\u2019t make me think,\u201d emphasizing craft, reducing user stress, and sometimes accepting more clicks to increase clarity and trust.",
+      "timestamp_start": "00:16:54",
+      "timestamp_end": "00:19:32",
+      "speakers": [
+        "Lenny",
+        "Noah Weiss"
+      ],
+      "themes": [
+        "Product Design",
+        "Product Leadership",
+        "User Experience"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "noah-weiss_t6",
+      "title": "AI lessons from Google to Slack",
+      "summary": "Noah traces his AI background (Knowledge Graph, NLP) and highlights key AI product lessons: UI promises must match data quality, mitigate hallucinations with transparency, and build virtuous feedback loops for learning.",
+      "timestamp_start": "00:19:32",
+      "timestamp_end": "00:22:29",
+      "speakers": [
+        "Lenny",
+        "Noah Weiss"
+      ],
+      "themes": [
+        "AI/ML",
+        "Product Strategy",
+        "Data"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "noah-weiss_t7",
+      "title": "Slack\u2019s AI vision: organizational knowledge assistant",
+      "summary": "They discuss the opportunity to query Slack\u2019s collective knowledge via AI, Slack\u2019s long-standing \u201cmagic AI stuff\u201d aspiration, and the north star of summarizing what matters without reading everything.",
+      "timestamp_start": "00:22:42",
+      "timestamp_end": "00:25:02",
+      "speakers": [
+        "Lenny",
+        "Noah Weiss"
+      ],
+      "themes": [
+        "AI/ML",
+        "Product Vision",
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "noah-weiss_t8",
+      "title": "How Slack structures AI teams and experiments",
+      "summary": "Noah describes a hybrid model: a central ML/search infrastructure team plus multiple parallel prototyping teams exploring different customer problems, with the expectation AI will later be embedded across product areas.",
+      "timestamp_start": "00:25:10",
+      "timestamp_end": "00:26:37",
+      "speakers": [
+        "Lenny",
+        "Noah Weiss"
+      ],
+      "themes": [
+        "Org Design",
+        "AI/ML",
+        "Product Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "noah-weiss_t9",
+      "title": "Complaint Storms: critiquing products to find friction",
+      "summary": "Noah explains Slack\u2019s \u201cComplaint Storms\u201d ritual: teams walk through user journeys (often starting with other products) to surface confusion and pain points, calibrate quality, and generate inspiration for improvements.",
+      "timestamp_start": "00:27:00",
+      "timestamp_end": "00:29:03",
+      "speakers": [
+        "Lenny",
+        "Noah Weiss"
+      ],
+      "themes": [
+        "User Research",
+        "Product Process",
+        "Product Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "noah-weiss_t10",
+      "title": "Prioritizing fixes: portfolios and Customer Love Sprints",
+      "summary": "Noah outlines roadmap portfolio thinking (new vs. incremental, risky vs. known, impact vs. learning) and describes two-week \u201cCustomer Love Sprints\u201d to ship many small, high-impact improvements\u2014often quarterly.",
+      "timestamp_start": "00:29:23",
+      "timestamp_end": "00:32:26",
+      "speakers": [
+        "Lenny",
+        "Noah Weiss"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Execution",
+        "Product Process"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "noah-weiss_t11",
+      "title": "Operationalizing delight: DNA, hiring, and customer feedback",
+      "summary": "They discuss how Slack sustains delight through company DNA from Glitch, hiring consumer-minded builders, and strong feedback loops via the Customer Experience Team and direct customer support exposure.",
+      "timestamp_start": "00:32:26",
+      "timestamp_end": "00:34:28",
+      "speakers": [
+        "Lenny",
+        "Noah Weiss"
+      ],
+      "themes": [
+        "Culture",
+        "User Experience",
+        "Product Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "noah-weiss_t12",
+      "title": "Competition: HipChat, Discord, and Microsoft Teams",
+      "summary": "Noah explains Slack\u2019s stance\u2014customer obsessed, competitor aware\u2014reflecting on why Slack beat earlier chat tools, how Discord serves different community needs, and how Teams is positioned around Office and video while many enterprises use both.",
+      "timestamp_start": "00:34:41",
+      "timestamp_end": "00:37:44",
+      "speakers": [
+        "Lenny",
+        "Noah Weiss"
+      ],
+      "themes": [
+        "Competition",
+        "Product Strategy",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "noah-weiss_t13",
+      "title": "Innovation at scale: bigger boulder bets and incubation",
+      "summary": "Noah shares Slack\u2019s approach to zero-to-one innovation: avoid incrementalism, \u201cget to the next hill,\u201d incubate new teams (e.g., huddles/clips during the pandemic), and give prototypes space outside normal planning to learn fast and launch big.",
+      "timestamp_start": "00:38:04",
+      "timestamp_end": "00:40:43",
+      "speakers": [
+        "Lenny",
+        "Noah Weiss"
+      ],
+      "themes": [
+        "Innovation",
+        "Product Strategy",
+        "Org Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "noah-weiss_t14",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Vanta, highlighting automated security and compliance (SOC 2, ISO 27001, GDPR, HIPAA) and a listener discount.",
+      "timestamp_start": "00:40:43",
+      "timestamp_end": "00:41:39",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "noah-weiss_t15",
+      "title": "Rituals: reading tweets and staying grounded in feedback",
+      "summary": "Noah describes a ritual of sharing real tweets\u2014both loving and harsh\u2014to keep teams connected to user sentiment and avoid losing empathy as the customer base grows.",
+      "timestamp_start": "00:41:39",
+      "timestamp_end": "00:42:41",
+      "speakers": [
+        "Lenny",
+        "Noah Weiss"
+      ],
+      "themes": [
+        "Culture",
+        "Customer Feedback",
+        "Product Leadership"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

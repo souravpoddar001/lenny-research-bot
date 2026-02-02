@@ -1,0 +1,226 @@
+{
+  "episode_id": "austin-hay",
+  "topics": [
+    {
+      "topic_id": "austin-hay_t1",
+      "title": "Deterministic to probabilistic marketing measurement shift",
+      "summary": "Austin explains how the post-IDFA era ended deterministic matching, forcing marketers to make spend decisions with probabilistic data and modeling/extrapolation approaches.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:52",
+      "speakers": [
+        "Austin Hay"
+      ],
+      "themes": [
+        "Marketing Analytics & Attribution"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "austin-hay_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Austin Hay, his MarTech credentials, and what the episode will cover (definitions, org fit, hiring, tools, frameworks).",
+      "timestamp_start": "00:00:52",
+      "timestamp_end": "00:01:43",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career & Hiring"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "austin-hay_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for OneSchema (CSV importing) and Mixpanel (product analytics and attribution).",
+      "timestamp_start": "00:01:43",
+      "timestamp_end": "00:04:03",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Message"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "austin-hay_t4",
+      "title": "What MarTech is and what it does",
+      "summary": "Austin defines MarTech as a cross-functional discipline at the intersection of product, growth, engineering, and marketing\u2014like a PM for systems/platforms spanning third-party and first-party tooling.",
+      "timestamp_start": "00:04:03",
+      "timestamp_end": "00:06:17",
+      "speakers": [
+        "Lenny",
+        "Austin Hay"
+      ],
+      "themes": [
+        "Marketing Technology Stack"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "austin-hay_t5",
+      "title": "MarTech vs growth roles and when it emerges",
+      "summary": "They discuss how MarTech overlaps with growth at small companies, but becomes a distinct centralized ownership function as tool/data complexity grows\u2014often around 100\u2013150 employees.",
+      "timestamp_start": "00:06:17",
+      "timestamp_end": "00:10:00",
+      "speakers": [
+        "Lenny",
+        "Austin Hay"
+      ],
+      "themes": [
+        "Org Design & Team Structure"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "austin-hay_t6",
+      "title": "Signals you need a MarTech hire",
+      "summary": "Austin describes common pain points: overwhelmed tool owners, unclear data flows/schemas, inability to safely change systems, plus the unsexy but high-leverage work of contracts, cost scaling, and liability.",
+      "timestamp_start": "00:10:00",
+      "timestamp_end": "00:14:03",
+      "speakers": [
+        "Lenny",
+        "Austin Hay"
+      ],
+      "themes": [
+        "Career & Hiring"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "austin-hay_t7",
+      "title": "Where MarTech should sit in the org",
+      "summary": "Austin outlines placement tradeoffs by B2C vs B2B and centralized vs decentralized models, emphasizing stakeholder alignment, resource allocation, and that there\u2019s no single right answer\u2014especially in B2B/B2B2C.",
+      "timestamp_start": "00:14:03",
+      "timestamp_end": "00:18:25",
+      "speakers": [
+        "Lenny",
+        "Austin Hay"
+      ],
+      "themes": [
+        "Org Design & Team Structure"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "austin-hay_t8",
+      "title": "IC nature of MarTech and cross-functional influence",
+      "summary": "Austin explains MarTech leaders remain hands-on experts in tools/systems while coordinating across teams; success depends more on lateral/upward management and persuasion than headcount managed.",
+      "timestamp_start": "00:18:25",
+      "timestamp_end": "00:21:15",
+      "speakers": [
+        "Lenny",
+        "Austin Hay"
+      ],
+      "themes": [
+        "Org Design & Team Structure"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "austin-hay_t9",
+      "title": "Day-to-day MarTech work and future-proofing systems",
+      "summary": "They cover operational responsibilities (permissions, governance, automation) and strategic work (roadmaps, financial models, gradual transformations), stressing balancing near-term speed with long-term stewardship.",
+      "timestamp_start": "00:21:15",
+      "timestamp_end": "00:25:06",
+      "speakers": [
+        "Lenny",
+        "Austin Hay"
+      ],
+      "themes": [
+        "Marketing Operations & Governance"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "austin-hay_t10",
+      "title": "Supporting paid growth and funnel data activation",
+      "summary": "Austin describes partnering with paid acquisition teams rather than running campaigns, including advanced setups like sending downstream opportunity/value signals back to ad networks for better optimization.",
+      "timestamp_start": "00:25:06",
+      "timestamp_end": "00:28:38",
+      "speakers": [
+        "Lenny",
+        "Austin Hay"
+      ],
+      "themes": [
+        "Paid Acquisition"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "austin-hay_t11",
+      "title": "How MarTech should be goaled and measured",
+      "summary": "They discuss tying MarTech goals to growth/CAC outcomes while also tracking internal efficiency\u2014especially controlling tooling costs per user/seat and executing major platform migrations (e.g., email tooling).",
+      "timestamp_start": "00:28:38",
+      "timestamp_end": "00:31:14",
+      "speakers": [
+        "Lenny",
+        "Austin Hay"
+      ],
+      "themes": [
+        "Metrics & KPIs"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "austin-hay_t12",
+      "title": "Recommended B2C stack evolution: CDPs to reverse ETL",
+      "summary": "Austin explains the classic CDP-centered B2C stack (2017\u20132020) and the shift toward warehouse-first architectures with reverse ETL, highlighting the need for clear rules on where/how data should move.",
+      "timestamp_start": "00:31:14",
+      "timestamp_end": "00:36:35",
+      "speakers": [
+        "Lenny",
+        "Austin Hay"
+      ],
+      "themes": [
+        "Marketing Technology Stack"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "austin-hay_t13",
+      "title": "B2B and B2B2C stack complexity and CRM interplay",
+      "summary": "Austin contrasts Salesforce-centric B2B stacks with newer B2B2C complexity, focusing on identity/entity mapping (user-to-company) and the challenges of running multiple CRMs like HubSpot plus Salesforce.",
+      "timestamp_start": "00:36:35",
+      "timestamp_end": "00:40:33",
+      "speakers": [
+        "Lenny",
+        "Austin Hay"
+      ],
+      "themes": [
+        "Marketing Technology Stack"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "austin-hay_t14",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Brave Search API, positioning it as an independent search index for search/AI apps with fresh web-scale data and lower costs.",
+      "timestamp_start": "00:40:33",
+      "timestamp_end": "00:42:09",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Message"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "austin-hay_t15",
+      "title": "Attribution approaches: MMM vs MTA foundations",
+      "summary": "Austin frames MMM (marketing mix modeling) and MTA (multi-touch attribution) as downstream of data collection quality, explaining how MarTech underpins attribution by defining user/event data pipelines and future-proofing measurement.",
+      "timestamp_start": "00:42:09",
+      "timestamp_end": "00:43:21",
+      "speakers": [
+        "Lenny",
+        "Austin Hay"
+      ],
+      "themes": [
+        "Marketing Analytics & Attribution"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

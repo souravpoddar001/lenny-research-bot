@@ -1,0 +1,186 @@
+{
+  "episode_id": "ami-vora",
+  "topics": [
+    {
+      "topic_id": "ami-vora_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Ami Vora\u2019s background (Facebook, Instagram ads, WhatsApp, Faire) and previews key topics like disagreement, metaphors, and goals. Ami shares her intention to be authentic and normalize \u201cmessy\u201d success.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:05:03",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ami Vora"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership",
+        "Mindset"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ami-vora_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Sidebar (peer leadership groups) and Anvil (document workflow SDK).",
+      "timestamp_start": "00:05:03",
+      "timestamp_end": "00:07:55",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ami-vora_t3",
+      "title": "Choosing roles by \u201cfeel\u201d and trust",
+      "summary": "Ami explains her approach to career decisions: do the rational \u201cspreadsheet,\u201d then focus on the emotional signal of whether the job feels like home. She emphasizes trust, risk-taking, and feeling lucky to be there as predictors of doing great work.",
+      "timestamp_start": "00:07:55",
+      "timestamp_end": "00:09:56",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ami Vora"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership",
+        "Mindset"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ami-vora_t4",
+      "title": "Disagreeing with curiosity, not ego",
+      "summary": "Lenny reads Boz\u2019s quote about Ami\u2019s ability to respond to disagreement with genuine curiosity (\u201cFascinating, tell me more\u201d). Ami describes learning to sublimate ego, assume others have missing context, and use pauses plus feedback loops to turn conflict into learning.",
+      "timestamp_start": "00:09:56",
+      "timestamp_end": "00:17:16",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ami Vora"
+      ],
+      "themes": [
+        "Leadership",
+        "Communication",
+        "Mindset"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ami-vora_t5",
+      "title": "Dinosaur brain: how to run product reviews",
+      "summary": "Ami shares why execs (including herself) can only hold a few facts at once and need teams to bring clear recommendations. She reframes reviews as principle-calibration (not decision-by-decision), advocates minimal writing, short/pointed forums, and thoughtful attendee selection.",
+      "timestamp_start": "00:17:16",
+      "timestamp_end": "00:26:22",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ami Vora"
+      ],
+      "themes": [
+        "Product Management",
+        "Leadership",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ami-vora_t6",
+      "title": "Metaphors to align teams: hill climb",
+      "summary": "Ami explains the \u201chill climb\u201d metaphor: leaving a local optimum requires descending into a valley to reach a higher global optimum, which helps set expectations for temporary pain. They discuss why narrative and imagery scale decision-making across teams.",
+      "timestamp_start": "00:26:22",
+      "timestamp_end": "00:31:56",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ami Vora"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Leadership",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ami-vora_t7",
+      "title": "Building metaphors and leader \u201cemulators\u201d",
+      "summary": "Ami describes learning metaphor-building from a manager by starting with the user feeling (e.g., \u201cDolores Park on a sunny Saturday\u201d). She also shares her practice of mentally \u201cemulating\u201d leaders (storytelling, principles, metrics) to unlock different problem-solving lenses.",
+      "timestamp_start": "00:31:56",
+      "timestamp_end": "00:36:34",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ami Vora"
+      ],
+      "themes": [
+        "Leadership",
+        "Communication",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ami-vora_t8",
+      "title": "WhatsApp product narrative: face-to-face communication",
+      "summary": "Ami gives a concrete example of narrative guiding product decisions at WhatsApp: designing for the universality and intimacy of face-to-face communication across device and market constraints. She ties small UX details (typing indicators, read receipts, lightweight calls) to the feeling of presence.",
+      "timestamp_start": "00:36:34",
+      "timestamp_end": "00:37:35",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ami Vora"
+      ],
+      "themes": [
+        "Product Management",
+        "Product Strategy",
+        "Communication"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ami-vora_t9",
+      "title": "Execution beats strategy (and why)",
+      "summary": "Ami argues that customers only experience shipped product, so perfect strategy with poor execution teaches you nothing, while strong execution enables rapid learning and strategy iteration. She discusses why strategy is glamorous but execution is the real driver of outcomes.",
+      "timestamp_start": "00:37:35",
+      "timestamp_end": "00:40:53",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ami Vora"
+      ],
+      "themes": [
+        "Execution",
+        "Product Strategy",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ami-vora_t10",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for UserTesting (fast customer feedback to reduce risk and rework).",
+      "timestamp_start": "00:40:53",
+      "timestamp_end": "00:41:39",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ami-vora_t11",
+      "title": "Balancing strategy vs execution by seniority",
+      "summary": "Ami suggests spending a minority of time on strategy and most on validating with customers and building an execution machine; even senior leaders execute by unblocking systems and staying close to customer reality. She emphasizes strategy must change team behavior to improve customer outcomes.",
+      "timestamp_start": "00:41:39",
+      "timestamp_end": "00:44:08",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ami Vora"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Execution",
+        "Leadership"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

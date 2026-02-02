@@ -1,0 +1,234 @@
+{
+  "episode_id": "sachin-monga",
+  "topics": [
+    {
+      "topic_id": "sachin-monga_t1",
+      "title": "Introduction and Background",
+      "summary": "Sachin opens with optimism about a new era for internet writers enabled by subscriptions, and Lenny introduces the episode and Sachin\u2019s background (Substack head of product; ex-Facebook; founded Cocoon).",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:18",
+      "speakers": [
+        "Sachin Monga",
+        "Lenny"
+      ],
+      "themes": [
+        "Company & Product",
+        "Creator Economy",
+        "Business Models"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sachin-monga_t2",
+      "title": "Sponsor Break: Retool and Stytch",
+      "summary": "Lenny reads sponsor messages for Retool (building internal tools fast) and Stytch (authentication and onboarding).",
+      "timestamp_start": "00:02:18",
+      "timestamp_end": "00:04:13",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sachin-monga_t3",
+      "title": "Sachin\u2019s path from Cocoon to Substack",
+      "summary": "Sachin explains Cocoon\u2019s origins (private photo sharing) and how frustrations with ad-driven models led to Substack\u2019s subscription-first philosophy, culminating in Cocoon\u2019s acquisition and his role leading product/design.",
+      "timestamp_start": "00:04:36",
+      "timestamp_end": "00:07:12",
+      "speakers": [
+        "Lenny",
+        "Sachin Monga"
+      ],
+      "themes": [
+        "Company & Product",
+        "Business Models",
+        "Career & Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sachin-monga_t4",
+      "title": "Substack product org structure and evolution",
+      "summary": "Sachin describes Substack\u2019s shift from no PMs to a product-driven org with PMs and full-stack teams, organized around writer, reader, and growth teams plus a systems team.",
+      "timestamp_start": "00:07:12",
+      "timestamp_end": "00:10:11",
+      "speakers": [
+        "Lenny",
+        "Sachin Monga"
+      ],
+      "themes": [
+        "Company & Product",
+        "Career & Leadership",
+        "Operations & Process"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sachin-monga_t5",
+      "title": "Working with a product-strong founder",
+      "summary": "Sachin shares how he built trust with Substack\u2019s CEO by acting as a facilitator, improving alignment/communication, and \u201ccatching up\u201d to the founder\u2019s long-held vision while integrating new data and perspectives.",
+      "timestamp_start": "00:10:11",
+      "timestamp_end": "00:14:01",
+      "speakers": [
+        "Lenny",
+        "Sachin Monga"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "Operations & Process",
+        "Company & Product"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sachin-monga_t6",
+      "title": "Scaling pains and who thrives in hypergrowth",
+      "summary": "They discuss the challenge of constantly changing processes as the company scales, and the personality fit required to be comfortable with ambiguity and frequent reinvention.",
+      "timestamp_start": "00:14:01",
+      "timestamp_end": "00:16:37",
+      "speakers": [
+        "Lenny",
+        "Sachin Monga"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "Operations & Process"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sachin-monga_t7",
+      "title": "Facebook vs Substack: prioritization and trade-offs",
+      "summary": "Sachin contrasts big-company PM work (permanent trade-offs and competing surfaces) with startup sequencing (time as the main constraint) and Substack\u2019s evolution from tool to network with important order-of-operations decisions.",
+      "timestamp_start": "00:16:37",
+      "timestamp_end": "00:20:03",
+      "speakers": [
+        "Lenny",
+        "Sachin Monga"
+      ],
+      "themes": [
+        "Company & Product",
+        "Operations & Process",
+        "Career & Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sachin-monga_t8",
+      "title": "Principles and north star: control for writers/readers",
+      "summary": "Sachin explains Substack\u2019s principle-driven prioritization: maximizing writer and reader control/agency versus ad-driven algorithmic feeds, and how that principle shapes product choices.",
+      "timestamp_start": "00:20:03",
+      "timestamp_end": "00:22:17",
+      "speakers": [
+        "Lenny",
+        "Sachin Monga"
+      ],
+      "themes": [
+        "Company & Product",
+        "Business Models",
+        "Creator Economy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sachin-monga_t9",
+      "title": "Recommendations feature: origin, skepticism, and impact",
+      "summary": "They unpack how recommendations emerged from organic discovery behaviors, why Substack chose writer-curated recommendations over algorithmic \u201cyou might like,\u201d Chris\u2019s initial skepticism, and the resulting viral loop and growth impact (millions of subs; network-driven subs).",
+      "timestamp_start": "00:22:17",
+      "timestamp_end": "00:29:58",
+      "speakers": [
+        "Lenny",
+        "Sachin Monga"
+      ],
+      "themes": [
+        "Growth",
+        "Company & Product",
+        "Creator Economy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sachin-monga_t10",
+      "title": "Sponsor Break: Vanta",
+      "summary": "Lenny reads a sponsor message for Vanta, focused on automating SOC 2 and security compliance for startups.",
+      "timestamp_start": "00:30:17",
+      "timestamp_end": "00:31:34",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sachin-monga_t11",
+      "title": "Product rollout approach: pilots and Product Lab",
+      "summary": "Sachin describes Substack\u2019s \u201cbuild with writers/readers\u201d approach: piloting major changes with a small set of writers, learning before broad rollout, and creating an invite-only Product Lab for rapid feedback and iteration.",
+      "timestamp_start": "00:31:34",
+      "timestamp_end": "00:34:54",
+      "speakers": [
+        "Lenny",
+        "Sachin Monga"
+      ],
+      "themes": [
+        "Operations & Process",
+        "Company & Product",
+        "Creator Economy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sachin-monga_t12",
+      "title": "Handling press cycles and staying focused",
+      "summary": "Sachin explains how the team filters signal from noise, avoids distraction from media chatter, and keeps shipping\u2014drawing on lessons from Facebook\u2019s intense press environment.",
+      "timestamp_start": "00:34:54",
+      "timestamp_end": "00:36:37",
+      "speakers": [
+        "Lenny",
+        "Sachin Monga"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "Operations & Process"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sachin-monga_t13",
+      "title": "Substack\u2019s future: writer tools, community, reader apps",
+      "summary": "Sachin outlines Substack\u2019s roadmap: making it easier to start and monetize, supporting multiple formats (writing/podcasts/video) and community features, and building a reader-first experience via iOS/Android apps as an alternative to algorithmic feeds.",
+      "timestamp_start": "00:36:37",
+      "timestamp_end": "00:40:28",
+      "speakers": [
+        "Lenny",
+        "Sachin Monga"
+      ],
+      "themes": [
+        "Company & Product",
+        "Creator Economy",
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sachin-monga_t14",
+      "title": "Advice for new writers: start and iterate",
+      "summary": "Sachin encourages creators to simply start, publish a few posts (any format), and begin collecting subscribers\u2014especially to reduce dependence on other platforms\u2014while Lenny reinforces that this approach worked for him.",
+      "timestamp_start": "00:40:28",
+      "timestamp_end": "00:41:41",
+      "speakers": [
+        "Lenny",
+        "Sachin Monga"
+      ],
+      "themes": [
+        "Creator Economy",
+        "Growth"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "episode_id": "chip-huyen",
+  "topics": [
+    {
+      "topic_id": "chip-huyen_t1",
+      "title": "Introduction and Background",
+      "summary": "Chip opens with a contrarian take on AI news-following, and Lenny introduces her background (NVIDIA NeMo, Netflix, Stanford, founder, author) and frames the episode as a technical deep dive into building AI products.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:04:34",
+      "speakers": [
+        "Chip Huyen",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Product Development"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "chip-huyen_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Dscout and Justworks, then Lenny welcomes Chip to the show.",
+      "timestamp_start": "00:02:47",
+      "timestamp_end": "00:04:34",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chip-huyen_t3",
+      "title": "What actually improves AI apps",
+      "summary": "They discuss Chip\u2019s viral table contrasting hype-driven optimization (news, frameworks, vector DB debates) with fundamentals (user research, reliability, data quality, workflows, prompts), plus the cost of over-committing to unproven tech.",
+      "timestamp_start": "00:04:40",
+      "timestamp_end": "00:06:49",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Chip Huyen"
+      ],
+      "themes": [
+        "AI Product Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chip-huyen_t4",
+      "title": "Pre-training vs post-training and fine-tuning",
+      "summary": "Chip explains how language modeling encodes statistical patterns (tokens, sampling strategies) and how pre-training differs from post-training; Lenny clarifies fine-tuning as adjusting weights for specific tasks and why post-training now drives differentiation.",
+      "timestamp_start": "00:06:49",
+      "timestamp_end": "00:15:21",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Chip Huyen"
+      ],
+      "themes": [
+        "LLM Training and Fine-tuning"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "chip-huyen_t5",
+      "title": "Reinforcement learning and RLHF signals",
+      "summary": "Chip breaks down reinforcement learning for LLMs, why pairwise comparisons are easier than absolute scoring, and how reward models can be trained from human feedback, AI feedback, or verifiable rewards (e.g., math).",
+      "timestamp_start": "00:15:21",
+      "timestamp_end": "00:19:16",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Chip Huyen"
+      ],
+      "themes": [
+        "LLM Training and Fine-tuning"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chip-huyen_t6",
+      "title": "Domain expert data and labeling economics",
+      "summary": "They explore the growing need for domain-expert data (accounting, legal, scientific coding) and Chip\u2019s curiosity about the economics of data-labeling vendors being dependent on a small number of frontier-lab customers.",
+      "timestamp_start": "00:19:16",
+      "timestamp_end": "00:22:22",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Chip Huyen"
+      ],
+      "themes": [
+        "AI Industry and Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chip-huyen_t7",
+      "title": "Evals: what they are and why",
+      "summary": "Chip distinguishes app-level evaluation from model/task benchmark design, emphasizing evals as creative work that defines criteria, datasets, and guidelines to measure performance meaningfully.",
+      "timestamp_start": "00:22:22",
+      "timestamp_end": "00:24:01",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Chip Huyen"
+      ],
+      "themes": [
+        "Evaluation and Monitoring"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chip-huyen_t8",
+      "title": "Do AI products need evals or vibes?",
+      "summary": "Chip gives a pragmatic ROI view: some teams skip evals when \u2018good enough\u2019 is sufficient and new features matter more, but eval rigor becomes critical at scale, in high-risk domains, or when the feature is a competitive advantage.",
+      "timestamp_start": "00:24:01",
+      "timestamp_end": "00:27:32",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Chip Huyen"
+      ],
+      "themes": [
+        "Evaluation and Monitoring"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "chip-huyen_t9",
+      "title": "How many evals and where to apply them",
+      "summary": "Rather than a fixed number, Chip argues evals should provide coverage and diagnostic value; complex workflows (e.g., deep research) need stepwise evals for query diversity, relevance, overlap, breadth/depth, and end-to-end quality.",
+      "timestamp_start": "00:27:32",
+      "timestamp_end": "00:31:54",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Chip Huyen"
+      ],
+      "themes": [
+        "Evaluation and Monitoring"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chip-huyen_t10",
+      "title": "RAG basics and data preparation",
+      "summary": "Chip defines Retrieval-Augmented Generation as supplying relevant context to improve answers, then stresses that performance often hinges more on data prep (chunking, metadata, hypothetical questions, QA rewrites) than on vector DB choice.",
+      "timestamp_start": "00:31:54",
+      "timestamp_end": "00:37:45",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Chip Huyen"
+      ],
+      "themes": [
+        "RAG and Knowledge Retrieval"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chip-huyen_t11",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Persona, then the conversation returns to enterprise AI adoption challenges.",
+      "timestamp_start": "00:37:45",
+      "timestamp_end": "00:38:51",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chip-huyen_t12",
+      "title": "Enterprise GenAI adoption and productivity measurement",
+      "summary": "Chip outlines internal vs customer-facing GenAI tools (coding assistants, internal chatbots, booking/support bots), why adoption stalls (hard-to-measure productivity), and how perceptions differ by management level and engineer seniority.",
+      "timestamp_start": "00:38:51",
+      "timestamp_end": "00:47:30",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Chip Huyen"
+      ],
+      "themes": [
+        "AI Adoption in Organizations"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

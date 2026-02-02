@@ -1,0 +1,240 @@
+{
+  "episode_id": "jiaona-zhang",
+  "topics": [
+    {
+      "topic_id": "jiaona-zhang_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Jiaona Zhang (JZ), her roles (Webflow SVP Product, Stanford lecturer), and what they\u2019ll cover: PM mistakes, minimal lovable products, roadmaps/OKRs, WeWork lessons, and Airbnb Plus.",
+      "timestamp_start": "00:00:43",
+      "timestamp_end": "00:01:43",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jiaona-zhang_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Brave Search API and Miro, including listener links and product value props.",
+      "timestamp_start": "00:01:53",
+      "timestamp_end": "00:04:22",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Other"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jiaona-zhang_t3",
+      "title": "Common mistakes new PMs make",
+      "summary": "JZ shares what she most often has to \u201cunteach\u201d new PMs: jumping to solutions and getting attached to an implementation instead of deeply understanding user problems and opportunities first.",
+      "timestamp_start": "00:04:22",
+      "timestamp_end": "00:05:55",
+      "speakers": [
+        "Lenny",
+        "Jiaona Zhang"
+      ],
+      "themes": [
+        "Product Discovery",
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jiaona-zhang_t4",
+      "title": "PM authority myths and influence reality",
+      "summary": "They discuss why many people enter PM expecting CEO-like authority, and JZ explains PM success depends on influence, alignment, and editing options\u2014not calling shots.",
+      "timestamp_start": "00:05:55",
+      "timestamp_end": "00:06:44",
+      "speakers": [
+        "Lenny",
+        "Jiaona Zhang"
+      ],
+      "themes": [
+        "Leadership",
+        "Career"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jiaona-zhang_t5",
+      "title": "Biggest product mistake: Airbnb Plus",
+      "summary": "JZ reflects on Airbnb Plus as a solution-first, competitor-driven initiative that leaned into operations-heavy inspection, misfit with Airbnb\u2019s strengths and unclear unit economics.",
+      "timestamp_start": "00:06:44",
+      "timestamp_end": "00:10:51",
+      "speakers": [
+        "Lenny",
+        "Jiaona Zhang"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Product Discovery"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jiaona-zhang_t6",
+      "title": "Dream big but validate execution and milestones",
+      "summary": "They explore when ambitious vision works versus when to \u201cdo the math,\u201d with JZ advocating explicit learning phases, unscalable prototypes, and clear go/no-go milestones to avoid sunk-cost traps.",
+      "timestamp_start": "00:10:51",
+      "timestamp_end": "00:13:46",
+      "speakers": [
+        "Lenny",
+        "Jiaona Zhang"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jiaona-zhang_t7",
+      "title": "How to push back on founder-led ideas",
+      "summary": "JZ explains how to disagree effectively: build conviction, align on the underlying goal (\u201cspirit\u201d), and bring better options backed by data and scalable approaches.",
+      "timestamp_start": "00:13:46",
+      "timestamp_end": "00:16:50",
+      "speakers": [
+        "Lenny",
+        "Jiaona Zhang"
+      ],
+      "themes": [
+        "Leadership",
+        "Stakeholder Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jiaona-zhang_t8",
+      "title": "Minimal lovable product versus MVP",
+      "summary": "JZ defines minimal lovable product as meeting a quality bar that users will genuinely enjoy, noting the bar depends on alternatives (e.g., spreadsheets) and user expectations (e.g., designers vs finance).",
+      "timestamp_start": "00:16:50",
+      "timestamp_end": "00:18:53",
+      "speakers": [
+        "Lenny",
+        "Jiaona Zhang"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Product Discovery"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jiaona-zhang_t9",
+      "title": "Webflow example and what makes products lovable",
+      "summary": "Using Webflow features (memberships/logic), JZ discusses deciding whether to rely on ecosystem for \u201clovable\u201d layers, focusing on doing fewer things exceptionally well, and adding selective \u201cpixie dust\u201d like shortcuts/templates.",
+      "timestamp_start": "00:18:53",
+      "timestamp_end": "00:22:20",
+      "speakers": [
+        "Lenny",
+        "Jiaona Zhang"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jiaona-zhang_t10",
+      "title": "Roadmapping: tell themes and a story",
+      "summary": "JZ argues roadmaps should communicate narrative and themes rather than spreadsheet-driven scoring; she recommends docs over decks, linking to live systems (e.g., Jira), and using shared templates/artifacts via product ops.",
+      "timestamp_start": "00:22:20",
+      "timestamp_end": "00:26:57",
+      "speakers": [
+        "Lenny",
+        "Jiaona Zhang"
+      ],
+      "themes": [
+        "Execution",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jiaona-zhang_t11",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Superhuman, highlighting speed, inbox workflows, and AI features, with a free trial link.",
+      "timestamp_start": "00:26:59",
+      "timestamp_end": "00:28:02",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Other"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jiaona-zhang_t12",
+      "title": "Career acceleration: be known for excellence",
+      "summary": "JZ\u2019s advice for new PMs: develop a clear \u201csuperpower\u201d (e.g., analytics, execution, complex launches) that builds reputation and earns bigger scope; she shares how her strengths evolved across roles.",
+      "timestamp_start": "00:28:02",
+      "timestamp_end": "00:31:26",
+      "speakers": [
+        "Lenny",
+        "Jiaona Zhang"
+      ],
+      "themes": [
+        "Career",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jiaona-zhang_t13",
+      "title": "OKRs: focus on qualitative success and ambition",
+      "summary": "JZ recommends starting with what \u2018crushing it\u2019 means qualitatively to avoid fear-driven sandbagging; she prefers ambitious OKRs with clear milestone paths and a culture that doesn\u2019t punish smart risk-taking.",
+      "timestamp_start": "00:31:26",
+      "timestamp_end": "00:36:10",
+      "speakers": [
+        "Lenny",
+        "Jiaona Zhang"
+      ],
+      "themes": [
+        "Execution",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jiaona-zhang_t14",
+      "title": "WeWork lessons: empathy, layoffs, and over-hiring",
+      "summary": "JZ recounts leading through WeWork\u2019s 2019 turmoil: building a global team, then navigating layoffs; key takeaways include empathy in leadership and disciplined hiring tied to milestones and real customer needs.",
+      "timestamp_start": "00:36:10",
+      "timestamp_end": "00:40:13",
+      "speakers": [
+        "Lenny",
+        "Jiaona Zhang"
+      ],
+      "themes": [
+        "Leadership",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jiaona-zhang_t15",
+      "title": "Hardest WeWork moment and joining Webflow",
+      "summary": "JZ shares a personal story about being pregnant during layoffs, choosing to give her role to someone with visa constraints, then interviewing and joining Webflow with 90 days before her child was born.",
+      "timestamp_start": "00:40:13",
+      "timestamp_end": "00:43:01",
+      "speakers": [
+        "Lenny",
+        "Jiaona Zhang"
+      ],
+      "themes": [
+        "Leadership",
+        "Career"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

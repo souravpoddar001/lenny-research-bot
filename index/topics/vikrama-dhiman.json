@@ -1,0 +1,265 @@
+{
+  "episode_id": "vikrama-dhiman",
+  "topics": [
+    {
+      "topic_id": "vikrama-dhiman_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Vikrama Dhiman, his role leading product at Gojek, and frames the episode around PM skill-building, career growth, and transitioning into product management.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:45",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Vikrama Dhiman"
+      ],
+      "themes": [
+        "Career Growth",
+        "Product Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "vikrama-dhiman_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Uizard and Webflow.",
+      "timestamp_start": "00:01:45",
+      "timestamp_end": "00:03:56",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "vikrama-dhiman_t3",
+      "title": "Why Vikrama is known for talent building",
+      "summary": "Lenny sets context on Vikrama\u2019s reputation for developing PM and design talent and helping people transition into PM; Vikrama agrees to dive into these topics.",
+      "timestamp_start": "00:03:56",
+      "timestamp_end": "00:04:48",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Vikrama Dhiman"
+      ],
+      "themes": [
+        "Career Growth",
+        "Product Management"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "vikrama-dhiman_t4",
+      "title": "Traits of fast-growing PMs and the 3Ws",
+      "summary": "Vikrama explains why \u201ccool products\u201d don\u2019t guarantee growth and introduces his career growth framework: what you produce, what you bring to the table, and what your operating model is.",
+      "timestamp_start": "00:04:48",
+      "timestamp_end": "00:07:11",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Vikrama Dhiman"
+      ],
+      "themes": [
+        "Career Growth",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "vikrama-dhiman_t5",
+      "title": "What you produce: outputs to outcomes progression",
+      "summary": "They discuss focusing on tangible outputs early (shipping, experiments, GTM contributions), then moving toward outcomes and leadership\u2014without ever abandoning strong execution.",
+      "timestamp_start": "00:07:11",
+      "timestamp_end": "00:11:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Vikrama Dhiman"
+      ],
+      "themes": [
+        "Execution",
+        "Career Growth",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "vikrama-dhiman_t6",
+      "title": "Does product area impact matter for growth?",
+      "summary": "Vikrama shares a personal example showing that craft and execution quality can outweigh working on the most visible product area; Lenny reinforces execution as the early-career differentiator.",
+      "timestamp_start": "00:11:33",
+      "timestamp_end": "00:12:49",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Vikrama Dhiman"
+      ],
+      "themes": [
+        "Career Growth",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "vikrama-dhiman_t7",
+      "title": "Concrete examples of strong outputs: be useful",
+      "summary": "Vikrama gives practical ways to generate outputs (draft briefs, slides, first drafts, unblock leaders) and warns against over-indexing on \u201cmini-CEO\u201d strategy work too early.",
+      "timestamp_start": "00:12:49",
+      "timestamp_end": "00:15:40",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Vikrama Dhiman"
+      ],
+      "themes": [
+        "Execution",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "vikrama-dhiman_t8",
+      "title": "What you bring: artifacts and impact-on-impact",
+      "summary": "Vikrama argues career growth requires demonstrating contribution via high-quality PM artifacts (PRDs, strategy docs, notes, experiment plans, Jira hygiene) across data, design, tech, and strategy.",
+      "timestamp_start": "00:15:40",
+      "timestamp_end": "00:19:16",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Vikrama Dhiman"
+      ],
+      "themes": [
+        "Product Management",
+        "Execution",
+        "Career Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "vikrama-dhiman_t9",
+      "title": "Operating model: stakeholder collaboration and decision-making",
+      "summary": "Vikrama outlines three tenets for working well cross-functionally: raise hard issues without being hard to work with, elevate topics without self-importance, and drive decisions without owning all decisions.",
+      "timestamp_start": "00:19:16",
+      "timestamp_end": "00:21:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Vikrama Dhiman"
+      ],
+      "themes": [
+        "Leadership",
+        "Communication",
+        "Product Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "vikrama-dhiman_t10",
+      "title": "How to push back effectively without friction",
+      "summary": "They discuss pushback as a key PM skill; Vikrama recommends de-escalating emotional discussions into logical, equal-footing conversations to maintain trust and momentum.",
+      "timestamp_start": "00:21:33",
+      "timestamp_end": "00:26:55",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Vikrama Dhiman"
+      ],
+      "themes": [
+        "Communication",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "vikrama-dhiman_t11",
+      "title": "Why careers stall: control, change, and self-stories",
+      "summary": "Vikrama explains three common growth blockers: focusing on what\u2019s outside your control, slowing your rate of change, and limiting self-narratives (e.g., \u201chigh agency\u201d as an excuse).",
+      "timestamp_start": "00:26:55",
+      "timestamp_end": "00:33:39",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Vikrama Dhiman"
+      ],
+      "themes": [
+        "Career Growth",
+        "Mindset",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "vikrama-dhiman_t12",
+      "title": "Vikrama\u2019s recalibration at Gojek and mindful agency",
+      "summary": "He shares how working with stronger peers reset his self-assessment, reinforced a \u201clearner\u201d identity, and led him to evolve from \u201chigh agency\u201d to \u201cmindful agency,\u201d especially across cultures.",
+      "timestamp_start": "00:33:39",
+      "timestamp_end": "00:37:54",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Vikrama Dhiman"
+      ],
+      "themes": [
+        "Mindset",
+        "Career Growth",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "vikrama-dhiman_t13",
+      "title": "Using feedback without overwhelm: pick leverage areas",
+      "summary": "Vikrama advises channeling feedback into specific skill axes and improving one high-leverage area at a time; he suggests pairing strengths/weaknesses across data, tech, design/research, then strategy.",
+      "timestamp_start": "00:37:54",
+      "timestamp_end": "00:41:59",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Vikrama Dhiman"
+      ],
+      "themes": [
+        "Career Growth",
+        "Skill Development",
+        "Mindset"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "vikrama-dhiman_t14",
+      "title": "Transitioning into PM: tailoring growth plans by background",
+      "summary": "He describes how Gojek transitions people from growth or research into PM by assigning work that stretches missing skills (design vs tech/data), with examples like driver redesign and risk/enterprise work.",
+      "timestamp_start": "00:41:59",
+      "timestamp_end": "00:45:00",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Vikrama Dhiman"
+      ],
+      "themes": [
+        "Career Growth",
+        "Skill Development",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "vikrama-dhiman_t15",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Coda and how Lenny uses it for podcast planning and product team planning workflows.",
+      "timestamp_start": "00:45:00",
+      "timestamp_end": "00:46:29",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "vikrama-dhiman_t16",
+      "title": "What is a PM: ambiguity, art vs science, glue role",
+      "summary": "They discuss why PM is hard to define, how stakeholders get confused, and a practical heuristic: if it blocks product progress, the PM should help; Vikrama frames PM as the connector across strategy, tech, design, and data.",
+      "timestamp_start": "00:46:29",
+      "timestamp_end": "00:51:19",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Vikrama Dhiman"
+      ],
+      "themes": [
+        "Product Management",
+        "Leadership",
+        "Communication"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

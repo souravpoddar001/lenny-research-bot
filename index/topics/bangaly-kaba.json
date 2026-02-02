@@ -1,0 +1,177 @@
+{
+  "episode_id": "bangaly-kaba",
+  "topics": [
+    {
+      "topic_id": "bangaly-kaba_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Bangaly Kaba\u2019s career highlights and sets up the episode\u2019s two main threads: career growth and product growth. They share a quick story about scheduling the podcast and the audience anticipation.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:03:57",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bangaly Kaba"
+      ],
+      "themes": [
+        "Career Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "bangaly-kaba_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Uizard (AI-assisted UI design/prototyping) and Mercury (startup banking, bill pay, and accounting workflows).",
+      "timestamp_start": "00:03:58",
+      "timestamp_end": "00:06:23",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bangaly-kaba_t3",
+      "title": "Choosing where to work: impact framework",
+      "summary": "Bangaly explains the origin of his blog post and why he optimizes for impact rather than compensation. He defines impact for PMs as creating clarity on opportunities and then repeatedly delivering results.",
+      "timestamp_start": "00:06:23",
+      "timestamp_end": "00:10:53",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bangaly Kaba"
+      ],
+      "themes": [
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bangaly-kaba_t4",
+      "title": "Environment variables: manager, scope, resources, culture",
+      "summary": "They break down the \u201cenvironment\u201d side of impact into factors (manager, resources, scope, team, compensation, culture) and how Bangaly scores them annually. He shares a Facebook example where excessive scope and manager churn limited effectiveness.",
+      "timestamp_start": "00:11:01",
+      "timestamp_end": "00:15:53",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bangaly Kaba"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership & Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bangaly-kaba_t5",
+      "title": "Manager as key lever and aligning incentives",
+      "summary": "Bangaly argues the manager is the most powerful environmental variable because they can move resources, scope, and culture. He advises dispassionately communicating constraints and also understanding what your manager is optimizing for to find alignment.",
+      "timestamp_start": "00:15:53",
+      "timestamp_end": "00:18:28",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bangaly Kaba"
+      ],
+      "themes": [
+        "Leadership & Management",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bangaly-kaba_t6",
+      "title": "Skills that drive impact: communication and execution",
+      "summary": "Bangaly outlines core skill areas (communication, influencing leadership, strategy, execution) and emphasizes communication as the highest-leverage. He recommends voracious learning, building a \u201cstable\u201d of mentors, and studying great PM practice by observing others.",
+      "timestamp_start": "00:18:37",
+      "timestamp_end": "00:22:05",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bangaly Kaba"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership & Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bangaly-kaba_t7",
+      "title": "Learning by observation and finding mentors",
+      "summary": "He shares an example from Instagram of learning meeting leadership and trust-building from a colleague (George Lee). Then he explains a practical approach to finding mentors via warm introductions around a specific problem, rather than asking generically.",
+      "timestamp_start": "00:22:05",
+      "timestamp_end": "00:25:41",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bangaly Kaba"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership & Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bangaly-kaba_t8",
+      "title": "Understand work: de-risking before execution",
+      "summary": "Bangaly introduces \u201cunderstand, identify, execute\u201d versus the anti-pattern \u201cidentify, justify, execute.\u201d He explains how explicitly budgeting time for understand work increases experiment win-rate and long-term velocity by clarifying root causes and reducing wasted shipping.",
+      "timestamp_start": "00:25:41",
+      "timestamp_end": "00:31:18",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bangaly Kaba"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bangaly-kaba_t9",
+      "title": "Operationalizing understand work and balancing shipping",
+      "summary": "They discuss how to allocate understand work vs execution (e.g., 60/40 shifting to 80/20 as knowledge grows), what it looks like across functions, and how to avoid analysis paralysis by limiting understand projects and maintaining a shipping portfolio.",
+      "timestamp_start": "00:31:18",
+      "timestamp_end": "00:39:29",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bangaly Kaba"
+      ],
+      "themes": [
+        "Growth",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bangaly-kaba_t10",
+      "title": "Tactical example: instrumenting Instagram signup funnel",
+      "summary": "Bangaly describes how Instagram\u2019s signup funnel initially lacked step-level logging, making optimization impossible. The team paired quick obvious fixes with prioritized instrumentation and dashboards to reveal drop-offs and guide subsequent roadmap decisions.",
+      "timestamp_start": "00:39:29",
+      "timestamp_end": "00:41:26",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bangaly Kaba"
+      ],
+      "themes": [
+        "Growth",
+        "Data & Analytics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bangaly-kaba_t11",
+      "title": "Managing complex change and building shared skill models",
+      "summary": "Bangaly shares a change-management framework (vision, skills, incentives, resources, action plan) and how missing elements create failure modes like confusion or false starts. He explains how he brings reusable decks/frameworks (e.g., product craft) to create shared language and level up teams.",
+      "timestamp_start": "00:41:26",
+      "timestamp_end": "00:44:07",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bangaly Kaba"
+      ],
+      "themes": [
+        "Leadership & Management",
+        "Organizational Change"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "episode_id": "jason-shah",
+  "topics": [
+    {
+      "topic_id": "jason-shah_t1",
+      "title": "Mindset shift: reframing \u201cpushback\u201d at work",
+      "summary": "Jason explains why the word \u201cpushback\u201d primes negativity and argues for reframing disagreement as aligning on goals and helping the business succeed. He introduces the idea that effective disagreement starts by understanding the other person\u2019s underlying objective.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:53",
+      "speakers": [
+        "Jason Shah"
+      ],
+      "themes": [
+        "Leadership",
+        "Communication",
+        "Product Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jason-shah_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the podcast, Jason as the guest, and previews topics (Web3 PMing, leadership, hiring, pushing back, career growth). Jason then gives a concise career overview from founding a teen startup through Yammer/Microsoft, do.com/Amazon, Airbnb, and Alchemy in Web3.",
+      "timestamp_start": "00:00:53",
+      "timestamp_end": "00:08:05",
+      "speakers": [
+        "Lenny",
+        "Jason Shah"
+      ],
+      "themes": [
+        "Career",
+        "Product Management",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-shah_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Coda and Amplitude, including a short conversation with John Cutler about Amplitude\u2019s expansion into experimentation and CDP to support the full product loop.",
+      "timestamp_start": "00:02:05",
+      "timestamp_end": "00:04:22",
+      "speakers": [
+        "Lenny",
+        "John Cutler"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-shah_t4",
+      "title": "Why they re-recorded: Web3 changed fast",
+      "summary": "Lenny explains they previously recorded an episode focused on Web3, but the market shifted and it felt stale, so they\u2019re redoing it. Jason reacts and they set up the conversation to revisit Web3 with fresh context.",
+      "timestamp_start": "00:04:36",
+      "timestamp_end": "00:05:45",
+      "speakers": [
+        "Lenny",
+        "Jason Shah"
+      ],
+      "themes": [
+        "Web3",
+        "Product Management",
+        "Career"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jason-shah_t5",
+      "title": "State of Web3 during crypto winter",
+      "summary": "Jason argues Web3 is stronger than ever despite price drops, citing growing company formation, early PMF, record activity, and scaling tech (L2s, new launches). He frames volatility as normal for new technologies, amplified by early financialization.",
+      "timestamp_start": "00:08:20",
+      "timestamp_end": "00:10:32",
+      "speakers": [
+        "Lenny",
+        "Jason Shah"
+      ],
+      "themes": [
+        "Web3",
+        "Strategy",
+        "Product Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jason-shah_t6",
+      "title": "Leading through downturns: morale via progress",
+      "summary": "Jason shares how to keep teams focused during Web3 cycles: morale comes from visible progress, shipping, and customer/developer traction\u2014not speeches or extrinsic incentives. He draws parallels to Airbnb\u2019s COVID revenue collapse and the importance of hiring mission-driven builders.",
+      "timestamp_start": "00:10:32",
+      "timestamp_end": "00:12:44",
+      "speakers": [
+        "Lenny",
+        "Jason Shah"
+      ],
+      "themes": [
+        "Leadership",
+        "Execution",
+        "Web3"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jason-shah_t7",
+      "title": "PMs in Web3: from optional to essential",
+      "summary": "Jason updates his earlier view that Web3 needs fewer PMs, noting a clear shift toward hiring PMs and product leaders as products mature and competition increases. They discuss how great PMs become a competitive advantage and why skepticism often comes from lack of exposure to strong PM craft.",
+      "timestamp_start": "00:12:44",
+      "timestamp_end": "00:16:49",
+      "speakers": [
+        "Lenny",
+        "Jason Shah"
+      ],
+      "themes": [
+        "Product Management",
+        "Web3",
+        "Hiring"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-shah_t8",
+      "title": "What surprised Jason most about Web3 products",
+      "summary": "Jason is surprised by how far Web3 products have scaled without traditional PM roles or playbooks, citing examples like Uniswap\u2019s scale relative to Coinbase and NFT communities building ambitious experiences. He contrasts lean teams and unconventional structures with Web2 norms.",
+      "timestamp_start": "00:16:49",
+      "timestamp_end": "00:18:11",
+      "speakers": [
+        "Lenny",
+        "Jason Shah"
+      ],
+      "themes": [
+        "Web3",
+        "Product Management",
+        "Scaling"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jason-shah_t9",
+      "title": "Which company shaped his product approach most",
+      "summary": "Jason says Amazon most influenced his product thinking because it tightly couples product decisions with business outcomes (revenue, GTM, ownership). He notes learning impact can be non-linear with tenure and shares how company \u201cstage\u201d proxies can mislead versus actual culture.",
+      "timestamp_start": "00:18:11",
+      "timestamp_end": "00:22:01",
+      "speakers": [
+        "Lenny",
+        "Jason Shah"
+      ],
+      "themes": [
+        "Career",
+        "Product Management",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jason-shah_t10",
+      "title": "Amazon\u2019s \u201cworking backwards\u201d and writing discipline",
+      "summary": "Jason explains the PRFAQ working-backwards process and how Amazon\u2019s writing standards (specificity, numbers over adjectives, concision) force clarity and de-risk decisions. He outlines the PR structure (announcement, problem, solution, customer quote, leadership quote, CTA) and how it differs from Airbnb\u2019s 11-star ideal.",
+      "timestamp_start": "00:22:01",
+      "timestamp_end": "00:28:59",
+      "speakers": [
+        "Lenny",
+        "Jason Shah"
+      ],
+      "themes": [
+        "Product Management",
+        "Communication",
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-shah_t11",
+      "title": "Traits of great leaders: humility, details, adaptability",
+      "summary": "Jason distills leadership lessons from leaders like David Sacks, Bezos, and Chesky: nothing is beneath them, they operate in the details to uphold craft and accountability, and they adapt quickly to new information. Lenny adds examples of founder-level design and launch reviews driving quality.",
+      "timestamp_start": "00:28:59",
+      "timestamp_end": "00:36:16",
+      "speakers": [
+        "Lenny",
+        "Jason Shah"
+      ],
+      "themes": [
+        "Leadership",
+        "Culture",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-shah_t12",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Maven, highlighting cohort-based courses taught by experienced operators and listing example instructors and topics.",
+      "timestamp_start": "00:36:16",
+      "timestamp_end": "00:37:19",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jason-shah_t13",
+      "title": "Ownership culture: responsibility beats accountability",
+      "summary": "They discuss how quality degrades when no one feels deep ownership, and Jason contrasts top-down accountability systems with fostering responsibility and pride. He gives examples from Airbnb and Alchemy of people stepping up beyond role boundaries.",
+      "timestamp_start": "00:37:19",
+      "timestamp_end": "00:38:27",
+      "speakers": [
+        "Lenny",
+        "Jason Shah"
+      ],
+      "themes": [
+        "Culture",
+        "Leadership",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-shah_t14",
+      "title": "How to \u201cpush back\u201d on CEOs: align on goals",
+      "summary": "Jason reframes pushback as direction-shifting through shared goals rather than saying no, then illustrates with an Airbnb Luxury Retreats integration example where redefining the experience (concierge \u2192 trip designer) reduced scope while improving customer value. They discuss why effective reframing requires both a bigger idea and clear communication, not just renaming.",
+      "timestamp_start": "00:38:27",
+      "timestamp_end": "00:42:58",
+      "speakers": [
+        "Lenny",
+        "Jason Shah"
+      ],
+      "themes": [
+        "Leadership",
+        "Communication",
+        "Product Management"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

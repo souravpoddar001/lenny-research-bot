@@ -1,0 +1,257 @@
+{
+  "episode_id": "ryan-singer",
+  "topics": [
+    {
+      "topic_id": "ryan-singer_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Ryan Singer, his background at 37signals/Basecamp, and why Shape Up is timely amid shifting product-development norms (Agile/Scrum/SAFe and AI-driven change).",
+      "timestamp_start": "00:00:54",
+      "timestamp_end": "00:02:14",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Management",
+        "Team Process",
+        "Software Delivery"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ryan-singer_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for WorkOS and Merge, covering enterprise auth/authorization and API-based integrations.",
+      "timestamp_start": "00:02:14",
+      "timestamp_end": "00:04:42",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "SaaS Tools",
+        "Engineering",
+        "Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ryan-singer_t3",
+      "title": "Why Shape Up interest is rising",
+      "summary": "They discuss growing adoption of Shape Up since 2019 and why leaders avoid publicly sharing shipping struggles; Lenny mentions creating space for failure stories.",
+      "timestamp_start": "00:04:42",
+      "timestamp_end": "00:07:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ryan Singer"
+      ],
+      "themes": [
+        "Team Process",
+        "Leadership",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ryan-singer_t4",
+      "title": "Beyond Basecamp: adoption in varied companies",
+      "summary": "Ryan explains how Shape Up spread beyond Basecamp and why many teams need guidance to adapt it to different org structures, constraints, and skill mixes.",
+      "timestamp_start": "00:07:12",
+      "timestamp_end": "00:09:56",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ryan Singer"
+      ],
+      "themes": [
+        "Team Process",
+        "Organizational Design",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ryan-singer_t5",
+      "title": "Origins: early Basecamp constraints and urgency",
+      "summary": "Ryan recounts the early Basecamp days: intense founder urgency, limited engineering time (DHH ~10 hours/week), and a culture optimized to avoid waste and reach shippable outcomes fast.",
+      "timestamp_start": "00:10:07",
+      "timestamp_end": "00:13:44",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ryan Singer"
+      ],
+      "themes": [
+        "Startup Execution",
+        "Software Delivery",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ryan-singer_t6",
+      "title": "Shaping as collaborative problem-solving sessions",
+      "summary": "Ryan describes the \u201cshaping\u201d seed: short, intense whiteboard sessions (not PRDs or polished designs) that clarify the concept enough for engineers to build confidently without rework.",
+      "timestamp_start": "00:13:47",
+      "timestamp_end": "00:16:15",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ryan Singer"
+      ],
+      "themes": [
+        "Product Discovery",
+        "Design",
+        "Engineering"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ryan-singer_t7",
+      "title": "Keeping startup speed as the company grows",
+      "summary": "They discuss how slow hiring helped preserve the organic process until a project failed to converge, prompting Ryan to formalize the approach into a reproducible framework.",
+      "timestamp_start": "00:16:15",
+      "timestamp_end": "00:19:03",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ryan Singer"
+      ],
+      "themes": [
+        "Scaling Teams",
+        "Team Process",
+        "Software Delivery"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ryan-singer_t8",
+      "title": "Core Shape Up ingredients: appetite, shaping, autonomy",
+      "summary": "Ryan outlines the three pillars: set an appetite (time budget) instead of estimating, shape a solution to fit that time, then hand a coherent \u201cwhole\u201d to a team to task-breakdown themselves (avoiding ticket shredding).",
+      "timestamp_start": "00:19:03",
+      "timestamp_end": "00:23:44",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ryan Singer"
+      ],
+      "themes": [
+        "Team Process",
+        "Product Planning",
+        "Software Delivery"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ryan-singer_t9",
+      "title": "Partial adoption and common misapplication risks",
+      "summary": "Ryan explains you can adopt parts of Shape Up, but warns against simply time-boxing vague projects (\u201cbuild newsletter builder in six weeks\u201d) without better shaping, which sets teams up to fail.",
+      "timestamp_start": "00:23:44",
+      "timestamp_end": "00:26:30",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ryan Singer"
+      ],
+      "themes": [
+        "Team Process",
+        "Product Planning",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ryan-singer_t10",
+      "title": "Why six weeks: maximum horizon, not a rule",
+      "summary": "They unpack the six-week cap as a forcing function to surface unknowns and shape realistically; shorter time boxes can work (e.g., growth work), but too-small increments can lead to endless sprinting without an end in sight.",
+      "timestamp_start": "00:26:30",
+      "timestamp_end": "00:29:32",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ryan Singer"
+      ],
+      "themes": [
+        "Team Process",
+        "Product Planning",
+        "Software Delivery"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ryan-singer_t11",
+      "title": "What happens when a bet misses the timebox",
+      "summary": "Ryan challenges the simplistic idea of \u201cjust cut scope\u201d: if a project can\u2019t land by the end, teams should stop reinvesting blindly and return to shaping to regain clarity (a softer version of the Basecamp \u2018circuit breaker\u2019).",
+      "timestamp_start": "00:29:32",
+      "timestamp_end": "00:34:30",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ryan Singer"
+      ],
+      "themes": [
+        "Risk Management",
+        "Team Process",
+        "Software Delivery"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ryan-singer_t12",
+      "title": "Shape Up in large orgs and cadence adapters",
+      "summary": "Ryan explains Shape Up can work inside large companies if engineering leadership reduces dependencies and capacity is protected; teams can align to quarters via cycle math or simply earn autonomy by consistently shipping.",
+      "timestamp_start": "00:34:30",
+      "timestamp_end": "00:39:05",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ryan Singer"
+      ],
+      "themes": [
+        "Scaling Teams",
+        "Engineering",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ryan-singer_t13",
+      "title": "Shaping outputs: diagrams over PRDs or Figma",
+      "summary": "Ryan contrasts failed shaping (over-detailed mockups/PRDs without engineering reality checks) with successful shaping: a shared diagram/outline that captures key moving parts, constraints, and a buildable approach (e.g., the \u2018empty spaces\u2019 calendar).",
+      "timestamp_start": "00:39:05",
+      "timestamp_end": "00:46:06",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ryan Singer"
+      ],
+      "themes": [
+        "Product Discovery",
+        "Design",
+        "Engineering"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ryan-singer_t14",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Airtable ProductCentral as a unified system for product org workflows (resourcing, VOC, roadmaps, launches).",
+      "timestamp_start": "00:46:06",
+      "timestamp_end": "00:46:58",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "SaaS Tools",
+        "Operations",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ryan-singer_t15",
+      "title": "Right level of detail and team seniority",
+      "summary": "They address fears of over-specifying: Ryan says the more common real-world failure is too little detail, and the appropriate detail level depends on team composition\u2014more guidance can help junior engineers succeed when seniors shaped the work.",
+      "timestamp_start": "00:46:58",
+      "timestamp_end": "00:48:28",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ryan Singer"
+      ],
+      "themes": [
+        "Engineering",
+        "Team Process",
+        "Leadership"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

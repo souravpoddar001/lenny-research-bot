@@ -1,0 +1,229 @@
+{
+  "episode_id": "hamelshreya",
+  "topics": [
+    {
+      "topic_id": "hamelshreya_t1",
+      "title": "Introduction and background: why evals matter",
+      "summary": "Lenny introduces Hamel Husain and Shreya Shankar and frames evals as a high-ROI, newly essential skill for AI product builders, citing growing industry attention and their popular course.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:58",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamel Husain",
+        "Shreya Shankar"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Evaluation & Metrics",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamelshreya_t2",
+      "title": "Sponsor Break",
+      "summary": "Ads for Fin (AI customer service agent) and Dscout (user research platform).",
+      "timestamp_start": "00:02:58",
+      "timestamp_end": "00:05:04",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamelshreya_t3",
+      "title": "What evals are: definitions and scope",
+      "summary": "They define evals as a systematic way to measure and improve LLM application quality, emphasizing it\u2019s broader than tests and includes analytics, metrics, and iteration loops.",
+      "timestamp_start": "00:05:07",
+      "timestamp_end": "00:09:56",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamel Husain",
+        "Shreya Shankar"
+      ],
+      "themes": [
+        "Evaluation & Metrics",
+        "AI Product Development",
+        "Testing & Reliability"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamelshreya_t4",
+      "title": "Setting up a real-world eval example (Nurture Boss)",
+      "summary": "Hamel introduces a real property-management assistant (Nurture Boss) and explains why AI apps need observability and traces due to tool calls, RAG, and multi-channel interactions.",
+      "timestamp_start": "00:10:06",
+      "timestamp_end": "00:14:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamel Husain"
+      ],
+      "themes": [
+        "Observability",
+        "AI Product Development",
+        "Evaluation & Metrics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamelshreya_t5",
+      "title": "Reading traces and writing open-coded notes",
+      "summary": "They walk through actual traces, showing how to spot product-relevant failures (e.g., missing human handoff) and capture quick, informal notes as the first step of error analysis.",
+      "timestamp_start": "00:14:12",
+      "timestamp_end": "00:23:32",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamel Husain"
+      ],
+      "themes": [
+        "Error Analysis",
+        "Observability",
+        "Evaluation & Metrics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamelshreya_t6",
+      "title": "Why LLMs can\u2019t replace early error analysis",
+      "summary": "Shreya explains that LLMs lack crucial product/context knowledge during free-form note-taking, so they often miss \u201cbad product smell\u201d issues; manual review is required at this stage.",
+      "timestamp_start": "00:23:55",
+      "timestamp_end": "00:25:17",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Shreya Shankar"
+      ],
+      "themes": [
+        "Error Analysis",
+        "Human-in-the-Loop",
+        "Evaluation & Metrics"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "hamelshreya_t7",
+      "title": "Benevolent dictator: avoiding committee paralysis",
+      "summary": "Hamel argues open coding should be owned by a trusted domain expert (often the PM) to keep the process fast and tractable, rather than slowed by group consensus.",
+      "timestamp_start": "00:25:17",
+      "timestamp_end": "00:27:44",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamel Husain"
+      ],
+      "themes": [
+        "Product Management",
+        "Process & Culture",
+        "Evaluation & Metrics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamelshreya_t8",
+      "title": "More trace examples and upstream-error focus",
+      "summary": "They review additional messy real-world conversations (topic switching, abrupt transfers) and stress capturing the first upstream issue rather than cataloging every downstream symptom.",
+      "timestamp_start": "00:28:07",
+      "timestamp_end": "00:30:07",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamel Husain"
+      ],
+      "themes": [
+        "Error Analysis",
+        "Observability",
+        "AI Product Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamelshreya_t9",
+      "title": "How many traces to review: theoretical saturation",
+      "summary": "They recommend reviewing ~100 traces as a practical starting point, but the real stopping rule is \u2018theoretical saturation\u2019\u2014when you stop learning new failure modes.",
+      "timestamp_start": "00:30:07",
+      "timestamp_end": "00:31:39",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamel Husain",
+        "Shreya Shankar"
+      ],
+      "themes": [
+        "Error Analysis",
+        "Evaluation & Metrics",
+        "Research Methods"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamelshreya_t10",
+      "title": "From open codes to axial codes with LLM help",
+      "summary": "After manual notes, they use LLMs to cluster and label failures into higher-level categories (axial codes), emphasizing iteration and tailoring categories to be actionable.",
+      "timestamp_start": "00:31:42",
+      "timestamp_end": "00:37:13",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamel Husain",
+        "Shreya Shankar"
+      ],
+      "themes": [
+        "Evaluation & Metrics",
+        "Error Analysis",
+        "Human-in-the-Loop"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamelshreya_t11",
+      "title": "Grounding in prior art: error analysis isn\u2019t new",
+      "summary": "They cite Andrew Ng and longstanding ML/data science practices to show their approach is a structured adaptation of established error analysis methods for LLM products.",
+      "timestamp_start": "00:37:13",
+      "timestamp_end": "00:39:31",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamel Husain",
+        "Shreya Shankar"
+      ],
+      "themes": [
+        "Research Methods",
+        "Error Analysis",
+        "AI Product Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamelshreya_t12",
+      "title": "Auto-labeling notes and counting failure modes",
+      "summary": "Hamel demonstrates mapping open codes back into refined axial categories (including a \u2018none of the above\u2019 option), then using pivot tables to quantify the most common issues.",
+      "timestamp_start": "00:39:31",
+      "timestamp_end": "00:46:07",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamel Husain",
+        "Shreya Shankar"
+      ],
+      "themes": [
+        "Evaluation & Metrics",
+        "Error Analysis",
+        "Data Analysis"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamelshreya_t13",
+      "title": "Choosing what to eval and eval types preview",
+      "summary": "They discuss cost/benefit of writing evals, noting some issues are simple engineering fixes, and tee up different eval approaches (code-based vs LLM-as-judge) starting with human handoff.",
+      "timestamp_start": "00:46:07",
+      "timestamp_end": "00:48:31",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamel Husain"
+      ],
+      "themes": [
+        "Evaluation & Metrics",
+        "Testing & Reliability",
+        "AI Product Development"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

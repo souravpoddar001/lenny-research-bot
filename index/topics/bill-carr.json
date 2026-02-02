@@ -1,0 +1,221 @@
+{
+  "episode_id": "bill-carr",
+  "topics": [
+    {
+      "topic_id": "bill-carr_t1",
+      "title": "Customer obsession and working backwards framing",
+      "summary": "Bill explains Amazon\u2019s \u201carticle of faith\u201d that prioritizing customers leads to business outcomes, and how decisions should start with what\u2019s best for the customer and work backward to required work.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:33",
+      "speakers": [
+        "Bill Carr"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Customer Focus",
+        "Decision-Making"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "bill-carr_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Bill Carr, his Amazon tenure and roles (Books, Digital Media, Prime Video/Amazon Music), and previews topics like working backwards, single-threaded leaders, metrics, disagree-and-commit, and hiring.",
+      "timestamp_start": "00:00:33",
+      "timestamp_end": "00:01:58",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career",
+        "Company Building",
+        "Product Strategy"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "bill-carr_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for AssemblyAI (speech-to-text and audio understanding API) and Coda (collaborative docs/workflows), plus later Wix Studio (agency web platform).",
+      "timestamp_start": "00:01:58",
+      "timestamp_end": "00:41:31",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Other"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bill-carr_t4",
+      "title": "Amazon\u2019s distinctive processes and leadership principles",
+      "summary": "Lenny and Bill discuss Amazon\u2019s widely adopted mechanisms (working backwards, two-way doors, memos, two-pizza teams) and Bill highlights the underappreciated role of leadership principles reinforced by real processes.",
+      "timestamp_start": "00:04:26",
+      "timestamp_end": "00:06:13",
+      "speakers": [
+        "Lenny",
+        "Bill Carr"
+      ],
+      "themes": [
+        "Company Building",
+        "Culture",
+        "Decision-Making"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "bill-carr_t5",
+      "title": "Why Amazon innovated in process and product",
+      "summary": "Bill explains Amazon\u2019s focus on process innovation alongside product innovation, concentrated in 2003\u20132007 as Amazon scaled in complexity; Bezos applied a scientific, experimental approach to building management mechanisms.",
+      "timestamp_start": "00:06:13",
+      "timestamp_end": "00:09:55",
+      "speakers": [
+        "Lenny",
+        "Bill Carr"
+      ],
+      "themes": [
+        "Company Building",
+        "Leadership",
+        "Decision-Making"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bill-carr_t6",
+      "title": "A failed mechanism: the \u201cfitness function\u201d metric",
+      "summary": "Bill shares an abandoned Amazon idea: combining multiple metrics into a weighted index (\u201cfitness function\u201d). They learned compound metrics obscure causality, so teams should manage key metrics separately.",
+      "timestamp_start": "00:09:55",
+      "timestamp_end": "00:12:03",
+      "speakers": [
+        "Lenny",
+        "Bill Carr"
+      ],
+      "themes": [
+        "Metrics",
+        "Decision-Making",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bill-carr_t7",
+      "title": "Single-threaded leaders: purpose and structure",
+      "summary": "Bill defines single-threaded leadership as dedicated, cross-functional teams with a single accountable leader, created to reduce resource contention and bureaucracy and increase ownership, speed, and agility via program-oriented teams.",
+      "timestamp_start": "00:12:03",
+      "timestamp_end": "00:18:07",
+      "speakers": [
+        "Lenny",
+        "Bill Carr"
+      ],
+      "themes": [
+        "Org Design",
+        "Execution",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bill-carr_t8",
+      "title": "Accountability with reviews; GM model comparison",
+      "summary": "They clarify that single-threaded teams still undergo rigorous senior review for alignment, then execute autonomously; Bill contrasts this with GM/P&L slicing and explains when narrower ownership works (e.g., device platforms).",
+      "timestamp_start": "00:18:07",
+      "timestamp_end": "00:22:06",
+      "speakers": [
+        "Lenny",
+        "Bill Carr"
+      ],
+      "themes": [
+        "Org Design",
+        "Leadership",
+        "Decision-Making"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bill-carr_t9",
+      "title": "Countermeasures for functional excellence in teams",
+      "summary": "Bill describes risks of losing functional depth when generalists lead cross-functional teams and the countermeasures Amazon used: strong functional leaders, standardized practices (interviewing, promotions), and cross-org panels/reviews.",
+      "timestamp_start": "00:22:06",
+      "timestamp_end": "00:25:23",
+      "speakers": [
+        "Lenny",
+        "Bill Carr"
+      ],
+      "themes": [
+        "Org Design",
+        "Talent",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bill-carr_t10",
+      "title": "Disagree and commit: meaning and correct use",
+      "summary": "Bill breaks down the nuance: team members must surface dissent to improve decisions, but once leaders demonstrate they understand and have weighed the dissenting view, everyone commits and communicates the rationale\u2014not passive resistance.",
+      "timestamp_start": "00:25:23",
+      "timestamp_end": "00:32:18",
+      "speakers": [
+        "Lenny",
+        "Bill Carr"
+      ],
+      "themes": [
+        "Decision-Making",
+        "Culture",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bill-carr_t11",
+      "title": "Leaders are right a lot: judgment and experience",
+      "summary": "Bill explains why data rarely decides on its own and how \u201cright a lot\u201d reflects practiced judgment developed through experience (including being wrong), which builds trust and followership over time.",
+      "timestamp_start": "00:32:42",
+      "timestamp_end": "00:35:26",
+      "speakers": [
+        "Lenny",
+        "Bill Carr"
+      ],
+      "themes": [
+        "Leadership",
+        "Decision-Making",
+        "Culture"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "bill-carr_t12",
+      "title": "Working backwards: definition and customer-first logic",
+      "summary": "Bill defines working backwards as starting from customer needs (not constraints or revenue targets), assuming customer value drives outcomes; teams then identify the engineering/cost/legal work required to deliver the solution.",
+      "timestamp_start": "00:35:26",
+      "timestamp_end": "00:40:10",
+      "speakers": [
+        "Lenny",
+        "Bill Carr"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Customer Focus",
+        "Decision-Making"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bill-carr_t13",
+      "title": "Implementing PR/FAQ: press release, iteration, funnel",
+      "summary": "Bill outlines how companies operationalize working backwards via PR/FAQ: write a customer-facing press release (problem/solution), iterate through concentric review circles, and use it as a product funnel to select the best bets for the roadmap.",
+      "timestamp_start": "00:41:31",
+      "timestamp_end": "00:50:39",
+      "speakers": [
+        "Lenny",
+        "Bill Carr"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Execution",
+        "Decision-Making"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "episode_id": "elizabeth-stone",
+  "topics": [
+    {
+      "topic_id": "elizabeth-stone_t1",
+      "title": "Opening: Talent density as culture foundation",
+      "summary": "Elizabeth explains why high talent density is the prerequisite for Netflix\u2019s culture (candor, learning, excellence, freedom/responsibility) and how it traces back to Reed Hastings\u2019 founding beliefs.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:06",
+      "speakers": [
+        "Elizabeth Stone"
+      ],
+      "themes": [
+        "Company Culture",
+        "Hiring",
+        "Leadership"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "elizabeth-stone_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Elizabeth Stone\u2019s career path and previews topics: economics in tech leadership, Netflix culture, team structures for data/research, and personal lessons from endurance sports.",
+      "timestamp_start": "00:01:06",
+      "timestamp_end": "00:02:26",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership",
+        "Company Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elizabeth-stone_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Vanta and Sendbird.",
+      "timestamp_start": "00:02:26",
+      "timestamp_end": "00:04:36",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elizabeth-stone_t4",
+      "title": "CTO transition: context switching and stakes",
+      "summary": "Elizabeth compares being CTO vs VP of Data: far more context switching, broader technical surface area, more meetings, and higher-consequence decisions.",
+      "timestamp_start": "00:04:36",
+      "timestamp_end": "00:05:57",
+      "speakers": [
+        "Lenny",
+        "Elizabeth Stone"
+      ],
+      "themes": [
+        "Leadership",
+        "Career Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "elizabeth-stone_t5",
+      "title": "Economics background as a tech advantage",
+      "summary": "They discuss whether economists will become more common in tech leadership; Elizabeth frames economics as a flavor of data science and a useful problem-solving lens in business contexts.",
+      "timestamp_start": "00:05:57",
+      "timestamp_end": "00:08:32",
+      "speakers": [
+        "Lenny",
+        "Elizabeth Stone"
+      ],
+      "themes": [
+        "Career Growth",
+        "Data Science",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elizabeth-stone_t6",
+      "title": "Incentives and unintended consequences thinking",
+      "summary": "Elizabeth shares a concrete way economics helps: analyzing incentives, anticipating unintended consequences, and reasoning about internal decisions and external competition.",
+      "timestamp_start": "00:08:32",
+      "timestamp_end": "00:10:08",
+      "speakers": [
+        "Lenny",
+        "Elizabeth Stone"
+      ],
+      "themes": [
+        "Decision-Making",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elizabeth-stone_t7",
+      "title": "Secret sauce behind rapid career progression",
+      "summary": "Elizabeth reflects on what drove her fast growth: dedication to outcomes, team-first mindset, strong cross-functional translation, and learning by observation and introspection.",
+      "timestamp_start": "00:10:08",
+      "timestamp_end": "00:14:00",
+      "speakers": [
+        "Lenny",
+        "Elizabeth Stone"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elizabeth-stone_t8",
+      "title": "High standards without burnout; live content example",
+      "summary": "She clarifies dedication isn\u2019t about long hours but reliability and excellence (responsiveness, follow-through). She illustrates technical-to-nontechnical translation using Netflix\u2019s push into live events (e.g., WWE) and lessons from the Love Is Blind live failure.",
+      "timestamp_start": "00:14:00",
+      "timestamp_end": "00:18:50",
+      "speakers": [
+        "Lenny",
+        "Elizabeth Stone"
+      ],
+      "themes": [
+        "Leadership",
+        "Company Culture",
+        "Execution"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "elizabeth-stone_t9",
+      "title": "Coaching excellence: expectations, feedback, and help",
+      "summary": "Elizabeth outlines how she raises the bar on her teams: model the standard, give direct specific feedback, and actively help close gaps\u2014often privately to preserve psychological safety.",
+      "timestamp_start": "00:18:50",
+      "timestamp_end": "00:25:02",
+      "speakers": [
+        "Lenny",
+        "Elizabeth Stone"
+      ],
+      "themes": [
+        "Management",
+        "Feedback",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elizabeth-stone_t10",
+      "title": "Excellence vs polish: focus on outcomes",
+      "summary": "They discuss avoiding burnout by prioritizing clarity of objectives over unnecessary polish (e.g., QBR docs), using expectation-setting to steer effort toward the highest-impact work.",
+      "timestamp_start": "00:25:02",
+      "timestamp_end": "00:27:44",
+      "speakers": [
+        "Lenny",
+        "Elizabeth Stone"
+      ],
+      "themes": [
+        "Execution",
+        "Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elizabeth-stone_t11",
+      "title": "Netflix culture: talent density and keeper test",
+      "summary": "Elizabeth explains why talent density is foundational and how it\u2019s maintained through candid feedback and timely decisions, including the keeper test framing and the absence of formal performance reviews.",
+      "timestamp_start": "00:27:44",
+      "timestamp_end": "00:36:31",
+      "speakers": [
+        "Lenny",
+        "Elizabeth Stone"
+      ],
+      "themes": [
+        "Company Culture",
+        "Management",
+        "Hiring"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elizabeth-stone_t12",
+      "title": "Reducing fear: clarity through frequent feedback",
+      "summary": "They address whether the keeper test creates anxiety; Elizabeth argues regular, explicit conversations reduce stress versus ambiguity, even in a high-bar environment.",
+      "timestamp_start": "00:36:31",
+      "timestamp_end": "00:38:49",
+      "speakers": [
+        "Lenny",
+        "Elizabeth Stone"
+      ],
+      "themes": [
+        "Company Culture",
+        "Feedback"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "elizabeth-stone_t13",
+      "title": "Hiring for bar-raising, not box-checking",
+      "summary": "Elizabeth shares Netflix\u2019s hiring philosophy: pay personal top-of-market but focus interviews on whether candidates add new perspectives and elevate the team, not just meet a checklist.",
+      "timestamp_start": "00:38:49",
+      "timestamp_end": "00:42:42",
+      "speakers": [
+        "Lenny",
+        "Elizabeth Stone"
+      ],
+      "themes": [
+        "Hiring",
+        "Company Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elizabeth-stone_t14",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Xplo embedded analytics.",
+      "timestamp_start": "00:42:42",
+      "timestamp_end": "00:43:54",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elizabeth-stone_t15",
+      "title": "Freedom and responsibility: what others shouldn\u2019t copy",
+      "summary": "Elizabeth answers what practices other companies shouldn\u2019t emulate without Netflix-level talent density: minimal process/guardrails, broad autonomy, and high judgment expectations enabling bottom-up innovation.",
+      "timestamp_start": "00:43:54",
+      "timestamp_end": "00:47:55",
+      "speakers": [
+        "Lenny",
+        "Elizabeth Stone"
+      ],
+      "themes": [
+        "Company Culture",
+        "Leadership",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elizabeth-stone_t16",
+      "title": "Candor in practice: transparency and IC levels change",
+      "summary": "Elizabeth describes sharing leadership-meeting notes broadly as \u201ccontext not control,\u201d and recounts introducing IC levels (previously no levels) plus a candid retro acknowledging what went well and what didn\u2019t.",
+      "timestamp_start": "00:47:55",
+      "timestamp_end": "00:51:44",
+      "speakers": [
+        "Lenny",
+        "Elizabeth Stone"
+      ],
+      "themes": [
+        "Company Culture",
+        "Change Management",
+        "Leadership"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

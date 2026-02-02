@@ -1,0 +1,271 @@
+{
+  "episode_id": "brian-tolkin",
+  "topics": [
+    {
+      "topic_id": "brian-tolkin_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Brian Tolkin\u2019s background (early Uber employee, ops-to-product path, uberPOOL, product ops) and previews topics like product+ops, product reviews, and jobs-to-be-done.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:14",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brian Tolkin"
+      ],
+      "themes": [
+        "Career",
+        "Product Management",
+        "Operations"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "brian-tolkin_t2",
+      "title": "How ops experience shapes product leadership",
+      "summary": "Brian explains how working in ops builds deep business understanding and customer closeness, which later informs scalable product decisions and better prioritization.",
+      "timestamp_start": "00:02:14",
+      "timestamp_end": "00:03:52",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brian Tolkin"
+      ],
+      "themes": [
+        "Operations",
+        "Product Management",
+        "Customer Research"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "brian-tolkin_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Pendo (product experience platform) and Explo (embedded analytics).",
+      "timestamp_start": "00:03:52",
+      "timestamp_end": "00:06:18",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "brian-tolkin_t4",
+      "title": "Product vs ops tension and mutual respect",
+      "summary": "They discuss why product teams can undervalue ops, and Brian frames product+ops as complementary \u201ctwin engines,\u201d with ops providing fast iteration and rich qualitative insights from the field.",
+      "timestamp_start": "00:06:18",
+      "timestamp_end": "00:08:22",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brian Tolkin"
+      ],
+      "themes": [
+        "Operations",
+        "Product Management",
+        "Org Design"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "brian-tolkin_t5",
+      "title": "Origin and purpose of product operations",
+      "summary": "Brian defines product operations at Uber as strengthening the bidirectional feedback loop between centralized product teams and globally distributed ops teams, helping ship features globally and bring market insights back.",
+      "timestamp_start": "00:08:22",
+      "timestamp_end": "00:09:54",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brian Tolkin"
+      ],
+      "themes": [
+        "Operations",
+        "Org Design",
+        "Product Management"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "brian-tolkin_t6",
+      "title": "Early Uber surge pricing: humans in loop",
+      "summary": "Brian describes how surge pricing was initially controlled by city GMs (on/off windows, caps, geographies) due to local knowledge, risk, and technical constraints before full automation.",
+      "timestamp_start": "00:09:54",
+      "timestamp_end": "00:12:17",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brian Tolkin"
+      ],
+      "themes": [
+        "Operations",
+        "Pricing",
+        "Scaling"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "brian-tolkin_t7",
+      "title": "Scaling war stories: UberX name and China launch",
+      "summary": "Brian shares early Uber anecdotes: UberX\u2019s name started as a placeholder, and the stressful overnight scramble to launch uberPOOL in Chengdu, China, culminating in a memorable post-launch breakfast.",
+      "timestamp_start": "00:12:17",
+      "timestamp_end": "00:15:46",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brian Tolkin"
+      ],
+      "themes": [
+        "Scaling",
+        "Operations",
+        "Career"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "brian-tolkin_t8",
+      "title": "Opendoor\u2019s COVID pivot to virtual processes",
+      "summary": "Brian recounts Opendoor temporarily stopping home buying when COVID hit, then using the pause to virtualize key parts of the process to operate safely and continue serving customers.",
+      "timestamp_start": "00:15:46",
+      "timestamp_end": "00:16:51",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brian Tolkin"
+      ],
+      "themes": [
+        "Operations",
+        "Crisis Management",
+        "Scaling"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "brian-tolkin_t9",
+      "title": "What Opendoor does: simple home selling",
+      "summary": "Brian explains Opendoor\u2019s core product: sellers enter home info online and receive an all-cash offer, enabling a simple, certain sale with flexible closing and minimal hassle.",
+      "timestamp_start": "00:16:51",
+      "timestamp_end": "00:17:53",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brian Tolkin"
+      ],
+      "themes": [
+        "Product Management",
+        "Business Model",
+        "Customer Experience"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "brian-tolkin_t10",
+      "title": "Making product and ops work together",
+      "summary": "Brian outlines lessons: mutual respect, focusing scarce engineering on highest-leverage systems, being explicit about what won\u2019t be built yet, and designing for real-world messiness and non-deterministic human behavior.",
+      "timestamp_start": "00:17:53",
+      "timestamp_end": "00:20:52",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brian Tolkin"
+      ],
+      "themes": [
+        "Operations",
+        "Product Management",
+        "Scaling"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "brian-tolkin_t11",
+      "title": "From doing things manually to scaling with tech",
+      "summary": "Using driver onboarding as an example, Brian describes the evolution from 1:1 onboarding to classes to video, then to automation (e.g., OCR/verification), freeing ops capacity to tackle new problems.",
+      "timestamp_start": "00:20:52",
+      "timestamp_end": "00:25:34",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brian Tolkin"
+      ],
+      "themes": [
+        "Scaling",
+        "Operations",
+        "Automation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "brian-tolkin_t12",
+      "title": "How to run effective product reviews",
+      "summary": "Brian shares product review principles: align on goals (accountability + making the product better), avoid \u201cfiring squad\u201d dynamics through probing and context-sharing, keep meetings small (<10), and rely on reusable artifacts.",
+      "timestamp_start": "00:25:34",
+      "timestamp_end": "00:30:59",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brian Tolkin"
+      ],
+      "themes": [
+        "Product Management",
+        "Leadership",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "brian-tolkin_t13",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Attio (CRM).",
+      "timestamp_start": "00:30:59",
+      "timestamp_end": "00:31:54",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "brian-tolkin_t14",
+      "title": "Jobs-to-be-done at Opendoor in practice",
+      "summary": "Brian explains why JTBD helps at Opendoor (infrequent customer journeys, complex context), how it\u2019s embedded in product review templates and culture, and why correct adoption requires time and non-dogmatic thinking.",
+      "timestamp_start": "00:31:54",
+      "timestamp_end": "00:40:29",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brian Tolkin"
+      ],
+      "themes": [
+        "Customer Research",
+        "Product Management",
+        "Frameworks"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "brian-tolkin_t15",
+      "title": "Experimentation with low volume and intuition",
+      "summary": "Brian discusses A/B testing constraints with low sample sizes: run power analyses, accept long runtimes when necessary, use alternative methods (observational data, geo comparisons, lower confidence thresholds), and ship with judgment plus feedback loops.",
+      "timestamp_start": "00:40:29",
+      "timestamp_end": "00:47:04",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brian Tolkin"
+      ],
+      "themes": [
+        "Experimentation",
+        "Data",
+        "Decision Making"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "brian-tolkin_t16",
+      "title": "Zillow competition and partnership setup",
+      "summary": "They begin discussing Zillow\u2019s attempt to compete with Opendoor and the later partnership; Brian frames the partnership as a synergy between Zillow\u2019s audience reach and Opendoor\u2019s transaction capabilities.",
+      "timestamp_start": "00:47:04",
+      "timestamp_end": "00:47:36",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brian Tolkin"
+      ],
+      "themes": [
+        "Partnerships",
+        "Competition",
+        "Business Strategy"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

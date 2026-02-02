@@ -1,0 +1,221 @@
+{
+  "episode_id": "ravi-mehta",
+  "topics": [
+    {
+      "topic_id": "ravi-mehta_t1",
+      "title": "Leading style: scalable leadership vs tactical micromanagement",
+      "summary": "Ravi shares a coaching framework: aim for scalable leadership with clear direction and team autonomy, but use selective, temporary micromanagement when the team is heading the wrong way to quickly reset direction.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:46",
+      "speakers": [
+        "Ravi Mehta"
+      ],
+      "themes": [
+        "Product Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ravi-mehta_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the show and Ravi Mehta\u2019s background (Tinder, Facebook, Tripadvisor, Reforge) and what they\u2019ll cover: product strategy, leadership development, and big-company vs startup lessons.",
+      "timestamp_start": "00:00:46",
+      "timestamp_end": "00:01:47",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Product Leadership",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ravi-mehta_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Merge (unified API integrations) and OneSchema (embeddable CSV importer) and a listener discount.",
+      "timestamp_start": "00:01:47",
+      "timestamp_end": "00:03:58",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ravi-mehta_t4",
+      "title": "Ravi\u2019s career arc: games to product leadership",
+      "summary": "Ravi recounts learning to code early, starting a game company, joining Microsoft\u2019s early Xbox Live team, moving into startups, and later leading product at Tripadvisor, Facebook, and Tinder.",
+      "timestamp_start": "00:03:58",
+      "timestamp_end": "00:06:18",
+      "speakers": [
+        "Lenny",
+        "Ravi Mehta"
+      ],
+      "themes": [
+        "Career",
+        "Product Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ravi-mehta_t5",
+      "title": "Founding Outpace: making elite coaching accessible",
+      "summary": "Ravi explains leaving big tech to build again, his time as Reforge EIR launching programs, and the insight that 1:1 coaching is uniquely valuable but inaccessible\u2014leading to Outpace and its AI-assisted coaching model.",
+      "timestamp_start": "00:06:18",
+      "timestamp_end": "00:08:04",
+      "speakers": [
+        "Lenny",
+        "Ravi Mehta"
+      ],
+      "themes": [
+        "Startups",
+        "Career"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ravi-mehta_t6",
+      "title": "Big company vs startup: velocity vs latency",
+      "summary": "Ravi contrasts big-company speed (high velocity) with startup advantage (low latency): startups can test hypotheses quickly even if they ship less overall, enabling tighter iteration loops.",
+      "timestamp_start": "00:08:04",
+      "timestamp_end": "00:11:07",
+      "speakers": [
+        "Lenny",
+        "Ravi Mehta"
+      ],
+      "themes": [
+        "Startups",
+        "Product Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ravi-mehta_t7",
+      "title": "Decision-making shift: experiments to conviction",
+      "summary": "He describes why early startups can\u2019t rely on statistically rigorous experimentation and must instead build \u201cinformed conviction,\u201d execute, and adjust quickly to avoid analysis paralysis.",
+      "timestamp_start": "00:11:08",
+      "timestamp_end": "00:12:44",
+      "speakers": [
+        "Lenny",
+        "Ravi Mehta"
+      ],
+      "themes": [
+        "Startups",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ravi-mehta_t8",
+      "title": "Networks differ by stage and how to prepare",
+      "summary": "Ravi explains that big-company networks often don\u2019t translate to early-stage hiring and execution; he advises aspiring founders to plug into founder, indie, and early-stage growth communities and investor networks early.",
+      "timestamp_start": "00:12:45",
+      "timestamp_end": "00:17:38",
+      "speakers": [
+        "Lenny",
+        "Ravi Mehta"
+      ],
+      "themes": [
+        "Startups",
+        "Career"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ravi-mehta_t9",
+      "title": "Defining product strategy with the strategy stack",
+      "summary": "Ravi introduces the Product Strategy Stack to de-confuse mission, company strategy, product strategy, roadmap, and goals\u2014helping teams prioritize and debug execution by moving top-down or bottom-up.",
+      "timestamp_start": "00:17:49",
+      "timestamp_end": "00:22:04",
+      "speakers": [
+        "Lenny",
+        "Ravi Mehta"
+      ],
+      "themes": [
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ravi-mehta_t10",
+      "title": "Mission vs vision and making strategy visual",
+      "summary": "They discuss folding vision into mission and why strategy docs should include wireframes: visuals reduce misinterpretation, force tradeoffs, and create alignment; Ravi recommends sketching or tools like Balsamiq.",
+      "timestamp_start": "00:22:04",
+      "timestamp_end": "00:28:18",
+      "speakers": [
+        "Lenny",
+        "Ravi Mehta"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Product Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ravi-mehta_t11",
+      "title": "Strategy stack example: Tinder vs Hinge",
+      "summary": "Ravi compares Tinder and Hinge across mission, company strategy, and product strategy\u2014showing how different philosophies (serendipity vs intentionality) shape profiles, mechanics, roadmap choices, and goals.",
+      "timestamp_start": "00:28:20",
+      "timestamp_end": "00:34:10",
+      "speakers": [
+        "Lenny",
+        "Ravi Mehta"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Product Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ravi-mehta_t12",
+      "title": "Tinder monetization discovery: whales and new tiers",
+      "summary": "Ravi shares a research story: heavy spenders weren\u2019t wealthy but had urgent dating needs and benchmarked spend against dating costs; insights led to Tinder Platinum and higher-priced messaging/super-like capabilities.",
+      "timestamp_start": "00:34:19",
+      "timestamp_end": "00:40:05",
+      "speakers": [
+        "Lenny",
+        "Ravi Mehta"
+      ],
+      "themes": [
+        "Monetization",
+        "User Research"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ravi-mehta_t13",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Miro, highlighting collaborative strategy and product planning workflows and inviting guest suggestions via a shared board.",
+      "timestamp_start": "00:40:05",
+      "timestamp_end": "00:41:05",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ravi-mehta_t14",
+      "title": "Impact stories: relationships and LGBTQ inclusion",
+      "summary": "They reflect on the emotional payoff of product work at Tinder, including hearing user success stories and how Tinder\u2019s lightweight design helped LGBTQ users connect; Lenny shares meeting his wife via an online dating product.",
+      "timestamp_start": "00:41:05",
+      "timestamp_end": "00:41:58",
+      "speakers": [
+        "Lenny",
+        "Ravi Mehta"
+      ],
+      "themes": [
+        "Product Impact",
+        "Career"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

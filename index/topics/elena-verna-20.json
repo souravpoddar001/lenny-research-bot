@@ -1,0 +1,284 @@
+{
+  "episode_id": "elena-verna-20",
+  "topics": [
+    {
+      "topic_id": "elena-verna-20_t1",
+      "title": "Product-led sales requires new internal collaboration",
+      "summary": "Elena contrasts traditional sales org structure with product-led sales, where product is accountable for acquiring/activating users and creating pipeline for sales. She warns that trying to run PLG/PLS purely from marketing is a fast path to failure.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:40",
+      "speakers": [
+        "Elena Verna"
+      ],
+      "themes": [
+        "Product-led Sales"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elena-verna-20_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Elena Verna, her experience, and what the episode will cover: a deep dive into product-led sales, how it differs from PLG/SLG, and how to implement it.",
+      "timestamp_start": "00:01:09",
+      "timestamp_end": "00:02:35",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Product-led Sales"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "elena-verna-20_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Linear and Braintrust.",
+      "timestamp_start": "00:02:35",
+      "timestamp_end": "00:05:06",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Operations & Tooling"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elena-verna-20_t4",
+      "title": "Elena\u2019s current work and advising availability",
+      "summary": "Elena shares she wrapped her interim role at Amplitude, is taking a break between interim gigs, and is advising companies while building new frameworks. She\u2019s open to conversations but not actively sourcing clients.",
+      "timestamp_start": "00:05:06",
+      "timestamp_end": "00:07:10",
+      "speakers": [
+        "Lenny",
+        "Elena Verna"
+      ],
+      "themes": [
+        "Career & Leadership"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "elena-verna-20_t5",
+      "title": "Defining product-led sales vs product-led growth",
+      "summary": "Elena defines PLG as self-serve acquisition/activation/engagement and value capture, and explains PLS as converting self-serve usage into sales-led expansion. She notes self-serve monetization caps around ~$10k, making sales necessary for larger contracts.",
+      "timestamp_start": "00:07:10",
+      "timestamp_end": "00:09:44",
+      "speakers": [
+        "Lenny",
+        "Elena Verna"
+      ],
+      "themes": [
+        "Product-led Sales",
+        "Monetization & Pricing"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "elena-verna-20_t6",
+      "title": "Individual-to-enterprise escalator and enterprise value",
+      "summary": "Elena explains PLS assumes an \u201cescalator\u201d from individual job-to-be-done to enterprise-level outcomes (e.g., Amplitude: insights \u2192 data-driven culture). Sales bridges the gap because products often fail to communicate enterprise value clearly.",
+      "timestamp_start": "00:09:44",
+      "timestamp_end": "00:12:28",
+      "speakers": [
+        "Lenny",
+        "Elena Verna"
+      ],
+      "themes": [
+        "Product-led Sales",
+        "Enterprise GTM"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elena-verna-20_t7",
+      "title": "When sales is needed: motivation, ability, permission",
+      "summary": "Elena frames when to involve sales using user motivation/ability/permission: users may lack authority or capability to drive enterprise adoption. Sales (and marketing) help assemble stakeholders, overcome friction, and enable internal selling.",
+      "timestamp_start": "00:12:28",
+      "timestamp_end": "00:15:06",
+      "speakers": [
+        "Lenny",
+        "Elena Verna"
+      ],
+      "themes": [
+        "Product-led Sales",
+        "Enterprise GTM"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elena-verna-20_t8",
+      "title": "Examples: Miro and Figma enterprise problem statements",
+      "summary": "Elena illustrates how products start with individual/team use cases but monetize at enterprise level (Miro: workshops \u2192 org productivity/innovation; Figma: design feedback \u2192 better business outcomes). She argues products should increasingly communicate enterprise value, not only sales.",
+      "timestamp_start": "00:15:06",
+      "timestamp_end": "00:17:42",
+      "speakers": [
+        "Lenny",
+        "Elena Verna"
+      ],
+      "themes": [
+        "Product-led Sales",
+        "Enterprise GTM"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elena-verna-20_t9",
+      "title": "Why hand-raisers plateau and pipeline must be created",
+      "summary": "Elena explains many PLG companies start PLS by responding to inbound enterprise requests, but this demand quickly dries up. The real work is converting usage into pipeline by finding decision-makers outside the user base and connecting them to product value.",
+      "timestamp_start": "00:17:42",
+      "timestamp_end": "00:20:31",
+      "speakers": [
+        "Lenny",
+        "Elena Verna"
+      ],
+      "themes": [
+        "Product-led Sales",
+        "Sales Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "elena-verna-20_t10",
+      "title": "Who should invest in product-led sales",
+      "summary": "Elena says PLS effectively means going upmarket (often $15k+ ACV and into mid-market/enterprise). Products focused on freelancers/startups may not benefit because buyers are price-sensitive and prefer self-serve without sales involvement.",
+      "timestamp_start": "00:20:31",
+      "timestamp_end": "00:22:36",
+      "speakers": [
+        "Lenny",
+        "Elena Verna"
+      ],
+      "themes": [
+        "Product-led Sales",
+        "Enterprise GTM"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elena-verna-20_t11",
+      "title": "Two paths to PLS: from PLG upmarket or SLG downmarket",
+      "summary": "Elena outlines two adoption paths: PLG companies add sales to move upmarket; SLG companies add product-led elements to scale downmarket or meet buyers who demand value before purchase. PLS helps reduce cost of sale and/or de-risk enterprise buying.",
+      "timestamp_start": "00:22:36",
+      "timestamp_end": "00:24:27",
+      "speakers": [
+        "Lenny",
+        "Elena Verna"
+      ],
+      "themes": [
+        "Product-led Sales",
+        "Sales Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "elena-verna-20_t12",
+      "title": "Product must own monetization and pipeline creation",
+      "summary": "Elena reiterates SLG companies must add product-assisted/PLG capabilities or risk disruption, and argues B2B product teams have ceded monetization ownership to sales/marketing. She describes product owning self-serve revenue (often via growth teams) and owning product-created pipeline thresholds for sales.",
+      "timestamp_start": "00:24:27",
+      "timestamp_end": "00:28:38",
+      "speakers": [
+        "Lenny",
+        "Elena Verna"
+      ],
+      "themes": [
+        "Monetization & Pricing",
+        "Product-led Sales"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elena-verna-20_t13",
+      "title": "PQA vs PQL vs MQL and three lead paths",
+      "summary": "Elena defines product-qualified accounts (usage-based account signals), product-qualified leads (a buyer within the user base), and marketing-qualified leads (buyer sourced by marketing/sales). She explains three paths: usage+buyer, usage+no buyer (need to find decision-maker), and buyer+no usage (top-down).",
+      "timestamp_start": "00:28:38",
+      "timestamp_end": "00:32:51",
+      "speakers": [
+        "Lenny",
+        "Elena Verna"
+      ],
+      "themes": [
+        "Product-led Sales",
+        "Sales Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "elena-verna-20_t14",
+      "title": "Avoid jamming PLS into top-down sales motions",
+      "summary": "Elena warns against treating new sign-ups like traditional MQLs and immediately pushing sales outreach, creating a mismatched journey (memes: The Shining/urinal). PLG starts with individual intent, while top-down sales assumes enterprise intent at the bottom of the funnel.",
+      "timestamp_start": "00:32:51",
+      "timestamp_end": "00:36:05",
+      "speakers": [
+        "Lenny",
+        "Elena Verna"
+      ],
+      "themes": [
+        "Product-led Sales",
+        "Sales Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elena-verna-20_t15",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Rows.com.",
+      "timestamp_start": "00:36:05",
+      "timestamp_end": "00:37:17",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Operations & Tooling"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "elena-verna-20_t16",
+      "title": "Building PLS: data approach and PQA modeling",
+      "summary": "Elena recommends starting with sales intuition and lightweight analysis before buying tooling, to avoid flooding sales with low-quality leads. She suggests iterating PQA definitions with tight sales feedback loops, then scaling via regression/automation once the model is understood.",
+      "timestamp_start": "00:37:17",
+      "timestamp_end": "00:42:00",
+      "speakers": [
+        "Lenny",
+        "Elena Verna"
+      ],
+      "themes": [
+        "Data & Analytics",
+        "Product-led Sales"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elena-verna-20_t17",
+      "title": "Common PQA signals: users, volume, velocity, behaviors",
+      "summary": "Elena shares common predictors for sales engagement: number of users (often a \u201c7 users\u201d threshold), usage volume (events/boards/revisions), and velocity changes. She adds behavioral signals like admin changes and visits to terms/privacy pages as strong indicators of enterprise evaluation.",
+      "timestamp_start": "00:42:00",
+      "timestamp_end": "00:46:59",
+      "speakers": [
+        "Lenny",
+        "Elena Verna"
+      ],
+      "themes": [
+        "Data & Analytics",
+        "Product-led Sales"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "elena-verna-20_t18",
+      "title": "Over-outreach risks: channel saturation and user trust",
+      "summary": "Elena argues aggressive sales outreach can desensitize users to key channels (email/in-app), reducing responsiveness when timing is actually right. She emphasizes protecting the user journey and using outreach thoughtfully to preserve attention and trust.",
+      "timestamp_start": "00:46:59",
+      "timestamp_end": "00:47:59",
+      "speakers": [
+        "Lenny",
+        "Elena Verna"
+      ],
+      "themes": [
+        "Product-led Sales",
+        "Customer Experience"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

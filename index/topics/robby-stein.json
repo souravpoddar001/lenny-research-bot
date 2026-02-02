@@ -1,0 +1,257 @@
+{
+  "episode_id": "robby-stein",
+  "topics": [
+    {
+      "topic_id": "robby-stein_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny frames a perceived internal shift at Google amid the AI moment; Robby ties it to Google\u2019s mission and a new sense of urgency as models reach a consumer-ready tipping point.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:28",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Robby Stein"
+      ],
+      "themes": [
+        "AI Product Strategy",
+        "Search Evolution",
+        "Product Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "robby-stein_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Vanta (SOC 2 compliance automation) and Jira Product Discovery (insights, prioritization, roadmapping).",
+      "timestamp_start": "00:03:00",
+      "timestamp_end": "00:04:49",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsorship"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "robby-stein_t3",
+      "title": "Gemini hits #1: what changed at Google",
+      "summary": "Lenny asks what drove Gemini\u2019s App Store surge and whether \u201cNano Banana\u201d is the catalyst; Robby attributes momentum to broader product power, discovery, and compounding improvements plus tighter research\u2013product collaboration.",
+      "timestamp_start": "00:04:49",
+      "timestamp_end": "00:07:52",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Robby Stein"
+      ],
+      "themes": [
+        "AI Product Strategy",
+        "Product Leadership",
+        "Execution & Iteration"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "robby-stein_t4",
+      "title": "Is search dying? AI as expansionary",
+      "summary": "They discuss fears that chatbots would kill search; Robby argues core search needs remain vast and stable, while AI expands curiosity and query volume, citing rapid growth in Google Lens visual searches.",
+      "timestamp_start": "00:07:52",
+      "timestamp_end": "00:09:45",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Robby Stein"
+      ],
+      "themes": [
+        "Search Evolution",
+        "AI Product Strategy",
+        "User Behavior"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "robby-stein_t5",
+      "title": "AI Mode explained: Overviews, multimodal, and integration",
+      "summary": "Robby outlines three pillars\u2014AI Overviews, multimodal/Lens, and AI Mode\u2014and explains how AI Mode unifies Google\u2019s knowledge graphs (Shopping, Maps, web) into a conversational, search-specialized experience that\u2019s increasingly integrated into core Search.",
+      "timestamp_start": "00:09:45",
+      "timestamp_end": "00:13:41",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Robby Stein"
+      ],
+      "themes": [
+        "AI Product Strategy",
+        "Search Evolution",
+        "Multimodal AI"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "robby-stein_t6",
+      "title": "Natural language search and the Ask Jeeves loop",
+      "summary": "They explore the shift from keyword queries back to natural-language questions, with Robby describing how users are already pushing Google toward longer, more contextual prompts and follow-ups.",
+      "timestamp_start": "00:13:41",
+      "timestamp_end": "00:15:29",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Robby Stein"
+      ],
+      "themes": [
+        "Search Evolution",
+        "User Behavior",
+        "AI UX"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "robby-stein_t7",
+      "title": "AEO/GEO and how AI answers are constructed",
+      "summary": "Robby explains \u201cquery fan-out,\u201d where the model runs many background searches and checks sources, implying creators should still follow quality guidelines (intent, originality, citations) while adapting to AI-driven \u2018advice/how-to\u2019 demand.",
+      "timestamp_start": "00:15:29",
+      "timestamp_end": "00:18:51",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Robby Stein"
+      ],
+      "themes": [
+        "Search Evolution",
+        "AI Product Strategy",
+        "Content & SEO"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "robby-stein_t8",
+      "title": "Building AI products: language as the new interface",
+      "summary": "Robby shares a recent lesson: prompting and tool-use are becoming more human-like, reducing the need for heavy fine-tuning as models can follow richer natural-language instructions and use tools/APIs more reliably.",
+      "timestamp_start": "00:18:51",
+      "timestamp_end": "00:21:28",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Robby Stein"
+      ],
+      "themes": [
+        "AI UX",
+        "AI Product Strategy",
+        "Developer Platforms"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "robby-stein_t9",
+      "title": "Relentless improvement: dissatisfaction as a product superpower",
+      "summary": "Robby defines \u201cembodying relentless improvement,\u201d sharing personal stories (his wife\u2019s \u2018dissatisfied\u2019 label; Tony Fadell\u2019s fruit-sticker rant) to illustrate never accepting friction and continuously compounding quality gains until a tipping point.",
+      "timestamp_start": "00:21:28",
+      "timestamp_end": "00:25:32",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Robby Stein"
+      ],
+      "themes": [
+        "Product Leadership",
+        "Execution & Iteration",
+        "Product Craft"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "robby-stein_t10",
+      "title": "AI Mode origin story: users appending 'AI' to queries",
+      "summary": "Robby describes how observing users trying to force AI behavior in Search (adding \u201cAI\u201d to queries) motivated building AI Mode to solve unmet needs rather than accepting limitations.",
+      "timestamp_start": "00:25:32",
+      "timestamp_end": "00:26:52",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Robby Stein"
+      ],
+      "themes": [
+        "AI Product Strategy",
+        "User Research",
+        "Execution & Iteration"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "robby-stein_t11",
+      "title": "Balancing craft and metrics: instrumentation as a guide",
+      "summary": "Robby argues it\u2019s not craft vs KPIs: start from problem/vision, then use metrics (retention curves, growth gates, root-cause analysis) to validate direction while product judgment determines what to improve.",
+      "timestamp_start": "00:26:52",
+      "timestamp_end": "00:30:05",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Robby Stein"
+      ],
+      "themes": [
+        "Metrics & Growth",
+        "Product Leadership",
+        "Execution & Iteration"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "robby-stein_t12",
+      "title": "Instagram Stories: copying a format and making it yours",
+      "summary": "Robby reflects on launching Stories: recognizing a new primitive (ephemeral, full-screen sharing), avoiding contorting the feed, and differentiating via Instagram-specific choices (uploads, pause, creative tools) that completed the product experience.",
+      "timestamp_start": "00:30:05",
+      "timestamp_end": "00:34:05",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Robby Stein"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Product Craft",
+        "Competitive Dynamics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "robby-stein_t13",
+      "title": "Handling backlash: user-first rationale for 'borrowed' ideas",
+      "summary": "They discuss criticism that Instagram \u201cstole\u201d Snapchat; Robby frames it as serving users with widely adopted formats (like feeds) and tailoring them to each product\u2019s unique usage patterns.",
+      "timestamp_start": "00:34:05",
+      "timestamp_end": "00:35:21",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Robby Stein"
+      ],
+      "themes": [
+        "Competitive Dynamics",
+        "Product Strategy",
+        "Product Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "robby-stein_t14",
+      "title": "Driving growth in mature products: jobs-to-be-done and new primitives",
+      "summary": "Robby explains how to enter established products (Instagram, Google): stay humble, study why users come (jobs-to-be-done), spot shifting behaviors, and add complementary new formats that fit user expectations without confusing the core experience.",
+      "timestamp_start": "00:35:21",
+      "timestamp_end": "00:40:09",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Robby Stein"
+      ],
+      "themes": [
+        "Product Strategy",
+        "User Research",
+        "Product Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "robby-stein_t15",
+      "title": "Resource allocation: diminishing returns and new growth engines",
+      "summary": "Robby begins outlining a heuristic for balancing optimization vs big bets: use analytical thinking to identify diminishing marginal returns in mature areas, then shift investment toward new growth drivers when fundamentals or user expectations change.",
+      "timestamp_start": "00:40:09",
+      "timestamp_end": "00:41:23",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Robby Stein"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Metrics & Growth",
+        "Execution & Iteration"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

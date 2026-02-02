@@ -1,0 +1,241 @@
+{
+  "episode_id": "kevin-weil",
+  "topics": [
+    {
+      "topic_id": "kevin-weil_t1",
+      "title": "Introduction and Background",
+      "summary": "Kevin frames AI\u2019s rapid improvement and why builders must assume models will keep getting dramatically better. Lenny introduces Kevin\u2019s background and what the episode will cover.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:24",
+      "speakers": [
+        "Kevin Weil",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Introduction and Background"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kevin-weil_t2",
+      "title": "Sponsor Break",
+      "summary": "Lenny reads sponsor messages for Eppo and Persona and promotes the newsletter bundle.",
+      "timestamp_start": "00:02:24",
+      "timestamp_end": "00:05:23",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kevin-weil_t3",
+      "title": "Image model launch and viral Ghibli trend",
+      "summary": "They discuss OpenAI\u2019s new image model launch, why it went viral, and how internal usage signaled strong product-market fit. Kevin explains the model\u2019s instruction-following and compositional capabilities beyond style transfer.",
+      "timestamp_start": "00:05:23",
+      "timestamp_end": "00:08:11",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Kevin Weil"
+      ],
+      "themes": [
+        "Product Strategy",
+        "AI Product Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kevin-weil_t4",
+      "title": "Defining AI, shifting baselines, and normalization",
+      "summary": "Kevin and Lenny explore how breakthroughs quickly become \u201cjust algorithms,\u201d using GPT-3 and self-driving cars as examples. They highlight how fast user expectations reset as capabilities improve.",
+      "timestamp_start": "00:08:11",
+      "timestamp_end": "00:11:23",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Kevin Weil"
+      ],
+      "themes": [
+        "AI Industry Trends",
+        "Future of Work"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "kevin-weil_t5",
+      "title": "Kevin\u2019s recruiting story joining OpenAI",
+      "summary": "Kevin recounts how a planned break turned into a fast OpenAI recruiting process, including a stressful nine-day silence after interviews. The segment emphasizes ambiguity, speed, and intensity around OpenAI\u2019s hiring.",
+      "timestamp_start": "00:11:23",
+      "timestamp_end": "00:15:59",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Kevin Weil"
+      ],
+      "themes": [
+        "Career",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "kevin-weil_t6",
+      "title": "What\u2019s different at OpenAI: pace and uncertainty",
+      "summary": "Kevin contrasts traditional product building on stable tech stacks with AI\u2019s rapidly shifting capabilities. He explains why \u201cfuzzy inputs/outputs\u201d change product design and why reliability thresholds (60% vs 95% vs 99.5%) matter.",
+      "timestamp_start": "00:15:59",
+      "timestamp_end": "00:18:45",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Kevin Weil"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kevin-weil_t7",
+      "title": "Evals as a core skill for AI builders",
+      "summary": "Kevin defines evals as tests/benchmarks for model performance and argues they\u2019re essential for building AI products. He uses Deep Research as an example of designing evals alongside product design to guide iteration and fine-tuning.",
+      "timestamp_start": "00:18:45",
+      "timestamp_end": "00:24:40",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Kevin Weil"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kevin-weil_t8",
+      "title": "Startup moats: where OpenAI won\u2019t build everything",
+      "summary": "Kevin explains why there will always be more opportunities outside OpenAI than inside it, emphasizing vertical-specific data and workflows. He encourages startups to build industry- and company-specific AI products on top of OpenAI\u2019s API ecosystem.",
+      "timestamp_start": "00:24:40",
+      "timestamp_end": "00:26:24",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Kevin Weil"
+      ],
+      "themes": [
+        "Startups",
+        "AI Ecosystem"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kevin-weil_t9",
+      "title": "Shipping fast: lightweight planning and iterative deployment",
+      "summary": "Kevin describes how OpenAI balances directional alignment with bottoms-up execution, expecting plans to change as models improve. He outlines iterative deployment, tolerance for mistakes, and \u201cmodel maximalism\u201d (avoid over-scaffolding because models will soon improve).",
+      "timestamp_start": "00:26:24",
+      "timestamp_end": "00:32:19",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Kevin Weil"
+      ],
+      "themes": [
+        "Product Strategy",
+        "AI Product Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kevin-weil_t10",
+      "title": "Competition and coding models (Anthropic, OpenAI, others)",
+      "summary": "They discuss why some competitors excel at coding and how intelligence is multidimensional across tasks. Kevin predicts rapid catch-up dynamics across labs, benefiting users, and hints OpenAI has more coming.",
+      "timestamp_start": "00:32:19",
+      "timestamp_end": "00:34:36",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Kevin Weil"
+      ],
+      "themes": [
+        "AI Industry Trends",
+        "AI Ecosystem"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kevin-weil_t11",
+      "title": "Why ChatGPT won mindshare and usage",
+      "summary": "Kevin attributes ChatGPT\u2019s dominance to being early and to bundling many capabilities into a single \u201cone-stop\u201d product. He connects this to a future of more agentic tools that accomplish real tasks for users.",
+      "timestamp_start": "00:34:36",
+      "timestamp_end": "00:36:04",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Kevin Weil"
+      ],
+      "themes": [
+        "Product Strategy",
+        "AI Industry Trends"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "kevin-weil_t12",
+      "title": "Designing AI UX: reasoning latency and chain-of-thought",
+      "summary": "Kevin shares a counterintuitive lesson: AI product UX can be designed by analogy to human behavior (e.g., acknowledging a question before thinking). They discuss tradeoffs in exposing chain-of-thought and how OpenAI landed on summarized reasoning updates.",
+      "timestamp_start": "00:36:04",
+      "timestamp_end": "00:40:57",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Kevin Weil"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Product Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kevin-weil_t13",
+      "title": "Chat as an interface: universal, flexible baseline",
+      "summary": "Kevin argues chat is a powerful default interface because it matches how humans communicate and scales across intelligence levels. He notes specialized UIs can be better for high-volume tasks, but chat remains the catch-all interaction layer.",
+      "timestamp_start": "00:40:57",
+      "timestamp_end": "00:43:51",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Kevin Weil"
+      ],
+      "themes": [
+        "Product Design",
+        "AI Product Development"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "kevin-weil_t14",
+      "title": "Sponsor Break",
+      "summary": "Lenny interviews OneSchema\u2019s founder about FileFeeds for CSV/SFTP integrations, reliability, and validation to prevent bad data imports.",
+      "timestamp_start": "00:43:51",
+      "timestamp_end": "00:45:23",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Christina Gilbert"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "kevin-weil_t15",
+      "title": "Research and product collaboration at OpenAI (partial)",
+      "summary": "Kevin explains OpenAI\u2019s evolution from a research-first org (ChatGPT as a \u201cresearch preview\u201d) toward being both world-class research and product. He notes the company is actively improving how research and product teams work together.",
+      "timestamp_start": "00:45:23",
+      "timestamp_end": "00:46:49",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Kevin Weil"
+      ],
+      "themes": [
+        "Leadership",
+        "AI Product Development"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

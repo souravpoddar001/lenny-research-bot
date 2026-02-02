@@ -1,0 +1,213 @@
+{
+  "episode_id": "naomi-ionita",
+  "topics": [
+    {
+      "topic_id": "naomi-ionita_t1",
+      "title": "Pricing is a living part of product strategy",
+      "summary": "Naomi opens with the lesson to not \"set and forget\" pricing, urging teams to revisit monetization every 6\u201312 months alongside the product roadmap so pricing keeps pace with delivered value.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:32",
+      "speakers": [
+        "Naomi Ionita"
+      ],
+      "themes": [
+        "Monetization & Pricing"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "naomi-ionita_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Naomi\u2019s growth/monetization background (Evernote, Reforge, Invoice2go) and frames the episode around monetization and the \"Modern Growth Stack.\" Naomi shares her career path into venture and her operator-informed investing lens.",
+      "timestamp_start": "00:00:32",
+      "timestamp_end": "00:06:22",
+      "speakers": [
+        "Lenny",
+        "Naomi Ionita"
+      ],
+      "themes": [
+        "Career & Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "naomi-ionita_t3",
+      "title": "Evernote\u2019s missed shift to collaboration and enterprise",
+      "summary": "Naomi explains Evernote\u2019s growth ceiling: it was designed as a personal \"second brain\" and struggled to cross the chasm from single-player to multiplayer/team workflows, limiting virality, retention stickiness, and enterprise monetization.",
+      "timestamp_start": "00:06:22",
+      "timestamp_end": "00:08:06",
+      "speakers": [
+        "Lenny",
+        "Naomi Ionita"
+      ],
+      "themes": [
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "naomi-ionita_t4",
+      "title": "Three common monetization mistakes in startups",
+      "summary": "Naomi outlines recurring pitfalls: waiting too long to monetize, underpricing (including lack of plan segmentation), and failing to revisit pricing over time. She emphasizes monetization as a core PMF signal and warns that free can cheapen perceived value.",
+      "timestamp_start": "00:08:06",
+      "timestamp_end": "00:11:29",
+      "speakers": [
+        "Lenny",
+        "Naomi Ionita"
+      ],
+      "themes": [
+        "Monetization & Pricing"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "naomi-ionita_t5",
+      "title": "Freemium paywalls and day-one vs day-100 value",
+      "summary": "They discuss what should be free vs paid: the path to the \"aha\" moment must be free, while advanced \"day 100\" features belong in higher tiers. Naomi shares how rebalancing packaging at Invoice2go increased upgrades while raising price.",
+      "timestamp_start": "00:11:29",
+      "timestamp_end": "00:15:53",
+      "speakers": [
+        "Lenny",
+        "Naomi Ionita"
+      ],
+      "themes": [
+        "Monetization & Pricing"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "naomi-ionita_t6",
+      "title": "Match price to value with the right metric",
+      "summary": "Naomi explains value metrics (seats vs usage-based) and why a single tier often leaves money on the table. Evernote research revealed \"guilt\" as a conversion driver\u2014signaling the free plan was too generous and segmentation was needed.",
+      "timestamp_start": "00:15:53",
+      "timestamp_end": "00:19:03",
+      "speakers": [
+        "Lenny",
+        "Naomi Ionita"
+      ],
+      "themes": [
+        "Monetization & Pricing"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "naomi-ionita_t7",
+      "title": "How to set and evolve pricing systematically",
+      "summary": "Naomi recommends a cross-functional pricing committee, customer interviews/surveys to rank feature value, and willingness-to-pay research (including Van Westendorp). The goal is to align packaging to what truly drives conversion.",
+      "timestamp_start": "00:19:03",
+      "timestamp_end": "00:22:52",
+      "speakers": [
+        "Lenny",
+        "Naomi Ionita"
+      ],
+      "themes": [
+        "Monetization & Pricing"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "naomi-ionita_t8",
+      "title": "Impact of pricing changes and holistic rebalancing",
+      "summary": "They cover how big pricing changes can be (often 25%+ ARR lifts) and why monetization improvements can outperform acquisition gains. Naomi argues the biggest wins come from holistic pricing+packaging redesign across the customer lifecycle.",
+      "timestamp_start": "00:22:52",
+      "timestamp_end": "00:25:53",
+      "speakers": [
+        "Lenny",
+        "Naomi Ionita"
+      ],
+      "themes": [
+        "Monetization & Pricing"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "naomi-ionita_t9",
+      "title": "Envoy story: discovering underpricing in enterprise sales",
+      "summary": "Naomi shares how Envoy\u2019s founder 10x\u2019d a price in a meeting and the buyer accepted instantly\u2014revealing massive underpricing. She advises pushing until you find the ceiling and accepting some price-based deal loss to learn limits.",
+      "timestamp_start": "00:25:53",
+      "timestamp_end": "00:28:22",
+      "speakers": [
+        "Lenny",
+        "Naomi Ionita"
+      ],
+      "themes": [
+        "Monetization & Pricing"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "naomi-ionita_t10",
+      "title": "Testing pricing in PLG: experimentation pitfalls and tactics",
+      "summary": "Naomi describes how PLG companies can A/B test value metrics, quotas, and promotions, but must keep experiences consistent across product, pricing pages, and emails. She notes long time horizons (churn effects) and suggests geo-based rollouts to de-risk tests.",
+      "timestamp_start": "00:28:22",
+      "timestamp_end": "00:30:56",
+      "speakers": [
+        "Lenny",
+        "Naomi Ionita"
+      ],
+      "themes": [
+        "Experimentation & Analytics"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "naomi-ionita_t11",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Vanta, focusing on automating SOC 2 compliance to speed up security audits and unlock enterprise sales.",
+      "timestamp_start": "00:30:56",
+      "timestamp_end": "00:32:13",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "naomi-ionita_t12",
+      "title": "Revenue vs growth trade-offs and Figma example",
+      "summary": "Naomi explains when it can be smart to prioritize growth over early monetization\u2014especially with a clear upmarket bridge. Figma used broad free adoption to seed collaboration, then monetized as usage spread across teams and enterprises.",
+      "timestamp_start": "00:32:13",
+      "timestamp_end": "00:35:07",
+      "speakers": [
+        "Lenny",
+        "Naomi Ionita"
+      ],
+      "themes": [
+        "Go-to-Market"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "naomi-ionita_t13",
+      "title": "Modern data stack vs modern growth stack",
+      "summary": "Naomi defines the modern data stack (ELT, warehouse, transformation, visualization) and positions the modern growth stack as the workflow layer that operationalizes data for growth and revenue teams\u2014replacing internal tools built for experimentation, personalization, and monetization.",
+      "timestamp_start": "00:35:07",
+      "timestamp_end": "00:39:54",
+      "speakers": [
+        "Lenny",
+        "Naomi Ionita"
+      ],
+      "themes": [
+        "Growth Infrastructure & Tooling"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "naomi-ionita_t14",
+      "title": "Modern growth stack layers: PLS and experimentation tools",
+      "summary": "They discuss product-led sales tools that turn product usage signals into expansion revenue opportunities, plus experimentation platforms (e.g., warehouse-native testing) that tie results to business KPIs like revenue and subscriptions rather than just clicks.",
+      "timestamp_start": "00:39:54",
+      "timestamp_end": "00:44:26",
+      "speakers": [
+        "Lenny",
+        "Naomi Ionita"
+      ],
+      "themes": [
+        "Growth Infrastructure & Tooling"
+      ],
+      "quote_count": 0
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "episode_id": "andy-johns",
+  "topics": [
+    {
+      "topic_id": "andy-johns_t1",
+      "title": "Introduction and Background",
+      "summary": "Andy frames mental health warning signs as disruptions to core functions (sleep, relationships, health). Lenny introduces Andy\u2019s career arc and the episode\u2019s focus on burnout and transformation.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:10",
+      "speakers": [
+        "Andy Johns",
+        "Lenny"
+      ],
+      "themes": [
+        "Mental Health",
+        "Burnout",
+        "Personal Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "andy-johns_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Mercury and Coda, describing their products and offers for startups.",
+      "timestamp_start": "00:02:26",
+      "timestamp_end": "00:04:49",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Message"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "andy-johns_t3",
+      "title": "Choosing honesty and setting episode tone",
+      "summary": "Lenny and Andy acknowledge the conversation will be heavy. Andy shares his commitment to living openly and not hiding difficult parts of his experience.",
+      "timestamp_start": "00:04:49",
+      "timestamp_end": "00:05:29",
+      "speakers": [
+        "Lenny",
+        "Andy Johns"
+      ],
+      "themes": [
+        "Mental Health",
+        "Personal Growth"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "andy-johns_t4",
+      "title": "Career success alongside hidden inner struggle",
+      "summary": "Andy summarizes 17 years in startups with outward success but worsening emotional, psychological, and spiritual health. He describes the mismatch between professional peak and personal low point.",
+      "timestamp_start": "00:05:29",
+      "timestamp_end": "00:07:04",
+      "speakers": [
+        "Lenny",
+        "Andy Johns"
+      ],
+      "themes": [
+        "Career",
+        "Burnout",
+        "Mental Health"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "andy-johns_t5",
+      "title": "Panic attacks at Twitter and burnout onset",
+      "summary": "Andy recounts 2010 at Twitter: near-constant panic attacks, depression, sleep issues, and leaving work abruptly to avoid breakdowns. He explains how he masked symptoms while functioning professionally.",
+      "timestamp_start": "00:07:04",
+      "timestamp_end": "00:08:34",
+      "speakers": [
+        "Lenny",
+        "Andy Johns"
+      ],
+      "themes": [
+        "Mental Health",
+        "Burnout"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "andy-johns_t6",
+      "title": "Root causes: achievement addiction and childhood trauma",
+      "summary": "Andy connects burnout to two forces: accumulating career pressure and resurfacing buried grief/trauma from his mother\u2019s severe mental illness and death when he was 10. He describes learning to equate achievement with love and self-worth.",
+      "timestamp_start": "00:08:34",
+      "timestamp_end": "00:12:55",
+      "speakers": [
+        "Andy Johns",
+        "Lenny"
+      ],
+      "themes": [
+        "Trauma",
+        "Mental Health",
+        "Personal Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "andy-johns_t7",
+      "title": "How common burnout is in tech",
+      "summary": "Andy shares that through writing, surveys, and research, he estimates 50\u201360% of tech employees with 5\u20137+ years experience face meaningful emotional/psychological distress. He emphasizes how symptoms creep up gradually then hit suddenly.",
+      "timestamp_start": "00:12:55",
+      "timestamp_end": "00:14:42",
+      "speakers": [
+        "Lenny",
+        "Andy Johns"
+      ],
+      "themes": [
+        "Burnout",
+        "Workplace",
+        "Mental Health"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "andy-johns_t8",
+      "title": "Walking away from peak career and hospitalization",
+      "summary": "Andy describes leaving high-paying senior roles (Wealthfront president, VC founding partner) after a heart scare and ultimately a 45-day mental health institute stay. He frames it as recognizing a once-helpful adaptation (achievement for worth) had become harmful.",
+      "timestamp_start": "00:14:42",
+      "timestamp_end": "00:20:30",
+      "speakers": [
+        "Lenny",
+        "Andy Johns"
+      ],
+      "themes": [
+        "Career",
+        "Burnout",
+        "Mental Health"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "andy-johns_t9",
+      "title": "What Andy does now: advocacy, veterans, coaching",
+      "summary": "Andy explains his current work in mental health advocacy, including board service with Heroic Hearts Project supporting psychedelic-assisted therapy for veterans with PTSD. He also writes and coaches high performers.",
+      "timestamp_start": "00:20:30",
+      "timestamp_end": "00:22:23",
+      "speakers": [
+        "Lenny",
+        "Andy Johns"
+      ],
+      "themes": [
+        "Mental Health",
+        "PTSD",
+        "Helping Others"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "andy-johns_t10",
+      "title": "Clues.Life and personalized paths to healing",
+      "summary": "Andy introduces Clues.Life as a library to help people find approaches that fit their unique experiences. He argues mental health tools must be personalized rather than treated as universal truths.",
+      "timestamp_start": "00:22:23",
+      "timestamp_end": "00:23:28",
+      "speakers": [
+        "Lenny",
+        "Andy Johns"
+      ],
+      "themes": [
+        "Mental Health",
+        "Personal Growth"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "andy-johns_t11",
+      "title": "Four-step framework for deep personal transformation",
+      "summary": "Andy outlines a transformation sequence: suffering \u2192 seeking truth \u2192 self-compassion/self-love \u2192 compassion for others. He explains how identity rewires and can reshape relationships, career, and life choices.",
+      "timestamp_start": "00:23:28",
+      "timestamp_end": "00:31:41",
+      "speakers": [
+        "Lenny",
+        "Andy Johns"
+      ],
+      "themes": [
+        "Personal Growth",
+        "Mental Health"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "andy-johns_t12",
+      "title": "Fear of change and ego resistance",
+      "summary": "They discuss why people avoid transformation: it can feel like the \u2018death\u2019 of an old identity. Andy describes letting go of achievement-based identity as a gradual process of releasing control.",
+      "timestamp_start": "00:31:41",
+      "timestamp_end": "00:33:24",
+      "speakers": [
+        "Lenny",
+        "Andy Johns"
+      ],
+      "themes": [
+        "Personal Growth",
+        "Mental Health"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "andy-johns_t13",
+      "title": "How to seek truth: therapy and journaling practices",
+      "summary": "Andy recommends starting with therapy (or spiritual guidance) to get routed to helpful modalities, and offers journaling as an alternative. He suggests identifying moments of strong emotional reactivity and repeatedly asking \u2018why\u2019 until an uncomfortable or clarifying truth emerges.",
+      "timestamp_start": "00:33:24",
+      "timestamp_end": "00:47:48",
+      "speakers": [
+        "Lenny",
+        "Andy Johns"
+      ],
+      "themes": [
+        "Mental Health",
+        "Therapy",
+        "Self-Reflection"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "andy-johns_t14",
+      "title": "Recognizing when it\u2019s more than normal stress",
+      "summary": "Andy lists red-alarm indicators: disrupted sleep, strained relationships, declining physical health, and other core-function breakdowns. He cites his own heart scare and physical symptoms, and recommends The Body Keeps the Score as a guide to how trauma shows up in the body.",
+      "timestamp_start": "00:47:48",
+      "timestamp_end": "00:51:12",
+      "speakers": [
+        "Lenny",
+        "Andy Johns"
+      ],
+      "themes": [
+        "Burnout",
+        "Mental Health",
+        "Trauma"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "andy-johns_t15",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Miro, highlighting collaborative whiteboards and Lenny\u2019s templates available via a custom board.",
+      "timestamp_start": "00:51:12",
+      "timestamp_end": "00:52:22",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Message"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "andy-johns_t16",
+      "title": "Building self-compassion through daily rewiring",
+      "summary": "Andy explains self-compassion isn\u2019t instant; it requires rewiring long-held negative beliefs through awareness and repeated small interventions (e.g., accepting compliments). He notes some people accelerate change via retreats, psychedelics, or endurance challenges, but emphasizes consistent practice.",
+      "timestamp_start": "00:52:22",
+      "timestamp_end": "00:57:21",
+      "speakers": [
+        "Lenny",
+        "Andy Johns"
+      ],
+      "themes": [
+        "Personal Growth",
+        "Mental Health",
+        "Habits"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

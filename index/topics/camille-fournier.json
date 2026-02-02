@@ -1,0 +1,186 @@
+{
+  "episode_id": "camille-fournier",
+  "topics": [
+    {
+      "topic_id": "camille-fournier_t1",
+      "title": "PM behaviors that annoy engineers most",
+      "summary": "Camille lists common PM pitfalls: hoarding credit, dismissing technical details, playing telephone between stakeholders and engineers, and hoarding product ideas. She explains why each behavior erodes trust and can lead to worse engineering outcomes.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:09:54",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Camille Fournier"
+      ],
+      "themes": [
+        "Product Management",
+        "Engineering Culture",
+        "Cross-functional Collaboration"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "camille-fournier_t2",
+      "title": "How PMs can involve engineers in ideation",
+      "summary": "They discuss tactics for bringing engineers into the creative loop without PMs feeling threatened. Camille emphasizes relationship-building, listening to ideas, and helping engineers appreciate the full scope of the product role.",
+      "timestamp_start": "00:09:54",
+      "timestamp_end": "00:14:07",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Camille Fournier"
+      ],
+      "themes": [
+        "Product Management",
+        "Cross-functional Collaboration",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "camille-fournier_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for DX and CommandBar (Command AI).",
+      "timestamp_start": "00:04:50",
+      "timestamp_end": "00:07:08",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "camille-fournier_t4",
+      "title": "Why major rewrites are usually a trap",
+      "summary": "Camille explains why full rewrites often fail: migration time is massively underestimated, legacy logic is hard to replicate, and teams still must support the old system. She recommends staged evolutions and uplifting well-contained components instead.",
+      "timestamp_start": "00:14:07",
+      "timestamp_end": "00:20:45",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Camille Fournier"
+      ],
+      "themes": [
+        "Engineering Strategy",
+        "Technical Debt",
+        "Product Delivery"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "camille-fournier_t5",
+      "title": "Engineering leaders staying technical while managing",
+      "summary": "Camille advises leaders to build deep technical mastery before going hands-off, then stay credible by asking good questions, listening closely, and surrounding themselves with strong technical people. They discuss ways to keep up via networks, chats, and reading.",
+      "timestamp_start": "00:20:45",
+      "timestamp_end": "00:28:35",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Camille Fournier"
+      ],
+      "themes": [
+        "Engineering Leadership",
+        "Career Development",
+        "Technical Skills"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "camille-fournier_t6",
+      "title": "Framework fads and when tech choices don\u2019t scale",
+      "summary": "They compare \u201csimple stacks\u201d (PHP/jQuery) vs constantly chasing new frameworks, and how what works for a solo builder may not work for teams. Camille flags GraphQL as an example where teams should be clear on the problem it solves.",
+      "timestamp_start": "00:28:35",
+      "timestamp_end": "00:31:10",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Camille Fournier"
+      ],
+      "themes": [
+        "Engineering Strategy",
+        "Technology Choices",
+        "Scaling Teams"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "camille-fournier_t7",
+      "title": "When to move from IC to management",
+      "summary": "Camille suggests waiting until technical skill is \u201cin your bones,\u201d offering a rough 10-year mastery heuristic (adjusted for earlier coding experience). She notes this is especially important for underrepresented engineers who may face skepticism about technical ability.",
+      "timestamp_start": "00:31:10",
+      "timestamp_end": "00:34:56",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Camille Fournier"
+      ],
+      "themes": [
+        "Career Development",
+        "Engineering Leadership",
+        "Diversity & Inclusion"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "camille-fournier_t8",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Coda and how it\u2019s used for planning and workflows.",
+      "timestamp_start": "00:34:56",
+      "timestamp_end": "00:36:24",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "camille-fournier_t9",
+      "title": "What surprises new managers about the job",
+      "summary": "Camille describes the shock of losing control of your time and realizing management is a service role, not command-and-control authority. They discuss why some people return to IC roles and differences between managing engineers vs PMs.",
+      "timestamp_start": "00:36:24",
+      "timestamp_end": "00:40:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Camille Fournier"
+      ],
+      "themes": [
+        "Management",
+        "Engineering Leadership",
+        "Career Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "camille-fournier_t10",
+      "title": "Why too many one-on-ones don\u2019t scale",
+      "summary": "Camille distinguishes essential 1:1s (manager/direct reports) from excessive stakeholder and peer 1:1s that don\u2019t scale and can hide misalignment. She argues for respecting time, using group forums when appropriate, and avoiding purposeless meetings.",
+      "timestamp_start": "00:40:12",
+      "timestamp_end": "00:45:26",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Camille Fournier"
+      ],
+      "themes": [
+        "Management",
+        "Communication",
+        "Organizational Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "camille-fournier_t11",
+      "title": "Work culture: focus over overwork",
+      "summary": "Camille argues that overwork can be a way to avoid prioritization, and that strong cultures push teams to focus on what matters most. She frames this as regularly testing assumptions about what\u2019s truly important rather than defaulting to long hours.",
+      "timestamp_start": "00:45:26",
+      "timestamp_end": "00:46:41",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Camille Fournier"
+      ],
+      "themes": [
+        "Work Culture",
+        "Productivity",
+        "Leadership"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

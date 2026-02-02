@@ -1,0 +1,279 @@
+{
+  "episode_id": "ayo-omojola",
+  "topics": [
+    {
+      "topic_id": "ayo-omojola_t1",
+      "title": "Introduction and Background",
+      "summary": "Cold open on Cash App\u2019s differentiation philosophy, then Lenny introduces Ayo\u2019s background (Cash App/Cash Card, Carbon Health) and what the episode will cover.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:17",
+      "speakers": [
+        "Ayo Omojola",
+        "Lenny"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Leadership",
+        "Startups"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "ayo-omojola_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Microsoft Clarity and ECO, followed by Lenny welcoming Ayo to the show.",
+      "timestamp_start": "00:01:17",
+      "timestamp_end": "00:04:12",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Podcast Meta"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "ayo-omojola_t3",
+      "title": "Mailform side project and Quora SEO growth",
+      "summary": "Ayo explains building Mailform (print-and-mail service) and using Quora answers as an early SEO/growth channel; the product still serves notable customers mailing tax forms.",
+      "timestamp_start": "00:04:12",
+      "timestamp_end": "00:06:43",
+      "speakers": [
+        "Lenny",
+        "Ayo Omojola"
+      ],
+      "themes": [
+        "Growth",
+        "Startups",
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "ayo-omojola_t4",
+      "title": "Cash App scale: early days to today",
+      "summary": "Ayo shares Cash App\u2019s scale when he joined (~sub-50K actives) versus today (50M+ monthly actives), framing the magnitude of growth and product expansion.",
+      "timestamp_start": "00:06:43",
+      "timestamp_end": "00:07:35",
+      "speakers": [
+        "Lenny",
+        "Ayo Omojola"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Startups"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "ayo-omojola_t5",
+      "title": "Why Cash App succeeded: compounding advantages",
+      "summary": "Ayo argues Cash App\u2019s success came from many best-in-class factors (talent density, focus, fraud, design, consumer-first tradeoffs) rather than a single magic move.",
+      "timestamp_start": "00:07:35",
+      "timestamp_end": "00:10:12",
+      "speakers": [
+        "Lenny",
+        "Ayo Omojola"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "ayo-omojola_t6",
+      "title": "Differentiation framework: different and better that matters",
+      "summary": "Ayo outlines a durable product lens: being different isn\u2019t enough and being better isn\u2019t enough\u2014products must be better than alternatives in a way users care about, in a domain with viable economics; \u201cinstant\u201d became Cash App\u2019s key wedge.",
+      "timestamp_start": "00:10:12",
+      "timestamp_end": "00:13:46",
+      "speakers": [
+        "Lenny",
+        "Ayo Omojola"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Growth"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "ayo-omojola_t7",
+      "title": "Internal friction and protecting Cash App inside Square",
+      "summary": "They discuss how parts of Square resisted investing in a consumer product, and how leadership (notably Brian) helped firewall Cash App so it had a real chance to succeed.",
+      "timestamp_start": "00:13:46",
+      "timestamp_end": "00:15:04",
+      "speakers": [
+        "Lenny",
+        "Ayo Omojola"
+      ],
+      "themes": [
+        "Leadership",
+        "Org Design"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "ayo-omojola_t8",
+      "title": "Startup-within-a-startup: small teams and headcount discipline",
+      "summary": "Ayo explains why internal startups fail: without existential pressure, teams over-scale; he advocates small, senior, tightly-knit teams, milestone focus, and fighting for each headcount to avoid long-term tax.",
+      "timestamp_start": "00:15:04",
+      "timestamp_end": "00:19:07",
+      "speakers": [
+        "Lenny",
+        "Ayo Omojola"
+      ],
+      "themes": [
+        "Org Design",
+        "Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "ayo-omojola_t9",
+      "title": "Transition to Carbon Health and regulated-business skillset",
+      "summary": "Ayo describes how he met Carbon\u2019s founder Eren, why the mission resonated, and how deep experience navigating fintech regulation translated into a broader \u201cregulated industries\u201d advantage.",
+      "timestamp_start": "00:19:07",
+      "timestamp_end": "00:22:51",
+      "speakers": [
+        "Lenny",
+        "Ayo Omojola"
+      ],
+      "themes": [
+        "Career",
+        "Leadership",
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "ayo-omojola_t10",
+      "title": "Hiring founders: benefits, costs, and retention reality",
+      "summary": "Ayo shares his thesis that ex-founders are high-output hires often filtered out by traditional recruiting, plus the tradeoffs: they quickly call out organizational waste and tend to churn after ~2 years to pursue bigger roles or new startups.",
+      "timestamp_start": "00:22:51",
+      "timestamp_end": "00:27:24",
+      "speakers": [
+        "Lenny",
+        "Ayo Omojola"
+      ],
+      "themes": [
+        "Hiring",
+        "Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "ayo-omojola_t11",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for LMNT, then Lenny returns to questions on hiring and team-building practices.",
+      "timestamp_start": "00:27:24",
+      "timestamp_end": "00:28:46",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Podcast Meta"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "ayo-omojola_t12",
+      "title": "Relationship-driven recruiting: add value before the hire",
+      "summary": "Ayo\u2019s hiring philosophy: \u201cyou pick the people, but they pick when,\u201d so he builds long-term relationships by making intros and helping candidates get what they want; he cites making hundreds of intros as a deliberate practice.",
+      "timestamp_start": "00:28:46",
+      "timestamp_end": "00:31:57",
+      "speakers": [
+        "Lenny",
+        "Ayo Omojola"
+      ],
+      "themes": [
+        "Hiring",
+        "Leadership",
+        "Networking"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "ayo-omojola_t13",
+      "title": "Going deep: first-principles learning and manufacturing details",
+      "summary": "Ayo recounts learning card manufacturing firsthand for Cash Card (materials, laser engraving settings, thousands of combinations) and generalizes the lesson: keep pushing past \u201cexpert\u201d answers until you reach the true constraints.",
+      "timestamp_start": "00:31:57",
+      "timestamp_end": "00:36:58",
+      "speakers": [
+        "Lenny",
+        "Ayo Omojola"
+      ],
+      "themes": [
+        "First Principles",
+        "Product Execution",
+        "Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "ayo-omojola_t14",
+      "title": "Operationalizing depth: trust-but-verify and data semantics",
+      "summary": "Ayo gives a concrete Carbon example (null payment-reason field) to show how small data/definition gaps create blind spots; he explains how leaders enforce depth via accountability for real constraints, not hearsay.",
+      "timestamp_start": "00:36:58",
+      "timestamp_end": "00:41:43",
+      "speakers": [
+        "Lenny",
+        "Ayo Omojola"
+      ],
+      "themes": [
+        "Product Execution",
+        "First Principles",
+        "Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "ayo-omojola_t15",
+      "title": "Healthtech founder advice: networks and crisp decision targeting",
+      "summary": "Ayo advises healthtech founders that progress is often network-dependent; success improves when the use case is crisp enough to identify the true decision-maker and avoid endless organizational \u201csoup.\u201d",
+      "timestamp_start": "00:41:43",
+      "timestamp_end": "00:44:48",
+      "speakers": [
+        "Lenny",
+        "Ayo Omojola"
+      ],
+      "themes": [
+        "Startups",
+        "Go-to-Market",
+        "Healthcare"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "ayo-omojola_t16",
+      "title": "What Carbon Health is: vertically integrated care model",
+      "summary": "Ayo describes Carbon\u2019s full-stack approach (clinics, providers, and software), footprint (100+ clinics across many states), and examples like CGM-to-EMR diabetes workflows aimed at consumer-grade healthcare experiences.",
+      "timestamp_start": "00:44:48",
+      "timestamp_end": "00:46:59",
+      "speakers": [
+        "Lenny",
+        "Ayo Omojola"
+      ],
+      "themes": [
+        "Healthcare",
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "ayo-omojola_t17",
+      "title": "Lightning round begins: book recommendations and sci-fi chat",
+      "summary": "The lightning round starts with Ayo\u2019s book picks (Three-Body Problem, Children of Time, Stormlight Archive) and a brief exchange about A Fire Upon the Deep not being finished.",
+      "timestamp_start": "00:46:59",
+      "timestamp_end": "00:47:52",
+      "speakers": [
+        "Lenny",
+        "Ayo Omojola"
+      ],
+      "themes": [
+        "Podcast Meta"
+      ],
+      "quote_count": 0
+    }
+  ]
+}

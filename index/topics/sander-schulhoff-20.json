@@ -1,0 +1,237 @@
+{
+  "episode_id": "sander-schulhoff-20",
+  "topics": [
+    {
+      "topic_id": "sander-schulhoff-20_t1",
+      "title": "Introduction and Background",
+      "summary": "Sander argues AI guardrails are fundamentally ineffective and frames the urgency: major attacks haven\u2019t happened largely due to early adoption, not real security. Lenny introduces Sander\u2019s credentials and the scope: prompt injection, jailbreaking, and AI red teaming.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:37",
+      "speakers": [
+        "Sander Schulhoff",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Security",
+        "AI Risk",
+        "AI Governance"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sander-schulhoff-20_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Datadog/Eppo and Metronome.",
+      "timestamp_start": "00:02:55",
+      "timestamp_end": "00:05:17",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsorship"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sander-schulhoff-20_t3",
+      "title": "AI security scope and Sander\u2019s credentials",
+      "summary": "They outline what \u201cAI security\u201d covers (prompt injection, indirect injection, jailbreaking, red teaming). Sander shares his background: Learn Prompting, running major red-teaming competitions, and building a widely used prompt-injection dataset.",
+      "timestamp_start": "00:05:17",
+      "timestamp_end": "00:08:27",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Sander Schulhoff"
+      ],
+      "themes": [
+        "AI Security",
+        "AI Red Teaming",
+        "AI Research"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sander-schulhoff-20_t4",
+      "title": "Jailbreaking vs prompt injection explained",
+      "summary": "Sander defines jailbreaking (user vs model) versus prompt injection (user tries to override developer/system instructions). Lenny adds an example of multi-agent prompt injection in ServiceNow that can trigger higher-privilege actions.",
+      "timestamp_start": "00:08:27",
+      "timestamp_end": "00:11:41",
+      "speakers": [
+        "Sander Schulhoff",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Security",
+        "Prompt Injection",
+        "AI Agents"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sander-schulhoff-20_t5",
+      "title": "Real-world attack examples and patterns",
+      "summary": "Sander walks through notable incidents: a Twitter bot coerced into threats, MathGPT code-execution leading to secret exfiltration, and how attackers can bypass safeguards by splitting requests into seemingly benign steps. They also discuss AI-assisted planning and AI-enabled malware behavior.",
+      "timestamp_start": "00:11:42",
+      "timestamp_end": "00:17:56",
+      "speakers": [
+        "Sander Schulhoff",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Security",
+        "Cybersecurity",
+        "AI Misuse"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sander-schulhoff-20_t6",
+      "title": "Why agents and robots raise the stakes",
+      "summary": "They explain why the risk escalates when models can take actions (emails, database CRUD, browsing) or control robots, making prompt injection a pathway to real-world harm. The key point: today\u2019s limited damage is temporary as autonomy increases.",
+      "timestamp_start": "00:17:56",
+      "timestamp_end": "00:19:44",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Sander Schulhoff"
+      ],
+      "themes": [
+        "AI Agents",
+        "AI Security",
+        "Robotics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sander-schulhoff-20_t7",
+      "title": "AI security industry landscape and offerings",
+      "summary": "Sander distinguishes frontier-lab research from the enterprise AI security vendor ecosystem. He describes common categories (monitoring/compliance vs guardrails/automated red teaming) and why he\u2019s skeptical of the latter\u2019s value.",
+      "timestamp_start": "00:19:44",
+      "timestamp_end": "00:23:02",
+      "speakers": [
+        "Sander Schulhoff",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Governance",
+        "AI Security",
+        "Enterprise AI"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sander-schulhoff-20_t8",
+      "title": "Adversarial robustness and how it\u2019s measured",
+      "summary": "They define adversarial robustness and the common metric ASR (attack success rate). This sets up how vendors claim effectiveness and why those claims can be misleading.",
+      "timestamp_start": "00:23:02",
+      "timestamp_end": "00:25:39",
+      "speakers": [
+        "Sander Schulhoff",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Security",
+        "AI Evaluation",
+        "AI Red Teaming"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sander-schulhoff-20_t9",
+      "title": "How enterprises buy guardrails and audits",
+      "summary": "Sander describes the typical enterprise procurement flow: a CISO sees scary red-team results, then buys guardrails placed before/after the model to filter inputs/outputs. The segment highlights how fear and dashboards can drive adoption.",
+      "timestamp_start": "00:25:40",
+      "timestamp_end": "00:28:31",
+      "speakers": [
+        "Sander Schulhoff",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Enterprise AI",
+        "AI Security",
+        "AI Governance"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sander-schulhoff-20_t10",
+      "title": "Why automated red teaming overstates novelty",
+      "summary": "Sander argues automated red teaming will always find failures because the attack surface is inherent to transformer-based LLMs, often using the same frontier models enterprises deploy. The results can alarm non-technical stakeholders without revealing anything fundamentally new.",
+      "timestamp_start": "00:28:31",
+      "timestamp_end": "00:31:03",
+      "speakers": [
+        "Sander Schulhoff",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Red Teaming",
+        "AI Security",
+        "AI Evaluation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sander-schulhoff-20_t11",
+      "title": "Why guardrails fail in practice",
+      "summary": "Sander explains the near-infinite prompt attack space and why \u201c99% effective\u201d claims are statistically meaningless at that scale. He cites adaptive evaluations and competitions where humans reliably break defenses quickly, and notes issues like weak multilingual coverage and questionable vendor metrics.",
+      "timestamp_start": "00:31:03",
+      "timestamp_end": "00:38:22",
+      "speakers": [
+        "Sander Schulhoff",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Security",
+        "AI Evaluation",
+        "AI Red Teaming"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sander-schulhoff-20_t12",
+      "title": "Incentives: capabilities prioritized over security",
+      "summary": "They discuss why frontier labs may underinvest in robustness: smarter models drive adoption and revenue, while current agents may be too limited for catastrophic harm. The segment also frames the mismatch between classical cybersecurity expectations and AI\u2019s unpatchable \u201cbrain-like\u201d behavior.",
+      "timestamp_start": "00:38:22",
+      "timestamp_end": "00:43:42",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Sander Schulhoff"
+      ],
+      "themes": [
+        "AI Governance",
+        "AI Security",
+        "AI Industry"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sander-schulhoff-20_t13",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for GoFundMe Giving Funds.",
+      "timestamp_start": "00:43:42",
+      "timestamp_end": "00:44:44",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsorship"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sander-schulhoff-20_t14",
+      "title": "Practical mitigations and permissioning mindset",
+      "summary": "Sander offers pragmatic guidance: simple FAQ chatbots are lower risk, but any data access or action capability can be coerced and must be tightly permissioned. He emphasizes the intersection of AI security and classical cybersecurity (e.g., sandboxing/code execution isolation) and the need for in-house AI security expertise.",
+      "timestamp_start": "00:44:44",
+      "timestamp_end": "00:54:23",
+      "speakers": [
+        "Sander Schulhoff",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Security",
+        "Cybersecurity",
+        "Enterprise AI"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

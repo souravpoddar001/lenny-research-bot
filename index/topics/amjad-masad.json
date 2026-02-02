@@ -1,0 +1,251 @@
+{
+  "episode_id": "amjad-masad",
+  "topics": [
+    {
+      "topic_id": "amjad-masad_t1",
+      "title": "Introduction and Background",
+      "summary": "Amjad introduces Replit\u2019s mission to make software creation dramatically easier, and Lenny frames the episode as a new \u201cbehind the product\u201d series focused on showing what modern AI tools can do and why it matters for product builders.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:56",
+      "speakers": [
+        "Amjad Masad",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Future of Work",
+        "Startups & Entrepreneurship"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "amjad-masad_t2",
+      "title": "What Replit is and why it exists",
+      "summary": "Amjad explains how traditional software development is fragmented (IDE, runtimes, packages, deployment) and how Replit unifies the workflow to make coding learnable and accessible\u2014especially with AI features.",
+      "timestamp_start": "00:02:56",
+      "timestamp_end": "00:04:22",
+      "speakers": [
+        "Amjad Masad",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Developer Tools",
+        "Education & Learning"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "amjad-masad_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for WorkOS and Persona.",
+      "timestamp_start": "00:04:22",
+      "timestamp_end": "00:06:55",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "amjad-masad_t4",
+      "title": "Replit scale, users, and adoption stories",
+      "summary": "Amjad shares Replit\u2019s scale (34M users) and growing B2B adoption; they discuss a viral example of an 11-year-old building and deploying an app, highlighting how Replit abstracts away hosting, databases, and deployment complexity.",
+      "timestamp_start": "00:06:55",
+      "timestamp_end": "00:08:32",
+      "speakers": [
+        "Amjad Masad",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Developer Tools",
+        "Education & Learning",
+        "Startups & Entrepreneurship"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "amjad-masad_t5",
+      "title": "Competitive landscape and Replit\u2019s differentiation",
+      "summary": "They compare Replit to tools like Cursor, emphasizing Replit\u2019s end-to-end platform (code to deploy/monetize) and the trade-off of being more opinionated, while enabling non-engineers across functions to build software.",
+      "timestamp_start": "00:08:32",
+      "timestamp_end": "00:10:49",
+      "speakers": [
+        "Amjad Masad",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Developer Tools",
+        "AI Product Development",
+        "Enterprise Software"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "amjad-masad_t6",
+      "title": "Live demo: prompting an app into existence",
+      "summary": "Amjad demos creating a feature-request dashboard app by describing requirements in natural language; they discuss prompting styles (PRD-like vs iterative) and how the agent proposes enhancements while building a working prototype.",
+      "timestamp_start": "00:10:49",
+      "timestamp_end": "00:14:50",
+      "speakers": [
+        "Amjad Masad",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Developer Tools",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "amjad-masad_t7",
+      "title": "Watching the agent build full-stack components",
+      "summary": "They observe the agent provisioning Postgres, generating schema and UI, and explain Replit\u2019s \u201cmultiplayer\u201d model where the agent behaves like a collaborating user inside a full IDE rather than a chat-only interface.",
+      "timestamp_start": "00:14:50",
+      "timestamp_end": "00:16:51",
+      "speakers": [
+        "Amjad Masad",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Developer Tools",
+        "AI Product Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "amjad-masad_t8",
+      "title": "Current limitations and human-in-the-loop workflows",
+      "summary": "Amjad outlines what breaks today (especially iteration and database migrations) and how users cope via persistence, external LLM help, or hiring via Replit Bounties; they discuss the idea of agents escalating to humans when stuck.",
+      "timestamp_start": "00:16:51",
+      "timestamp_end": "00:19:32",
+      "speakers": [
+        "Amjad Masad",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Future of Work",
+        "Developer Tools"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "amjad-masad_t9",
+      "title": "QA loop, debugging, and cost/time comparison",
+      "summary": "The agent asks for confirmation, detects and fixes an error, and they compare build time (minutes vs days) and compute cost (cents), reinforcing how AI collapses the cost of prototyping and shipping.",
+      "timestamp_start": "00:19:32",
+      "timestamp_end": "00:21:26",
+      "speakers": [
+        "Amjad Masad",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Startups & Entrepreneurship",
+        "Developer Tools"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "amjad-masad_t10",
+      "title": "Using the app and agent-assisted operations",
+      "summary": "They test feature submission and voting, then ask the agent how to access admin controls; the agent creates an admin account via SQL, illustrating ongoing maintenance/ops tasks handled conversationally.",
+      "timestamp_start": "00:21:26",
+      "timestamp_end": "00:25:05",
+      "speakers": [
+        "Amjad Masad",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Product Management",
+        "Developer Tools"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "amjad-masad_t11",
+      "title": "How companies use Replit in practice",
+      "summary": "Amjad shares real-world use cases: SMB back-office tools as SaaS alternatives, PMs prototyping and user-testing v1s before handing to engineering, marketing competitive analysis apps, and partner/sales engineering prototypes.",
+      "timestamp_start": "00:25:05",
+      "timestamp_end": "00:28:06",
+      "speakers": [
+        "Amjad Masad",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Enterprise Software",
+        "Product Management",
+        "Startups & Entrepreneurship"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "amjad-masad_t12",
+      "title": "Deploying to production and iteration workflow",
+      "summary": "They deploy the demo app (abstracted over Google Cloud), discuss sharing via URL, and highlight iterative development on top of the existing codebase with history, rollback, and AI-generated commit messages.",
+      "timestamp_start": "00:28:06",
+      "timestamp_end": "00:35:40",
+      "speakers": [
+        "Amjad Masad",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Developer Tools",
+        "AI Product Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "amjad-masad_t13",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for LinkedIn Ads.",
+      "timestamp_start": "00:28:52",
+      "timestamp_end": "00:30:26",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "amjad-masad_t14",
+      "title": "Technical stack: AI interfaces, tools, and models",
+      "summary": "Amjad explains Replit\u2019s layers (runtime, package installation, editor/multiplayer) and how they expose structured tools to LLMs via \u201cAI computer interfaces,\u201d using multiple models (notably Claude Sonnet) plus internal embeddings/search.",
+      "timestamp_start": "00:30:26",
+      "timestamp_end": "00:37:38",
+      "speakers": [
+        "Amjad Masad",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Developer Tools",
+        "AI Product Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "amjad-masad_t15",
+      "title": "Agents, autonomy, and product-builder implications",
+      "summary": "They explore increasingly autonomous agents (self-testing, Slack-driven workflows) and then shift to career/skill implications: idea generation becomes the bottleneck, AI-native coding education, debugging literacy, and the possibility of billion-dollar solo companies amid changing software economics.",
+      "timestamp_start": "00:37:38",
+      "timestamp_end": "00:55:01",
+      "speakers": [
+        "Amjad Masad",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Future of Work",
+        "Product Management",
+        "Startups & Entrepreneurship"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

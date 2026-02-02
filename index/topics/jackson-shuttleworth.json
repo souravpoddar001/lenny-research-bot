@@ -1,0 +1,276 @@
+{
+  "episode_id": "jackson-shuttleworth",
+  "topics": [
+    {
+      "topic_id": "jackson-shuttleworth_t1",
+      "title": "Introduction and Background",
+      "summary": "Jackson and Lenny frame Duolingo streaks as a major growth/retention lever, previewing a deep-dive episode format focused on one feature and its learnings.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:03:42",
+      "speakers": [
+        "Jackson Shuttleworth",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Retention & Engagement",
+        "Product Strategy",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jackson-shuttleworth_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Pendo and Vanta.",
+      "timestamp_start": "00:03:42",
+      "timestamp_end": "00:06:03",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Speaker 3"
+      ],
+      "themes": [
+        "Monetization & Business",
+        "Operations & Process",
+        "Product Analytics & Experimentation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jackson-shuttleworth_t3",
+      "title": "What streaks are and why they matter",
+      "summary": "Jackson explains what the streak feature is (including streak freezes) and why it\u2019s so impactful, including its role in notifications and habit formation.",
+      "timestamp_start": "00:06:03",
+      "timestamp_end": "00:09:57",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jackson Shuttleworth"
+      ],
+      "themes": [
+        "Retention & Engagement",
+        "Habit Formation",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jackson-shuttleworth_t4",
+      "title": "Origins: XP-based streaks to one-lesson streaks",
+      "summary": "Jackson recounts the original XP-based goal system and the pivotal shift to a simpler \u201cone lesson per day\u201d streak, emphasizing choosing the right unit of use.",
+      "timestamp_start": "00:09:57",
+      "timestamp_end": "00:13:18",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jackson Shuttleworth"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Retention & Engagement",
+        "Product Analytics & Experimentation"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jackson-shuttleworth_t5",
+      "title": "Engagement vs learning: the Duolingo philosophy",
+      "summary": "They discuss Duolingo\u2019s stance that engagement enables learning, plus the risk of over-optimizing engagement in ways that could undermine real learning value.",
+      "timestamp_start": "00:13:18",
+      "timestamp_end": "00:14:48",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jackson Shuttleworth"
+      ],
+      "themes": [
+        "Learning & Outcomes",
+        "Retention & Engagement",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jackson-shuttleworth_t6",
+      "title": "Testing extremes and building experimentation muscle",
+      "summary": "Jackson shares an experiment that made streaks even easier (one exercise) that didn\u2019t move DAUs, and explains Duolingo\u2019s high-velocity approach: 600+ streak experiments.",
+      "timestamp_start": "00:14:48",
+      "timestamp_end": "00:19:10",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jackson Shuttleworth"
+      ],
+      "themes": [
+        "Product Analytics & Experimentation",
+        "Retention & Engagement",
+        "Operations & Process"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jackson-shuttleworth_t7",
+      "title": "Experiment decision-making: neutral results and complexity",
+      "summary": "They cover how Duolingo treats neutral experiments (often shut down to avoid cognitive load) and when a neutral change might ship as a platform for future wins.",
+      "timestamp_start": "00:19:10",
+      "timestamp_end": "00:19:13",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jackson Shuttleworth"
+      ],
+      "themes": [
+        "Product Analytics & Experimentation",
+        "Operations & Process",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jackson-shuttleworth_t8",
+      "title": "Optimizing the first week: loss aversion threshold",
+      "summary": "Jackson explains why Duolingo focuses heavily on getting users to a 7-day streak, where loss aversion kicks in and retention gains flatten beyond that point.",
+      "timestamp_start": "00:19:13",
+      "timestamp_end": "00:20:05",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jackson Shuttleworth"
+      ],
+      "themes": [
+        "Retention & Engagement",
+        "Habit Formation",
+        "Product Analytics & Experimentation"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jackson-shuttleworth_t9",
+      "title": "Streak goals: commitment, optionality, and friction",
+      "summary": "They walk through the evolution of streak goal-setting experiments: outcome framing, testing different goal lengths, adding opt-out, and learning that user choice drives commitment.",
+      "timestamp_start": "00:20:05",
+      "timestamp_end": "00:24:39",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jackson Shuttleworth"
+      ],
+      "themes": [
+        "Behavioral Psychology",
+        "Retention & Engagement",
+        "Product Analytics & Experimentation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jackson-shuttleworth_t10",
+      "title": "Mining for wins: hypotheses, cross-team learnings, copy tests",
+      "summary": "Jackson describes how Duolingo forms strong hypotheses (often borrowing from monetization and games), invests in copy-testing infrastructure, and cites a big CTA win (\u201cCommit to my goal\u201d).",
+      "timestamp_start": "00:24:39",
+      "timestamp_end": "00:28:36",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jackson Shuttleworth"
+      ],
+      "themes": [
+        "Product Analytics & Experimentation",
+        "Behavioral Psychology",
+        "Operations & Process"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jackson-shuttleworth_t11",
+      "title": "Avoiding a Frankenstein product: reviews and resets",
+      "summary": "They discuss risks of constant experimentation creating incoherence, and how Duolingo mitigates it via founder-led product review, quarterly strategy checks, and occasional UI resets.",
+      "timestamp_start": "00:28:36",
+      "timestamp_end": "00:30:39",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jackson Shuttleworth"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Operations & Process",
+        "Product Analytics & Experimentation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jackson-shuttleworth_t12",
+      "title": "Why streaks work: meaning, framing, long-term progress",
+      "summary": "Jackson explains Duolingo\u2019s advantage (a meaningful goal) and how other apps can reframe streaks; he also notes streaks help make slow, long-term progress feel tangible.",
+      "timestamp_start": "00:30:39",
+      "timestamp_end": "00:33:02",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jackson Shuttleworth"
+      ],
+      "themes": [
+        "Behavioral Psychology",
+        "Habit Formation",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jackson-shuttleworth_t13",
+      "title": "Clarity drives retention: explaining streak mechanics",
+      "summary": "They cover how many users don\u2019t understand streaks or streak freezes, and how simple explanatory copy at streak start produced a large retention/DAU win; Jackson also notes CURR as a key metric.",
+      "timestamp_start": "00:33:02",
+      "timestamp_end": "00:38:25",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jackson Shuttleworth"
+      ],
+      "themes": [
+        "Retention & Engagement",
+        "Product Analytics & Experimentation",
+        "Behavioral Psychology"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jackson-shuttleworth_t14",
+      "title": "When a winning experiment shouldn\u2019t ship",
+      "summary": "Jackson shares an example where showing XP during lessons improved metrics but was rejected to protect the learning-focused lesson experience and avoid distracting UI creep.",
+      "timestamp_start": "00:38:25",
+      "timestamp_end": "00:40:56",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jackson Shuttleworth"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Learning & Outcomes",
+        "Operations & Process"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jackson-shuttleworth_t15",
+      "title": "Design and cultural considerations: flame vs number",
+      "summary": "Jackson discusses the streak flame metaphor not resonating in some cultures, and how redesigns emphasized the streak number and calendar-like visuals to improve comprehension without losing delight.",
+      "timestamp_start": "00:40:56",
+      "timestamp_end": "00:44:37",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jackson Shuttleworth"
+      ],
+      "themes": [
+        "UX & Design",
+        "Internationalization & Localization",
+        "Retention & Engagement"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jackson-shuttleworth_t16",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Coda begins.",
+      "timestamp_start": "00:44:37",
+      "timestamp_end": "00:44:37",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Operations & Process",
+        "Monetization & Business",
+        "Product Analytics & Experimentation"
+      ],
+      "quote_count": 3
+    }
+  ]
+}

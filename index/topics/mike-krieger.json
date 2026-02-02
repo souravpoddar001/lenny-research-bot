@@ -1,0 +1,255 @@
+{
+  "episode_id": "mike-krieger",
+  "topics": [
+    {
+      "topic_id": "mike-krieger_t1",
+      "title": "Introduction and Background",
+      "summary": "Cold open on Anthropic\u2019s extreme AI-assisted coding rates and how Claude Code is built using Claude itself. Lenny introduces Mike Krieger (Anthropic CPO, Instagram co-founder) and previews major topics for the episode.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:00",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mike Krieger"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Software Engineering",
+        "Company Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mike-krieger_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Productboard and Stripe, including Productboard Pulse (VoC + AI analysis) and Stripe\u2019s scale and AI-driven payments optimization.",
+      "timestamp_start": "00:02:22",
+      "timestamp_end": "00:04:29",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsorship"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mike-krieger_t3",
+      "title": "What Mike changed his mind about AI",
+      "summary": "Mike describes two major belief updates: faster-than-expected timelines and a leap in model creativity/novelty of thought. He cites Opus 4 as a turning point where Claude became a genuinely useful strategy partner with new angles, not just generic feedback.",
+      "timestamp_start": "00:04:29",
+      "timestamp_end": "00:07:43",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mike Krieger"
+      ],
+      "themes": [
+        "AI Capabilities",
+        "Forecasting & Timelines",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mike-krieger_t4",
+      "title": "Avoiding scary AI futures and why Anthropic",
+      "summary": "Prompted by AI 2027, they discuss risk and how to steer outcomes toward \u201cgoing well.\u201d Mike explains joining Anthropic to maximize positive influence on human\u2013AI relationships via product, research, and interpretability work.",
+      "timestamp_start": "00:07:43",
+      "timestamp_end": "00:09:00",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mike Krieger"
+      ],
+      "themes": [
+        "AI Safety",
+        "Company Mission",
+        "Governance & Responsibility"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mike-krieger_t5",
+      "title": "Raising kids in an AI world",
+      "summary": "Mike shares how he encourages curiosity, inquiry, and independent thinking rather than defaulting to \u201cask Claude.\u201d He emphasizes maintaining confidence and scientific discovery habits even with powerful AI tools.",
+      "timestamp_start": "00:09:00",
+      "timestamp_end": "00:11:59",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mike Krieger"
+      ],
+      "themes": [
+        "Education & Skills",
+        "Human-AI Interaction",
+        "Future of Work"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mike-krieger_t6",
+      "title": "When 90% of code is AI-written",
+      "summary": "They unpack how product development changes when AI writes most code: faster prototyping by PMs/designers, but new bottlenecks in alignment/decision-making and operational flow (merge queues, coordination). Mike frames it as discovering new constraints in the system\u2019s critical path.",
+      "timestamp_start": "00:11:59",
+      "timestamp_end": "00:17:06",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mike Krieger"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Software Engineering",
+        "Team Processes"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mike-krieger_t7",
+      "title": "Claude Code as self-improving \u201cpatient zero\u201d",
+      "summary": "Mike explains how the Claude Code team uses Claude Code to build Claude Code, changing review practices (more acceptance testing, AI-assisted review) and enabling contributions from non-TypeScript engineers. He estimates Claude Code may be 95%+ AI-generated and highlights lowered barriers to entry.",
+      "timestamp_start": "00:17:06",
+      "timestamp_end": "00:18:35",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mike Krieger"
+      ],
+      "themes": [
+        "Developer Tools",
+        "Software Engineering",
+        "AI Product Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mike-krieger_t8",
+      "title": "Speeding upstream work: feedback-to-PR loops and MCP",
+      "summary": "They discuss using AI to identify user pain points, propose solutions, and even generate PRs and experiments quickly. Mike points to MCP and better context flow as key enablers for turning community feedback into code changes and A/B tests.",
+      "timestamp_start": "00:18:35",
+      "timestamp_end": "00:21:20",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mike Krieger"
+      ],
+      "themes": [
+        "AI Agents",
+        "Product Feedback Loops",
+        "Developer Tools"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mike-krieger_t9",
+      "title": "PM leverage comes from working with researchers",
+      "summary": "Referencing the OpenAI/Anthropic panel, Mike reiterates that embedding PMs with research/post-training yields the most leverage versus only polishing UX. He uses Artifacts as an example of product + post-training collaboration producing differentiated experiences.",
+      "timestamp_start": "00:21:20",
+      "timestamp_end": "00:24:03",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mike Krieger"
+      ],
+      "themes": [
+        "Org Design",
+        "AI Product Development",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mike-krieger_t10",
+      "title": "Where product value remains in the AI era",
+      "summary": "Mike argues product\u2019s enduring value is making capabilities comprehensible, setting strategy (where to play/how to win), and revealing what\u2019s possible to customers. He describes a large \u201coverhang\u201d between what models can do and how most people use them today.",
+      "timestamp_start": "00:24:03",
+      "timestamp_end": "00:27:22",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mike Krieger"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Human-AI Interaction",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mike-krieger_t11",
+      "title": "Prompting tactics and Anthropic\u2019s prompt improver",
+      "summary": "Mike shares practical prompting patterns: explicitly ask Claude to \u201cthink hard,\u201d request harsher critique (\u201croast this\u201d), and use the Console\u2019s prompt improver to generate structured prompts (e.g., XML tags) that outperform intuition. He notes Claude is often the best prompter of Claude.",
+      "timestamp_start": "00:27:22",
+      "timestamp_end": "00:29:41",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mike Krieger"
+      ],
+      "themes": [
+        "Prompt Engineering",
+        "Developer Tools",
+        "AI Productivity"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mike-krieger_t12",
+      "title": "Rick Rubin collaboration and \u201cvibe coding\u201d",
+      "summary": "Mike explains the origin of Anthropic\u2019s Rick Rubin collaboration via Jack Clark and Rubin\u2019s interest in AI, creativity, and coding. They describe it as a meditation on creating alongside AI with distinctive ASCII-art aesthetics.",
+      "timestamp_start": "00:29:41",
+      "timestamp_end": "00:31:14",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mike Krieger"
+      ],
+      "themes": [
+        "AI Creativity",
+        "Brand & Marketing",
+        "Human-AI Interaction"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "mike-krieger_t13",
+      "title": "Sponsor Break",
+      "summary": "Sponsor segment with OneSchema describing FileFeeds 2.0 for AI-assisted spreadsheet/CSV intake, validation, and integrations (SFTP/S3/email).",
+      "timestamp_start": "00:31:14",
+      "timestamp_end": "00:32:48",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Speaker 3"
+      ],
+      "themes": [
+        "Sponsorship"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mike-krieger_t14",
+      "title": "How Mike was recruited to Anthropic",
+      "summary": "Mike recounts being approached by longtime friend Joel Lewenstein after Artifact, meeting Anthropic leadership, and being drawn to the company\u2019s intellectual honesty and responsible AI stance. He reflects on onboarding, moving too slowly on some org changes, and the outsized impact of a few \u201cfounder-type\u201d engineers (e.g., Claude Code\u2019s origins).",
+      "timestamp_start": "00:32:48",
+      "timestamp_end": "00:36:01",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mike Krieger"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "Org Design",
+        "Company Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mike-krieger_t15",
+      "title": "Why Artifact shut down and lessons learned",
+      "summary": "Mike explains Artifact\u2019s headwinds: deteriorating mobile web UX/ads, limited organic sharing dynamics for personalized news, and the difficulty of making major strategic shifts while fully remote. He discusses opportunity cost as AI accelerated, and the emotional/ego aspects of shutting down a well-liked product despite insufficient growth.",
+      "timestamp_start": "00:36:01",
+      "timestamp_end": "00:42:05",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mike Krieger"
+      ],
+      "themes": [
+        "Startups",
+        "Product-Market Fit",
+        "Founder Psychology"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

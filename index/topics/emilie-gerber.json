@@ -1,0 +1,223 @@
+{
+  "episode_id": "emilie-gerber",
+  "topics": [
+    {
+      "topic_id": "emilie-gerber_t1",
+      "title": "Introduction and Background",
+      "summary": "Emilie previews a highly tactical PR conversation; Lenny introduces Emilie\u2019s background (Uber, Box) and what they\u2019ll cover, including targeting publications, pitching reporters, and real pitch examples.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:25",
+      "speakers": [
+        "Emilie Gerber",
+        "Lenny"
+      ],
+      "themes": [
+        "Public Relations"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "emilie-gerber_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Sprig (product insights) and Eppo (experimentation platform), followed by Lenny welcoming Emilie to the show.",
+      "timestamp_start": "00:02:25",
+      "timestamp_end": "00:04:59",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsorship"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "emilie-gerber_t3",
+      "title": "Is press worth it for startups?",
+      "summary": "They discuss why press often doesn\u2019t directly drive signups, but creates second-order benefits like credibility, sales enablement, recruiting leverage, and partner validation\u2014especially for B2B.",
+      "timestamp_start": "00:05:01",
+      "timestamp_end": "00:07:03",
+      "speakers": [
+        "Lenny",
+        "Emilie Gerber"
+      ],
+      "themes": [
+        "Public Relations",
+        "B2B Marketing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "emilie-gerber_t4",
+      "title": "When PR drives growth in B2C",
+      "summary": "Emilie explains when press can create immediate consumer growth (e.g., Perplexity) due to low friction and easy-to-understand value, contrasting with B2B\u2019s longer conversion path.",
+      "timestamp_start": "00:07:03",
+      "timestamp_end": "00:11:27",
+      "speakers": [
+        "Lenny",
+        "Emilie Gerber"
+      ],
+      "themes": [
+        "Public Relations",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "emilie-gerber_t5",
+      "title": "Affiliate marketing and product review coverage",
+      "summary": "They unpack affiliate-driven press (commission-based product review links) and how many consumer brands rely on it versus traditional earned media features.",
+      "timestamp_start": "00:11:27",
+      "timestamp_end": "00:12:58",
+      "speakers": [
+        "Lenny",
+        "Emilie Gerber"
+      ],
+      "themes": [
+        "Public Relations",
+        "Consumer Marketing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "emilie-gerber_t6",
+      "title": "Fundraising announcements: when and how to pitch",
+      "summary": "Emilie argues funding stories are usually coverable if pitched correctly, especially to TechCrunch: be concise, offer an exclusive, pattern-match to the right beat, and follow up respectfully with new info.",
+      "timestamp_start": "00:12:58",
+      "timestamp_end": "00:16:57",
+      "speakers": [
+        "Lenny",
+        "Emilie Gerber"
+      ],
+      "themes": [
+        "Public Relations",
+        "Fundraising"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "emilie-gerber_t7",
+      "title": "Which publications to target and why",
+      "summary": "A tactical rundown of major outlets and what they\u2019re good for: TechCrunch (funding/product, ecosystem), Axios (deal-focused), Business Insider (pitch decks/metrics/lists), VentureBeat (AI), Fast Company (future of work/design/op-eds), Forbes (awards/contributors).",
+      "timestamp_start": "00:16:57",
+      "timestamp_end": "00:23:20",
+      "speakers": [
+        "Lenny",
+        "Emilie Gerber"
+      ],
+      "themes": [
+        "Public Relations",
+        "Media Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "emilie-gerber_t8",
+      "title": "NYT, WSJ, CNBC: realistic expectations",
+      "summary": "They cover why top-tier outlets rarely feature early-stage startups unless there\u2019s major scale, hard metrics, valuation transparency, or controversy; more often you\u2019ll appear as a quote in a broader trend piece.",
+      "timestamp_start": "00:23:20",
+      "timestamp_end": "00:25:32",
+      "speakers": [
+        "Lenny",
+        "Emilie Gerber"
+      ],
+      "themes": [
+        "Public Relations",
+        "Media Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "emilie-gerber_t9",
+      "title": "Managing risk: controlling message vs editorial control",
+      "summary": "Emilie explains you can\u2019t control angles, only correct factual errors; the best defense is strong spokesperson prep and repeated, clear messaging to influence what sticks with the reporter.",
+      "timestamp_start": "00:25:32",
+      "timestamp_end": "00:27:20",
+      "speakers": [
+        "Lenny",
+        "Emilie Gerber"
+      ],
+      "themes": [
+        "Public Relations",
+        "Communications"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "emilie-gerber_t10",
+      "title": "Finding podcasts, newsletters, and awards to pitch",
+      "summary": "Emilie shares a practical process: search by customer vertical, validate fit (guest types, activity, quality), ask customers what they consume, and start outreach with a lightweight \u201copen to guest ideas?\u201d message.",
+      "timestamp_start": "00:27:20",
+      "timestamp_end": "00:31:06",
+      "speakers": [
+        "Lenny",
+        "Emilie Gerber"
+      ],
+      "themes": [
+        "Public Relations",
+        "Media Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "emilie-gerber_t11",
+      "title": "Warm intros vs cold outreach to reporters",
+      "summary": "They argue relationships mainly help get a reply, not coverage; cold outreach can be equally effective given fast-changing beats and media formats, as long as pitches are thoughtful and relevant.",
+      "timestamp_start": "00:31:06",
+      "timestamp_end": "00:33:52",
+      "speakers": [
+        "Lenny",
+        "Emilie Gerber"
+      ],
+      "themes": [
+        "Public Relations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "emilie-gerber_t12",
+      "title": "How to reach reporters and write effective pitches",
+      "summary": "Emilie recommends a multi-channel approach (email, X/Twitter, DMs, LinkedIn), ultra-clear subject lines and intent, ~3-sentence pitches, respectful follow-ups, pointing out coverage gaps, and offering contrarian viewpoints when appropriate.",
+      "timestamp_start": "00:33:52",
+      "timestamp_end": "00:41:09",
+      "speakers": [
+        "Lenny",
+        "Emilie Gerber"
+      ],
+      "themes": [
+        "Public Relations",
+        "Communications"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "emilie-gerber_t13",
+      "title": "Positioning: take on incumbents, avoid category creation",
+      "summary": "Emilie advises framing startups against known incumbents to give reporters instant context, and warns that \u201ccategory creation\u201d language usually fails in PR pitches even if it may work elsewhere.",
+      "timestamp_start": "00:41:09",
+      "timestamp_end": "00:43:18",
+      "speakers": [
+        "Lenny",
+        "Emilie Gerber"
+      ],
+      "themes": [
+        "Public Relations",
+        "Positioning"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "emilie-gerber_t14",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Vanta (trust management and compliance automation), then the conversation tees up upcoming real pitch examples.",
+      "timestamp_start": "00:43:18",
+      "timestamp_end": "00:44:12",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsorship"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "episode_id": "karri-saarinen",
+  "topics": [
+    {
+      "topic_id": "karri-saarinen_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Karri Saarinen and Linear, highlighting Linear\u2019s unusual product culture (craft-first, no A/B tests, minimal PMs, project-based teams) and previews topics like hiring, product building, and growth.",
+      "timestamp_start": "00:00:46",
+      "timestamp_end": "00:02:06",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Company Building",
+        "Product Development",
+        "Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "karri-saarinen_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Mercury (startup banking) and Composer (AI-assisted algorithmic trading, now with retirement accounts).",
+      "timestamp_start": "00:02:06",
+      "timestamp_end": "00:03:59",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "karri-saarinen_t3",
+      "title": "What Linear is and why it exists",
+      "summary": "Karri explains Linear as a modern project/issue tracking tool, shares customer examples and company stats (profitable, net negative burn), and describes the founders\u2019 motivation: existing tools felt clunky and legacy-driven.",
+      "timestamp_start": "00:04:31",
+      "timestamp_end": "00:06:43",
+      "speakers": [
+        "Lenny",
+        "Karri Saarinen"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Company Building",
+        "B2B SaaS"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "karri-saarinen_t4",
+      "title": "Creating space for craft without perfection paralysis",
+      "summary": "Karri describes how Linear balances craft with speed: ship early internally, then to opt-in customers, and only polish for general release\u2014accepting small timeline slips to protect quality.",
+      "timestamp_start": "00:07:11",
+      "timestamp_end": "00:12:25",
+      "speakers": [
+        "Lenny",
+        "Karri Saarinen"
+      ],
+      "themes": [
+        "Design",
+        "Product Development",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "karri-saarinen_t5",
+      "title": "Why Linear has almost no PMs",
+      "summary": "Karri argues craft improves when engineers/designers own projects end-to-end; PM responsibilities are distributed via a project lead model, enabled by hiring people who want broader ownership.",
+      "timestamp_start": "00:12:53",
+      "timestamp_end": "00:16:42",
+      "speakers": [
+        "Lenny",
+        "Karri Saarinen"
+      ],
+      "themes": [
+        "Org Design",
+        "Product Management",
+        "Hiring"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "karri-saarinen_t6",
+      "title": "The role of Linear\u2019s head of product",
+      "summary": "Karri explains why they hired Nan Yu (initially for a data/insights feature) and how the PM role is positioned: steer direction and alignment at a higher level rather than writing specs and attending every meeting.",
+      "timestamp_start": "00:16:48",
+      "timestamp_end": "00:18:38",
+      "speakers": [
+        "Lenny",
+        "Karri Saarinen"
+      ],
+      "themes": [
+        "Product Management",
+        "Company Building",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "karri-saarinen_t7",
+      "title": "Operating without PMs: requirements and trade-offs",
+      "summary": "They discuss what it takes to function with few PMs: engineers/designers must do coordination work, not everyone wants that, and hiring must assess product thinking and communication\u2014not just technical skill.",
+      "timestamp_start": "00:18:38",
+      "timestamp_end": "00:24:57",
+      "speakers": [
+        "Lenny",
+        "Karri Saarinen"
+      ],
+      "themes": [
+        "Hiring",
+        "Org Design",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "karri-saarinen_t8",
+      "title": "When design is a real competitive differentiator",
+      "summary": "Karri explains why design matters more as categories mature and choices proliferate; design and brand set expectations and can drive adoption, but they must be paired with real product value.",
+      "timestamp_start": "00:25:00",
+      "timestamp_end": "00:30:48",
+      "speakers": [
+        "Lenny",
+        "Karri Saarinen"
+      ],
+      "themes": [
+        "Design",
+        "Brand",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "karri-saarinen_t9",
+      "title": "Building an authentic brand over time",
+      "summary": "Karri emphasizes brand as authentic, cumulative behavior (voice, customer treatment, product/website quality), citing Airbnb as an example of brand being embedded in everything the company does.",
+      "timestamp_start": "00:30:48",
+      "timestamp_end": "00:33:08",
+      "speakers": [
+        "Lenny",
+        "Karri Saarinen"
+      ],
+      "themes": [
+        "Brand",
+        "Company Building",
+        "Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "karri-saarinen_t10",
+      "title": "How Linear reviews design and decides it\u2019s done",
+      "summary": "Karri describes lightweight, ongoing reviews (weekly/biweekly demos, sponsor review by founders/head of product) and a hands-on \u201ctry it yourself\u201d quality bar before broad release, with examples like comment threading and project updates.",
+      "timestamp_start": "00:33:08",
+      "timestamp_end": "00:38:34",
+      "speakers": [
+        "Lenny",
+        "Karri Saarinen"
+      ],
+      "themes": [
+        "Design",
+        "Product Development",
+        "Quality"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "karri-saarinen_t11",
+      "title": "The Linear Method: opinionated software",
+      "summary": "Karri explains why Linear advocates opinionated workflows: strong defaults reduce cognitive overhead, prevent teams from inventing divergent processes, and enable more optimized experiences for a clear target user.",
+      "timestamp_start": "00:38:34",
+      "timestamp_end": "00:41:23",
+      "speakers": [
+        "Lenny",
+        "Karri Saarinen"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Product Development",
+        "Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "karri-saarinen_t12",
+      "title": "Cycles: focus mechanism similar to sprints",
+      "summary": "Karri defines cycles as an optional, automated cadence to help teams commit to a short list of priorities, reduce distraction from infinite backlogs, and create clarity when priorities change.",
+      "timestamp_start": "00:41:23",
+      "timestamp_end": "00:43:27",
+      "speakers": [
+        "Lenny",
+        "Karri Saarinen"
+      ],
+      "themes": [
+        "Productivity",
+        "Product Management",
+        "Product Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "karri-saarinen_t13",
+      "title": "No feature-level metrics: intuition plus customer closeness",
+      "summary": "Karri explains they avoid feature-level metric goals and A/B testing; instead they combine \u201cscience\u201d (continuous customer conversations, shared channels, targeted data questions) with \u201cmagic\u201d (informed judgment), accepting occasional mistakes as part of the process.",
+      "timestamp_start": "00:43:27",
+      "timestamp_end": "00:50:03",
+      "speakers": [
+        "Lenny",
+        "Karri Saarinen"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Customer Research",
+        "Company Building"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

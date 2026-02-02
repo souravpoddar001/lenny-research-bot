@@ -1,0 +1,238 @@
+{
+  "episode_id": "eric-simons",
+  "topics": [
+    {
+      "topic_id": "eric-simons_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Eric Simons and Bolt\u2019s explosive growth, framing it as an \u201covernight success seven years in the making\u201d built on StackBlitz\u2019s prior tech work.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:18",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Eric Simons"
+      ],
+      "themes": [
+        "Company Building",
+        "Startups",
+        "AI"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eric-simons_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Eppo (experimentation platform) and Fundrise (real estate fund).",
+      "timestamp_start": "00:02:22",
+      "timestamp_end": "00:04:24",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eric-simons_t3",
+      "title": "What Bolt is and what it enables",
+      "summary": "Eric explains Bolt as a text-to-app tool that can generate full-stack web and mobile apps (databases, hosting) from prompts in about a minute.",
+      "timestamp_start": "00:04:49",
+      "timestamp_end": "00:05:36",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Eric Simons"
+      ],
+      "themes": [
+        "AI",
+        "Product",
+        "Software Engineering"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "eric-simons_t4",
+      "title": "Hypergrowth metrics and why it\u2019s real",
+      "summary": "They cover Bolt\u2019s revenue/user growth (0\u2192$20M ARR in two months, approaching ~$40M ARR, millions of users) and discuss why AI products can sustain unprecedented growth rates.",
+      "timestamp_start": "00:05:36",
+      "timestamp_end": "00:10:41",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Eric Simons"
+      ],
+      "themes": [
+        "Growth",
+        "Startups",
+        "AI"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eric-simons_t5",
+      "title": "Bolt demo: speed, reliability, and WebContainers",
+      "summary": "Eric demos building a Spotify clone instantly and explains Bolt\u2019s key differentiator: a browser-based OS/dev environment (WebContainer) that runs locally for speed, reliability, and a permissive free tier.",
+      "timestamp_start": "00:10:41",
+      "timestamp_end": "00:15:25",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Eric Simons"
+      ],
+      "themes": [
+        "Product",
+        "AI",
+        "Software Engineering"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eric-simons_t6",
+      "title": "Deploying apps and replacing Wix-like workflows",
+      "summary": "They show one-click deployment via Netlify and database integration via Supabase, arguing Bolt makes building and shipping real apps simpler than traditional website builders.",
+      "timestamp_start": "00:13:32",
+      "timestamp_end": "00:15:25",
+      "speakers": [
+        "Eric Simons",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product",
+        "Developer Tools",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eric-simons_t7",
+      "title": "Mobile apps with Expo partnership demo",
+      "summary": "Eric demos generating a native-style mobile Spotify clone using Expo, including QR-code live preview on phones, and highlights how non-developers can now prototype and iterate on real apps.",
+      "timestamp_start": "00:15:25",
+      "timestamp_end": "00:19:09",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Eric Simons"
+      ],
+      "themes": [
+        "AI",
+        "Product",
+        "Software Engineering"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eric-simons_t8",
+      "title": "Seven-year tech bet: origin of WebContainer",
+      "summary": "Eric recounts the deep-tech journey inspired by Figma\u2019s early WebGL bet, why browser-native compute scales better than cloud VMs, and how WebContainer took years to build before finding the right product.",
+      "timestamp_start": "00:19:09",
+      "timestamp_end": "00:25:04",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Eric Simons"
+      ],
+      "themes": [
+        "Company Building",
+        "Developer Tools",
+        "Software Engineering"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eric-simons_t9",
+      "title": "Startup survival: low burn, contrarian decisions",
+      "summary": "They discuss \u201cjust don\u2019t die,\u201d bootstrapping discipline, resisting 2020\u20132021 hiring exuberance, and making non-consensus calls to preserve runway until product-market pull appears.",
+      "timestamp_start": "00:25:04",
+      "timestamp_end": "00:29:15",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Eric Simons"
+      ],
+      "themes": [
+        "Company Building",
+        "Startups",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eric-simons_t10",
+      "title": "Launch story: a tweet, then chaos scaling",
+      "summary": "Eric describes Bolt\u2019s tweet launch, immediate ARR spikes, missing basics (like mobile responsiveness), rapid pricing changes, infrastructure constraints (Anthropic GPU limits), and firefighting with a tiny team.",
+      "timestamp_start": "00:29:15",
+      "timestamp_end": "00:34:08",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Eric Simons"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Growth",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eric-simons_t11",
+      "title": "How a 15\u201320 person team pulled it off",
+      "summary": "Eric attributes execution to long-tenured, high-trust teammates with broad context and agency, enabling fast end-to-end problem solving without bureaucracy.",
+      "timestamp_start": "00:34:08",
+      "timestamp_end": "00:37:22",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Eric Simons"
+      ],
+      "themes": [
+        "Leadership",
+        "Hiring",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eric-simons_t12",
+      "title": "Hiring philosophy and remote-first team building",
+      "summary": "They cover hiring for low-ego, intrinsically motivated generalists, recruiting from the product\u2019s community, and operating as a mostly Europe/US distributed company.",
+      "timestamp_start": "00:37:22",
+      "timestamp_end": "00:39:28",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Eric Simons"
+      ],
+      "themes": [
+        "Hiring",
+        "Leadership",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eric-simons_t13",
+      "title": "Sponsor Break",
+      "summary": "OneSchema sponsor segment discussing CSV imports, ERP/SFTP integrations, and validation to prevent bad data and outages.",
+      "timestamp_start": "00:39:28",
+      "timestamp_end": "00:41:01",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Christina Gilbert"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "eric-simons_t14",
+      "title": "Prioritization, daily all-hands, and lightweight PRDs",
+      "summary": "Eric explains balancing user-request triage with conviction bets (e.g., mobile apps), running daily full-company Zooms to minimize communication loss during hypergrowth, and using Linear/Notion/Figma with lightweight PRDs.",
+      "timestamp_start": "00:41:01",
+      "timestamp_end": "00:47:01",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Eric Simons"
+      ],
+      "themes": [
+        "Product Management",
+        "Leadership",
+        "Execution"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "episode_id": "inbal-s",
+  "topics": [
+    {
+      "topic_id": "inbal-s_t1",
+      "title": "Introduction and Background",
+      "summary": "Inbal opens with how AI changes developer thinking toward systems-level understanding, especially benefiting junior developers. Lenny introduces Inbal\u2019s background and what the conversation will cover.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:27",
+      "speakers": [
+        "Inbal Shani",
+        "Lenny"
+      ],
+      "themes": [
+        "AI in Software Development",
+        "Developer Productivity",
+        "Career & Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "inbal-s_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Jira Product Discovery and Sanity.",
+      "timestamp_start": "00:01:27",
+      "timestamp_end": "00:04:02",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "inbal-s_t3",
+      "title": "Overhyped vs underhyped AI in dev",
+      "summary": "Inbal argues it\u2019s overhyped that generative AI will replace humans, emphasizing the need for human creativity and data generation via real usage. She says AI-driven testing is underhyped and will become critical as code output scales.",
+      "timestamp_start": "00:04:02",
+      "timestamp_end": "00:07:23",
+      "speakers": [
+        "Lenny",
+        "Inbal Shani"
+      ],
+      "themes": [
+        "AI in Software Development",
+        "Software Quality & Testing",
+        "Developer Productivity"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "inbal-s_t4",
+      "title": "How software development changes in 3\u20135 years",
+      "summary": "Inbal describes a shift from code-writing to architecture and systems thinking, with juniors ramping faster via AI assistance. She also predicts increased focus on hardware/compute optimization and AI integration becoming standard developer knowledge.",
+      "timestamp_start": "00:07:43",
+      "timestamp_end": "00:10:14",
+      "speakers": [
+        "Lenny",
+        "Inbal Shani"
+      ],
+      "themes": [
+        "AI in Software Development",
+        "Developer Productivity",
+        "Future of Work"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "inbal-s_t5",
+      "title": "Copilot adoption stats and measured impact",
+      "summary": "They discuss rapid acceleration in code generation and Copilot\u2019s scale: org and developer counts, speed gains, confidence, faster code reviews, and reduced frustration. Inbal shares customer examples like Accenture\u2019s high retention of suggested code.",
+      "timestamp_start": "00:10:14",
+      "timestamp_end": "00:12:07",
+      "speakers": [
+        "Lenny",
+        "Inbal Shani"
+      ],
+      "themes": [
+        "Developer Productivity",
+        "AI in Software Development",
+        "Product Metrics"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "inbal-s_t6",
+      "title": "Why AI doesn\u2019t mean fewer engineers",
+      "summary": "Inbal rejects the idea of cutting headcount, stressing \u201cCopilot is a copilot, not a pilot.\u201d She explains developers spend a minority of time coding, so reclaimed time can go to better code, rest, collaboration, and innovation.",
+      "timestamp_start": "00:12:07",
+      "timestamp_end": "00:13:28",
+      "speakers": [
+        "Lenny",
+        "Inbal Shani"
+      ],
+      "themes": [
+        "Future of Work",
+        "Developer Productivity",
+        "AI in Software Development"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "inbal-s_t7",
+      "title": "Common mistakes adopting AI in workflows",
+      "summary": "Inbal highlights two pitfalls: expecting adoption to happen magically without change management, and starting from \u201cwhere can we add AI?\u201d instead of working backward from a real customer problem. She shares how GitHub\u2019s own journey began with developer productivity needs.",
+      "timestamp_start": "00:13:38",
+      "timestamp_end": "00:16:42",
+      "speakers": [
+        "Lenny",
+        "Inbal Shani"
+      ],
+      "themes": [
+        "AI Strategy",
+        "Product Management",
+        "Change Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "inbal-s_t8",
+      "title": "How GitHub teams use GitHub internally",
+      "summary": "Inbal explains GitHub\u2019s dogfooding culture: features are tested internally for months across many functions (not just engineering/product). This internal usage informs product quality and usability before shipping to customers.",
+      "timestamp_start": "00:16:42",
+      "timestamp_end": "00:18:27",
+      "speakers": [
+        "Lenny",
+        "Inbal Shani"
+      ],
+      "themes": [
+        "Product Development Process",
+        "Product Management",
+        "AI in Software Development"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "inbal-s_t9",
+      "title": "Copilot design philosophy: low-friction assistance",
+      "summary": "They discuss why Copilot\u2019s experience is designed to fade into the background: developers won\u2019t adopt tools that add steps, waiting, or complexity. Inbal ties the philosophy to working backward from developer needs and seamless IDE integration.",
+      "timestamp_start": "00:18:47",
+      "timestamp_end": "00:20:24",
+      "speakers": [
+        "Lenny",
+        "Inbal Shani"
+      ],
+      "themes": [
+        "Product Design",
+        "Developer Experience",
+        "AI in Software Development"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "inbal-s_t10",
+      "title": "Measuring Copilot success and AI metrics",
+      "summary": "Inbal explains there\u2019s no single metric; measurement depends on the AI feature (productivity vs security vs quality). They discuss pitfalls of time-based metrics and propose \u201ctime to value\u201d as a business-relevant framing tied to outcomes and developer happiness.",
+      "timestamp_start": "00:20:24",
+      "timestamp_end": "00:23:28",
+      "speakers": [
+        "Lenny",
+        "Inbal Shani"
+      ],
+      "themes": [
+        "Product Metrics",
+        "Developer Productivity",
+        "Software Quality & Security"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "inbal-s_t11",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for HelpBar by Chameleon.",
+      "timestamp_start": "00:23:44",
+      "timestamp_end": "00:24:43",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "inbal-s_t12",
+      "title": "From sketches to software: collaboration vs production",
+      "summary": "Lenny asks about AI generating apps from sketches; Inbal frames this as primarily improving communication and collaboration rather than fully automating production. She positions Copilot as a universal translator that reduces ambiguity across roles.",
+      "timestamp_start": "00:24:43",
+      "timestamp_end": "00:26:26",
+      "speakers": [
+        "Lenny",
+        "Inbal Shani"
+      ],
+      "themes": [
+        "AI in Software Development",
+        "Collaboration",
+        "Future of Work"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "inbal-s_t13",
+      "title": "What developers might lose and how to choose",
+      "summary": "They explore whether AI removes enjoyable parts of coding; Inbal argues developers can choose how to use Copilot (autocomplete vs chat) and compares it to past abstraction shifts (C\u2192Java\u2192Python). She suggests delegating disliked work (e.g., tests) while keeping preferred tasks.",
+      "timestamp_start": "00:26:37",
+      "timestamp_end": "00:28:34",
+      "speakers": [
+        "Lenny",
+        "Inbal Shani"
+      ],
+      "themes": [
+        "Developer Experience",
+        "AI in Software Development",
+        "Software Quality & Testing"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "inbal-s_t14",
+      "title": "Inbal\u2019s coding today and early AI perspective",
+      "summary": "Inbal shares how she still engages technically through helping her son with projects and architecture. She reflects on being surprised by how generative AI democratized usage beyond experts.",
+      "timestamp_start": "00:28:48",
+      "timestamp_end": "00:30:47",
+      "speakers": [
+        "Lenny",
+        "Inbal Shani"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "AI Evolution",
+        "Developer Experience"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "inbal-s_t15",
+      "title": "Future of models: LLMs plus niche AI hybrids",
+      "summary": "Inbal predicts a hybrid future combining general-purpose LLMs with specialized, safety-critical or domain-tuned models (e.g., automotive/aerospace). She expects multi-model systems where different models contribute distinct strengths.",
+      "timestamp_start": "00:30:47",
+      "timestamp_end": "00:32:19",
+      "speakers": [
+        "Lenny",
+        "Inbal Shani"
+      ],
+      "themes": [
+        "AI Strategy",
+        "AI Evolution",
+        "Future of Work"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "inbal-s_t16",
+      "title": "Creating the next Copilot: experimentation culture",
+      "summary": "They discuss how GitHub finds big opportunities by creating space to experiment and accepting failures as learning. Inbal references GitHub Universe and Copilot Workspace as examples of forward-looking vision-setting.",
+      "timestamp_start": "00:32:35",
+      "timestamp_end": "00:34:38",
+      "speakers": [
+        "Lenny",
+        "Inbal Shani"
+      ],
+      "themes": [
+        "Product Innovation",
+        "Product Development Process",
+        "AI in Software Development"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "inbal-s_t17",
+      "title": "How innovation is sourced and funded at GitHub",
+      "summary": "Inbal explains innovation mechanisms: deep customer/community feedback loops, internal pitching with papers/POCs, flexible resourcing (including \u201cV teams\u201d), and avoiding overly rigid creativity processes. She introduces GitHub Next as a dedicated research function.",
+      "timestamp_start": "00:34:38",
+      "timestamp_end": "00:37:16",
+      "speakers": [
+        "Lenny",
+        "Inbal Shani"
+      ],
+      "themes": [
+        "Product Innovation",
+        "Product Management",
+        "Customer Research"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "inbal-s_t18",
+      "title": "GitHub Next: research-to-production and why it works",
+      "summary": "They unpack GitHub Next\u2019s mandate (3\u20135 year horizon, experiments, papers, prototypes) and how Copilot emerged from it. Inbal argues success comes from the right people plus tight synergy with product/engineering to ship real outcomes, avoiding \u201cuniversity mode\u201d or overly tactical demands.",
+      "timestamp_start": "00:37:16",
+      "timestamp_end": "00:39:20",
+      "speakers": [
+        "Lenny",
+        "Inbal Shani"
+      ],
+      "themes": [
+        "Product Innovation",
+        "Product Development Process",
+        "AI in Software Development"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "inbal-s_t19",
+      "title": "Becoming a CPO: skills, influence, and systems thinking",
+      "summary": "Inbal describes the CPO role as broader than product\u2014requiring business, go-to-market, and engineering understanding. She credits learning systems thinking early, building influence/change-management skills, and learning from leaders/peers/reports.",
+      "timestamp_start": "00:39:20",
+      "timestamp_end": "00:42:04",
+      "speakers": [
+        "Lenny",
+        "Inbal Shani"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "Product Management",
+        "Change Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "inbal-s_t20",
+      "title": "Failure Corner: moving too fast as a leader",
+      "summary": "Inbal reframes failure as learning and shares an early leadership lesson at TomTom: driving change too quickly without explaining the why and bringing people along. They discuss why new leaders often see gaps and push fixes before building alignment.",
+      "timestamp_start": "00:42:04",
+      "timestamp_end": "00:45:35",
+      "speakers": [
+        "Lenny",
+        "Inbal Shani"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "Change Management",
+        "Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "inbal-s_t21",
+      "title": "Closing reflections and start of lightning round",
+      "summary": "Inbal reflects on an exciting year at GitHub and how a career includes learnings, successes, and wrong turns. Lenny transitions into the lightning round and asks about most-recommended books as the transcript cuts off.",
+      "timestamp_start": "00:45:35",
+      "timestamp_end": "00:46:32",
+      "speakers": [
+        "Lenny",
+        "Inbal Shani"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "Personal Journey",
+        "Podcast Format"
+      ],
+      "quote_count": 0
+    }
+  ]
+}

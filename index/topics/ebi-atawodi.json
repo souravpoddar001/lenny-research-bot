@@ -1,0 +1,218 @@
+{
+  "episode_id": "ebi-atawodi",
+  "topics": [
+    {
+      "topic_id": "ebi-atawodi_t1",
+      "title": "Leadership: being loved vs being liked",
+      "summary": "Ebi explains that effective leadership is about being \u201cloved\u201d (deeply cared for) rather than merely liked, which requires hard conversations and candid feedback grounded in genuine care for the person behind the role.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:00",
+      "speakers": [
+        "Ebi Atawodi"
+      ],
+      "themes": [
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ebi-atawodi_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Ebi\u2019s background (YouTube, Netflix, Uber) and previews the episode\u2019s focus on tactical product vision, communicating vision, improving PM craft, and building product culture.",
+      "timestamp_start": "00:01:00",
+      "timestamp_end": "00:01:48",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Product Vision"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ebi-atawodi_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Sidebar (peer groups/personal board of directors) and Jira Product Discovery (prioritization and roadmapping tool for product teams).",
+      "timestamp_start": "00:01:48",
+      "timestamp_end": "00:04:35",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ebi-atawodi_t4",
+      "title": "Why vision matters and core elements",
+      "summary": "Ebi argues every PM needs a vision at any level and defines key attributes: lofty yet attainable, not constrained by today\u2019s limitations, and grounded in a clear user problem.",
+      "timestamp_start": "00:04:35",
+      "timestamp_end": "00:08:16",
+      "speakers": [
+        "Lenny",
+        "Ebi Atawodi"
+      ],
+      "themes": [
+        "Product Vision"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ebi-atawodi_t5",
+      "title": "Examples of strong visions (Uber, Tesla, Mars)",
+      "summary": "Ebi shares concrete examples: Uber\u2019s future of continuous trips and reduced parking, and Tesla/Musk visions, discussing the tension between inspirational loftiness and attainability.",
+      "timestamp_start": "00:08:16",
+      "timestamp_end": "00:11:44",
+      "speakers": [
+        "Lenny",
+        "Ebi Atawodi"
+      ],
+      "themes": [
+        "Product Vision"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ebi-atawodi_t6",
+      "title": "Mission vs vision: practical distinction",
+      "summary": "Using a Mount Everest analogy, Ebi clarifies mission as the purpose/why and guiding principles, while vision is the vivid picture of the future state when you arrive.",
+      "timestamp_start": "00:11:44",
+      "timestamp_end": "00:14:45",
+      "speakers": [
+        "Lenny",
+        "Ebi Atawodi"
+      ],
+      "themes": [
+        "Product Vision"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ebi-atawodi_t7",
+      "title": "Vision artifacts: story frameworks and narratives",
+      "summary": "Ebi explains that vision can be expressed as a story, introducing a simple narrative template (\u201conce upon a time\u2026 one day\u2026 because of that\u2026 finally\u2026\u201d) to make the future state memorable and motivating.",
+      "timestamp_start": "00:14:45",
+      "timestamp_end": "00:20:36",
+      "speakers": [
+        "Lenny",
+        "Ebi Atawodi"
+      ],
+      "themes": [
+        "Product Vision",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ebi-atawodi_t8",
+      "title": "Working backwards: headlines, articles, and screenshots",
+      "summary": "She describes writing a future TechCrunch/NYT-style headline and article to force clarity, plus visualizing the future via sketches or app-store screenshot mock panels to align teams on the few big rocks.",
+      "timestamp_start": "00:20:36",
+      "timestamp_end": "00:27:02",
+      "speakers": [
+        "Lenny",
+        "Ebi Atawodi"
+      ],
+      "themes": [
+        "Product Vision",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ebi-atawodi_t9",
+      "title": "No-designer excuse and low-fidelity visualization",
+      "summary": "Ebi emphasizes that PMs must tell the story even without design resources\u2014use hand sketches, rectangles, or post-its\u2014then invite designers to refine once the narrative is compelling.",
+      "timestamp_start": "00:27:02",
+      "timestamp_end": "00:28:31",
+      "speakers": [
+        "Lenny",
+        "Ebi Atawodi"
+      ],
+      "themes": [
+        "Execution",
+        "Communication"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ebi-atawodi_t10",
+      "title": "Developing vision: empathize, create, evangelize",
+      "summary": "Ebi introduces a three-part approach: empathize deeply with user problems, create the future-state vision, then evangelize it over time\u2014highlighting patience and resilience against naysayers.",
+      "timestamp_start": "00:28:31",
+      "timestamp_end": "00:30:32",
+      "speakers": [
+        "Lenny",
+        "Ebi Atawodi"
+      ],
+      "themes": [
+        "Product Vision"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ebi-atawodi_t11",
+      "title": "Empathize tactics: dogfooding, competitor use, intuition",
+      "summary": "She outlines practical \u201cunderstand work\u201d: regularly use your own product and competitors, build product sense from observing great experiences, and avoid over-relying on research as a substitute for judgment.",
+      "timestamp_start": "00:30:32",
+      "timestamp_end": "00:33:27",
+      "speakers": [
+        "Lenny",
+        "Ebi Atawodi"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Product Vision"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ebi-atawodi_t12",
+      "title": "Top 10 problems doc and stakeholder inputs",
+      "summary": "Ebi describes a living \u201ctop 10 things you should know\u201d problems document (qual + quant + tech debt) and a structured way to collect stakeholder perspectives using the same template to converge on shared priorities.",
+      "timestamp_start": "00:33:27",
+      "timestamp_end": "00:40:14",
+      "speakers": [
+        "Lenny",
+        "Ebi Atawodi"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ebi-atawodi_t13",
+      "title": "Strategy sessions: insights, strategy, big rocks",
+      "summary": "She explains a 2\u20133 day narrative-structured strategy offsite: day 1 insights/teardowns, day 2 prioritization strategy, day 3 big rocks\u2014run with a cross-functional core (PM/Eng/Design/Research, plus data as needed).",
+      "timestamp_start": "00:40:14",
+      "timestamp_end": "00:43:11",
+      "speakers": [
+        "Lenny",
+        "Ebi Atawodi"
+      ],
+      "themes": [
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ebi-atawodi_t14",
+      "title": "Evangelizing vision: team, stakeholders, leadership",
+      "summary": "Ebi shares a concentric-circles rollout: align the full team first with repeatable storytelling and a commentable living doc, then stakeholders, then senior leadership\u2014using the process to show people they were heard.",
+      "timestamp_start": "00:43:11",
+      "timestamp_end": "00:47:13",
+      "speakers": [
+        "Lenny",
+        "Ebi Atawodi"
+      ],
+      "themes": [
+        "Communication",
+        "Leadership"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "episode_id": "kim-scott",
+  "topics": [
+    {
+      "topic_id": "kim-scott_t1",
+      "title": "Introduction and Background",
+      "summary": "Cold open on how to ask for feedback authentically, then Lenny introduces Kim Scott\u2019s background and what they\u2019ll cover (practicing Radical Candor, getting feedback, people-pleasing, culture pitfalls).",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:50",
+      "speakers": [
+        "Kim Scott",
+        "Lenny"
+      ],
+      "themes": [
+        "Feedback & Coaching",
+        "Leadership & Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "kim-scott_t2",
+      "title": "Sponsor Break: Jira Product Discovery",
+      "summary": "Sponsor read describing Jira Product Discovery as a prioritization and roadmapping tool to replace spreadsheets and improve cross-functional collaboration.",
+      "timestamp_start": "00:01:50",
+      "timestamp_end": "00:03:13",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Product Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "kim-scott_t3",
+      "title": "Defining Radical Candor and the 2x2",
+      "summary": "Kim explains Radical Candor as caring personally while challenging directly, and contrasts it with obnoxious aggression, manipulative insincerity, and ruinous empathy.",
+      "timestamp_start": "00:03:13",
+      "timestamp_end": "00:08:26",
+      "speakers": [
+        "Lenny",
+        "Kim Scott"
+      ],
+      "themes": [
+        "Feedback & Coaching",
+        "Leadership & Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kim-scott_t4",
+      "title": "Why Radical Candor matters: Kim\u2019s \u201cum\u201d story",
+      "summary": "Kim shares how a boss\u2019s direct feedback about saying \u201cum\u201d improved her communication and career, illustrating how care + direct challenge builds trust and performance.",
+      "timestamp_start": "00:08:48",
+      "timestamp_end": "00:14:07",
+      "speakers": [
+        "Kim Scott",
+        "Lenny"
+      ],
+      "themes": [
+        "Feedback & Coaching",
+        "Leadership & Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kim-scott_t5",
+      "title": "Tactical guidance: HIP + CORE feedback framework",
+      "summary": "Kim resists scripts but offers principles: be Humble, Helpful, Immediate, In-person/synchronous, praise Public/criticize Private, avoid Personality judgments; then use CORE (Context, Observation, Result, next stEp).",
+      "timestamp_start": "00:14:31",
+      "timestamp_end": "00:20:16",
+      "speakers": [
+        "Kim Scott",
+        "Lenny"
+      ],
+      "themes": [
+        "Feedback & Coaching",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kim-scott_t6",
+      "title": "Ruinous empathy story: avoiding hard truths hurts everyone",
+      "summary": "Kim recounts delaying direct feedback to \u201cBob,\u201d leading to prolonged poor performance, team drag, and eventual firing\u2014showing why ruinous empathy is the most common and damaging failure mode.",
+      "timestamp_start": "00:20:43",
+      "timestamp_end": "00:27:50",
+      "speakers": [
+        "Kim Scott",
+        "Lenny"
+      ],
+      "themes": [
+        "Feedback & Coaching",
+        "Leadership & Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kim-scott_t7",
+      "title": "People-pleasing, bias, and giving earlier feedback",
+      "summary": "They discuss why candor is hard (need to be liked, likability/competence bias) and how Kim would redo the Bob situation: ask diagnostic questions, then be specific and persistent about issues to ensure the message lands.",
+      "timestamp_start": "00:27:50",
+      "timestamp_end": "00:33:31",
+      "speakers": [
+        "Lenny",
+        "Kim Scott"
+      ],
+      "themes": [
+        "Feedback & Coaching",
+        "Leadership & Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kim-scott_t8",
+      "title": "Career conversations as a way to show care",
+      "summary": "Kim and Lenny discuss anchoring feedback in an employee\u2019s goals and having structured career conversations (past, future vision, action plan) to build trust and development momentum.",
+      "timestamp_start": "00:33:31",
+      "timestamp_end": "00:35:53",
+      "speakers": [
+        "Lenny",
+        "Kim Scott"
+      ],
+      "themes": [
+        "Career Development",
+        "Leadership & Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "kim-scott_t9",
+      "title": "Practicing candor in a ruinous-empathy culture",
+      "summary": "Kim explains the \u201corder of operations\u201d: start by soliciting criticism to build trust, rather than trying to force a feedback culture solely by giving more direct feedback.",
+      "timestamp_start": "00:35:53",
+      "timestamp_end": "00:39:22",
+      "speakers": [
+        "Lenny",
+        "Kim Scott"
+      ],
+      "themes": [
+        "Culture & Teams",
+        "Feedback & Coaching"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kim-scott_t10",
+      "title": "How to solicit feedback weekly and make it routine",
+      "summary": "Kim recommends asking direct reports weekly (and peers/boss too), using an authentic go-to question, varying prompts, and not accepting \u201ceverything\u2019s fine\u201d as an answer.",
+      "timestamp_start": "00:39:22",
+      "timestamp_end": "00:42:47",
+      "speakers": [
+        "Lenny",
+        "Kim Scott"
+      ],
+      "themes": [
+        "Feedback & Coaching",
+        "Leadership & Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kim-scott_t11",
+      "title": "Handling discomfort, defensiveness, and rewarding candor",
+      "summary": "Kim outlines steps after asking: embrace silence, listen to understand, ask follow-ups, and reward candor\u2014either by fixing issues visibly or acknowledging partial agreement and circling back when you disagree.",
+      "timestamp_start": "00:42:47",
+      "timestamp_end": "00:48:12",
+      "speakers": [
+        "Kim Scott",
+        "Lenny"
+      ],
+      "themes": [
+        "Feedback & Coaching",
+        "Communication"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "kim-scott_t12",
+      "title": "Sponsor Break: Jira Product Discovery (repeat)",
+      "summary": "Sponsor read repeats key benefits: centralized ideas, prioritization, roadmap sharing, and collaboration across stakeholders in Jira Product Discovery.",
+      "timestamp_start": "00:48:12",
+      "timestamp_end": "00:49:11",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Product Management"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

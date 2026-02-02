@@ -1,0 +1,282 @@
+{
+  "episode_id": "marily-nika",
+  "topics": [
+    {
+      "topic_id": "marily-nika_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the show and guest Marily Nika, her experience at Meta/Google, and what the episode will cover (AI trends, resources, and technical basics).",
+      "timestamp_start": "00:28:00",
+      "timestamp_end": "01:12:00",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "AI Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "marily-nika_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Amplitude, EPPO, and later Pando.",
+      "timestamp_start": "01:26:00",
+      "timestamp_end": "26:21:00",
+      "speakers": [
+        "Speaker 3",
+        "Lenny"
+      ],
+      "themes": [
+        "Career & Learning"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "marily-nika_t3",
+      "title": "Staying current: newsletters and AI media",
+      "summary": "Marily shares how she stays up to date (newsletters like MIT Tech Review\u2019s The Download) and why non-AI tech sources increasingly matter as AI becomes embedded everywhere.",
+      "timestamp_start": "03:06:00",
+      "timestamp_end": "04:40:00",
+      "speakers": [
+        "Lenny",
+        "Marily Nika"
+      ],
+      "themes": [
+        "Career & Learning",
+        "AI Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "marily-nika_t4",
+      "title": "AI hype vs reality beyond ChatGPT",
+      "summary": "They discuss what\u2019s overhyped (fear of replacement) and what\u2019s underhyped (breadth of AI capabilities beyond ChatGPT, e.g., emerging lie detection research).",
+      "timestamp_start": "04:40:00",
+      "timestamp_end": "05:58:00",
+      "speakers": [
+        "Lenny",
+        "Marily Nika"
+      ],
+      "themes": [
+        "AI Product Management",
+        "Ethics & Responsible AI"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "marily-nika_t5",
+      "title": "How PMs use ChatGPT day-to-day",
+      "summary": "Marily explains practical workflows: rewriting mission statements for broad clarity, generating user segments/personas, and brainstorming\u2014using AI as an enhancer, not a replacement.",
+      "timestamp_start": "05:58:00",
+      "timestamp_end": "08:24:00",
+      "speakers": [
+        "Lenny",
+        "Marily Nika"
+      ],
+      "themes": [
+        "AI Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "marily-nika_t6",
+      "title": "Why every PM becomes an AI PM",
+      "summary": "Marily argues AI will be default in products via personalization, recommendations, and automation, and PMs will need to collaborate closely with research scientists and embrace uncertainty.",
+      "timestamp_start": "08:24:00",
+      "timestamp_end": "11:15:00",
+      "speakers": [
+        "Lenny",
+        "Marily Nika"
+      ],
+      "themes": [
+        "AI Product Management",
+        "Career & Learning"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "marily-nika_t7",
+      "title": "Getting started: mindset, data, and problems",
+      "summary": "Advice for non-technical PMs: don\u2019t be overwhelmed, look for ways to use existing data to improve experiences (security, fraud, personalization), and start by identifying real pain points.",
+      "timestamp_start": "11:15:00",
+      "timestamp_end": "14:11:00",
+      "speakers": [
+        "Lenny",
+        "Marily Nika"
+      ],
+      "themes": [
+        "AI Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "marily-nika_t8",
+      "title": "When not to use AI: avoid MVP traps",
+      "summary": "Marily warns against using AI for MVP validation; instead prototype/fake the AI with Figma to test demand, and only invest in models when you have data and a proven need.",
+      "timestamp_start": "14:11:00",
+      "timestamp_end": "15:46:00",
+      "speakers": [
+        "Lenny",
+        "Marily Nika"
+      ],
+      "themes": [
+        "AI Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "marily-nika_t9",
+      "title": "Data needs and build-vs-buy model decisions",
+      "summary": "They cover how data requirements vary by task, why startups often lack sufficient data, and when training proprietary models matters for differentiation versus using shared datasets or public models.",
+      "timestamp_start": "15:46:00",
+      "timestamp_end": "18:34:00",
+      "speakers": [
+        "Lenny",
+        "Marily Nika"
+      ],
+      "themes": [
+        "AI Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "marily-nika_t10",
+      "title": "What models are and how training works",
+      "summary": "Marily explains models with a child-learning analogy, describes training as repeated exposure to labeled examples, and discusses pattern learning and probabilistic outputs.",
+      "timestamp_start": "18:34:00",
+      "timestamp_end": "21:24:00",
+      "speakers": [
+        "Lenny",
+        "Marily Nika"
+      ],
+      "themes": [
+        "AI Product Management",
+        "Career & Learning"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "marily-nika_t11",
+      "title": "Cool AI applications: real-time translation glasses",
+      "summary": "Marily shares an impactful example from Google AR/VR: glasses that transcribe and translate speech live, highlighting how AI enables new product experiences.",
+      "timestamp_start": "21:24:00",
+      "timestamp_end": "22:46:00",
+      "speakers": [
+        "Lenny",
+        "Marily Nika"
+      ],
+      "themes": [
+        "AI Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "marily-nika_t12",
+      "title": "Will AI replace PMs? Skills to invest in",
+      "summary": "Marily argues AI won\u2019t replace PMs but will remove tedious work; she encourages PMs to learn fundamentals (including coding) to build confidence and better partner with technical teams.",
+      "timestamp_start": "22:46:00",
+      "timestamp_end": "25:23:00",
+      "speakers": [
+        "Lenny",
+        "Marily Nika"
+      ],
+      "themes": [
+        "Career & Learning",
+        "AI Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "marily-nika_t13",
+      "title": "Learning resources: courses and coding bootcamps",
+      "summary": "Marily recommends learning paths depending on style: Coursera/Stanford intro AI for self-paced learners and CareerFoundry, General Assembly, and Coding Dojo for cohort-based learning.",
+      "timestamp_start": "26:21:00",
+      "timestamp_end": "27:31:00",
+      "speakers": [
+        "Lenny",
+        "Marily Nika"
+      ],
+      "themes": [
+        "Career & Learning"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "marily-nika_t14",
+      "title": "Becoming an AI PM: course overview and challenges",
+      "summary": "They discuss what AI PMs should learn (AI product lifecycle differences, working with researchers, interviewing), plus key challenges: uncertainty, leadership expectations, and data collection difficulty.",
+      "timestamp_start": "27:31:00",
+      "timestamp_end": "31:15:00",
+      "speakers": [
+        "Lenny",
+        "Marily Nika"
+      ],
+      "themes": [
+        "AI Product Management",
+        "Career & Learning"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "marily-nika_t15",
+      "title": "Getting buy-in for ML and bridging research to product",
+      "summary": "Marily shares tactics for leadership buy-in using adjacent successes, contingency plans, and trust-building; they also discuss tracking academia (arXiv) and PMs\u2019 role in monetizing research.",
+      "timestamp_start": "31:15:00",
+      "timestamp_end": "34:56:00",
+      "speakers": [
+        "Lenny",
+        "Marily Nika"
+      ],
+      "themes": [
+        "AI Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "marily-nika_t16",
+      "title": "Course structure, projects, and no-code AutoML",
+      "summary": "Marily outlines her 3-week, 9-workshop course, highlights hands-on capstone projects, shares examples (x-ray classifier), and points to no-code tooling like Google Cloud AutoML.",
+      "timestamp_start": "34:56:00",
+      "timestamp_end": "40:25:00",
+      "speakers": [
+        "Lenny",
+        "Marily Nika"
+      ],
+      "themes": [
+        "Career & Learning",
+        "AI Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "marily-nika_t17",
+      "title": "Building and updating a course like a product",
+      "summary": "Marily explains how she iterated on audience and curriculum via user research, community, and direct support, and how fast-moving AI forced updates (e.g., adding a ChatGPT module).",
+      "timestamp_start": "40:25:00",
+      "timestamp_end": "44:07:00",
+      "speakers": [
+        "Lenny",
+        "Marily Nika"
+      ],
+      "themes": [
+        "Career & Learning"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "marily-nika_t18",
+      "title": "Lightning round: books, podcasts, tools, and questions",
+      "summary": "Quick recommendations: books (Inspired, You Look Like a Thing and I Love You), Boz\u2019s podcast, White Lotus, an interview question about explaining databases simply, and AI tools like ChatGPT and Lensa.",
+      "timestamp_start": "44:07:00",
+      "timestamp_end": "47:02:00",
+      "speakers": [
+        "Lenny",
+        "Marily Nika"
+      ],
+      "themes": [
+        "Career & Learning",
+        "AI Product Management"
+      ],
+      "quote_count": 0
+    }
+  ]
+}

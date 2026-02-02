@@ -1,0 +1,205 @@
+{
+  "episode_id": "sriram-and-aarthi",
+  "topics": [
+    {
+      "topic_id": "sriram-and-aarthi_t1",
+      "title": "JTBD rant teaser: Facebook onboarding example",
+      "summary": "Sriram opens with a critique of Jobs-to-be-Done, arguing it can mislead product thinking. He uses Facebook\u2019s \u201c10 friends in 14 days\u201d onboarding and People You May Know as an example of optimizing one user\u2019s experience at another\u2019s expense.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:49",
+      "speakers": [
+        "Sriram Krishnan",
+        "Lenny"
+      ],
+      "themes": [
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sriram-and-aarthi_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Aarthi and Sriram, their backgrounds across major tech companies, and their Good Time Show origin story (Clubhouse to YouTube). He previews episode themes like techno-optimism, networking, community, and product frameworks.",
+      "timestamp_start": "00:00:49",
+      "timestamp_end": "00:02:02",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career Growth"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "sriram-and-aarthi_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Vanta (SOC 2/security compliance automation) and Dovetail (customer insights platform).",
+      "timestamp_start": "00:02:02",
+      "timestamp_end": "00:04:18",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Operations"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sriram-and-aarthi_t4",
+      "title": "Meeting the duo and Good Time Show",
+      "summary": "Light banter and context on being the first duo guests. They discuss Lenny\u2019s missed Good Time Show appearance right before the Elon episode blew up, and how the show evolved beyond that moment.",
+      "timestamp_start": "00:04:18",
+      "timestamp_end": "00:06:07",
+      "speakers": [
+        "Lenny",
+        "Aarthi Ramamurthy",
+        "Sriram Krishnan"
+      ],
+      "themes": [
+        "Career Growth"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "sriram-and-aarthi_t5",
+      "title": "How Elon Musk came on Clubhouse",
+      "summary": "Sriram explains how an internet conversation led to Elon DM\u2019ing him while he worked at Twitter, which later enabled inviting Elon onto their Clubhouse show. They describe the viral aftermath, pressure, and criticism about not being \u201chard-hitting\u201d journalists.",
+      "timestamp_start": "00:06:07",
+      "timestamp_end": "00:08:46",
+      "speakers": [
+        "Lenny",
+        "Sriram Krishnan",
+        "Aarthi Ramamurthy"
+      ],
+      "themes": [
+        "Content & Audience Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sriram-and-aarthi_t6",
+      "title": "Clubhouse growth strategy and trajectory",
+      "summary": "Aarthi discusses Clubhouse\u2019s early top-of-funnel strategy of attracting high-profile voices and the challenge of retention and product-market fit. She argues the company is still young and founders need time, while remaining bullish on their ability to iterate.",
+      "timestamp_start": "00:08:46",
+      "timestamp_end": "00:10:56",
+      "speakers": [
+        "Lenny",
+        "Aarthi Ramamurthy"
+      ],
+      "themes": [
+        "Growth & Acquisition"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sriram-and-aarthi_t7",
+      "title": "Status, stars, and bootstrapping social networks",
+      "summary": "Sriram references Eugene Wei\u2019s \u201cStatus as a Service,\u201d explaining why new networks need high-status but underserved users plus homegrown creators. They compare platform-native stars across Snapchat/Instagram/TikTok and relate it to Substack\u2019s ecosystem.",
+      "timestamp_start": "00:10:56",
+      "timestamp_end": "00:14:12",
+      "speakers": [
+        "Sriram Krishnan",
+        "Lenny",
+        "Aarthi Ramamurthy"
+      ],
+      "themes": [
+        "Growth & Acquisition"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sriram-and-aarthi_t8",
+      "title": "Techno-optimism: personal roots and worldview",
+      "summary": "Aarthi and Sriram connect techno-optimism to their upbringing in India and how computers/internet changed their lives and careers. They contrast pessimistic narratives with the argument that technology broadly expands opportunity and access.",
+      "timestamp_start": "00:14:12",
+      "timestamp_end": "00:18:24",
+      "speakers": [
+        "Lenny",
+        "Aarthi Ramamurthy",
+        "Sriram Krishnan"
+      ],
+      "themes": [
+        "Tech Industry Perspectives"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sriram-and-aarthi_t9",
+      "title": "Building a network and personal brand",
+      "summary": "They argue personal branding isn\u2019t a \u201cdirty word\u201d and that relying solely on shipping products inside big companies can limit recognition. Sriram gives a tactical networking playbook (coffee chats, cold outreach, follow-ups, non-transactional mindset) and advocates publishing work as a \u201cbat signal.\u201d",
+      "timestamp_start": "00:18:24",
+      "timestamp_end": "00:27:05",
+      "speakers": [
+        "Lenny",
+        "Aarthi Ramamurthy",
+        "Sriram Krishnan"
+      ],
+      "themes": [
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sriram-and-aarthi_t10",
+      "title": "Curiosity, micro-communities, and hosting rules",
+      "summary": "They discuss how Sriram\u2019s genuine curiosity drives relationship-building and how he creates many small, trusted online groups. He describes the \u201cparty host\u201d model: clear rules, curated mix of personalities, and facilitating serendipitous connections.",
+      "timestamp_start": "00:27:05",
+      "timestamp_end": "00:31:22",
+      "speakers": [
+        "Lenny",
+        "Aarthi Ramamurthy",
+        "Sriram Krishnan"
+      ],
+      "themes": [
+        "Community Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sriram-and-aarthi_t11",
+      "title": "How to start communities: niche, vibe, rituals",
+      "summary": "Aarthi advises starting small with a clear niche and thinking early about monetization if it\u2019s a business. Sriram reframes community as a dinner party: define the vibe, curate the initial mix, actively host participation, and establish recurring rituals to build trust.",
+      "timestamp_start": "00:31:22",
+      "timestamp_end": "00:37:21",
+      "speakers": [
+        "Lenny",
+        "Aarthi Ramamurthy",
+        "Sriram Krishnan"
+      ],
+      "themes": [
+        "Community Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sriram-and-aarthi_t12",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for LMNT electrolyte drink mix, including benefits, social proof, and a listener offer.",
+      "timestamp_start": "00:37:21",
+      "timestamp_end": "00:38:36",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Operations"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sriram-and-aarthi_t13",
+      "title": "Should early-career people create content?",
+      "summary": "Lenny raises concerns about low-signal \u201cPM content,\u201d while Sriram argues everyone should start posting early and ignore fear of judgment or \u201ccringe.\u201d He emphasizes daily reps, learning the medium, and sharing your journey rather than waiting for major accomplishments.",
+      "timestamp_start": "00:38:36",
+      "timestamp_end": "00:41:36",
+      "speakers": [
+        "Lenny",
+        "Sriram Krishnan",
+        "Aarthi Ramamurthy"
+      ],
+      "themes": [
+        "Content & Audience Building"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

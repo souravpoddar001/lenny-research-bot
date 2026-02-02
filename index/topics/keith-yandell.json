@@ -1,0 +1,236 @@
+{
+  "episode_id": "keith-yandell",
+  "topics": [
+    {
+      "topic_id": "keith-yandell_t1",
+      "title": "Founder persistence and fundraising rejection resilience",
+      "summary": "Keith opens with lessons from DoorDash\u2019s precarious runway and repeated VC rejections: persistence is essential, and \u201cit only takes one yes.\u201d He contrasts founder vs. non-founder mindset\u2014founders find a way to keep going.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:44",
+      "speakers": [
+        "Keith Yandell"
+      ],
+      "themes": [
+        "Startups",
+        "Leadership",
+        "Venture Capital"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "keith-yandell_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the show and Keith\u2019s unusual leadership path across many DoorDash functions (legal, HR, marketing, support, BD/corp dev) and prior role at Uber. Sets expectations for a wide-ranging conversation on leadership and culture.",
+      "timestamp_start": "00:00:44",
+      "timestamp_end": "00:01:38",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Leadership",
+        "Careers",
+        "Company Culture"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "keith-yandell_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for OneSchema (CSV importing) and Amplitude (product analytics), followed by Keith\u2019s welcome to the show.",
+      "timestamp_start": "00:01:38",
+      "timestamp_end": "00:03:15",
+      "speakers": [
+        "Lenny",
+        "Keith Yandell"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "keith-yandell_t4",
+      "title": "Calling a candidate an asshole\u2014culture fit",
+      "summary": "Keith recounts initially flagging Ryan Sokol as a \u201cjerk,\u201d then directly confronting him at dinner to test self-awareness and receptiveness to feedback. The story illustrates DoorDash\u2019s \u201cno politics, no asshole\u201d bar and how direct feedback can reveal true culture fit.",
+      "timestamp_start": "00:03:17",
+      "timestamp_end": "00:06:39",
+      "speakers": [
+        "Lenny",
+        "Keith Yandell"
+      ],
+      "themes": [
+        "Hiring",
+        "Company Culture",
+        "Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "keith-yandell_t5",
+      "title": "DoorDash culture: humility, customer obsession, bias to action",
+      "summary": "Keith shares culture-defining stories: founders assembling cheap champagne flutes after a tough Series D, and the WeDash program requiring employees to deliver orders. A standout anecdote features Keith\u2019s daughter calling Tony Xu about a broken delivery experience\u2014Tony immediately escalates and drives a fix.",
+      "timestamp_start": "00:06:39",
+      "timestamp_end": "00:10:47",
+      "speakers": [
+        "Lenny",
+        "Keith Yandell"
+      ],
+      "themes": [
+        "Company Culture",
+        "Customer Focus",
+        "Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "keith-yandell_t6",
+      "title": "WeDash details and using it to screen hires",
+      "summary": "They discuss how often employees dash (at least quarterly) and Keith\u2019s monthly participation, plus examples of bugs found through real deliveries. Keith explains alternatives (e.g., support) and how the requirement attracts humble, customer-obsessed talent while filtering out poor fits.",
+      "timestamp_start": "00:10:47",
+      "timestamp_end": "00:13:13",
+      "speakers": [
+        "Lenny",
+        "Keith Yandell"
+      ],
+      "themes": [
+        "Customer Focus",
+        "Hiring",
+        "Company Culture"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "keith-yandell_t7",
+      "title": "Leading unfamiliar functions: generalists, autonomy, hiring experts",
+      "summary": "Keith explains how he credibly led many teams despite not being a domain expert, including Tony\u2019s \u201cRange\u201d philosophy: generalists can drive 10x outcomes by challenging defaults. His approach centers on hiring true experts, being transparent about gaps, and then getting out of their way.",
+      "timestamp_start": "00:13:13",
+      "timestamp_end": "00:18:21",
+      "speakers": [
+        "Lenny",
+        "Keith Yandell"
+      ],
+      "themes": [
+        "Leadership",
+        "Careers",
+        "Hiring"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "keith-yandell_t8",
+      "title": "Scaling culture with a \u201cHow to work with Keith\u201d doc",
+      "summary": "Keith describes a written guide to scale expectations and culture during hypergrowth: traits of successful people, his own improvement areas, and commitments to the team. The document helps onboarding, clarifies working norms, and attracts senior talent through transparency.",
+      "timestamp_start": "00:18:21",
+      "timestamp_end": "00:21:44",
+      "speakers": [
+        "Lenny",
+        "Keith Yandell"
+      ],
+      "themes": [
+        "Company Culture",
+        "Leadership",
+        "Communication"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "keith-yandell_t9",
+      "title": "Helping reports find their next job\u2014even outside DoorDash",
+      "summary": "Keith explains why he actively supports employees\u2019 career moves: it increases trust, reduces surprise attrition, strengthens his long-term manager brand, and can even create boomerangs. He operationalizes it via one-on-ones and by forwarding recruiter outreach to senior reports.",
+      "timestamp_start": "00:21:44",
+      "timestamp_end": "00:26:04",
+      "speakers": [
+        "Lenny",
+        "Keith Yandell"
+      ],
+      "themes": [
+        "Careers",
+        "Leadership",
+        "People Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "keith-yandell_t10",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Coda (docs that combine data and workflows) and a startup credit offer.",
+      "timestamp_start": "00:26:04",
+      "timestamp_end": "00:27:23",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "keith-yandell_t11",
+      "title": "Unifying exec decisions: empathy, steelmanning, decision clarity",
+      "summary": "Keith outlines how he helps strong-willed leaders converge: understand motivations, have each side argue the other\u2019s case, and clarify the decision maker and timeline. The goal is healthy debate followed by fast commitment once a call is made.",
+      "timestamp_start": "00:27:23",
+      "timestamp_end": "00:31:16",
+      "speakers": [
+        "Lenny",
+        "Keith Yandell"
+      ],
+      "themes": [
+        "Leadership",
+        "Decision Making",
+        "Communication"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "keith-yandell_t12",
+      "title": "One-on-ones and building a feedback culture",
+      "summary": "Keith shares tactics for effective one-on-ones: explicitly require upward constructive feedback, create space to give feedback, and close the loop by acting on it. He cites Uber\u2019s T3B3 practice (three positives, three constructive) and emphasizes thanking people and showing changes.",
+      "timestamp_start": "00:31:16",
+      "timestamp_end": "00:34:49",
+      "speakers": [
+        "Lenny",
+        "Keith Yandell"
+      ],
+      "themes": [
+        "People Management",
+        "Leadership",
+        "Communication"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "keith-yandell_t13",
+      "title": "Leading through tough times and creating urgency",
+      "summary": "Keith explains why downturns can strengthen companies: they reveal mission-driven teammates, force discipline on unit economics, and make talent more available. He also discusses how Tony Xu sustains urgency via compounding speed gains and staying hungry\u2014even on IPO day.",
+      "timestamp_start": "00:34:49",
+      "timestamp_end": "00:41:33",
+      "speakers": [
+        "Lenny",
+        "Keith Yandell"
+      ],
+      "themes": [
+        "Leadership",
+        "Startups",
+        "Execution"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "keith-yandell_t14",
+      "title": "Pandemic rollercoaster: demand swings, support shutdowns, reliability",
+      "summary": "Keith recounts early COVID volatility: initial order collapse, then rapid demand doubling, while global support centers shut down and the app crashed on peak nights. Despite operational strain, customer gratitude rose, reinforcing DoorDash\u2019s mission and prompting major restaurant-support decisions.",
+      "timestamp_start": "00:41:33",
+      "timestamp_end": "00:43:30",
+      "speakers": [
+        "Lenny",
+        "Keith Yandell"
+      ],
+      "themes": [
+        "Operations",
+        "Customer Focus",
+        "Crisis Management"
+      ],
+      "quote_count": 0
+    }
+  ]
+}

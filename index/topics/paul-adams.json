@@ -1,0 +1,274 @@
+{
+  "episode_id": "paul-adams",
+  "topics": [
+    {
+      "topic_id": "paul-adams_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Paul Adams, his background across Intercom/Facebook/Google, and previews themes: failure stories and Intercom\u2019s AI pivot.",
+      "timestamp_start": "00:00:52",
+      "timestamp_end": "00:04:14",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "AI Strategy"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "paul-adams_t2",
+      "title": "Cannes keynote freeze and recovery",
+      "summary": "Paul recounts freezing mid-keynote at Cannes, walking off stage mic\u2019d up, then returning to finish\u2014plus the lasting lesson that even worst-case public failures are survivable.",
+      "timestamp_start": "00:04:15",
+      "timestamp_end": "00:07:29",
+      "speakers": [
+        "Lenny",
+        "Paul Adams"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "Personal Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "paul-adams_t3",
+      "title": "Google social product failures and fear-driven strategy",
+      "summary": "Paul describes working on Google Buzz/Plus-era social efforts, arguing they were motivated by competitive fear rather than user value, contrasting with Google\u2019s successes like Maps/Android.",
+      "timestamp_start": "00:07:29",
+      "timestamp_end": "00:10:51",
+      "speakers": [
+        "Lenny",
+        "Paul Adams"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Career & Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "paul-adams_t4",
+      "title": "Leaving Google for Facebook amid scrutiny",
+      "summary": "Paul explains departing mid\u2013Google Plus development, internal backlash, and being treated like a potential spy\u2014reinforcing how competitive dynamics can distort product work and culture.",
+      "timestamp_start": "00:11:01",
+      "timestamp_end": "00:12:32",
+      "speakers": [
+        "Lenny",
+        "Paul Adams"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "paul-adams_t5",
+      "title": "Why failure matters and Intercom\u2019s ship-to-learn culture",
+      "summary": "Paul argues repeated failure is essential for big bets, shares Intercom\u2019s founding pitch (\u201cdesign the company\u201d), and discusses the tension between shipping fast and maintaining craft quality.",
+      "timestamp_start": "00:12:32",
+      "timestamp_end": "00:15:17",
+      "speakers": [
+        "Lenny",
+        "Paul Adams"
+      ],
+      "themes": [
+        "Company Culture",
+        "Product Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "paul-adams_t6",
+      "title": "AI as a meteor: hype skepticism vs all-in mindset",
+      "summary": "Paul frames AI as a society-transforming shift (bigger than mobile, possibly the internet) and contrasts believers with skeptics burned by prior hype cycles like crypto/metaverse.",
+      "timestamp_start": "00:15:17",
+      "timestamp_end": "00:17:31",
+      "speakers": [
+        "Lenny",
+        "Paul Adams"
+      ],
+      "themes": [
+        "AI Strategy",
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "paul-adams_t7",
+      "title": "How to get started: make time, read, and try tools",
+      "summary": "Paul advises carving out dedicated time to experiment hands-on (e.g., ChatGPT Vision) and keep learning via reading\u2014warning that leaders who don\u2019t engage will fall behind.",
+      "timestamp_start": "00:17:31",
+      "timestamp_end": "00:20:05",
+      "speakers": [
+        "Lenny",
+        "Paul Adams"
+      ],
+      "themes": [
+        "AI Strategy",
+        "Career & Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "paul-adams_t8",
+      "title": "Don\u2019t force AI mockups; think strategically instead",
+      "summary": "They discuss whether leaders should mandate AI in every design; Paul argues AI is often \u201cinvisible\u201d infrastructure and teams should focus on strategic implications rather than bolting on gimmicks.",
+      "timestamp_start": "00:19:54",
+      "timestamp_end": "00:21:17",
+      "speakers": [
+        "Lenny",
+        "Paul Adams"
+      ],
+      "themes": [
+        "AI Strategy",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "paul-adams_t9",
+      "title": "Framework: map your product\u2019s core job to AI capabilities",
+      "summary": "Paul proposes starting from first principles\u2014what your product fundamentally does\u2014then assessing whether AI can replace or augment each part (writing, summarizing, vision, actions, workflows).",
+      "timestamp_start": "00:21:17",
+      "timestamp_end": "00:23:33",
+      "speakers": [
+        "Lenny",
+        "Paul Adams"
+      ],
+      "themes": [
+        "AI Strategy",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "paul-adams_t10",
+      "title": "Intercom\u2019s post-ChatGPT strategy reset and building Fin",
+      "summary": "Paul describes ChatGPT as a \u201cbefore/after\u201d moment that triggered Intercom to rip up its roadmap and go all-in on AI, culminating in Fin as an AI-first support agent.",
+      "timestamp_start": "00:23:33",
+      "timestamp_end": "00:26:46",
+      "speakers": [
+        "Lenny",
+        "Paul Adams"
+      ],
+      "themes": [
+        "AI Strategy",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "paul-adams_t11",
+      "title": "Early results: adoption, skepticism, and organizational change",
+      "summary": "Paul shares early traction (some customers resolving 50\u201370% of inbound with Fin) while noting the bigger challenge is helping support orgs adapt roles, workflows, and new jobs like conversation design.",
+      "timestamp_start": "00:26:46",
+      "timestamp_end": "00:28:53",
+      "speakers": [
+        "Lenny",
+        "Paul Adams"
+      ],
+      "themes": [
+        "AI Strategy",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "paul-adams_t12",
+      "title": "Mind-blowing AI capabilities and job transformation examples",
+      "summary": "Paul highlights leaps from Q&A to reasoning, coding, vision, voice cloning, and real-time translation\u2014using radiology and \u201cdigital afterlife\u201d scenarios to illustrate how roles may shift to oversight and human interaction.",
+      "timestamp_start": "00:28:53",
+      "timestamp_end": "00:34:27",
+      "speakers": [
+        "Lenny",
+        "Paul Adams"
+      ],
+      "themes": [
+        "AI Strategy",
+        "Future of Work"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "paul-adams_t13",
+      "title": "Team and org implications: ML investment and AI UX challenges",
+      "summary": "Paul explains the need for strong ML engineering, expanding the ML function, and then enabling product teams to build on shared foundations\u2014plus the hard UX problem of integrating AI assistants into human workflows.",
+      "timestamp_start": "00:34:27",
+      "timestamp_end": "00:39:05",
+      "speakers": [
+        "Lenny",
+        "Paul Adams"
+      ],
+      "themes": [
+        "AI Strategy",
+        "Org Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "paul-adams_t14",
+      "title": "Staying current: sources, tools, and experimentation habits",
+      "summary": "Paul shares how he keeps up (Twitter/X, newsletters like Matt Rickard, OpenAI posts/papers) and mentions tools he experiments with such as Bard and Rewind for memory augmentation.",
+      "timestamp_start": "00:39:05",
+      "timestamp_end": "00:41:35",
+      "speakers": [
+        "Lenny",
+        "Paul Adams"
+      ],
+      "themes": [
+        "AI Strategy",
+        "Productivity"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "paul-adams_t15",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for HelpBar by Chameleon, an in-app universal search and AI help solution for SaaS products.",
+      "timestamp_start": "00:41:35",
+      "timestamp_end": "00:42:13",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "paul-adams_t16",
+      "title": "Internal buy-in, ambiguity, and horizon planning for AI",
+      "summary": "Paul discusses organizational hurdles: differing convictions, leadership alignment, and extreme uncertainty; he references horizon planning debates where near-term roadmaps may be obsolete in a couple years.",
+      "timestamp_start": "00:42:13",
+      "timestamp_end": "00:45:53",
+      "speakers": [
+        "Lenny",
+        "Paul Adams"
+      ],
+      "themes": [
+        "AI Strategy",
+        "Org Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "paul-adams_t17",
+      "title": "Where AI disrupts next: reporting and project management examples",
+      "summary": "They apply the \u201cmap the job-to-be-done\u201d lens to other categories (e.g., Tableau-style analytics, PM tools), suggesting AI may collapse complex UIs into conversational interfaces and enable new entrants.",
+      "timestamp_start": "00:45:53",
+      "timestamp_end": "00:47:45",
+      "speakers": [
+        "Lenny",
+        "Paul Adams"
+      ],
+      "themes": [
+        "AI Strategy",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

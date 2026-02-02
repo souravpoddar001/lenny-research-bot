@@ -1,0 +1,240 @@
+{
+  "episode_id": "manik-gupta",
+  "topics": [
+    {
+      "topic_id": "manik-gupta_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Manik Gupta\u2019s background (Google Maps, Uber CPO, Microsoft CVP) and previews the episode\u2019s focus areas, followed by sponsor messages and the formal welcome.",
+      "timestamp_start": "00:00:03",
+      "timestamp_end": "00:03:06",
+      "speakers": [
+        "Lenny",
+        "Casey Winters",
+        "Manik Gupta"
+      ],
+      "themes": [
+        "Career",
+        "Product Strategy",
+        "Consumer Products"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "manik-gupta_t2",
+      "title": "Career growth: luck, people, tech optimism",
+      "summary": "Manik shares two key career patterns: surround yourself with A+ people (play the long game) and maintain strong technology optimism focused on solving real human needs.",
+      "timestamp_start": "00:03:08",
+      "timestamp_end": "00:09:14",
+      "speakers": [
+        "Lenny",
+        "Manik Gupta"
+      ],
+      "themes": [
+        "Career",
+        "Leadership",
+        "Technology"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "manik-gupta_t3",
+      "title": "Proudest product impact: Maps and Uber ETAs",
+      "summary": "Manik describes building Google Maps in India despite skepticism and improving Uber\u2019s marketplace/maps to achieve sub-5-minute average ETAs globally, including a personal anecdote where both products intersected.",
+      "timestamp_start": "00:09:14",
+      "timestamp_end": "00:13:26",
+      "speakers": [
+        "Lenny",
+        "Manik Gupta"
+      ],
+      "themes": [
+        "Consumer Products",
+        "Product Strategy",
+        "Technology"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "manik-gupta_t4",
+      "title": "Hardest career moments: dotcom bust and Uber chaos",
+      "summary": "He recounts navigating the dotcom crash as a young founder (pivots, team changes) and the intense turbulence at Uber in 2017\u20132018, emphasizing staying grounded in mission and motivating teams amid chaos.",
+      "timestamp_start": "00:13:41",
+      "timestamp_end": "00:17:26",
+      "speakers": [
+        "Lenny",
+        "Manik Gupta"
+      ],
+      "themes": [
+        "Leadership",
+        "Career",
+        "Company Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "manik-gupta_t5",
+      "title": "Learning through adversity: create wins to energize",
+      "summary": "Manik explains why tough periods accelerate self-knowledge and leadership growth, and shares a tactic: prioritize smaller, faster launches to create \u201cwins\u201d that restore momentum and morale.",
+      "timestamp_start": "00:17:26",
+      "timestamp_end": "00:19:56",
+      "speakers": [
+        "Lenny",
+        "Manik Gupta"
+      ],
+      "themes": [
+        "Leadership",
+        "Execution",
+        "Career"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "manik-gupta_t6",
+      "title": "Counterintuitive lessons building consumer products",
+      "summary": "He argues consumer products are harder and slower than people expect, and that core UX patterns are now largely global\u2014localize at the edges but build for the world from day one.",
+      "timestamp_start": "00:19:56",
+      "timestamp_end": "00:25:02",
+      "speakers": [
+        "Lenny",
+        "Manik Gupta"
+      ],
+      "themes": [
+        "Consumer Products",
+        "Product Strategy",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "manik-gupta_t7",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Unit (banking-as-a-service) and how embedded banking can differentiate products and improve acquisition/retention/monetization.",
+      "timestamp_start": "00:25:02",
+      "timestamp_end": "00:26:04",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "manik-gupta_t8",
+      "title": "Company-product fit before product-market fit",
+      "summary": "Manik introduces \u201ccompany product fit\u201d: ensuring a new product belongs in the company\u2019s portfolio and leverages unique strengths, which then makes the path to product-market fit easier and better supported.",
+      "timestamp_start": "00:26:04",
+      "timestamp_end": "00:29:00",
+      "speakers": [
+        "Lenny",
+        "Manik Gupta"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Company Strategy",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "manik-gupta_t9",
+      "title": "Common missteps: shallow adjacency and line extensions",
+      "summary": "He discusses how companies often underestimate the capability shifts required to move upmarket/downmarket, warning against assuming a couple features can unlock a new segment without proper setup.",
+      "timestamp_start": "00:29:00",
+      "timestamp_end": "00:30:02",
+      "speakers": [
+        "Lenny",
+        "Manik Gupta"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Go-to-Market",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "manik-gupta_t10",
+      "title": "The consumer stack: five capabilities for success",
+      "summary": "Manik outlines a \u201cconsumer stack\u201d of capabilities: design-led delight, ruthless focus, metrics/instrumentation, high ship velocity/experimentation, and strong cross-functional talent.",
+      "timestamp_start": "00:30:02",
+      "timestamp_end": "00:35:34",
+      "speakers": [
+        "Lenny",
+        "Manik Gupta"
+      ],
+      "themes": [
+        "Consumer Products",
+        "Execution",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "manik-gupta_t11",
+      "title": "Operationalizing the consumer stack with scorecards",
+      "summary": "They discuss turning the consumer stack into an evaluative report card to identify gaps (e.g., slow shipping) before making big consumer bets, and how Manik is applying it at Microsoft.",
+      "timestamp_start": "00:35:34",
+      "timestamp_end": "00:36:15",
+      "speakers": [
+        "Lenny",
+        "Manik Gupta"
+      ],
+      "themes": [
+        "Execution",
+        "Leadership",
+        "Consumer Products"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "manik-gupta_t12",
+      "title": "CPO role evolution toward GM accountability",
+      "summary": "Manik shares why relatively few PMs become CPOs and how product leadership is shifting toward GM-style roles that combine product with engineering/design/data for single-threaded accountability.",
+      "timestamp_start": "00:36:23",
+      "timestamp_end": "00:40:15",
+      "speakers": [
+        "Lenny",
+        "Manik Gupta"
+      ],
+      "themes": [
+        "Career",
+        "Leadership",
+        "Org Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "manik-gupta_t13",
+      "title": "CEO\u2013CPO boundaries: vision, execution, collaboration",
+      "summary": "He breaks down the CPO\u2019s core responsibilities (vision aligned to company vision, execution excellence, cross-functional leverage) and advises CEOs to clarify what they\u2019ll own before hiring product leadership.",
+      "timestamp_start": "00:40:15",
+      "timestamp_end": "00:44:39",
+      "speakers": [
+        "Lenny",
+        "Manik Gupta"
+      ],
+      "themes": [
+        "Leadership",
+        "Org Design",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "manik-gupta_t14",
+      "title": "What earns PM promotions: evaluating what and how",
+      "summary": "Manik begins explaining his promotion framework: assess both outcomes (\u201cwhat\u201d was accomplished) and behaviors/approach (\u201chow\u201d it was accomplished), noting level-dependent calibration (segment cuts off mid-thought).",
+      "timestamp_start": "00:44:39",
+      "timestamp_end": "00:45:01",
+      "speakers": [
+        "Lenny",
+        "Manik Gupta"
+      ],
+      "themes": [
+        "Career",
+        "Leadership"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

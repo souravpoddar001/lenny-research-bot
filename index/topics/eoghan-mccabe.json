@@ -1,0 +1,257 @@
+{
+  "episode_id": "eoghan-mccabe",
+  "topics": [
+    {
+      "topic_id": "eoghan-mccabe_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the episode series on SaaS-to-AI transformations and tees up Intercom\u2019s pivot to Fin, including the stakes (plateauing growth) and rapid prototyping after GPT-3.5.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:05:09",
+      "speakers": [
+        "Eoghan McCabe",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Strategy",
+        "Company Transformation",
+        "Startups & Founders"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eoghan-mccabe_t2",
+      "title": "Intercom and Fin growth metrics today",
+      "summary": "Eoghan shares current performance: strong ARR growth vs public SaaS benchmarks, Fin\u2019s rapid growth trajectory, and category leadership in customer experience agents.",
+      "timestamp_start": "00:05:10",
+      "timestamp_end": "00:07:00",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Eoghan McCabe"
+      ],
+      "themes": [
+        "Business Metrics",
+        "AI Products",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eoghan-mccabe_t3",
+      "title": "Pre-pivot decline and CEO return context",
+      "summary": "Eoghan explains the company\u2019s bloat and strategic dilution during his illness/absence, the post-COVID surge masking issues, and the slide toward zero net-new ARR that triggered his return.",
+      "timestamp_start": "00:07:00",
+      "timestamp_end": "00:09:55",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Eoghan McCabe"
+      ],
+      "themes": [
+        "Company Transformation",
+        "Leadership",
+        "Business Metrics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eoghan-mccabe_t4",
+      "title": "ChatGPT moment and early Fin prototype",
+      "summary": "They discuss how GPT-3.5 clarified disruption risk, Intercom\u2019s existing AI team advantage, and how a working Fin beta emerged within six weeks\u2014helped by Intercom\u2019s data and customer base.",
+      "timestamp_start": "00:09:55",
+      "timestamp_end": "00:12:34",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Eoghan McCabe"
+      ],
+      "themes": [
+        "AI Strategy",
+        "Product Development",
+        "Competitive Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eoghan-mccabe_t5",
+      "title": "From anti-bot stance to AI-as-personal",
+      "summary": "Eoghan reconciles Intercom\u2019s original mission (\u201cmake internet business personal\u201d) with AI agents, arguing instant expert help can be more personal than delayed human support; they broaden to AI superiority in some tasks.",
+      "timestamp_start": "00:12:34",
+      "timestamp_end": "00:16:21",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Eoghan McCabe"
+      ],
+      "themes": [
+        "AI Strategy",
+        "Customer Experience",
+        "Product Philosophy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "eoghan-mccabe_t6",
+      "title": "Legacy pricing problems and simplifying pricing",
+      "summary": "Eoghan addresses Intercom\u2019s historically unpopular, complex pricing driven by unfocused strategy, and describes cutting complexity\u2014giving up significant ARR to rebuild trust and customer obsession.",
+      "timestamp_start": "00:16:21",
+      "timestamp_end": "00:19:22",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Eoghan McCabe"
+      ],
+      "themes": [
+        "Pricing",
+        "Go-to-Market",
+        "Customer Experience"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eoghan-mccabe_t7",
+      "title": "Decision to go all-in and founder mode",
+      "summary": "Eoghan describes the messy cocktail behind the pivot: impatience, anger at diluted execution, desperation, and a deliberate shift to an authoritarian founder-led approach rather than committee-driven decisions.",
+      "timestamp_start": "00:19:22",
+      "timestamp_end": "00:23:10",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Eoghan McCabe"
+      ],
+      "themes": [
+        "Leadership",
+        "Company Transformation",
+        "Startups & Founders"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eoghan-mccabe_t8",
+      "title": "Fin outcome-based pricing and unit economics",
+      "summary": "They unpack Fin\u2019s 99-cent-per-resolution model, early negative margins, and the rationale for value-aligned outcome pricing that customers perceive as fair and that improves retention and trust.",
+      "timestamp_start": "00:23:10",
+      "timestamp_end": "00:26:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Eoghan McCabe"
+      ],
+      "themes": [
+        "Pricing",
+        "AI Products",
+        "Customer Experience"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eoghan-mccabe_t9",
+      "title": "Operational reset: costs, focus, culture overhaul",
+      "summary": "Eoghan details the turnaround playbook: aggressive cost cuts, narrowing to customer service, committing major capital to AI, rewriting values, and instituting performance/value scoring to reshape behavior.",
+      "timestamp_start": "00:26:12",
+      "timestamp_end": "00:31:19",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Eoghan McCabe"
+      ],
+      "themes": [
+        "Company Transformation",
+        "Leadership",
+        "Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eoghan-mccabe_t10",
+      "title": "Soft coup, hierarchy, and 40% turnover",
+      "summary": "They discuss internal backlash (letters to the board), Eoghan\u2019s belief in strong CEO decision-making, and the resulting ~40% employee turnover as Intercom re-matched talent to the new mission and pace.",
+      "timestamp_start": "00:31:19",
+      "timestamp_end": "00:36:02",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Eoghan McCabe"
+      ],
+      "themes": [
+        "Leadership",
+        "Culture",
+        "Hiring & Talent"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eoghan-mccabe_t11",
+      "title": "Founder emotional journey and corporate reality",
+      "summary": "Eoghan reflects on why returning was cathartic despite daily stress, and contrasts the romanticized pivot narrative with the grind of executive work and corporate responsibilities.",
+      "timestamp_start": "00:36:02",
+      "timestamp_end": "00:39:22",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Eoghan McCabe"
+      ],
+      "themes": [
+        "Leadership",
+        "Startups & Founders",
+        "Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eoghan-mccabe_t12",
+      "title": "Sponsor Break",
+      "summary": "Ad read for DX, a developer intelligence platform measuring AI tool usage and engineering productivity impact.",
+      "timestamp_start": "00:39:22",
+      "timestamp_end": "00:40:06",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "eoghan-mccabe_t13",
+      "title": "How far agents disrupt software and org design",
+      "summary": "They explore agent impact beyond CX, envisioning hybrid human-agent organizations, flatter structures, and agents even in high-level coordination roles, with deflationary effects and intensified competition.",
+      "timestamp_start": "00:40:06",
+      "timestamp_end": "00:45:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Eoghan McCabe"
+      ],
+      "themes": [
+        "AI Strategy",
+        "Future of Work",
+        "Company Transformation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eoghan-mccabe_t14",
+      "title": "Jobs impact: what disappears and what remains",
+      "summary": "Eoghan argues automation targets repetitive/demeaning work (including many CX and parts of sales), while human trust and connection remain valuable; they discuss AI\u2019s effect on creative roles like podcasting.",
+      "timestamp_start": "00:45:12",
+      "timestamp_end": "00:50:38",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Eoghan McCabe"
+      ],
+      "themes": [
+        "Future of Work",
+        "AI Strategy",
+        "Customer Experience"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eoghan-mccabe_t15",
+      "title": "Advice for incumbents: no choice, hire talent, work hard",
+      "summary": "Eoghan\u2019s core lesson: AI disruption is inevitable and aggressive; companies must commit, recruit real AI leaders and young talent, and match the intensity of AI-native startups\u2014or empower someone who will.",
+      "timestamp_start": "00:50:38",
+      "timestamp_end": "00:53:58",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Eoghan McCabe"
+      ],
+      "themes": [
+        "AI Strategy",
+        "Hiring & Talent",
+        "Competitive Strategy"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

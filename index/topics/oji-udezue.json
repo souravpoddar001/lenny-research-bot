@@ -1,0 +1,255 @@
+{
+  "episode_id": "oji-udezue",
+  "topics": [
+    {
+      "topic_id": "oji-udezue_t1",
+      "title": "Virality starts with solving sharp problems",
+      "summary": "Oji contrasts \u201csynthetic virality\u201d with durable word-of-mouth, using Slack as an example: real virality comes from a great product that solves a sharp, meaningful problem.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:37",
+      "speakers": [
+        "Oji Udezue"
+      ],
+      "themes": [
+        "Growth",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "oji-udezue_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Oji\u2019s career across Microsoft, Atlassian, Calendly, Twitter, and Typeform, and previews topics: frameworks, PLG, ICP, virality, and \u201cforest time.\u201d",
+      "timestamp_start": "00:00:37",
+      "timestamp_end": "00:01:44",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career",
+        "Product Leadership"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "oji-udezue_t3",
+      "title": "Sponsor Break: Jira Product Discovery",
+      "summary": "Ad for Jira Product Discovery: centralize ideas, prioritize, share roadmaps, and collaborate across stakeholders\u2014built on Jira with free contributors and low-cost pricing.",
+      "timestamp_start": "00:01:44",
+      "timestamp_end": "00:03:01",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "oji-udezue_t4",
+      "title": "Workflow quadrant framework for unicorn ideas",
+      "summary": "Oji explains his \u201cwhere do you fish to find a unicorn\u201d framework: evaluate B2B SaaS ideas by workflow breadth (everyone vs niche) and frequency (high vs low) to predict success and strategy.",
+      "timestamp_start": "00:03:01",
+      "timestamp_end": "00:07:57",
+      "speakers": [
+        "Lenny",
+        "Oji Udezue"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "oji-udezue_t5",
+      "title": "Examples by quadrant and defining frequency",
+      "summary": "They map real companies into each quadrant (e.g., Google/Microsoft for high-frequency everyone; Jira/Salesforce for high-frequency niche) and discuss what \u201cfrequent\u201d means in practice.",
+      "timestamp_start": "00:07:57",
+      "timestamp_end": "00:10:05",
+      "speakers": [
+        "Lenny",
+        "Oji Udezue"
+      ],
+      "themes": [
+        "Product Strategy",
+        "B2B SaaS"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "oji-udezue_t6",
+      "title": "How to win in low-frequency quadrants",
+      "summary": "Oji argues the framework is dynamic: companies can move \u201cup and right\u201d by expanding into mission-critical modules or deeper departmental use, with Atlassian and others as examples.",
+      "timestamp_start": "00:10:05",
+      "timestamp_end": "00:12:27",
+      "speakers": [
+        "Lenny",
+        "Oji Udezue"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "oji-udezue_t7",
+      "title": "Zone of benefit: 3x improvement threshold",
+      "summary": "Oji introduces the \u201czone of benefit\u201d mental model: users often won\u2019t switch for marginal gains; value must be clearly noticeable\u2014often ~2\u20133x better\u2014to justify change and payment.",
+      "timestamp_start": "00:12:27",
+      "timestamp_end": "00:15:02",
+      "speakers": [
+        "Lenny",
+        "Oji Udezue"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Pricing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "oji-udezue_t8",
+      "title": "ICP examples across Atlassian, Calendly, Typeform, Twitter",
+      "summary": "They discuss how strong value signals reveal ICPs, then Oji shares concrete ICPs: developers/tech teams (Atlassian), external schedulers like sales/recruiting (Calendly), marketers and product/UX (Typeform), and Twitter\u2019s bifurcated ICP of experts plus communities that follow them.",
+      "timestamp_start": "00:15:02",
+      "timestamp_end": "00:20:18",
+      "speakers": [
+        "Lenny",
+        "Oji Udezue"
+      ],
+      "themes": [
+        "Customer",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "oji-udezue_t9",
+      "title": "Using frameworks wisely: derive, don\u2019t copy",
+      "summary": "Oji explains why frameworks are useful but dangerous when applied blindly; product work is uncertain and stage-dependent, so leaders must understand underlying fundamentals and adapt models to context.",
+      "timestamp_start": "00:20:18",
+      "timestamp_end": "00:22:31",
+      "speakers": [
+        "Lenny",
+        "Oji Udezue"
+      ],
+      "themes": [
+        "Product Leadership",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "oji-udezue_t10",
+      "title": "Book preview: product management for PLG",
+      "summary": "Oji previews his upcoming book on practical product management for product-led growth, why PLG is broadly reshaping enterprise toward consumer-like experiences, and potential titles like \u201cBuilding Rocket Ships.\u201d",
+      "timestamp_start": "00:22:31",
+      "timestamp_end": "00:24:49",
+      "speakers": [
+        "Lenny",
+        "Oji Udezue"
+      ],
+      "themes": [
+        "Product Leadership",
+        "PLG"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "oji-udezue_t11",
+      "title": "Start PLG with a sharp problem",
+      "summary": "Oji defines \u201csharp problems\u201d as materially painful issues that steal time, money, and focus; solving them creates tailwinds, while non-sharp problems require heavy marketing and are fragile in downturns.",
+      "timestamp_start": "00:24:49",
+      "timestamp_end": "00:31:18",
+      "speakers": [
+        "Lenny",
+        "Oji Udezue"
+      ],
+      "themes": [
+        "PLG",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "oji-udezue_t12",
+      "title": "Continuous discovery vs continuous listening systems",
+      "summary": "Oji distinguishes targeted discovery from continuous customer conversations and broader \u201ccustomer listening\u201d (social, reviews, churn/NPS verbatims, support, sales signals), emphasizing low-friction systems that automate customer contact and triage insights.",
+      "timestamp_start": "00:31:18",
+      "timestamp_end": "00:37:11",
+      "speakers": [
+        "Lenny",
+        "Oji Udezue"
+      ],
+      "themes": [
+        "Customer",
+        "Product Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "oji-udezue_t13",
+      "title": "Sponsor Break: Jira Product Discovery (repeat)",
+      "summary": "Second ad read for Jira Product Discovery highlighting replacing spreadsheets, fast roadmap sharing, Jira-native collaboration, and free stakeholder contributions.",
+      "timestamp_start": "00:37:11",
+      "timestamp_end": "00:38:32",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "oji-udezue_t14",
+      "title": "Onboarding as scalable sales for PLG",
+      "summary": "Oji frames onboarding as a substitute for human sales/account management at scale; he recommends a short mandatory setup (\u22643 screens) plus optional, revisit-anytime guidance, tailored to product context and trial clarity.",
+      "timestamp_start": "00:38:32",
+      "timestamp_end": "00:43:49",
+      "speakers": [
+        "Lenny",
+        "Oji Udezue"
+      ],
+      "themes": [
+        "Onboarding",
+        "PLG"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "oji-udezue_t15",
+      "title": "Activation milestones and network effects lessons",
+      "summary": "Oji shares activation definitions (Calendly: create meetings; Typeform: publish and get responses; Twitter: build follow graph) and explains why Twitter persists: network effects and critical mass make networks hard to kill, though revenue can still spiral downward.",
+      "timestamp_start": "00:43:49",
+      "timestamp_end": "00:50:36",
+      "speakers": [
+        "Lenny",
+        "Oji Udezue"
+      ],
+      "themes": [
+        "Growth",
+        "Network Effects"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "oji-udezue_t16",
+      "title": "Virality discussion begins: define it correctly",
+      "summary": "Lenny asks for tactics to increase B2B virality; Oji starts by emphasizing that many teams misunderstand virality and that definitions matter before tactics.",
+      "timestamp_start": "00:50:36",
+      "timestamp_end": "00:50:52",
+      "speakers": [
+        "Lenny",
+        "Oji Udezue"
+      ],
+      "themes": [
+        "Growth",
+        "Virality"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

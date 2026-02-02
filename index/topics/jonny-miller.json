@@ -1,0 +1,286 @@
+{
+  "episode_id": "jonny-miller",
+  "topics": [
+    {
+      "topic_id": "jonny-miller_t1",
+      "title": "Feather-brick-dump truck burnout warning model",
+      "summary": "Jonny introduces his metaphor for how burnout escalates from subtle signals (feather) to serious consequences (dump truck), emphasizing the importance of noticing early bodily feedback and adjusting before crisis hits.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:02",
+      "speakers": [
+        "Jonny Miller"
+      ],
+      "themes": [
+        "Burnout Prevention",
+        "Mental Health",
+        "Self-Awareness"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jonny-miller_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Jonny Miller and the episode\u2019s focus: nervous system mastery for calm, resilience, and confidence. He previews breathing tools, burnout detection, emotional debt, and the APE practice.",
+      "timestamp_start": "00:01:02",
+      "timestamp_end": "00:02:42",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Mental Health",
+        "Stress Management",
+        "Performance"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jonny-miller_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Teal (job search platform) and Vanta (security compliance automation).",
+      "timestamp_start": "00:02:42",
+      "timestamp_end": "00:04:34",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jonny-miller_t4",
+      "title": "Jonny\u2019s origin story and catalyst event",
+      "summary": "Jonny shares his tech/startup background, his burnout, and the pivotal tragedy of his fianc\u00e9e\u2019s death that led him into deep study of breathwork, meditation, and nervous system regulation.",
+      "timestamp_start": "00:04:34",
+      "timestamp_end": "00:07:19",
+      "speakers": [
+        "Lenny",
+        "Jonny Miller"
+      ],
+      "themes": [
+        "Mental Health",
+        "Grief & Trauma",
+        "Personal Development"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jonny-miller_t5",
+      "title": "Bottom-up regulation: state over story",
+      "summary": "Jonny explains why physiology-first approaches (especially breath) often outperform cognitive reframing: there\u2019s more body-to-brain signaling than brain-to-body, so changing bodily state can quickly shift thoughts and feelings.",
+      "timestamp_start": "00:07:38",
+      "timestamp_end": "00:15:00",
+      "speakers": [
+        "Lenny",
+        "Jonny Miller"
+      ],
+      "themes": [
+        "Stress Management",
+        "Neuroscience",
+        "Performance"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jonny-miller_t6",
+      "title": "Calming breath drill: 4-4-8 plus humming",
+      "summary": "They practice a downshifting routine (inhale 4, hold 4, exhale 8) and add humming to deepen calm. Jonny explains mechanisms like nitric oxide release and vagus nerve stimulation.",
+      "timestamp_start": "00:15:00",
+      "timestamp_end": "00:17:35",
+      "speakers": [
+        "Lenny",
+        "Jonny Miller"
+      ],
+      "themes": [
+        "Breathwork",
+        "Stress Management",
+        "Self-Regulation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jonny-miller_t7",
+      "title": "Building a personal toolkit: if-this-then-breathe",
+      "summary": "Jonny recommends matching practices to contexts (meetings, Zoom calls, social anxiety, end-of-day downshifts) and creating simple triggers like \u201cif overwhelmed, then hum\u201d to make regulation automatic.",
+      "timestamp_start": "00:17:35",
+      "timestamp_end": "00:20:18",
+      "speakers": [
+        "Lenny",
+        "Jonny Miller"
+      ],
+      "themes": [
+        "Habits",
+        "Stress Management",
+        "Workplace Wellbeing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jonny-miller_t8",
+      "title": "Physiological sigh and quick downshifting",
+      "summary": "They discuss Huberman\u2019s \u201cphysiological sigh\u201d as a fast calming tool and how sighing naturally signals nervous system downregulation after breath practices or when feeling safe.",
+      "timestamp_start": "00:19:24",
+      "timestamp_end": "00:20:18",
+      "speakers": [
+        "Lenny",
+        "Jonny Miller"
+      ],
+      "themes": [
+        "Breathwork",
+        "Stress Management",
+        "Self-Regulation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jonny-miller_t9",
+      "title": "Energizing breath drill: espresso/bellows breath",
+      "summary": "Jonny teaches an activating practice (rapid nasal exhales driven from the belly) as a gentler alternative to more intense methods. They discuss when to use it and how to combine activation with later grounding.",
+      "timestamp_start": "00:20:39",
+      "timestamp_end": "00:23:25",
+      "speakers": [
+        "Lenny",
+        "Jonny Miller"
+      ],
+      "themes": [
+        "Breathwork",
+        "Energy Management",
+        "Performance"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jonny-miller_t10",
+      "title": "Practice design: daily reps to remember under stress",
+      "summary": "Jonny advises a short daily morning practice to build familiarity so you can recall tools when stressed. They clarify timing, durations, and adapting inhale/exhale ratios to capacity.",
+      "timestamp_start": "00:23:25",
+      "timestamp_end": "00:25:45",
+      "speakers": [
+        "Lenny",
+        "Jonny Miller"
+      ],
+      "themes": [
+        "Habits",
+        "Stress Management",
+        "Self-Regulation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jonny-miller_t11",
+      "title": "Interoception: training the body-awareness sense",
+      "summary": "Jonny introduces interoception as a trainable \u2018sixth sense\u2019 for tracking internal sensations and early anxiety signals. He notes correlations with ADHD/PTSD and decision-making advantages from stronger interoceptive skill.",
+      "timestamp_start": "00:25:45",
+      "timestamp_end": "00:28:55",
+      "speakers": [
+        "Lenny",
+        "Jonny Miller"
+      ],
+      "themes": [
+        "Self-Awareness",
+        "Neuroscience",
+        "Mental Health"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jonny-miller_t12",
+      "title": "APE framework: awareness, posture, emotion",
+      "summary": "Jonny shares APE as a quick self-check to shift state: widen awareness, adjust posture, and name/feel emotions and sensations. They discuss adding breath and using it in meetings or before calls.",
+      "timestamp_start": "00:29:06",
+      "timestamp_end": "00:33:51",
+      "speakers": [
+        "Lenny",
+        "Jonny Miller"
+      ],
+      "themes": [
+        "Self-Awareness",
+        "Stress Management",
+        "Workplace Wellbeing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jonny-miller_t13",
+      "title": "Burnout detection via body signals and commitments",
+      "summary": "Jonny connects interoception to burnout prevention, giving a personal example of noticing exhaustion/tension after overcommitting and then restructuring his schedule to reduce load.",
+      "timestamp_start": "00:33:51",
+      "timestamp_end": "00:36:18",
+      "speakers": [
+        "Lenny",
+        "Jonny Miller"
+      ],
+      "themes": [
+        "Burnout Prevention",
+        "Self-Awareness",
+        "Workplace Wellbeing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jonny-miller_t14",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Miro (collaboration and project organization platform).",
+      "timestamp_start": "00:36:34",
+      "timestamp_end": "00:37:40",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jonny-miller_t15",
+      "title": "Emotional debt: allostatic load and early signs",
+      "summary": "Jonny defines emotional debt as uncompleted stress cycles stored as allostatic load, leading to fragility and burnout. Signs include disproportionate reactivity, poor sleep, relationship strain, and reliance on substances to downshift.",
+      "timestamp_start": "00:37:40",
+      "timestamp_end": "00:40:47",
+      "speakers": [
+        "Lenny",
+        "Jonny Miller"
+      ],
+      "themes": [
+        "Burnout Prevention",
+        "Mental Health",
+        "Stress Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jonny-miller_t16",
+      "title": "Paying off emotional debt with somatic approaches",
+      "summary": "Jonny argues talk therapy alone can miss the body\u2019s stored stress; he recommends building safety, self-regulation, and \u2018emotional fluidity\u2019 to feel and complete stuck responses. He cites breathwork and modalities like Somatic Experiencing and Hakomi.",
+      "timestamp_start": "00:40:47",
+      "timestamp_end": "00:45:26",
+      "speakers": [
+        "Lenny",
+        "Jonny Miller"
+      ],
+      "themes": [
+        "Trauma & Somatics",
+        "Mental Health",
+        "Self-Regulation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jonny-miller_t17",
+      "title": "Recognizing dysregulation patterns: fight vs freeze",
+      "summary": "Jonny describes how emotional debt shows up as dysregulation: hypervigilance, dissociation into the head, and disproportionate reactions. He distinguishes common patterns (shutdown/freeze vs fight/attack) and emphasizes downshifting before deciding or responding.",
+      "timestamp_start": "00:45:26",
+      "timestamp_end": "00:48:14",
+      "speakers": [
+        "Lenny",
+        "Jonny Miller"
+      ],
+      "themes": [
+        "Stress Management",
+        "Self-Awareness",
+        "Mental Health"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

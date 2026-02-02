@@ -1,0 +1,48 @@
+{
+  "id": "pricing",
+  "name": "Pricing",
+  "description": "Pricing across these episodes is treated as a core product strategy (not a finance afterthought): how you package value, set willingness-to-pay anchors, and choose a monetization model that matches your product\u2019s value delivery and go-to-market motion. The theme covers how pricing evolves with maturity (PLG \u2192 PLS/enterprise), how to avoid early pricing traps (especially in AI), and how to use experimentation and research to improve retention, expansion, and long-term profitability.",
+  "episode_count": 16,
+  "episodes": [
+    "adriel-frederick",
+    "albert-cheng",
+    "ben-williams",
+    "bret-taylor",
+    "camille-hearst",
+    "elena-verna-20",
+    "gergely",
+    "gina-gotthilf",
+    "grant-lee",
+    "jen-abel-20",
+    "madhavan-ramanujam",
+    "madhavan-ramanujam-20",
+    "melissa-tan",
+    "naomi-ionita",
+    "nilan-peiris",
+    "patrick-campbell"
+  ],
+  "subtopics": [
+    "Designing pricing from day one: avoiding early anchors that cap willingness-to-pay and constrain future expansion",
+    "Choosing the right pricing model (seat-based, usage-based, tiered/freemium, hybrid, outcome-based) based on value metric, attribution, and customer maturity",
+    "Packaging and paywalls: defining free vs paid boundaries, feature gating, and when to shift from self-serve to product-led sales",
+    "Pricing as an ongoing product loop: research, segmentation, experimentation, and iteration rather than \u201cset and forget\u201d",
+    "Monetization + retention linkage: connecting users to core value, reducing churn, and driving expansion through better value realization",
+    "Enterprise pricing dynamics: differentiation, discount discipline, and structuring deals around value/outcomes instead of commoditized feature checklists"
+  ],
+  "key_episodes": [
+    "madhavan-ramanujam",
+    "madhavan-ramanujam-20",
+    "naomi-ionita",
+    "patrick-campbell",
+    "bret-taylor"
+  ],
+  "common_frameworks": [
+    "Market share vs wallet share (acquisition vs monetization/expansion) as a paired strategy",
+    "Willingness-to-pay anchoring and price architecture set early to preserve future pricing power",
+    "Value metric selection (pricing aligned to the unit of value delivered: seats, usage, outcomes, etc.)",
+    "Outcome-based pricing decision criteria (high autonomy + clear attribution + measurable outcomes)",
+    "PLG \u2192 PLS progression (self-serve monetization limits leading to product-owned pipeline creation and sales collaboration)",
+    "Freemium boundary design (what must be free to drive adoption vs what must be paid to protect revenue and signal value)",
+    "Continuous pricing iteration loop (qualitative research + segmentation + controlled experiments + rollout/guardrails)"
+  ]
+}

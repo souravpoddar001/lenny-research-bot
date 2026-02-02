@@ -1,0 +1,168 @@
+{
+  "episode_id": "hilary-gridley",
+  "topics": [
+    {
+      "topic_id": "hilary-gridley_t1",
+      "title": "Introduction and Background",
+      "summary": "Cold open highlights Hilary\u2019s philosophy on product leadership and resilience, followed by Lenny\u2019s intro of Hilary\u2019s background and why she\u2019s a standout guest.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:04",
+      "speakers": [
+        "Hilary Gridley",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Career",
+        "Leadership",
+        "Mindset"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "hilary-gridley_t2",
+      "title": "Sponsor Break",
+      "summary": "Ads for WorkOS (enterprise auth/SCIM/authorization) and Persona (identity verification and fraud prevention).",
+      "timestamp_start": "00:02:04",
+      "timestamp_end": "00:04:39",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hilary-gridley_t3",
+      "title": "Why resilience matters more than ever",
+      "summary": "Hilary explains why she focuses on helping teams \u201ctake a punch,\u201d tying it to hard product domains, AI-driven uncertainty, layoffs, and the need for managers to lead through fear.",
+      "timestamp_start": "00:04:39",
+      "timestamp_end": "00:07:15",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hilary Gridley"
+      ],
+      "themes": [
+        "Leadership",
+        "Mindset",
+        "AI"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "hilary-gridley_t4",
+      "title": "Counter-programming after you take a punch",
+      "summary": "Hilary shares a concrete tactic: stop litigating perceptions and instead take a small next action that demonstrates the opposite of the feared narrative, illustrated with her ketamine-tracking meeting example.",
+      "timestamp_start": "00:07:15",
+      "timestamp_end": "00:17:58",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hilary Gridley"
+      ],
+      "themes": [
+        "Leadership",
+        "Mindset",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hilary-gridley_t5",
+      "title": "CBT behavioral activation applied to management",
+      "summary": "Drawing from her work at Big Health, Hilary connects \u201ctake a punch\u201d to CBT behavioral activation: act first to break negative spirals, then feelings improve\u2014using small, reliable actions.",
+      "timestamp_start": "00:17:58",
+      "timestamp_end": "00:23:03",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hilary Gridley"
+      ],
+      "themes": [
+        "Mindset",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hilary-gridley_t6",
+      "title": "Second-order benefits: confidence to speak up",
+      "summary": "Hilary explains how resilience skills reduce fear of embarrassment, helping people contribute in meetings, earn their seat, and accelerate career growth\u2014rather than staying silent to avoid risk.",
+      "timestamp_start": "00:23:03",
+      "timestamp_end": "00:26:10",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hilary Gridley"
+      ],
+      "themes": [
+        "Communication",
+        "Career",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hilary-gridley_t7",
+      "title": "Hot take: too many PMs play easy mode",
+      "summary": "Hilary argues many product builders choose comfortable, prestigious problems and wishes more would apply craft to harder, higher-stakes domains like low-income services and social impact work.",
+      "timestamp_start": "00:26:10",
+      "timestamp_end": "00:27:47",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hilary Gridley"
+      ],
+      "themes": [
+        "Career",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "hilary-gridley_t8",
+      "title": "Transparency: teaching how leaders think",
+      "summary": "Hilary describes sharing weekly context from key meetings\u2014what was said, her interpretation, and resulting actions\u2014to help teams build accurate mental models and reduce approval bottlenecks.",
+      "timestamp_start": "00:27:47",
+      "timestamp_end": "00:38:10",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hilary Gridley"
+      ],
+      "themes": [
+        "Leadership",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hilary-gridley_t9",
+      "title": "When you disagree with leadership decisions",
+      "summary": "Hilary outlines how to represent decisions you don\u2019t fully agree with: seek the missing insight, separate your opinion from their rationale, and align the team around execution to learn what\u2019s true.",
+      "timestamp_start": "00:38:10",
+      "timestamp_end": "00:41:52",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hilary Gridley"
+      ],
+      "themes": [
+        "Leadership",
+        "Communication",
+        "Mindset"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hilary-gridley_t10",
+      "title": "Magic questions: statements ending in \u201cagree?\u201d",
+      "summary": "Hilary shares a technique for extracting someone\u2019s mental model: propose a concrete statement or option and ask \u201cIs that right?\u201d to quickly learn what they accept/reject, avoiding vague open-ended loops.",
+      "timestamp_start": "00:41:52",
+      "timestamp_end": "00:45:36",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hilary Gridley"
+      ],
+      "themes": [
+        "Communication",
+        "Leadership"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "episode_id": "dylan-field-20",
+  "topics": [
+    {
+      "topic_id": "dylan-field-20_t1",
+      "title": "Design craft as software differentiation",
+      "summary": "Dylan argues the era of \u201cgood enough\u201d is over and that winning software teams differentiate through design quality and craft.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:09",
+      "speakers": [
+        "Dylan Field",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Design",
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "dylan-field-20_t2",
+      "title": "Early founder lessons: ship faster, reach market",
+      "summary": "Dylan shares Figma\u2019s long path to revenue and advises founders to get to market faster rather than over-polishing before launch.",
+      "timestamp_start": "00:00:09",
+      "timestamp_end": "00:00:23",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dylan Field"
+      ],
+      "themes": [
+        "Startups",
+        "Product Strategy"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "dylan-field-20_t3",
+      "title": "Counterintuitive bet: making FigJam fun",
+      "summary": "A month before launch, the team realized FigJam lacked \u201csoul\u201d and chose fun as the differentiator\u2014leading to defining features like Cursor Chat and a stronger multi-product muscle.",
+      "timestamp_start": "00:00:23",
+      "timestamp_end": "00:00:44",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dylan Field"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Design"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "dylan-field-20_t4",
+      "title": "AI prototyping shifts PM-designer collaboration",
+      "summary": "They discuss how AI prototyping (Figma Make) changes workflows: PMs can prototype directly, freeing designers to go deeper while broadening early exploration.",
+      "timestamp_start": "00:00:44",
+      "timestamp_end": "00:01:02",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dylan Field"
+      ],
+      "themes": [
+        "AI",
+        "Product Strategy"
+      ],
+      "quote_count": 2
+    },
+    {
+      "topic_id": "dylan-field-20_t5",
+      "title": "AI and jobs: productivity, hiring, uncertainty",
+      "summary": "Dylan notes productivity gains from models but says it hasn\u2019t reduced engineering hiring; outcomes depend on how AI capabilities and orgs evolve.",
+      "timestamp_start": "00:01:02",
+      "timestamp_end": "00:01:22",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dylan Field"
+      ],
+      "themes": [
+        "AI",
+        "Engineering"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "dylan-field-20_t6",
+      "title": "Introduction and sponsor: episode setup and Stripe",
+      "summary": "Lenny introduces Dylan and the episode topics, then transitions into a Stripe sponsor read highlighting enterprise payments, billing, and checkout.",
+      "timestamp_start": "00:01:22",
+      "timestamp_end": "00:04:06",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Company Building"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "dylan-field-20_t7",
+      "title": "Adobe deal collapse and accelerating afterward",
+      "summary": "Dylan recounts the regulatory-driven failure of the Adobe acquisition and explains how Figma kept momentum, then pushed forward with launches like Dev Mode.",
+      "timestamp_start": "00:04:06",
+      "timestamp_end": "00:05:50",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dylan Field"
+      ],
+      "themes": [
+        "Company Building",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "dylan-field-20_t8",
+      "title": "Keeping morale: communication and the \u201cDetach\u201d program",
+      "summary": "Dylan details frequent updates during the deal process and a post-deal reset offering voluntary severance (\u201cDetach\u201d) to ensure the remaining team was fully bought in.",
+      "timestamp_start": "00:05:50",
+      "timestamp_end": "00:09:09",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dylan Field"
+      ],
+      "themes": [
+        "Leadership",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dylan-field-20_t9",
+      "title": "Maintaining startup speed at 13 years",
+      "summary": "They cover how Figma sustains pace: choosing motivating problems, challenging padded timelines, staying flatter, managing assumptions, and balancing tech debt.",
+      "timestamp_start": "00:09:09",
+      "timestamp_end": "00:13:38",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dylan Field"
+      ],
+      "themes": [
+        "Execution",
+        "Engineering",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dylan-field-20_t10",
+      "title": "Culture: maker energy and Make-a-Week hackathons",
+      "summary": "Dylan explains Figma\u2019s culture as people-first and maker-driven, reinforced by rituals like Make-a-Week that generate major product bets (e.g., Slides).",
+      "timestamp_start": "00:13:38",
+      "timestamp_end": "00:16:22",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dylan Field"
+      ],
+      "themes": [
+        "Company Building",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dylan-field-20_t11",
+      "title": "Competitive kindness and leadership evolution",
+      "summary": "Dylan reflects on being competitive with good sportsmanship, then describes how he\u2019s grown as a leader\u2014especially around unpacking context and creating clarity.",
+      "timestamp_start": "00:16:22",
+      "timestamp_end": "00:22:21",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dylan Field"
+      ],
+      "themes": [
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dylan-field-20_t12",
+      "title": "Learning from others and two-way mentorship",
+      "summary": "They discuss how Dylan learns from execs and teammates, challenging the idea that CEOs should only mentor\u2014highlighting mutual learning and debate as a growth engine.",
+      "timestamp_start": "00:22:21",
+      "timestamp_end": "00:24:55",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dylan Field"
+      ],
+      "themes": [
+        "Leadership",
+        "Company Building"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "dylan-field-20_t13",
+      "title": "Product line expansion: follow the workflow, not TAM",
+      "summary": "Dylan outlines Figma\u2019s expansion logic across the idea-to-shipping workflow (Slides, FigJam, Dev Mode/MCP, Draw, Buzz, Sites, Make) and argues TAM is often misleading because markets can expand as expectations shift.",
+      "timestamp_start": "00:31:07",
+      "timestamp_end": "00:39:32",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dylan Field"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Company Building",
+        "Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dylan-field-20_t14",
+      "title": "Time-to-value and removing adoption blockers",
+      "summary": "Dylan explains optimizing \u201ctime to value\u201d and why fixing blockers can move activation/retention metrics dramatically, while still balancing table-stakes work with a compelling vision.",
+      "timestamp_start": "00:39:32",
+      "timestamp_end": "00:44:18",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dylan Field"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dylan-field-20_t15",
+      "title": "Sponsor break and Figma Make overview",
+      "summary": "A brief Stripe sponsor read transitions into an explanation of Figma Make: prompting into prototypes and apps, plus the importance of round-tripping between Make and Figma Design for refinement.",
+      "timestamp_start": "00:44:18",
+      "timestamp_end": "00:47:23",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dylan Field"
+      ],
+      "themes": [
+        "AI",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dylan-field-20_t16",
+      "title": "Figma Make use cases: prototyping first, apps next",
+      "summary": "They discuss emerging AI-building use cases (team prototypes, internal tools, production apps), with Dylan emphasizing prototyping as the primary focus while improving paths to shippable, design-system-consistent outputs.",
+      "timestamp_start": "00:47:23",
+      "timestamp_end": "00:50:31",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dylan Field"
+      ],
+      "themes": [
+        "AI",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

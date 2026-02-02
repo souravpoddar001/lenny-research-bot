@@ -1,0 +1,220 @@
+{
+  "episode_id": "hari-srinivasan",
+  "topics": [
+    {
+      "topic_id": "hari-srinivasan_t1",
+      "title": "Skills-first hiring during early COVID shock",
+      "summary": "Hari describes March 2020 job-loss waves and why labor didn\u2019t rebalance quickly due to title-based matching. He introduces LinkedIn\u2019s push for skills-first hiring to translate experience into skills and improve mobility across roles.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:57",
+      "speakers": [
+        "Hari Srinivasan",
+        "Lenny"
+      ],
+      "themes": [
+        "Hiring & Recruiting"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hari-srinivasan_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny explains how a tweet led to inviting Hari, and frames Hari\u2019s role leading Talent Solutions (hiring + learning). He previews topics including hiring market changes, job-seeking tips, complex systems, and LinkedIn\u2019s content evolution.",
+      "timestamp_start": "00:00:57",
+      "timestamp_end": "00:02:20",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Company & Culture"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "hari-srinivasan_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Miro (collaborative whiteboard) and Brave Search API (independent search index for AI/search apps).",
+      "timestamp_start": "00:02:35",
+      "timestamp_end": "00:05:04",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Other"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "hari-srinivasan_t4",
+      "title": "LinkedIn feed becomes more valuable content",
+      "summary": "Lenny asks why LinkedIn feels less \u201ccringe\u201d and more useful; Hari explains the company\u2019s North Star of connecting people to economic opportunity and how feed decisions prioritize relationships and knowledge/advice content.",
+      "timestamp_start": "00:05:04",
+      "timestamp_end": "00:09:04",
+      "speakers": [
+        "Lenny",
+        "Hari Srinivasan"
+      ],
+      "themes": [
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hari-srinivasan_t5",
+      "title": "Algorithm, ML, and genAI for knowledge",
+      "summary": "They discuss what changed in the feed: better clarity on what members want, ML-driven ranking, and early genAI-assisted prompts to unlock expertise from nearly a billion members. Hari notes knowledge/advice tends to perform well.",
+      "timestamp_start": "00:09:04",
+      "timestamp_end": "00:12:20",
+      "speakers": [
+        "Lenny",
+        "Hari Srinivasan"
+      ],
+      "themes": [
+        "AI/ML",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hari-srinivasan_t6",
+      "title": "Talent Solutions scope: hiring and learning marketplaces",
+      "summary": "Hari outlines Talent Solutions as two marketplaces\u2014hiring (seekers and recruiters) and learning (learners and instructors)\u2014and explains how LinkedIn products interlock (feed \u2194 jobs \u2194 network \u2194 learning). He also shares behind-the-scenes details like LinkedIn Learning studios.",
+      "timestamp_start": "00:12:20",
+      "timestamp_end": "00:15:46",
+      "speakers": [
+        "Lenny",
+        "Hari Srinivasan"
+      ],
+      "themes": [
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hari-srinivasan_t7",
+      "title": "Hiring market shifts: skills and values-based discovery",
+      "summary": "Hari confirms the market has more seekers and fewer jobs, but argues structural changes persist. He highlights skills-first hiring adoption (recruiters searching by skills) and new ways people browse jobs by values/purpose/interest via collections.",
+      "timestamp_start": "00:15:46",
+      "timestamp_end": "00:20:25",
+      "speakers": [
+        "Lenny",
+        "Hari Srinivasan"
+      ],
+      "themes": [
+        "Hiring & Recruiting",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hari-srinivasan_t8",
+      "title": "Open to Work evolution and internal mobility signals",
+      "summary": "They discuss how \u201cOpen to Work\u201d moved from a private recruiter signal to a public frame, especially during COVID when stigma changed. Hari previews experimentation with \u201cOpen to Internal Work\u201d to help employees find internal roles despite cultural sensitivities.",
+      "timestamp_start": "00:20:25",
+      "timestamp_end": "00:22:13",
+      "speakers": [
+        "Lenny",
+        "Hari Srinivasan"
+      ],
+      "themes": [
+        "Hiring & Recruiting",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hari-srinivasan_t9",
+      "title": "PM hiring trends and job-seeker tactics",
+      "summary": "Hari shares data that tech hiring is down ~50% YoY and PM roles are similarly pressured. He advises building relationships, adding evidence/credentials to skills on LinkedIn, and differentiating via relevant industry domain knowledge.",
+      "timestamp_start": "00:22:13",
+      "timestamp_end": "00:24:55",
+      "speakers": [
+        "Lenny",
+        "Hari Srinivasan"
+      ],
+      "themes": [
+        "Career",
+        "Hiring & Recruiting"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hari-srinivasan_t10",
+      "title": "Improving recruiter discovery: intent and skills signals",
+      "summary": "Hari explains recruiters look for (1) intent and (2) skills, and points to features like Open to Work targeting, expressing interest on company pages, and attaching work products/recommendations to skill entries. He notes Open to Work and skills evidence correlate with better outcomes.",
+      "timestamp_start": "00:24:55",
+      "timestamp_end": "00:27:58",
+      "speakers": [
+        "Lenny",
+        "Hari Srinivasan"
+      ],
+      "themes": [
+        "Career",
+        "Hiring & Recruiting"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hari-srinivasan_t11",
+      "title": "Senior hiring: recruiting vs job applications",
+      "summary": "They discuss how more senior roles (e.g., CPO) are often filled via outbound recruiting and networking rather than clicking \u201capply,\u201d though postings exist. LinkedIn is positioned as a relationship and signal layer for long-term recruiting.",
+      "timestamp_start": "00:27:58",
+      "timestamp_end": "00:28:38",
+      "speakers": [
+        "Lenny",
+        "Hari Srinivasan"
+      ],
+      "themes": [
+        "Career",
+        "Hiring & Recruiting"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "hari-srinivasan_t12",
+      "title": "LinkedIn culture: North Star and decision clarity",
+      "summary": "Hari recounts a tough first product review after joining via acquisition and how reframing around the North Star\u2014connecting people to economic opportunity\u2014changed outcomes. They discuss how repetition and cultural \u201cimmune system\u201d keep teams aligned, plus concrete marketplace metrics like hires and learning time.",
+      "timestamp_start": "00:28:38",
+      "timestamp_end": "00:34:23",
+      "speakers": [
+        "Lenny",
+        "Hari Srinivasan"
+      ],
+      "themes": [
+        "Company & Culture",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hari-srinivasan_t13",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Eppo, an A/B testing and experimentation platform for modern growth teams.",
+      "timestamp_start": "00:34:23",
+      "timestamp_end": "00:35:32",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Other"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "hari-srinivasan_t14",
+      "title": "Building complex ecosystems: second-order effects and governance",
+      "summary": "Hari explains how complex systems require anticipating multi-step cause-and-effect and measuring downstream impacts. He describes decision frameworks like RAPID (roles in decisions) and a five-day escalation/alignment rule to unblock cross-team complexity.",
+      "timestamp_start": "00:35:32",
+      "timestamp_end": "00:39:56",
+      "speakers": [
+        "Lenny",
+        "Hari Srinivasan"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Execution & Operations"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

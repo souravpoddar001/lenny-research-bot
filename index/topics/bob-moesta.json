@@ -1,0 +1,251 @@
+{
+  "episode_id": "bob-moesta",
+  "topics": [
+    {
+      "topic_id": "bob-moesta_t1",
+      "title": "Misconceptions: pain/gain vs context/outcome",
+      "summary": "Bob explains that Jobs-to-be-Done is often misunderstood as pain/gain, but the real driver is context and desired outcome\u2014context makes seemingly irrational behavior rational and reveals when people will change.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:38",
+      "speakers": [
+        "Bob Moesta"
+      ],
+      "themes": [
+        "Jobs-to-be-Done"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "bob-moesta_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Bob Moesta, his JTBD background, and what the episode will cover (framework basics, interviewing, examples, and applications).",
+      "timestamp_start": "00:00:38",
+      "timestamp_end": "00:01:38",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Jobs-to-be-Done"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "bob-moesta_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Sidebar and Merge.",
+      "timestamp_start": "00:01:38",
+      "timestamp_end": "00:04:04",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "bob-moesta_t4",
+      "title": "Why JTBD: hiring products for progress",
+      "summary": "Bob defines JTBD as people \u201chiring\u201d products to make progress, and uses Snickers vs Milky Way to show how true competition is demand-side (context-driven) rather than product-category based.",
+      "timestamp_start": "00:04:04",
+      "timestamp_end": "00:07:29",
+      "speakers": [
+        "Lenny",
+        "Bob Moesta"
+      ],
+      "themes": [
+        "Jobs-to-be-Done"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bob-moesta_t5",
+      "title": "Demand comes from struggling moments, not products",
+      "summary": "Bob argues that struggling moments create demand; he shares SNHU\u2019s online-learning growth story and explains why roadmaps should focus on struggles rather than fixed features.",
+      "timestamp_start": "00:07:29",
+      "timestamp_end": "00:09:51",
+      "speakers": [
+        "Lenny",
+        "Bob Moesta"
+      ],
+      "themes": [
+        "Jobs-to-be-Done",
+        "Product strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bob-moesta_t6",
+      "title": "Context/outcome vector and \u201ckick-ass half\u201d",
+      "summary": "Bob contrasts pain/gain with context/outcome as a vector of progress, emphasizing that winning products meet customers where they are (often simpler) rather than maximizing features.",
+      "timestamp_start": "00:09:51",
+      "timestamp_end": "00:11:14",
+      "speakers": [
+        "Lenny",
+        "Bob Moesta"
+      ],
+      "themes": [
+        "Jobs-to-be-Done",
+        "Product strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bob-moesta_t7",
+      "title": "Forces model: push/pull vs anxiety/habit",
+      "summary": "Bob introduces the four forces (push, pull, anxiety of the new, habit of the present) that determine switching behavior, and gives a condo-moving/storage example showing how reducing friction can boost adoption.",
+      "timestamp_start": "00:11:14",
+      "timestamp_end": "00:14:47",
+      "speakers": [
+        "Lenny",
+        "Bob Moesta"
+      ],
+      "themes": [
+        "Jobs-to-be-Done",
+        "Behavior change"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bob-moesta_t8",
+      "title": "Demand-side sales: align to customer buying stages",
+      "summary": "Using Autobooks, Bob explains tailoring sales to where customers are in their buying timeline (passive looking, active looking, deciding), splitting demos accordingly and improving conversion and cycle time.",
+      "timestamp_start": "00:14:47",
+      "timestamp_end": "00:18:30",
+      "speakers": [
+        "Lenny",
+        "Bob Moesta"
+      ],
+      "themes": [
+        "Sales",
+        "Jobs-to-be-Done"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bob-moesta_t9",
+      "title": "JTBD interviewing: story-first, clustering pathways",
+      "summary": "Bob outlines how to interview by extracting the full decision story (not opinions), then clustering pathways (sets of pushes/pulls/anxieties/habits) to reveal multiple conflicting jobs and guide positioning (e.g., Intercom).",
+      "timestamp_start": "00:18:30",
+      "timestamp_end": "00:21:56",
+      "speakers": [
+        "Lenny",
+        "Bob Moesta"
+      ],
+      "themes": [
+        "Customer research",
+        "Jobs-to-be-Done"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bob-moesta_t10",
+      "title": "Bob\u2019s dyslexia, writing process, and teaching",
+      "summary": "Bob shares his inability to read/write traditionally due to early brain injuries, how he produces books via recorded conversations, and his focus on teaching and mentoring founders and students.",
+      "timestamp_start": "00:21:56",
+      "timestamp_end": "00:25:23",
+      "speakers": [
+        "Lenny",
+        "Bob Moesta"
+      ],
+      "themes": [
+        "Career"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bob-moesta_t11",
+      "title": "Jobs-to-be-Done for career moves and switching jobs",
+      "summary": "Bob discusses research on why people change jobs, debunking \u201cluck\u201d narratives and showing that progress (learning, challenge, balance, status) often matters more than pay; money is frequently a proxy for other needs.",
+      "timestamp_start": "00:25:23",
+      "timestamp_end": "00:27:18",
+      "speakers": [
+        "Lenny",
+        "Bob Moesta"
+      ],
+      "themes": [
+        "Career",
+        "Jobs-to-be-Done"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bob-moesta_t12",
+      "title": "Interview tactics: who to talk to and how many",
+      "summary": "Bob recommends interrogation-style techniques (e.g., Chris Voss), interviewing people who already tried to make progress (including competitor users), and doing ~10\u201312 interviews per round to find repeating causal patterns.",
+      "timestamp_start": "00:27:18",
+      "timestamp_end": "00:31:41",
+      "speakers": [
+        "Lenny",
+        "Bob Moesta"
+      ],
+      "themes": [
+        "Customer research",
+        "Jobs-to-be-Done"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bob-moesta_t13",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Eppo experimentation platform.",
+      "timestamp_start": "00:31:41",
+      "timestamp_end": "00:32:48",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bob-moesta_t14",
+      "title": "Lightweight JTBD: start with stories and churn",
+      "summary": "Bob explains how founders can begin: interview recent buyers about the decision story (functional/emotional/social energy) and interview churned users to understand changing context and switching triggers.",
+      "timestamp_start": "00:32:48",
+      "timestamp_end": "00:36:25",
+      "speakers": [
+        "Lenny",
+        "Bob Moesta"
+      ],
+      "themes": [
+        "Jobs-to-be-Done",
+        "Customer research"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bob-moesta_t15",
+      "title": "Signals of real switching: beyond complaints",
+      "summary": "Bob warns that stated intent is unreliable (\u201cBitchin\u2019 ain\u2019t switchin\u2019\u201d), describes peeling back layers of language to uncover true causality, and explains value as a start-to-end vector that can be overshot by overbuilding.",
+      "timestamp_start": "00:36:25",
+      "timestamp_end": "00:40:16",
+      "speakers": [
+        "Lenny",
+        "Bob Moesta"
+      ],
+      "themes": [
+        "Jobs-to-be-Done",
+        "Behavior change"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bob-moesta_t16",
+      "title": "Zero-to-one challenge: JTBD examples and approach",
+      "summary": "Responding to skepticism, Bob frames JTBD as hypothesis-building for new products, cites examples (Autobooks, Techstars companies), and advises interviewing users of what you want them to stop using (the \u201cfired\u201d alternatives).",
+      "timestamp_start": "00:40:16",
+      "timestamp_end": "00:43:59",
+      "speakers": [
+        "Lenny",
+        "Bob Moesta"
+      ],
+      "themes": [
+        "Jobs-to-be-Done",
+        "Startups"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

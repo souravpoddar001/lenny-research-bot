@@ -1,0 +1,55 @@
+{
+  "id": "retention",
+  "name": "Retention",
+  "description": "Retention across these episodes is treated as the clearest proof of real product value and the foundation of durable growth\u2014more reliable than acquisition spikes or funnel optics. The theme covers how to define and measure \u201ccoming back,\u201d design product systems that build habits and repeat value, and run experimentation and monetization in ways that improve long-term customer outcomes rather than short-term metrics.",
+  "episode_count": 24,
+  "episodes": [
+    "albert-cheng",
+    "archie-abrams",
+    "bob-moesta-20",
+    "camille-hearst",
+    "gaurav-misra",
+    "gia-laudi",
+    "gina-gotthilf",
+    "heidi-helfand",
+    "hila-qu",
+    "jackson-shuttleworth",
+    "josh-miller",
+    "madhavan-ramanujam",
+    "madhavan-ramanujam-20",
+    "naomi-ionita",
+    "nick-turley",
+    "nikita-miller",
+    "patrick-campbell",
+    "sahil-mansuri",
+    "sarah-tavel",
+    "sean-ellis",
+    "sriram-and-aarthi",
+    "vijay",
+    "will-larson",
+    "yuriy-timen"
+  ],
+  "subtopics": [
+    "How to define true retention: core action, frequency targets, and cohort-based measures vs. vanity metrics",
+    "Activation-to-retention connection: getting users to the first moment of value and repeatedly back to it",
+    "Habit and engagement loops: streaks, notifications, rewards, and \u201cflexibility\u201d mechanics that prevent drop-off",
+    "Experimentation for retention: high-volume testing, guardrails, long-term measurement, and avoiding local maxima",
+    "Segmentation and ideal customer focus: identifying \u201cmust-have\u201d users, mapping the end-to-end journey, and designing for expansion",
+    "Retention vs. churn tradeoffs: when churn is acceptable (or strategic) and how business model/pricing changes retention incentives"
+  ],
+  "key_episodes": [
+    "jackson-shuttleworth",
+    "albert-cheng",
+    "sean-ellis",
+    "josh-miller",
+    "archie-abrams"
+  ],
+  "common_frameworks": [
+    "Cohort retention analysis (e.g., D1/D7/D30, weekly retention, retention curves)",
+    "North Star Metric design tied to repeat value (e.g., frequency-based metrics like D5/D7)",
+    "Core action / value moment identification (activation that predicts long-term retention)",
+    "Sean Ellis PMF test (\u201cvery disappointed\u201d) as a leading indicator, with retention as confirmation",
+    "Customer-led journey mapping (including pre-awareness and post-acquisition retention/expansion)",
+    "High-tempo experimentation systems (test pipelines, guardrails, and long-term holdouts/measurement)"
+  ]
+}

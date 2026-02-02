@@ -1,0 +1,230 @@
+{
+  "episode_id": "tomer-cohen",
+  "topics": [
+    {
+      "topic_id": "tomer-cohen_t1",
+      "title": "Cold open: LinkedIn feed turnaround and AI-first",
+      "summary": "Lenny tees up LinkedIn\u2019s surprising feed transformation and asks what strategy drove it. Tomer frames LinkedIn\u2019s potential as an economic opportunity platform and hints that making the feed AI-first was foundational.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:07",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tomer Cohen"
+      ],
+      "themes": [
+        "Product Strategy",
+        "AI/ML",
+        "Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "tomer-cohen_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Tomer Cohen, his role as LinkedIn CPO, and the episode\u2019s focus: revamping the feed, shifting to an AI-first mindset, and product leadership principles.",
+      "timestamp_start": "00:01:07",
+      "timestamp_end": "00:02:27",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "tomer-cohen_t3",
+      "title": "Tomerism: \u201cWe might be wrong, not confused\u201d",
+      "summary": "They unpack Tomer\u2019s mantra as a leadership tool: prioritize clarity of thought and execution over being \u201cright,\u201d align teams on a single direction, and avoid hedging that creates organizational confusion.",
+      "timestamp_start": "00:02:28",
+      "timestamp_end": "00:04:29",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tomer Cohen"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "Execution"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "tomer-cohen_t4",
+      "title": "Sponsor Break",
+      "summary": "Ads for Gamma and WorkOS.",
+      "timestamp_start": "00:04:29",
+      "timestamp_end": "00:06:46",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tomer-cohen_t5",
+      "title": "Clarity in practice: principles and resourcing",
+      "summary": "Tomer explains how to drive clarity via precise problem statements, first-principles solutions with real tradeoffs, and explicit disagreement. He also stresses clarity of execution: priorities must match resourcing and top talent allocation.",
+      "timestamp_start": "00:06:46",
+      "timestamp_end": "00:10:36",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tomer Cohen"
+      ],
+      "themes": [
+        "Execution",
+        "Career & Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tomer-cohen_t6",
+      "title": "Why clarity is liberating for teams",
+      "summary": "They discuss how making it okay to be wrong\u2014but not okay to be unclear\u2014reduces fear, improves learning loops, and prevents meetings that end without shared understanding of problems and next steps.",
+      "timestamp_start": "00:10:36",
+      "timestamp_end": "00:13:09",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tomer Cohen"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "Execution"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "tomer-cohen_t7",
+      "title": "Ambitious goals and \u201cshare the peak\u201d vision",
+      "summary": "Tomer shares another leadership principle: set massive, inspiring goals and then over-deliver. He describes visualizing the \u201cmountain peak\u201d and working backward, even if the middle path is blurry.",
+      "timestamp_start": "00:13:09",
+      "timestamp_end": "00:16:17",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tomer Cohen"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Career & Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tomer-cohen_t8",
+      "title": "LinkedIn feed turnaround: purpose and AI engine",
+      "summary": "Tomer details the feed\u2019s shift from promotional activity tracking to professional knowledge exchange. Key moves: redefine the feed\u2019s purpose, make AI the \u201cengine,\u201d unify a previously centralized AI team with product goals, and manage internal dependencies in a turnaround.",
+      "timestamp_start": "00:16:17",
+      "timestamp_end": "00:25:02",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tomer Cohen"
+      ],
+      "themes": [
+        "Product Strategy",
+        "AI/ML",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tomer-cohen_t9",
+      "title": "Carving out 2M users and choosing feed KPIs",
+      "summary": "They go deeper on the tactic of isolating a 2M-member cohort to iterate without destabilizing company-wide metrics, then scaling once proven. Tomer also explains focusing on downstream, high-value engagement rather than top-level sessions.",
+      "timestamp_start": "00:25:02",
+      "timestamp_end": "00:27:52",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tomer Cohen"
+      ],
+      "themes": [
+        "Experimentation",
+        "Metrics & Analytics",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tomer-cohen_t10",
+      "title": "Conviction-led product bets and thinking time",
+      "summary": "Tomer explains how he selects big opportunities by starting from beliefs and potential, not past failures or current numbers. He describes being reflective, optimistic, and using \u201cvision to values\u201d framing to imagine world-change outcomes.",
+      "timestamp_start": "00:27:52",
+      "timestamp_end": "00:30:59",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tomer Cohen"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tomer-cohen_t11",
+      "title": "AI matchmaking for creators and consumers",
+      "summary": "Tomer argues the biggest tactical lever was AI as a marketplace matchmaker: getting creators\u2019 posts to the right influential audiences and giving consumers relevant, actionable content. He shares examples of posts reaching key decision-makers and generating major economic opportunity.",
+      "timestamp_start": "00:30:59",
+      "timestamp_end": "00:34:29",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tomer Cohen"
+      ],
+      "themes": [
+        "AI/ML",
+        "Growth",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tomer-cohen_t12",
+      "title": "Sponsor Break",
+      "summary": "Ad for Merge.",
+      "timestamp_start": "00:34:29",
+      "timestamp_end": "00:35:38",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "tomer-cohen_t13",
+      "title": "Operationalizing an AI-first mindset at LinkedIn",
+      "summary": "Tomer explains AI-first as a strategy and operating model: PMs must own algorithm objectives, features, data, fine-tuning, and even infrastructure. LinkedIn implemented an AI academy, review rigor, AI practitioners on product teams, and shifted portfolios after LLM breakthroughs.",
+      "timestamp_start": "00:35:38",
+      "timestamp_end": "00:43:03",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tomer Cohen"
+      ],
+      "themes": [
+        "AI/ML",
+        "Org Design",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tomer-cohen_t14",
+      "title": "Letting go of control: AI as ingredients",
+      "summary": "Tomer describes a key mindset shift: product leaders stop fully dictating deterministic flows and instead define ingredients, constraints, and safety guardrails while AI generates experiences. They discuss avoiding \u201cAI everywhere\u201d mistakes by starting from user objectives, encouraging exploration, and learning through iteration.",
+      "timestamp_start": "00:43:03",
+      "timestamp_end": "00:46:00",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tomer Cohen"
+      ],
+      "themes": [
+        "AI/ML",
+        "Product Management",
+        "Execution"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

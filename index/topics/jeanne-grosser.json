@@ -1,0 +1,234 @@
+{
+  "episode_id": "jeanne-grosser",
+  "topics": [
+    {
+      "topic_id": "jeanne-grosser_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny frames the episode as a practical GTM masterclass. Jeanne sets context: AI has intensified competition, so differentiation and GTM execution matter more than ever, and buyers often prioritize risk reduction over upside.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:34",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jeanne DeWitt Grosser"
+      ],
+      "themes": [
+        "Go-to-Market Strategy",
+        "AI in Go-to-Market",
+        "Sales"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jeanne-grosser_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Datadog/Eppo (experimentation, analytics, feature flags), Lovable (AI app building), and Stripe (payments, billing, checkout).",
+      "timestamp_start": "00:03:14",
+      "timestamp_end": "00:05:29",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Go-to-Market Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jeanne-grosser_t3",
+      "title": "Defining go-to-market and its scope",
+      "summary": "Jeanne defines GTM as every function that touches customers or revenue (marketing, sales, CS, support, partnerships, technical sales). She argues GTM should be an integrated lifecycle rather than siloed Venn diagrams, and predicts role consolidation after years of hyper-specialization.",
+      "timestamp_start": "00:05:29",
+      "timestamp_end": "00:08:42",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jeanne DeWitt Grosser"
+      ],
+      "themes": [
+        "Go-to-Market Strategy",
+        "Revenue Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jeanne-grosser_t4",
+      "title": "What changed in GTM: consultative and embedded",
+      "summary": "Jeanne explains how consumption-based models and AI push GTM to be more consultative, helping customers navigate uncertainty and change. She highlights forward-deployed engineering as a way to embed with customers, learn, and feed insights back into product.",
+      "timestamp_start": "00:08:44",
+      "timestamp_end": "00:11:23",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jeanne DeWitt Grosser"
+      ],
+      "themes": [
+        "AI in Go-to-Market",
+        "Go-to-Market Strategy",
+        "Sales"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jeanne-grosser_t5",
+      "title": "Rise of the go-to-market engineer role",
+      "summary": "Jeanne recounts Stripe\u2019s 2017 \u201ccompany universe\u201d outbound personalization attempt and why it was hard pre-AI. At Vercel, GTM engineers now build coded workflows/agents that replicate human steps to personalize outreach and other GTM tasks.",
+      "timestamp_start": "00:11:23",
+      "timestamp_end": "00:16:56",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jeanne DeWitt Grosser"
+      ],
+      "themes": [
+        "AI in Go-to-Market",
+        "Sales",
+        "Revenue Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jeanne-grosser_t6",
+      "title": "Agents to increase seller time with customers",
+      "summary": "Jeanne broadens GTM engineering beyond outbound: agents can automate research, follow-up, and next-best-action across inbound, outbound, and install-base motions. The goal is shifting sellers from ~30\u201340% customer time toward ~70% by offloading rote work to agents.",
+      "timestamp_start": "00:16:56",
+      "timestamp_end": "00:18:17",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jeanne DeWitt Grosser"
+      ],
+      "themes": [
+        "AI in Go-to-Market",
+        "Sales"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jeanne-grosser_t7",
+      "title": "Human-in-the-loop outbound quality and safety",
+      "summary": "They discuss concerns about AI-generated spam and how Vercel keeps humans in the loop. Jeanne describes shadowing top performers to model workflows, letting agents draft decisions/messages, and having humans review/send while the system learns from edits and rejections.",
+      "timestamp_start": "00:18:17",
+      "timestamp_end": "00:21:56",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jeanne DeWitt Grosser"
+      ],
+      "themes": [
+        "AI in Go-to-Market",
+        "Sales"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jeanne-grosser_t8",
+      "title": "Impact: 10 SDRs to 1 via agents",
+      "summary": "Jeanne shares results: one GTM engineer built an inbound lead agent in ~6 weeks, enabling Vercel to reduce inbound SDR staffing from 10 to 1 while keeping lead-to-opportunity conversion flat and improving speed-to-response. The freed SDRs moved to outbound work.",
+      "timestamp_start": "00:21:56",
+      "timestamp_end": "00:23:48",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jeanne DeWitt Grosser"
+      ],
+      "themes": [
+        "AI in Go-to-Market",
+        "Sales",
+        "Revenue Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jeanne-grosser_t9",
+      "title": "SDR and AE roles explained for newcomers",
+      "summary": "Jeanne defines SDRs as pipeline generators (inbound qualification and outbound prospecting) and AEs as closers who run the sales process to a paid decision. She explains increasing complexity from SMB to enterprise with more stakeholders and procurement.",
+      "timestamp_start": "00:23:48",
+      "timestamp_end": "00:26:05",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jeanne DeWitt Grosser"
+      ],
+      "themes": [
+        "Sales",
+        "Go-to-Market Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jeanne-grosser_t10",
+      "title": "When to hire GTM engineering and first sales",
+      "summary": "Jeanne argues GTM engineering requires a documented, repeatable sales process, which many startups lack even at scale. She suggests earlier rigor (playbooks, content, discovery/objection handling) and notes founders should typically hire first sales around ~$1M ARR once ICP and repeatability exist.",
+      "timestamp_start": "00:26:25",
+      "timestamp_end": "00:30:52",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jeanne DeWitt Grosser"
+      ],
+      "themes": [
+        "Go-to-Market Strategy",
+        "Sales",
+        "Revenue Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jeanne-grosser_t11",
+      "title": "Ideal GTM engineer profile and Vercel advantage",
+      "summary": "Jeanne recommends GTM engineers with real GTM experience (often technical sales engineers) who understand sales best practices, not just code. She describes Vercel\u2019s GTM engineers as former front-end devs using Vercel\u2019s AI cloud to build and dogfood internal agents.",
+      "timestamp_start": "00:30:52",
+      "timestamp_end": "00:33:22",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jeanne DeWitt Grosser"
+      ],
+      "themes": [
+        "AI in Go-to-Market",
+        "Sales"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jeanne-grosser_t12",
+      "title": "GTM tools: Gong plus agent-driven deal coaching",
+      "summary": "Jeanne highlights Gong becoming more powerful when paired with agents: analyzing transcripts to find true loss reasons (e.g., missing economic buyer vs. price), then evolving into a real-time \u201cdeal-bot\u201d that posts coaching insights into Slack channels. She also describes using agents to detect GTM \u201cbugs\u201d amid rapid product iteration and fix them via weekly sprints.",
+      "timestamp_start": "00:34:33",
+      "timestamp_end": "00:39:00",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jeanne DeWitt Grosser"
+      ],
+      "themes": [
+        "AI in Go-to-Market",
+        "Sales",
+        "Revenue Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jeanne-grosser_t13",
+      "title": "Build vs buy: cheap, fast internal agents",
+      "summary": "Jeanne explains why building agents in-house can outperform buying point solutions: they\u2019re quick to prototype (days to weeks) and extremely low-cost to run compared to headcount. She notes procurement friction and tool sprawl, predicting a shift toward internal platforms with many agents.",
+      "timestamp_start": "00:40:39",
+      "timestamp_end": "00:44:34",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jeanne DeWitt Grosser"
+      ],
+      "themes": [
+        "AI in Go-to-Market",
+        "Revenue Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jeanne-grosser_t14",
+      "title": "How Vercel builds agents and GTM as product",
+      "summary": "Jeanne describes how Vercel\u2019s team codes agents directly on Vercel (AI gateway, workflows, compute) and why dogfooding accelerates learning. She then introduces her long-held thesis: as software commoditizes, the buying journey and sales experience become key differentiators, motivating teams to design GTM like a product (e.g., Stripe\u2019s architecture whiteboarding as discovery).",
+      "timestamp_start": "00:44:34",
+      "timestamp_end": "00:49:03",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jeanne DeWitt Grosser"
+      ],
+      "themes": [
+        "Go-to-Market Strategy",
+        "AI in Go-to-Market",
+        "Sales"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

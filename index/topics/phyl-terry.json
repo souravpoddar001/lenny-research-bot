@@ -1,0 +1,227 @@
+{
+  "episode_id": "phyl-terry",
+  "topics": [
+    {
+      "topic_id": "phyl-terry_t1",
+      "title": "Introduction and Background",
+      "summary": "Cold open on job search focus (\"spear not a net\"), then Lenny introduces Phyl Terry, his background, and the episode\u2019s goal: practical job-search tactics for finding a job you love.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:43",
+      "speakers": [
+        "Phyl Terry",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Job Search",
+        "Career Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "phyl-terry_t2",
+      "title": "What Job Search Councils are",
+      "summary": "Phyl explains Job Search Councils as small peer support groups (6\u20138) that follow a structured methodology to reduce anxiety, build accountability, and help people \"play to win\" in interviews and negotiation.",
+      "timestamp_start": "00:02:45",
+      "timestamp_end": "00:04:28",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Phyl Terry"
+      ],
+      "themes": [
+        "Job Search",
+        "Community"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "phyl-terry_t3",
+      "title": "Origins: Phyl\u2019s mom and tough markets",
+      "summary": "Phyl traces the council concept to his mother\u2019s teacher council (met for 50 years) and explains how the method was forged in difficult job markets (1970s, dot-com bust).",
+      "timestamp_start": "00:04:44",
+      "timestamp_end": "00:06:40",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Phyl Terry"
+      ],
+      "themes": [
+        "Job Search",
+        "Community"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "phyl-terry_t4",
+      "title": "Sponsor Break",
+      "summary": "Ads for Sidebar (peer groups for senior tech leaders) and Sprig (product experience insights with AI).",
+      "timestamp_start": "00:06:42",
+      "timestamp_end": "00:08:55",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "phyl-terry_t5",
+      "title": "Scale, funding, and how councils operate",
+      "summary": "Phyl shares the scale (2,000+ councils), volunteer-driven model, and how book sales fund operations; then details matching, fast vs slow seeker tracks, moderator role, onboarding, and meeting cadence.",
+      "timestamp_start": "00:08:55",
+      "timestamp_end": "00:12:28",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Phyl Terry"
+      ],
+      "themes": [
+        "Job Search",
+        "Community"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "phyl-terry_t6",
+      "title": "Impact stories and emotional balance sheet",
+      "summary": "Phyl reads testimonials and emphasizes that the most important thing to manage in a job search is emotional balance; councils provide motivation, accountability, and resilience through vulnerability and support.",
+      "timestamp_start": "00:12:28",
+      "timestamp_end": "00:15:31",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Phyl Terry"
+      ],
+      "themes": [
+        "Job Search",
+        "Mental Health"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "phyl-terry_t7",
+      "title": "Why you shouldn\u2019t search alone",
+      "summary": "Phyl pitches the value of councils to skeptics via an introvert success story and broader context on loneliness; Lenny and Phyl frame councils as real community with practical tools.",
+      "timestamp_start": "00:15:31",
+      "timestamp_end": "00:18:16",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Phyl Terry"
+      ],
+      "themes": [
+        "Community",
+        "Job Search"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "phyl-terry_t8",
+      "title": "Building a private safety net and mission",
+      "summary": "Phyl explains the mission as a private safety net for layoffs, tying it to capitalism\u2019s creative destruction: innovation creates anxiety and dislocation, and community-based job-search support addresses that gap.",
+      "timestamp_start": "00:18:16",
+      "timestamp_end": "00:20:16",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Phyl Terry"
+      ],
+      "themes": [
+        "Job Search",
+        "Community"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "phyl-terry_t9",
+      "title": "Candidate market fit: concept and first steps",
+      "summary": "Phyl introduces candidate market fit as a supply/demand reality (not personal worth), urges people to stop \"spray and pray,\" and start with the Mnookin two-pager (wants/don\u2019ts) to clarify direction.",
+      "timestamp_start": "00:20:16",
+      "timestamp_end": "00:24:16",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Phyl Terry"
+      ],
+      "themes": [
+        "Job Search",
+        "Career Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "phyl-terry_t10",
+      "title": "Listening tour: market research and relationships",
+      "summary": "Phyl outlines the listening tour (reverse exit interviews, broader network with the \"golden question,\" and recruiters) to validate fit, gather market signals, and turn contacts into invested \"listening posts.\"",
+      "timestamp_start": "00:24:16",
+      "timestamp_end": "00:29:01",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Phyl Terry"
+      ],
+      "themes": [
+        "Networking",
+        "Job Search"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "phyl-terry_t11",
+      "title": "Narrowing your CMF: spear not a net",
+      "summary": "Phyl explains how to craft a tight 1-sentence CMF (3\u20134 attributes) and why narrow beats broad: people can expand from a specific target but can\u2019t reduce from \"I\u2019ll take anything.\"",
+      "timestamp_start": "00:29:01",
+      "timestamp_end": "00:35:11",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Phyl Terry"
+      ],
+      "themes": [
+        "Job Search",
+        "Career Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "phyl-terry_t12",
+      "title": "Choosing attributes and stage; startups vs big tech",
+      "summary": "They discuss what goes into the CMF grid (role/level, industry, stage, culture constraints like remote) and how current market dynamics may favor startups, while acknowledging tradeoffs and \"two-step\" paths.",
+      "timestamp_start": "00:35:11",
+      "timestamp_end": "00:38:16",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Phyl Terry"
+      ],
+      "themes": [
+        "Job Search",
+        "Career Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "phyl-terry_t13",
+      "title": "Hard truths: downleveling, two-step strategies, frontier",
+      "summary": "Phyl shares examples where senior leaders needed to go IC to enter top companies, explains two-step strategies, and warns about getting stuck away from the technology frontier; emphasizes realism plus support.",
+      "timestamp_start": "00:38:16",
+      "timestamp_end": "00:42:55",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Phyl Terry"
+      ],
+      "themes": [
+        "Career Strategy",
+        "Job Search"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "phyl-terry_t14",
+      "title": "Staying active: updates, accountability, and the 'I in village'",
+      "summary": "Phyl advises monthly network update notes, warns against going passive (leaving councils, stopping networking), and reframes community support as increasing personal agency and accountability in a tough market.",
+      "timestamp_start": "00:42:55",
+      "timestamp_end": "00:46:17",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Phyl Terry"
+      ],
+      "themes": [
+        "Networking",
+        "Job Search"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

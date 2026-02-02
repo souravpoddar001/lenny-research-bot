@@ -1,0 +1,187 @@
+{
+  "episode_id": "failure",
+  "topics": [
+    {
+      "topic_id": "failure_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces a compilation episode focused on learning from failure, why it\u2019s valuable, and invites listener feedback.",
+      "timestamp_start": "00:00:02",
+      "timestamp_end": "00:00:52",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Failure",
+        "Leadership",
+        "Product Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "failure_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Sendbird (in-app communications API) and Eppo (A/B testing and feature management platform).",
+      "timestamp_start": "00:00:52",
+      "timestamp_end": "00:03:26",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "failure_t3",
+      "title": "Airbnb design team rebellion and trust",
+      "summary": "Katie Dill recounts early days at Airbnb when half the design team confronted her with written feedback; she learns the core issue was unearned trust and shifts to listening and bringing people along.",
+      "timestamp_start": "00:03:26",
+      "timestamp_end": "00:08:04",
+      "speakers": [
+        "Lenny",
+        "Katie Dill"
+      ],
+      "themes": [
+        "Leadership",
+        "Failure",
+        "Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "failure_t4",
+      "title": "Freezing on stage and recovering",
+      "summary": "Paul Adams describes freezing during a high-stakes Cannes keynote, walking off stage while still mic\u2019d, then returning to finish\u2014highlighting resilience and perspective after public failure.",
+      "timestamp_start": "00:08:04",
+      "timestamp_end": "00:11:15",
+      "speakers": [
+        "Lenny",
+        "Paul Adams"
+      ],
+      "themes": [
+        "Failure",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "failure_t5",
+      "title": "Google social product failures and fear-driven strategy",
+      "summary": "Paul reflects on Google Buzz/Google+ as fear-motivated efforts that led to privacy issues and poor outcomes, contrasting with Google\u2019s other successes and emphasizing building from user needs.",
+      "timestamp_start": "00:11:15",
+      "timestamp_end": "00:15:53",
+      "speakers": [
+        "Lenny",
+        "Paul Adams"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Failure",
+        "User Research"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "failure_t6",
+      "title": "Embracing failure through shipping and learning",
+      "summary": "Paul explains Intercom\u2019s culture of big bets and \u201cship fast, ship early, ship often,\u201d and the ongoing tension between speed/learning and high craft standards.",
+      "timestamp_start": "00:15:53",
+      "timestamp_end": "00:18:38",
+      "speakers": [
+        "Lenny",
+        "Paul Adams"
+      ],
+      "themes": [
+        "Culture",
+        "Experimentation",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "failure_t7",
+      "title": "Pets.com: overfunding, arms races, and timing",
+      "summary": "Tom Conrad shares lessons from Pets.com: excess capital can drive irrational competition, timing matters (dial-up era constraints), and the team chose to shut down early and return remaining funds.",
+      "timestamp_start": "00:18:38",
+      "timestamp_end": "00:23:22",
+      "speakers": [
+        "Lenny",
+        "Tom Conrad"
+      ],
+      "themes": [
+        "Failure",
+        "Business Models",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "failure_t8",
+      "title": "Quibi: rekindled passion and broken business math",
+      "summary": "Tom describes joining Quibi reluctantly, loving the build, but learning that even strong execution can\u2019t fix a fundamentally broken investment/returns equation\u2014made worse by COVID disrupting content production.",
+      "timestamp_start": "00:23:22",
+      "timestamp_end": "00:33:20",
+      "speakers": [
+        "Lenny",
+        "Tom Conrad"
+      ],
+      "themes": [
+        "Business Models",
+        "Failure",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "failure_t9",
+      "title": "Fail conclusively: designing experiments to learn",
+      "summary": "Sri Batchu argues failure is fine if it produces learning; to avoid repeating inconclusive tests, design experiments with strong treatment effects (especially in B2B with small sample sizes).",
+      "timestamp_start": "00:33:20",
+      "timestamp_end": "00:39:01",
+      "speakers": [
+        "Lenny",
+        "Sri Batchu"
+      ],
+      "themes": [
+        "Experimentation",
+        "Growth",
+        "Failure"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "failure_t10",
+      "title": "Airbnb Plus: solution-first thinking and unit economics",
+      "summary": "JZ explains Airbnb Plus as a major miss driven by jumping to an operationally heavy solution (inspections) instead of addressing the real trust/representation problem, and warns against \u201cmagical thinking\u201d on unit economics.",
+      "timestamp_start": "00:39:01",
+      "timestamp_end": "00:44:33",
+      "speakers": [
+        "Lenny",
+        "Jiaona Zhang (JZ)"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Failure",
+        "Unit Economics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "failure_t11",
+      "title": "Career A-side vs B-side and hidden setbacks",
+      "summary": "Gina Gotthilf introduces the idea that people share highlight reels (A-side) while hiding struggles (B-side), then shares personal setbacks\u2014dropping out, visa issues, layoffs/firings\u2014and the importance of storytelling and perceived value.",
+      "timestamp_start": "00:44:33",
+      "timestamp_end": "00:48:26",
+      "speakers": [
+        "Lenny",
+        "Gina Gotthilf"
+      ],
+      "themes": [
+        "Careers",
+        "Failure",
+        "Mindset"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

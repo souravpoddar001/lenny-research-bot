@@ -1,0 +1,220 @@
+{
+  "episode_id": "yuhki-yamashata",
+  "topics": [
+    {
+      "topic_id": "yuhki-yamashata_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny opens with Figma\u2019s controversial early vision (multiplayer design) and introduces the show and guest Yuhki Yamashita, outlining his background and what the episode will cover.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:50",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Introduction",
+        "Product Vision",
+        "Company Building"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "yuhki-yamashata_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Notion (team collaboration workspace) and Vanta (SOC 2/security compliance automation).",
+      "timestamp_start": "00:02:15",
+      "timestamp_end": "00:04:28",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "yuhki-yamashata_t3",
+      "title": "Yuhki\u2019s career arc to Figma CPO",
+      "summary": "Yuhki walks through his path from Microsoft (Hotmail/Windows) to YouTube, then Uber, including how he first encountered Figma and why the mission drew him in.",
+      "timestamp_start": "00:04:28",
+      "timestamp_end": "00:08:49",
+      "speakers": [
+        "Lenny",
+        "Yuhki Yamashita"
+      ],
+      "themes": [
+        "Career",
+        "Product Leadership",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "yuhki-yamashata_t4",
+      "title": "Switching from PM to design and back",
+      "summary": "They discuss Yuhki\u2019s move into design leadership at Uber, what PMs can learn from doing design work, and why managing designers can be uniquely challenging.",
+      "timestamp_start": "00:08:49",
+      "timestamp_end": "00:12:20",
+      "speakers": [
+        "Lenny",
+        "Yuhki Yamashita"
+      ],
+      "themes": [
+        "Product Management",
+        "Design",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "yuhki-yamashata_t5",
+      "title": "Storytelling as a core PM leadership skill",
+      "summary": "Yuhki explains why storytelling is central to PM success: synthesis, creating memorable \u201cmemes,\u201d and driving action across distracted organizations.",
+      "timestamp_start": "00:12:20",
+      "timestamp_end": "00:16:35",
+      "speakers": [
+        "Lenny",
+        "Yuhki Yamashita"
+      ],
+      "themes": [
+        "Product Management",
+        "Communication",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "yuhki-yamashata_t6",
+      "title": "How to improve storytelling in practice",
+      "summary": "They get tactical on leveling up storytelling: resetting context to avoid the curse of knowledge, and learning clarity through teaching and metaphors.",
+      "timestamp_start": "00:16:35",
+      "timestamp_end": "00:18:51",
+      "speakers": [
+        "Lenny",
+        "Yuhki Yamashita"
+      ],
+      "themes": [
+        "Communication",
+        "Product Management",
+        "Career"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "yuhki-yamashata_t7",
+      "title": "PMs owning the \u201cwhy\u201d and five whys",
+      "summary": "Yuhki argues PMs don\u2019t need to own the idea, but must own the \u201cwhy\u201d so teams can make good local decisions; they also discuss Figma\u2019s use of \u201cfive whys\u201d in engineering postmortems and retros.",
+      "timestamp_start": "00:18:51",
+      "timestamp_end": "00:22:33",
+      "speakers": [
+        "Lenny",
+        "Yuhki Yamashita"
+      ],
+      "themes": [
+        "Product Management",
+        "Decision Making",
+        "Engineering"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "yuhki-yamashata_t8",
+      "title": "Customer proximity and community-driven feedback loops",
+      "summary": "Yuhki describes Figma\u2019s origin in tight designer feedback cycles, ongoing community listening (including Twitter), and how they balance loud voices with research/data.",
+      "timestamp_start": "00:22:33",
+      "timestamp_end": "00:27:46",
+      "speakers": [
+        "Lenny",
+        "Yuhki Yamashita"
+      ],
+      "themes": [
+        "Customer Research",
+        "Product Strategy",
+        "Community"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "yuhki-yamashata_t9",
+      "title": "Working with Dylan Field and customer obsession",
+      "summary": "Yuhki shares what it\u2019s like partnering with Dylan\u2014intuition shaped by massive customer exposure\u2014and a story illustrating Dylan\u2019s deep, real-time curiosity about user pain points.",
+      "timestamp_start": "00:27:46",
+      "timestamp_end": "00:31:31",
+      "speakers": [
+        "Lenny",
+        "Yuhki Yamashita"
+      ],
+      "themes": [
+        "Leadership",
+        "Customer Research",
+        "Company Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "yuhki-yamashata_t10",
+      "title": "Sponsor Break",
+      "summary": "Ad read conversation about Flatfile and the importance of reliable CSV import/data onboarding for B2B SaaS retention and conversion.",
+      "timestamp_start": "00:31:33",
+      "timestamp_end": "00:32:44",
+      "speakers": [
+        "Lenny",
+        "Ashley"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "yuhki-yamashata_t11",
+      "title": "When great products miss: branching and merging adoption",
+      "summary": "Yuhki discusses a major feature (branching/merging for design systems) that initially underperformed, and how building for larger orgs challenges Figma\u2019s dogfooding and validation approach.",
+      "timestamp_start": "00:32:44",
+      "timestamp_end": "00:34:54",
+      "speakers": [
+        "Lenny",
+        "Yuhki Yamashita"
+      ],
+      "themes": [
+        "Product Development",
+        "Enterprise",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "yuhki-yamashata_t12",
+      "title": "How Figma maintains high product quality",
+      "summary": "They cover dogfooding at scale\u2014shifting internal workflows to Figma/FigJam (decks, performance calibration templates)\u2014and how personal accountability to users drives quality (with Uber parallels).",
+      "timestamp_start": "00:34:54",
+      "timestamp_end": "00:38:48",
+      "speakers": [
+        "Lenny",
+        "Yuhki Yamashita"
+      ],
+      "themes": [
+        "Product Development",
+        "Company Culture",
+        "Quality"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "yuhki-yamashata_t13",
+      "title": "Bottom-up fixes, developer motivation, and OKR struggles",
+      "summary": "Yuhki explains why he protects bottom-up energy for fixing issues, then dives into his love-hate relationship with OKRs: meaningless proxy metrics vs. uncontrollable business metrics, iterations from OKRs to \u201ccommitments,\u201d and principles like legibility and actionability.",
+      "timestamp_start": "00:38:48",
+      "timestamp_end": "00:46:38",
+      "speakers": [
+        "Lenny",
+        "Yuhki Yamashita"
+      ],
+      "themes": [
+        "OKRs & Goal Setting",
+        "Product Management",
+        "Company Culture"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

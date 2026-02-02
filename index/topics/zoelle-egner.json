@@ -1,0 +1,288 @@
+{
+  "episode_id": "zoelle-egner",
+  "topics": [
+    {
+      "topic_id": "zoelle-egner_t1",
+      "title": "Cold open: Punching above weight with polish",
+      "summary": "Zoelle explains how small details (proofread emails, good visuals, thoughtful sample content) signal customer empathy and build trust, helping small startups feel more credible.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:35",
+      "speakers": [
+        "Zoelle Egner"
+      ],
+      "themes": [
+        "Marketing",
+        "Brand",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "zoelle-egner_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Zoelle, her early role at Airtable, and what the episode will cover (Airtable growth tactics, PR, launches, and more).",
+      "timestamp_start": "00:01:02",
+      "timestamp_end": "00:02:03",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Careers",
+        "Marketing",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "zoelle-egner_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for OneSchema (CSV importing) and Pando (performance management platform).",
+      "timestamp_start": "00:02:03",
+      "timestamp_end": "00:04:12",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "zoelle-egner_t4",
+      "title": "How Lenny and Zoelle first connected",
+      "summary": "They discuss meeting via Lenny\u2019s Slack community, starting with Lenny\u2019s DM asking for an Airtable discount, and Zoelle becoming a go-to Airtable advisor.",
+      "timestamp_start": "00:04:12",
+      "timestamp_end": "00:05:13",
+      "speakers": [
+        "Lenny",
+        "Zoelle Egner"
+      ],
+      "themes": [
+        "Community",
+        "Careers",
+        "Startups"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "zoelle-egner_t5",
+      "title": "VaccinateCA: What it was and why",
+      "summary": "Zoelle describes the chaotic early vaccine rollout and how VaccinateCA helped people find vaccines by collecting eligibility and availability information across locations.",
+      "timestamp_start": "00:05:13",
+      "timestamp_end": "00:08:01",
+      "speakers": [
+        "Lenny",
+        "Zoelle Egner"
+      ],
+      "themes": [
+        "Nonprofits",
+        "Operations",
+        "Crisis Response"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "zoelle-egner_t6",
+      "title": "Volunteer operations, Airtable backend, and impact",
+      "summary": "They dig into the mechanics: volunteers calling pharmacies, data stored in Airtable, building an API, and feeding Google Maps and county sites with the most comprehensive dataset.",
+      "timestamp_start": "00:08:01",
+      "timestamp_end": "00:10:02",
+      "speakers": [
+        "Lenny",
+        "Zoelle Egner"
+      ],
+      "themes": [
+        "Operations",
+        "Data",
+        "Crisis Response"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "zoelle-egner_t7",
+      "title": "Why VaccinateCA shut down after six months",
+      "summary": "Zoelle explains the decision to sunset once government systems caught up, and how the dataset remains useful for researchers studying equity and distribution.",
+      "timestamp_start": "00:10:02",
+      "timestamp_end": "00:11:31",
+      "speakers": [
+        "Lenny",
+        "Zoelle Egner"
+      ],
+      "themes": [
+        "Nonprofits",
+        "Operations",
+        "Crisis Response"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "zoelle-egner_t8",
+      "title": "Three lessons from VaccinateCA experience",
+      "summary": "Zoelle shares key takeaways: simple ideas mobilize people, leaders must repeat core messages relentlessly, and a tiny MVP can work even in high-stakes contexts.",
+      "timestamp_start": "00:11:31",
+      "timestamp_end": "00:17:39",
+      "speakers": [
+        "Lenny",
+        "Zoelle Egner"
+      ],
+      "themes": [
+        "Leadership",
+        "Startups",
+        "Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "zoelle-egner_t9",
+      "title": "Career overview and entering tech strategically",
+      "summary": "Zoelle recounts her path into tech, including mapping \u201cnodes of influence,\u201d targeting YC ecosystems, and using cold outreach to land early roles.",
+      "timestamp_start": "00:17:39",
+      "timestamp_end": "00:21:20",
+      "speakers": [
+        "Lenny",
+        "Zoelle Egner"
+      ],
+      "themes": [
+        "Careers",
+        "Networking",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "zoelle-egner_t10",
+      "title": "From Box to Airtable: writing, comms, and growth",
+      "summary": "She explains how her startup was acquired by Box, how a candid blog post led to a social/media comms role, and how she discovered and joined Airtable early.",
+      "timestamp_start": "00:21:20",
+      "timestamp_end": "00:24:19",
+      "speakers": [
+        "Lenny",
+        "Zoelle Egner"
+      ],
+      "themes": [
+        "Careers",
+        "Marketing",
+        "Writing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "zoelle-egner_t11",
+      "title": "Block Party: online safety product focus",
+      "summary": "Zoelle briefly describes Block Party and its first product: anti-harassment and anti-spam tools for Twitter.",
+      "timestamp_start": "00:24:19",
+      "timestamp_end": "00:24:30",
+      "speakers": [
+        "Lenny",
+        "Zoelle Egner"
+      ],
+      "themes": [
+        "Product",
+        "Safety",
+        "Startups"
+      ],
+      "quote_count": 1
+    },
+    {
+      "topic_id": "zoelle-egner_t12",
+      "title": "Thread across roles: trust, brand, and product quality",
+      "summary": "Zoelle explains her consistent focus: pairing strong product quality with storytelling and trust-building across every customer touchpoint to drive word of mouth.",
+      "timestamp_start": "00:24:30",
+      "timestamp_end": "00:29:09",
+      "speakers": [
+        "Lenny",
+        "Zoelle Egner"
+      ],
+      "themes": [
+        "Brand",
+        "Marketing",
+        "Product"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "zoelle-egner_t13",
+      "title": "Punching above weight: polish, POV, and process",
+      "summary": "They discuss practical tactics for small teams to look credible: lightweight QA checklists, a quality \u201cavatar,\u201d and having a broader point of view in public communications.",
+      "timestamp_start": "00:29:09",
+      "timestamp_end": "00:33:31",
+      "speakers": [
+        "Lenny",
+        "Zoelle Egner"
+      ],
+      "themes": [
+        "Marketing",
+        "Brand",
+        "Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "zoelle-egner_t14",
+      "title": "Airtable billboards: signaling legitimacy to enterprises",
+      "summary": "Zoelle explains Airtable\u2019s billboard strategy as a credibility signal for large buyers (often via remnant inventory), reducing perceived risk in six-figure deals.",
+      "timestamp_start": "00:33:31",
+      "timestamp_end": "00:35:52",
+      "speakers": [
+        "Lenny",
+        "Zoelle Egner"
+      ],
+      "themes": [
+        "Marketing",
+        "Sales",
+        "Brand"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "zoelle-egner_t15",
+      "title": "Sponsor Break and Airtable growth tactics setup",
+      "summary": "A brief plug for Lenny\u2019s jobs/talent marketplace, then a transition into Airtable\u2019s most impactful growth tactics over time.",
+      "timestamp_start": "00:35:52",
+      "timestamp_end": "00:37:02",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor",
+        "Careers",
+        "Hiring"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "zoelle-egner_t16",
+      "title": "Airtable acquisition: psychographic Facebook targeting",
+      "summary": "Zoelle describes early Airtable growth via Facebook ads targeting a \u201ctinkerer\u201d psychographic using clusters of interests\u2014effective then, but no longer viable due to platform changes.",
+      "timestamp_start": "00:37:02",
+      "timestamp_end": "00:39:52",
+      "speakers": [
+        "Lenny",
+        "Zoelle Egner"
+      ],
+      "themes": [
+        "Growth",
+        "Marketing",
+        "Advertising"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "zoelle-egner_t17",
+      "title": "Airtable\u2019s virality engine: champions and internal spread",
+      "summary": "She outlines Airtable\u2019s core growth dynamic: profession-based evangelists and strong within-company virality, driven by specific use cases and users becoming internal \u201csuperheroes.\u201d",
+      "timestamp_start": "00:39:52",
+      "timestamp_end": "00:42:21",
+      "speakers": [
+        "Lenny",
+        "Zoelle Egner"
+      ],
+      "themes": [
+        "Growth",
+        "Product-Led Growth",
+        "Community"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

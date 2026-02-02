@@ -1,0 +1,44 @@
+{
+  "id": "onboarding",
+  "name": "Onboarding",
+  "description": "Across episodes, onboarding is treated as the highest-leverage \u201cfirst-mile\u201d of the product: the set of experiences that turn a new user (or new employee) from curiosity into meaningful activation. Guests repeatedly frame onboarding as where brand promise meets reality, where instrumentation and clear ownership matter most, and where small frictions compound into lost retention, revenue, and trust.",
+  "episode_count": 13,
+  "episodes": [
+    "adam-fishman",
+    "claire-hughes-johnson",
+    "hila-qu",
+    "jules-walter",
+    "laura-schaffer",
+    "lauryn-isford",
+    "nikita-miller",
+    "sarah-tavel",
+    "scott-belsky",
+    "sean-ellis",
+    "sriram-and-aarthi",
+    "upasna-gautam",
+    "yuriy-timen"
+  ],
+  "subtopics": [
+    "Defining the activation moment: what is the product\u2019s \u201ccore action\u201d and how onboarding drives users to it quickly",
+    "Aligning marketing/brand promises with the in-product onboarding experience to avoid disappointment and early churn",
+    "Instrumenting onboarding: what to measure (drop-offs, time-to-value, aha moments), how to segment, and how to learn from behavior",
+    "Designing onboarding for different motions (PLG vs sales-led): low-friction trials, handoffs, and when human touch is required",
+    "Experimentation vs product judgment in onboarding: when A/B tests are necessary (risk mitigation) vs when strong product thinking should lead",
+    "Internal onboarding at scale: hiring, role clarity, operating cadence, and principles/processes that help teams move fast without chaos"
+  ],
+  "key_episodes": [
+    "adam-fishman",
+    "claire-hughes-johnson",
+    "hila-qu",
+    "sarah-tavel",
+    "scott-belsky"
+  ],
+  "common_frameworks": [
+    "First-mile / time-to-value framing (optimize the earliest experience to reach value fast)",
+    "Core Action / activation definition (identify the behavior that predicts retention and design onboarding to drive it)",
+    "Brand promise \u2192 product reality alignment (reduce expectation gaps to prevent disappointment)",
+    "Data-led onboarding instrumentation (event tracking, funnel/drop-off analysis, cohorting/segmentation)",
+    "PLG trial funnel thinking (free-to-paid conversion driven by in-product behavior signals)",
+    "Experimentation as risk management (test when uncertainty is high; avoid over-testing obvious UX/product improvements)"
+  ]
+}

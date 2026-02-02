@@ -1,0 +1,213 @@
+{
+  "episode_id": "boz",
+  "topics": [
+    {
+      "topic_id": "boz_t1",
+      "title": "Early Facebook grind and startup reality",
+      "summary": "Boz describes the intense early Facebook years: extreme hours, no support functions, building/racking servers, and the unglamorous reality behind startup \u201cromance.\u201d He emphasizes survivorship bias and the real sacrifices that don\u2019t always pay off.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:11:11",
+      "speakers": [
+        "Lenny",
+        "Andrew \u2018Boz\u2019 Bosworth"
+      ],
+      "themes": [
+        "Startups",
+        "Career",
+        "Leadership"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "boz_t2",
+      "title": "Advice to founders and value of mentorship",
+      "summary": "Boz caveats that he wasn\u2019t a founder, then explains how modern mentorship ecosystems (podcasts/newsletters) fill a gap left by traditional professional institutions. He notes founders face similar challenges at different scales and encourages learning from shared experience.",
+      "timestamp_start": "00:11:11",
+      "timestamp_end": "00:13:22",
+      "speakers": [
+        "Lenny",
+        "Andrew \u2018Boz\u2019 Bosworth"
+      ],
+      "themes": [
+        "Startups",
+        "Career",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "boz_t3",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Boz\u2019s background and impact at Meta: early engineer, News Feed, mobile ads, messaging, and leading Reality Labs/AR-VR hardware. He previews major topics for the conversation.",
+      "timestamp_start": "00:00:48",
+      "timestamp_end": "00:02:39",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career",
+        "Leadership",
+        "Product"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "boz_t4",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Vanta (trust/compliance automation) and Eppo (A/B testing and feature management).",
+      "timestamp_start": "00:02:39",
+      "timestamp_end": "00:04:47",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Other"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "boz_t5",
+      "title": "Boz fun facts and prom story",
+      "summary": "Lenny runs through unusual Boz trivia; Boz clarifies the Taekwondo detail and tells how 4-H conferences and dancing led to attending 14 proms, including three in one weekend.",
+      "timestamp_start": "00:04:47",
+      "timestamp_end": "00:07:21",
+      "speakers": [
+        "Lenny",
+        "Andrew \u2018Boz\u2019 Bosworth"
+      ],
+      "themes": [
+        "Career",
+        "Other"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "boz_t6",
+      "title": "Leverage your manager more directly",
+      "summary": "Boz explains why people avoid asking for help and why it\u2019s a mistake: the job is to get outcomes, not prove independence. He shares how managers can unblock, prevent miscommunication, and why leaders are incentivized to help you succeed.",
+      "timestamp_start": "00:13:22",
+      "timestamp_end": "00:16:53",
+      "speakers": [
+        "Lenny",
+        "Andrew \u2018Boz\u2019 Bosworth"
+      ],
+      "themes": [
+        "Leadership",
+        "Career"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "boz_t7",
+      "title": "Practical tactics for asking for help",
+      "summary": "Boz recommends lightweight written updates (\u201cno response required\u201d), clear framing of blockers, and drafting emails/questions to make it cheap for leaders to assist. He describes leadership as \u201cspinning plates\u201d via many small touches.",
+      "timestamp_start": "00:16:53",
+      "timestamp_end": "00:22:11",
+      "speakers": [
+        "Lenny",
+        "Andrew \u2018Boz\u2019 Bosworth"
+      ],
+      "themes": [
+        "Leadership",
+        "Career"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "boz_t8",
+      "title": "Meta transparency: benefits, costs, and leaks",
+      "summary": "They discuss Meta\u2019s open information culture, including the downside of leaks and why Boz sees leaks as a trust violation. Boz argues transparency maximizes talent leverage but requires strong personal systems to find signal amid noise.",
+      "timestamp_start": "00:22:11",
+      "timestamp_end": "00:26:08",
+      "speakers": [
+        "Lenny",
+        "Andrew \u2018Boz\u2019 Bosworth"
+      ],
+      "themes": [
+        "Leadership",
+        "Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "boz_t9",
+      "title": "Bottom-up vs top-down and clear guardrails",
+      "summary": "Boz challenges the simplistic \u201cbottom-up\u201d narrative: big directions are often top-down from Zuck, but teams have degrees of freedom within guardrails. He stresses clarity on where leaders are prescriptive vs where teams can explore.",
+      "timestamp_start": "00:26:08",
+      "timestamp_end": "00:27:45",
+      "speakers": [
+        "Lenny",
+        "Andrew \u2018Boz\u2019 Bosworth"
+      ],
+      "themes": [
+        "Leadership",
+        "Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "boz_t10",
+      "title": "When leaders go deep: pixels to strategy",
+      "summary": "Examples of deep involvement include Zuck whiteboarding News Feed UI details and later diving into ranking modernization; Boz cites pushing hand tracking and mixed reality into headsets despite skepticism. They discuss when execs should be in the weeds based on what\u2019s truly pivotal.",
+      "timestamp_start": "00:27:45",
+      "timestamp_end": "00:33:14",
+      "speakers": [
+        "Lenny",
+        "Andrew \u2018Boz\u2019 Bosworth"
+      ],
+      "themes": [
+        "Leadership",
+        "Product"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "boz_t11",
+      "title": "News Feed launch backlash and conviction",
+      "summary": "Boz explains the News Feed controversy: users complained but usage doubled, revealing preference vs stated preference. He notes the real lesson isn\u2019t \u201cignore customers,\u201d but distinguish between a correct core idea and fixable execution mistakes (e.g., over-broadcasting).",
+      "timestamp_start": "00:33:15",
+      "timestamp_end": "00:37:43",
+      "speakers": [
+        "Lenny",
+        "Andrew \u2018Boz\u2019 Bosworth"
+      ],
+      "themes": [
+        "Product",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "boz_t12",
+      "title": "Passion, identity, and exploring new domains",
+      "summary": "Boz reflects on how passion drives productivity and how he learned he can become passionate about new areas (ads, hardware) despite initial resistance. He advises giving new roles time to click while recognizing some work will never fit.",
+      "timestamp_start": "00:37:43",
+      "timestamp_end": "00:39:14",
+      "speakers": [
+        "Lenny",
+        "Andrew \u2018Boz\u2019 Bosworth"
+      ],
+      "themes": [
+        "Career",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "boz_t13",
+      "title": "Career strategy: optimize for learning and variety",
+      "summary": "Boz describes rotating roles every ~6 months early on to maximize learning, then accelerating after finding deep learning-rich roles (ads, current hardware org). He recommends early-career experimentation, compounding skills, and avoiding becoming stuck as an exhausted domain specialist.",
+      "timestamp_start": "00:39:14",
+      "timestamp_end": "00:41:43",
+      "speakers": [
+        "Lenny",
+        "Andrew \u2018Boz\u2019 Bosworth"
+      ],
+      "themes": [
+        "Career",
+        "Leadership"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

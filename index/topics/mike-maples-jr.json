@@ -1,0 +1,276 @@
+{
+  "episode_id": "mike-maples-jr",
+  "topics": [
+    {
+      "topic_id": "mike-maples-jr_t1",
+      "title": "Cold open: three elements of breakthrough ideas",
+      "summary": "Mike previews his framework for breakthrough startups: inflections, insights, and founder\u2013future fit, plus the idea of \u201csecrets\u201d and why pivots are common in big outcomes.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:35",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mike Maples, Jr."
+      ],
+      "themes": [
+        "Startups",
+        "Venture Capital",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mike-maples-jr_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Mike\u2019s investing track record and the premise of his research into where great startup ideas come from, plus a book pre-order offer.",
+      "timestamp_start": "00:01:00",
+      "timestamp_end": "00:02:47",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mike Maples, Jr."
+      ],
+      "themes": [
+        "Venture Capital",
+        "Startups",
+        "Entrepreneurship"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "mike-maples-jr_t3",
+      "title": "Why Mike wrote Pattern Breakers",
+      "summary": "Mike explains the Twitch/Justin.tv pivot story, realizing most returns came from pivots, and questioning why \u201cbest practices\u201d didn\u2019t correlate with outcomes\u2014motivating his research and book.",
+      "timestamp_start": "00:02:50",
+      "timestamp_end": "00:05:39",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mike Maples, Jr."
+      ],
+      "themes": [
+        "Venture Capital",
+        "Startups",
+        "Entrepreneurship"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "mike-maples-jr_t4",
+      "title": "Sponsor Break",
+      "summary": "Ads for Enterpret (customer feedback AI) and Anvil (document workflow SDK).",
+      "timestamp_start": "00:05:39",
+      "timestamp_end": "00:08:10",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Operations",
+        "Product Management",
+        "Technology"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mike-maples-jr_t5",
+      "title": "Research method: time-capsuling startup origins",
+      "summary": "Mike describes building a database of 100x+ outcomes, collecting original pitch decks, and interviewing founders carefully to avoid hindsight bias and uncover true causal drivers.",
+      "timestamp_start": "00:08:10",
+      "timestamp_end": "00:11:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mike Maples, Jr."
+      ],
+      "themes": [
+        "Venture Capital",
+        "Startups",
+        "Research"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mike-maples-jr_t6",
+      "title": "Pattern breaking: startups win by unfair fights",
+      "summary": "Mike frames startups vs incumbents as asymmetric warfare: \u201cbetter\u201d is an extension of the present, while breakout startups avoid comparisons by proposing a radically different future.",
+      "timestamp_start": "00:11:33",
+      "timestamp_end": "00:13:48",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mike Maples, Jr."
+      ],
+      "themes": [
+        "Startups",
+        "Strategy",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mike-maples-jr_t7",
+      "title": "Three elements: inflections, insights, founder\u2013future fit",
+      "summary": "Mike introduces the three core elements and emphasizes that correct insight matters more than initial implementation because teams can pivot toward product-market fit if the underlying thesis is right.",
+      "timestamp_start": "00:13:48",
+      "timestamp_end": "00:15:25",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mike Maples, Jr."
+      ],
+      "themes": [
+        "Startups",
+        "Product Strategy",
+        "Venture Capital"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mike-maples-jr_t8",
+      "title": "Inflections: what they are and examples",
+      "summary": "An inflection is an external turning point enabling new empowerment (e.g., iPhone GPS enabling Lyft; better smartphone cameras/network enabling Instagram). Mike distinguishes inflections from gradual improvement curves.",
+      "timestamp_start": "00:15:25",
+      "timestamp_end": "00:20:44",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mike Maples, Jr."
+      ],
+      "themes": [
+        "Startups",
+        "Technology",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mike-maples-jr_t9",
+      "title": "Stress-testing inflections and AI as inflection",
+      "summary": "Mike shares a practical checklist: identify the specific new thing, who it empowers and how, and the conditions required for that empowerment to persist\u2014applying the lens to LLMs/AI.",
+      "timestamp_start": "00:20:44",
+      "timestamp_end": "00:22:58",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mike Maples, Jr."
+      ],
+      "themes": [
+        "Startups",
+        "Technology",
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mike-maples-jr_t10",
+      "title": "More inflection examples: Twitch and Airbnb",
+      "summary": "Mike maps inflections behind Twitch (UGC shift, broadband/CDNs) and Airbnb (reviews trust, Facebook Connect identity, financial crisis supply), showing multiple inflections can converge.",
+      "timestamp_start": "00:22:58",
+      "timestamp_end": "00:25:00",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mike Maples, Jr."
+      ],
+      "themes": [
+        "Startups",
+        "Venture Capital",
+        "Technology"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "mike-maples-jr_t11",
+      "title": "Types of inflections: regulatory and belief shifts",
+      "summary": "They discuss non-technical inflections like telemedicine regulation changes and lasting belief/behavior changes from COVID (telemedicine adoption, remote work), alongside tech-driven shifts.",
+      "timestamp_start": "00:25:00",
+      "timestamp_end": "00:28:03",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mike Maples, Jr."
+      ],
+      "themes": [
+        "Startups",
+        "Regulation",
+        "Technology"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mike-maples-jr_t12",
+      "title": "Insights: non-obvious truths that harness inflections",
+      "summary": "Mike defines insight as a founder-generated, non-consensus truth about using inflections to change behavior; great ideas are \u201cnon-consensus and right,\u201d creating a forced choice rather than a comparison.",
+      "timestamp_start": "00:28:03",
+      "timestamp_end": "00:32:19",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mike Maples, Jr."
+      ],
+      "themes": [
+        "Startups",
+        "Product Strategy",
+        "Entrepreneurship"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mike-maples-jr_t13",
+      "title": "Airbnb pitch chaos and early fundraising lessons",
+      "summary": "Mike recounts passing on Airbnb after a disastrous early meeting, notes even YC partners disliked the idea, and extracts lessons about not over-weighting presentation quality and staying open to \u201ccrazy.\u201d",
+      "timestamp_start": "00:32:19",
+      "timestamp_end": "00:36:45",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mike Maples, Jr."
+      ],
+      "themes": [
+        "Venture Capital",
+        "Startups",
+        "Entrepreneurship"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mike-maples-jr_t14",
+      "title": "Surprises, earned secrets, and truth-seeking experiments",
+      "summary": "Mike argues breakthroughs can\u2019t be \u201crecipes\u201d; founders should seek surprises, design experiments to learn (Chegg pricing example), and earn secrets by getting hands-on with the future rather than chasing validation.",
+      "timestamp_start": "00:36:45",
+      "timestamp_end": "00:42:40",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mike Maples, Jr."
+      ],
+      "themes": [
+        "Startups",
+        "Product Management",
+        "Entrepreneurship"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mike-maples-jr_t15",
+      "title": "Pivots, PMF diagnosis, and asymmetric advantage",
+      "summary": "They connect pivots to separating insight vs implementation vs customer selection (Okta example), and Mike reiterates founders should pursue inflection-powered unfair fights rather than incumbent-defined market analyses.",
+      "timestamp_start": "00:42:40",
+      "timestamp_end": "00:47:32",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mike Maples, Jr."
+      ],
+      "themes": [
+        "Startups",
+        "Product Strategy",
+        "Venture Capital"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mike-maples-jr_t16",
+      "title": "Founder\u2013future fit begins",
+      "summary": "Mike tees up the third element\u2014founder\u2013future fit\u2014as the conversation transitions into what makes a founder uniquely suited to build a particular future.",
+      "timestamp_start": "00:47:32",
+      "timestamp_end": "00:47:39",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mike Maples, Jr."
+      ],
+      "themes": [
+        "Entrepreneurship",
+        "Startups",
+        "Leadership"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

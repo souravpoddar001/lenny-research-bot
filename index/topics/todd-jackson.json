@@ -1,0 +1,275 @@
+{
+  "episode_id": "todd-jackson",
+  "topics": [
+    {
+      "topic_id": "todd-jackson_t1",
+      "title": "Introduction and Background",
+      "summary": "Todd Jackson and Lenny introduce the episode\u2019s focus on product-market fit (PMF) and Todd\u2019s role at First Round Capital. Lenny summarizes Todd\u2019s product leadership background (Gmail, Facebook, Twitter, Dropbox) and why his PMF work is notable.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:04:56",
+      "speakers": [
+        "Todd Jackson",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product-Market Fit",
+        "Startups",
+        "Venture Capital"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "todd-jackson_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for WorkOS and Eppo, highlighting enterprise auth/SCIM/SAML tooling and experimentation/A/B testing platform capabilities.",
+      "timestamp_start": "00:02:26",
+      "timestamp_end": "00:04:12",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "SaaS Tools",
+        "Experimentation",
+        "Developer Platforms"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "todd-jackson_t3",
+      "title": "Todd\u2019s product-to-VC journey",
+      "summary": "Todd explains his path from founder and product leader to seed-stage VC at First Round. He shares why he enjoys helping founders pre-PMF repeatedly.",
+      "timestamp_start": "00:04:56",
+      "timestamp_end": "00:06:07",
+      "speakers": [
+        "Todd Jackson",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Venture Capital",
+        "Product Leadership",
+        "Startups"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "todd-jackson_t4",
+      "title": "Why PMF needs a framework",
+      "summary": "Todd argues PMF is underexplained and treated as \u201cart,\u201d while founders need specific, tactical guidance. He cites consistent patterns found across First Round Review interviews and why structured approaches (e.g., Superhuman\u2019s) resonate.",
+      "timestamp_start": "00:06:13",
+      "timestamp_end": "00:09:07",
+      "speakers": [
+        "Todd Jackson",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product-Market Fit",
+        "Founder Advice",
+        "Customer Discovery"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "todd-jackson_t5",
+      "title": "Why PMF is the top early priority",
+      "summary": "Todd explains PMF as the key lever that makes everything else easier\u2014building, hiring, selling, and momentum. He notes most startups never progress beyond early PMF levels.",
+      "timestamp_start": "00:09:07",
+      "timestamp_end": "00:11:02",
+      "speakers": [
+        "Todd Jackson",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product-Market Fit",
+        "Startups",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "todd-jackson_t6",
+      "title": "Who the framework is for",
+      "summary": "Todd scopes the framework to early, sales-led B2B founders (first ~6\u20139 months), emphasizing enterprise PMF is more \u201cscientific\u201d than consumer. He distinguishes bottom-up/consumer dynamics from sales-led B2B.",
+      "timestamp_start": "00:11:02",
+      "timestamp_end": "00:11:59",
+      "speakers": [
+        "Todd Jackson",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "B2B SaaS",
+        "Product-Market Fit",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "todd-jackson_t7",
+      "title": "What the framework can and can\u2019t do",
+      "summary": "Todd sets expectations: PMF is hard and not guaranteed, but a framework can increase odds and reduce reliance on luck. The goal is to help more companies reach strong/extreme PMF.",
+      "timestamp_start": "00:12:00",
+      "timestamp_end": "00:12:54",
+      "speakers": [
+        "Todd Jackson",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product-Market Fit",
+        "Founder Advice",
+        "Startups"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "todd-jackson_t8",
+      "title": "First Round\u2019s PMF Method program overview",
+      "summary": "Todd describes the free, intensive multi-week PMF Method program, its curriculum (levels, discovery, validation, positioning, design partners, iteration, founder-led sales), and logistics (application/start dates). He shares beta feedback suggesting major time savings for founders.",
+      "timestamp_start": "00:12:54",
+      "timestamp_end": "00:15:19",
+      "speakers": [
+        "Todd Jackson",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Founder Programs",
+        "Product-Market Fit",
+        "Customer Discovery"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "todd-jackson_t9",
+      "title": "Time commitment and why it\u2019s free",
+      "summary": "Todd explains the program\u2019s ~10 hours/week is work founders should already be doing, but with structure and efficiency gains. He clarifies First Round takes no equity or fees, positioning it as ecosystem value creation and relationship building.",
+      "timestamp_start": "00:15:19",
+      "timestamp_end": "00:16:54",
+      "speakers": [
+        "Todd Jackson",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Founder Programs",
+        "Venture Capital",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "todd-jackson_t10",
+      "title": "Framework overview: definition and PMF levels",
+      "summary": "Todd defines \u201cextreme PMF\u201d as demand + satisfaction + repeatable efficient delivery, emphasizing efficiency as commonly overlooked. He introduces the marginal customer concept and the four PMF levels (nascent, developing, strong, extreme) with tradeoffs across dimensions.",
+      "timestamp_start": "00:16:54",
+      "timestamp_end": "00:21:01",
+      "speakers": [
+        "Todd Jackson",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product-Market Fit",
+        "Metrics",
+        "Business Models"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "todd-jackson_t11",
+      "title": "Level 1 nascent PMF and Vanta example",
+      "summary": "Todd explains Level 1 as finding 3\u20135 paying customers with an urgent problem and delivering high satisfaction, even with extreme inefficiency (manual work). He uses Vanta\u2019s early SOC 2 \u201cspreadsheet/manual\u201d delivery and revenue-unlock promise as a canonical case.",
+      "timestamp_start": "00:21:01",
+      "timestamp_end": "00:27:03",
+      "speakers": [
+        "Todd Jackson",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product-Market Fit",
+        "Customer Discovery",
+        "B2B SaaS"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "todd-jackson_t12",
+      "title": "Level 1 stuck signals and the four Ps pivots",
+      "summary": "Todd lists yellow flags for being stuck at Level 1 (low disappointment if product disappears, fragmented value, hard next customer, low usage). He introduces the four Ps (persona, problem, promise, product) and illustrates pivots via Lattice (OKRs to performance management) and Plaid (consumer app to fintech API).",
+      "timestamp_start": "00:27:03",
+      "timestamp_end": "00:33:15",
+      "speakers": [
+        "Todd Jackson",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product-Market Fit",
+        "Positioning",
+        "Pivots"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "todd-jackson_t13",
+      "title": "How to choose what to change",
+      "summary": "Todd advises prioritizing selling before building to get customer signal, focusing first on persona/problem/promise since they\u2019re easier to iterate than product. Lenny recaps Level 1 norms and stuck indicators.",
+      "timestamp_start": "00:33:15",
+      "timestamp_end": "00:36:20",
+      "speakers": [
+        "Todd Jackson",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Customer Discovery",
+        "Product Strategy",
+        "Product-Market Fit"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "todd-jackson_t14",
+      "title": "Avoiding the customer \u201cfriend zone\u201d",
+      "summary": "Todd shares Persona founder Rick Song\u2019s tactic: directly ask early customers if the product is a necessity, how painful churn would be, and whether they\u2019d switch for a cheaper competitor. The goal is to validate true need vs polite interest.",
+      "timestamp_start": "00:36:20",
+      "timestamp_end": "00:37:38",
+      "speakers": [
+        "Todd Jackson",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Customer Discovery",
+        "Product-Market Fit",
+        "Founder Advice"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "todd-jackson_t15",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for CommandBar, positioning an AI-powered in-product assistance toolkit (search/chat/nudges) as an alternative to annoying pop-ups and tours.",
+      "timestamp_start": "00:37:38",
+      "timestamp_end": "00:39:19",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "SaaS Tools",
+        "Product Growth",
+        "AI in Product"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "todd-jackson_t16",
+      "title": "Level 2 developing PMF: scaling to 25 customers",
+      "summary": "Todd defines Level 2 as moving from ~5 to ~25 satisfied customers by adding scalable demand generation beyond warm intros. He provides indicative benchmarks (conversion rates, ARR range, early retention/NRR, and rough efficiency guardrails like burn multiple and gross margin).",
+      "timestamp_start": "00:39:19",
+      "timestamp_end": "00:43:12",
+      "speakers": [
+        "Todd Jackson",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product-Market Fit",
+        "Go-to-Market",
+        "Startup Metrics"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

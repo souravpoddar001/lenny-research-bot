@@ -1,0 +1,237 @@
+{
+  "episode_id": "gergely",
+  "topics": [
+    {
+      "topic_id": "gergely_t1",
+      "title": "Introduction and Background",
+      "summary": "Gergely opens by contrasting Uber compensation with his current newsletter earnings, and Lenny introduces the episode\u2019s focus: leaving big tech to run a paid newsletter full time and how to succeed at it.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:06",
+      "speakers": [
+        "Gergely Orosz",
+        "Lenny"
+      ],
+      "themes": [
+        "Creator Economy",
+        "Career Transitions",
+        "Monetization"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "gergely_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for lemon.io (hiring vetted developers) and Eppo (A/B testing platform for modern growth teams).",
+      "timestamp_start": "00:02:06",
+      "timestamp_end": "00:04:28",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsorships/Ads"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "gergely_t3",
+      "title": "Career journey to The Pragmatic Engineer",
+      "summary": "Gergely walks through his engineering path from Hungary to the UK, Microsoft/Skype, Skyscanner, and Uber, culminating in an unexpected pivot to writing The Pragmatic Engineer newsletter.",
+      "timestamp_start": "00:04:28",
+      "timestamp_end": "00:07:19",
+      "speakers": [
+        "Lenny",
+        "Gergely Orosz"
+      ],
+      "themes": [
+        "Career Transitions",
+        "Engineering Leadership",
+        "Creator Economy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gergely_t4",
+      "title": "Newsletter scale, growth engines, and paid model",
+      "summary": "Gergely shares subscriber growth (including the impact of Substack recommendations), explains free vs paid tiers, and notes he relies primarily on subscriptions rather than ads/sponsorships.",
+      "timestamp_start": "00:07:19",
+      "timestamp_end": "00:08:59",
+      "speakers": [
+        "Lenny",
+        "Gergely Orosz"
+      ],
+      "themes": [
+        "Audience Growth",
+        "Monetization",
+        "Creator Economy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gergely_t5",
+      "title": "Income comparison: Uber compensation vs newsletter",
+      "summary": "He details his best Uber year (~$320\u2013330k in Europe) and explains that the newsletter now earns more with upside tied to subscriber growth, unlike capped corporate compensation.",
+      "timestamp_start": "00:08:59",
+      "timestamp_end": "00:10:55",
+      "speakers": [
+        "Lenny",
+        "Gergely Orosz"
+      ],
+      "themes": [
+        "Monetization",
+        "Career Transitions",
+        "Creator Economy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gergely_t6",
+      "title": "Why leave Uber: promise, layoffs, and autonomy",
+      "summary": "They discuss the psychological shift from corporate security to creator work, and Gergely explains how COVID-era layoffs and a prior promise to take a risk pushed him to leave.",
+      "timestamp_start": "00:10:55",
+      "timestamp_end": "00:16:18",
+      "speakers": [
+        "Lenny",
+        "Gergely Orosz"
+      ],
+      "themes": [
+        "Career Transitions",
+        "Workplace Dynamics",
+        "Creator Economy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gergely_t7",
+      "title": "Startup plan, self-publishing success, and fisherman story",
+      "summary": "Gergely describes intending to raise VC for a platform-engineering startup, then being pulled toward writing after self-published books earned meaningful revenue; he uses the fisherman parable to explain choosing the life he wanted now.",
+      "timestamp_start": "00:16:18",
+      "timestamp_end": "00:23:05",
+      "speakers": [
+        "Lenny",
+        "Gergely Orosz"
+      ],
+      "themes": [
+        "Entrepreneurship",
+        "Creator Economy",
+        "Monetization"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gergely_t8",
+      "title": "Timeline from quitting to launching newsletter",
+      "summary": "He clarifies the ~10\u201312 month gap between deciding to leave and starting the newsletter, including Europe\u2019s longer notice periods and reflections on middle-management constraints and control.",
+      "timestamp_start": "00:23:05",
+      "timestamp_end": "00:25:41",
+      "speakers": [
+        "Lenny",
+        "Gergely Orosz"
+      ],
+      "themes": [
+        "Career Transitions",
+        "Engineering Leadership",
+        "Workplace Dynamics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gergely_t9",
+      "title": "Publishing cadence and the real work of writing",
+      "summary": "Gergely explains moving from one to two posts per week, why high-quality posts take days to weeks (research, drafting, feedback, editing), and how long-form writing compares to journalism output.",
+      "timestamp_start": "00:25:41",
+      "timestamp_end": "00:30:46",
+      "speakers": [
+        "Lenny",
+        "Gergely Orosz"
+      ],
+      "themes": [
+        "Content Creation",
+        "Creator Economy",
+        "Productivity"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gergely_t10",
+      "title": "Creating structure: deadlines, accountability, and serializing a book",
+      "summary": "They discuss how external commitments drive productivity; Gergely shares using the newsletter as a forcing function to eventually assemble his Software Engineer\u2019s Guidebook, inspired by how The Three Musketeers was serialized.",
+      "timestamp_start": "00:30:46",
+      "timestamp_end": "00:33:51",
+      "speakers": [
+        "Lenny",
+        "Gergely Orosz"
+      ],
+      "themes": [
+        "Productivity",
+        "Content Creation",
+        "Creator Economy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gergely_t11",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Vanta, focusing on automating SOC 2 compliance to speed up security audits and unlock enterprise sales.",
+      "timestamp_start": "00:33:51",
+      "timestamp_end": "00:35:08",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsorships/Ads"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gergely_t12",
+      "title": "Focus tactics: tools, timers, and blocking distractions",
+      "summary": "They compare strategies for deep work amid social media pull: Centered, Pomodoro-style timers, and Gergely\u2019s host-file/script approach to block distracting sites until he gets into flow.",
+      "timestamp_start": "00:35:08",
+      "timestamp_end": "00:41:13",
+      "speakers": [
+        "Lenny",
+        "Gergely Orosz"
+      ],
+      "themes": [
+        "Productivity",
+        "Content Creation",
+        "Creator Economy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gergely_t13",
+      "title": "Upsides of newsletter life: time and experimentation",
+      "summary": "Gergely highlights the benefits of an open calendar, fewer meetings, and being fully in charge\u2014enabling rapid experimentation with formats and ideas.",
+      "timestamp_start": "00:41:13",
+      "timestamp_end": "00:42:46",
+      "speakers": [
+        "Lenny",
+        "Gergely Orosz"
+      ],
+      "themes": [
+        "Creator Economy",
+        "Productivity",
+        "Entrepreneurship"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gergely_t14",
+      "title": "Downsides: loneliness, guilt, and creator stress",
+      "summary": "He describes missing team camaraderie, feeling guilt about perceived productivity compared to corporate life, and the surprising stress and isolation of running a solo, attention-driven business.",
+      "timestamp_start": "00:42:46",
+      "timestamp_end": "00:44:55",
+      "speakers": [
+        "Lenny",
+        "Gergely Orosz"
+      ],
+      "themes": [
+        "Creator Economy",
+        "Mental Health",
+        "Workplace Dynamics"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

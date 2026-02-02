@@ -1,0 +1,219 @@
+{
+  "episode_id": "shaun-clowes",
+  "topics": [
+    {
+      "topic_id": "shaun-clowes_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Shaun Clowes\u2019 background (Atlassian, MuleSoft/Salesforce, Confluent, Reforge courses) and previews the episode\u2019s main themes: PM craft, growth, and AI/data.",
+      "timestamp_start": "00:01:17",
+      "timestamp_end": "00:02:12",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Management",
+        "Career",
+        "AI"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "shaun-clowes_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Enterpret (customer feedback analysis) and BuildBetter.ai (AI workflows for product teams), followed by Lenny welcoming Shaun to the show.",
+      "timestamp_start": "00:02:12",
+      "timestamp_end": "00:05:12",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsors/Ads"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "shaun-clowes_t3",
+      "title": "Why product management is still underdeveloped",
+      "summary": "Shaun argues PM is surprisingly immature as a discipline, with highly variable outcomes; he frames \u201c10x PMs\u201d as creating outsized leverage and impact compared to other roles.",
+      "timestamp_start": "00:05:31",
+      "timestamp_end": "00:07:49",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Shaun Clowes"
+      ],
+      "themes": [
+        "Product Management",
+        "Career"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "shaun-clowes_t4",
+      "title": "Why PMs get criticized and why it\u2019s fun",
+      "summary": "They discuss why PMs are often seen as unnecessary (saying \u201cno\u201d a lot) and Shaun explains the appeal: strategy, uncertainty, and finding competitive edges like chess.",
+      "timestamp_start": "00:07:49",
+      "timestamp_end": "00:09:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Shaun Clowes"
+      ],
+      "themes": [
+        "Product Management",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "shaun-clowes_t5",
+      "title": "How to become a great PM",
+      "summary": "Shaun\u2019s core prescription: spend most time thinking outside the building (customers/market/competitors), avoid internal politics and delivery traps, and support claims with data to earn trust.",
+      "timestamp_start": "00:09:33",
+      "timestamp_end": "00:11:30",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Shaun Clowes"
+      ],
+      "themes": [
+        "Product Management",
+        "Leadership",
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "shaun-clowes_t6",
+      "title": "Common mistakes in customer discovery and synthesis",
+      "summary": "Shaun explains why many PMs overestimate their customer focus: they talk to the same people, lack structure, don\u2019t seek disconfirming evidence, and bring activity instead of insights.",
+      "timestamp_start": "00:11:30",
+      "timestamp_end": "00:13:24",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Shaun Clowes"
+      ],
+      "themes": [
+        "Product Management",
+        "User Research"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "shaun-clowes_t7",
+      "title": "Using LLMs to synthesize research and competition",
+      "summary": "Shaun shares practical LLM workflows: test where strategy doesn\u2019t fit customer interviews, compare positioning vs competitors, infer competitor strategy from public docs, and focus on disconfirming insights.",
+      "timestamp_start": "00:13:24",
+      "timestamp_end": "00:17:15",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Shaun Clowes"
+      ],
+      "themes": [
+        "AI",
+        "Product Management",
+        "User Research"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "shaun-clowes_t8",
+      "title": "Feedback River and LLMs for inbound request clustering",
+      "summary": "Shaun describes building a constant \u201cfeedback river\u201d and how Confluent uses LLMs to summarize, semantically group, and trend customer requests across large volumes of feedback.",
+      "timestamp_start": "00:17:15",
+      "timestamp_end": "00:19:21",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Shaun Clowes"
+      ],
+      "themes": [
+        "AI",
+        "Data",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "shaun-clowes_t9",
+      "title": "Hot take: AI\u2019s biggest impact is data management",
+      "summary": "Shaun argues LLMs are only as good as the context and recency of data provided; the hard work is collecting, structuring, and delivering timely, high-quality data to models\u2014more than prompts or models.",
+      "timestamp_start": "00:19:21",
+      "timestamp_end": "00:24:29",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Shaun Clowes"
+      ],
+      "themes": [
+        "AI",
+        "Data",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "shaun-clowes_t10",
+      "title": "Will AI commoditize SaaS? Business rules create moats",
+      "summary": "Shaun explains why cloning SaaS UIs/data models misses the real lock-in: deeply customized business rules and workflows. Even with agents, systems-of-record remain valuable because rules govern what agents can do.",
+      "timestamp_start": "00:24:29",
+      "timestamp_end": "00:31:18",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Shaun Clowes"
+      ],
+      "themes": [
+        "AI",
+        "Strategy",
+        "B2B SaaS"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "shaun-clowes_t11",
+      "title": "Distribution in an AI world and Ashby example",
+      "summary": "They discuss distribution staying hard (worsening signal-to-noise) and how \u201cmeet the bar and be different\u201d can win\u2014highlighting Ashby\u2019s ATS as an example of embedding analytics directly into workflow.",
+      "timestamp_start": "00:31:18",
+      "timestamp_end": "00:35:41",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Shaun Clowes"
+      ],
+      "themes": [
+        "Growth",
+        "Strategy",
+        "B2B SaaS"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "shaun-clowes_t12",
+      "title": "Advice on data advantage and being data-informed",
+      "summary": "Shaun advises focusing on the right data at the right time/place, not just proprietary data. He reframes data as a compass (to disprove/guide) rather than a GPS that provides answers.",
+      "timestamp_start": "00:35:41",
+      "timestamp_end": "00:38:34",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Shaun Clowes"
+      ],
+      "themes": [
+        "Data",
+        "Product Management",
+        "AI"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "shaun-clowes_t13",
+      "title": "Tactical rigor: validating insights and avoiding fool\u2019s gold",
+      "summary": "Shaun gives a checklist for interpreting metrics/experiments: trust intuition when results seem off, check upstream/downstream effects, sample bias, and higher-level business outcomes (e.g., revenue/ASP).",
+      "timestamp_start": "00:38:34",
+      "timestamp_end": "00:43:50",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Shaun Clowes"
+      ],
+      "themes": [
+        "Data",
+        "Experimentation",
+        "Product Management"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "episode_id": "ryan-hoover",
+  "topics": [
+    {
+      "topic_id": "ryan-hoover_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Ryan Hoover and they banter briefly before getting into the episode.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:10",
+      "speakers": [
+        "Ryan",
+        "Lenny"
+      ],
+      "themes": [
+        "Career",
+        "Personal"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "ryan-hoover_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for RevenueCat and Flatfile, focusing on subscription infrastructure and data onboarding/import reliability.",
+      "timestamp_start": "00:01:14",
+      "timestamp_end": "00:03:17",
+      "speakers": [
+        "Lenny",
+        "Ashley"
+      ],
+      "themes": [
+        "Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ryan-hoover_t3",
+      "title": "Being recognized and public tech celebrity moments",
+      "summary": "Ryan shares how often he\u2019s recognized in tech hubs, a memorable early Product Hunt moment, and how visibility affects his anxiety and self-awareness; Lenny relates to similar experiences via his newsletter meetups.",
+      "timestamp_start": "00:03:23",
+      "timestamp_end": "00:05:55",
+      "speakers": [
+        "Lenny",
+        "Ryan"
+      ],
+      "themes": [
+        "Personal",
+        "Community"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ryan-hoover_t4",
+      "title": "What people don\u2019t know: moving to Miami",
+      "summary": "Ryan reveals he moved to Miami and explains the lifestyle flexibility he and his girlfriend have, including spending parts of the year elsewhere due to weather and travel preferences.",
+      "timestamp_start": "00:05:55",
+      "timestamp_end": "00:08:53",
+      "speakers": [
+        "Lenny",
+        "Ryan"
+      ],
+      "themes": [
+        "Personal",
+        "Career"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ryan-hoover_t5",
+      "title": "Opening Twitter DMs for founder advice",
+      "summary": "Ryan explains why he opened DMs, how it became a micro-blogging outlet, and what he\u2019s learned from founders\u2019 vulnerable questions (runway, stress, hidden chaos).",
+      "timestamp_start": "00:08:53",
+      "timestamp_end": "00:12:17",
+      "speakers": [
+        "Lenny",
+        "Ryan"
+      ],
+      "themes": [
+        "Community",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ryan-hoover_t6",
+      "title": "Lenny\u2019s newsletter format and writing workload",
+      "summary": "They compare Ryan\u2019s DM Q&A approach to Lenny\u2019s question-driven newsletter, discuss curation vs. having all the answers, and break down how long posts take to research and refine.",
+      "timestamp_start": "00:12:17",
+      "timestamp_end": "00:14:48",
+      "speakers": [
+        "Lenny",
+        "Ryan"
+      ],
+      "themes": [
+        "Career",
+        "Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ryan-hoover_t7",
+      "title": "Should you start a startup and raise money",
+      "summary": "Ryan argues for an experimental mindset (side projects, tinkering) and a decade-long commitment test; they discuss why founders raise too quickly and what \u201cWeekend Fund\u201d means.",
+      "timestamp_start": "00:14:48",
+      "timestamp_end": "00:18:28",
+      "speakers": [
+        "Lenny",
+        "Ryan"
+      ],
+      "themes": [
+        "Startups",
+        "Fundraising"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ryan-hoover_t8",
+      "title": "Would Ryan raise again for Product Hunt",
+      "summary": "Ryan explains why fundraising made sense then (hiring needs, lack of personal capital), why it might differ today, and the importance of aligning investor expectations with the company\u2019s path.",
+      "timestamp_start": "00:18:28",
+      "timestamp_end": "00:21:38",
+      "speakers": [
+        "Lenny",
+        "Ryan"
+      ],
+      "themes": [
+        "Fundraising",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ryan-hoover_t9",
+      "title": "Are launches worth it and why launch",
+      "summary": "Ryan breaks down launch goals beyond acquisition\u2014recruiting, fundraising momentum, feedback, partnerships, SEO\u2014and highlights overlooked benefits like team morale and celebration.",
+      "timestamp_start": "00:21:38",
+      "timestamp_end": "00:24:21",
+      "speakers": [
+        "Lenny",
+        "Ryan"
+      ],
+      "themes": [
+        "Product",
+        "Marketing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ryan-hoover_t10",
+      "title": "What makes a great Product Hunt launch",
+      "summary": "Ryan shares tactical launch advice: avoid PR-speak, write like a human, keep maker comments brief, and use the gallery as a visual story/slideshow to quickly convey value.",
+      "timestamp_start": "00:24:21",
+      "timestamp_end": "00:29:34",
+      "speakers": [
+        "Lenny",
+        "Ryan"
+      ],
+      "themes": [
+        "Marketing",
+        "Product"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ryan-hoover_t11",
+      "title": "PM background and investing advantages",
+      "summary": "Ryan explains how product management experience helps in early-stage investing\u2014evaluating founder thinking, product insight formation, and collaborating with founders on product direction.",
+      "timestamp_start": "00:29:34",
+      "timestamp_end": "00:31:27",
+      "speakers": [
+        "Lenny",
+        "Ryan"
+      ],
+      "themes": [
+        "Career",
+        "Investing"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ryan-hoover_t12",
+      "title": "Rebuilding Product Hunt: focus, monetization, delegation",
+      "summary": "Ryan\u2019s retrospectives: don\u2019t expand horizontally beyond tech too early, monetize sooner for flexibility, and delegate more instead of personally controlling key outputs like the newsletter.",
+      "timestamp_start": "00:31:27",
+      "timestamp_end": "00:35:54",
+      "speakers": [
+        "Lenny",
+        "Ryan"
+      ],
+      "themes": [
+        "Startups",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ryan-hoover_t13",
+      "title": "Hardest founder lessons and the CEO mask",
+      "summary": "Ryan describes intense anxiety during tough Product Hunt periods and the tension between authenticity and projecting confidence as a CEO; Lenny inserts a giveaway promo and they reflect on growth through hardship.",
+      "timestamp_start": "00:35:54",
+      "timestamp_end": "00:38:57",
+      "speakers": [
+        "Lenny",
+        "Ryan"
+      ],
+      "themes": [
+        "Leadership",
+        "Personal"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ryan-hoover_t14",
+      "title": "What matters most: relationships and momentum",
+      "summary": "Ryan reflects on prioritizing deep relationships over networking and emphasizes momentum as a reflexive force in companies\u2014shipping and energy compound, while stagnation spreads.",
+      "timestamp_start": "00:38:57",
+      "timestamp_end": "00:41:24",
+      "speakers": [
+        "Lenny",
+        "Ryan"
+      ],
+      "themes": [
+        "Leadership",
+        "Personal"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

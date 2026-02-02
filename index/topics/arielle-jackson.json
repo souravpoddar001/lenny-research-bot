@@ -1,0 +1,239 @@
+{
+  "episode_id": "arielle-jackson",
+  "topics": [
+    {
+      "topic_id": "arielle-jackson_t1",
+      "title": "Brand meaning grows beyond the name",
+      "summary": "Arielle explains how brand meaning accrues over time (e.g., Disney=magic, Volvo=safety), arguing that a strong company can overcome a \"bad\" name while a great name mainly provides a boost.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:42",
+      "speakers": [
+        "Arielle Jackson"
+      ],
+      "themes": [
+        "Brand Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "arielle-jackson_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Arielle\u2019s background (Google/Gmail, Square, advising 100+ startups) and previews the episode\u2019s three main areas: naming, brand strategy framework, and PR.",
+      "timestamp_start": "00:00:42",
+      "timestamp_end": "00:01:41",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career",
+        "Brand Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "arielle-jackson_t3",
+      "title": "Sponsor Break",
+      "summary": "Two sponsor reads: Flatfile (CSV import/onboarding) and Unit (banking-as-a-service APIs for embedding financial products).",
+      "timestamp_start": "00:01:41",
+      "timestamp_end": "00:03:58",
+      "speakers": [
+        "Lenny",
+        "Ashley"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "arielle-jackson_t4",
+      "title": "Favorite project: launching Square Stand hardware",
+      "summary": "Arielle recounts leading the launch of Square Stand\u2014positioning, seeding in key coffee shops, retail negotiations, packaging, and the challenge of moving Square upmarket with a paid hardware product.",
+      "timestamp_start": "00:03:58",
+      "timestamp_end": "00:07:01",
+      "speakers": [
+        "Lenny",
+        "Arielle Jackson"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Brand Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "arielle-jackson_t5",
+      "title": "Square Stand positioning and target customer",
+      "summary": "They dig into how Square Stand was positioned for brick-and-mortar quick-serve businesses versus \u201cugly old\u201d POS systems, emphasizing unified functionality and pride-of-place design on the counter.",
+      "timestamp_start": "00:07:01",
+      "timestamp_end": "00:08:01",
+      "speakers": [
+        "Lenny",
+        "Arielle Jackson"
+      ],
+      "themes": [
+        "Positioning",
+        "Go-to-Market"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "arielle-jackson_t6",
+      "title": "From jewelry maker to Square marketer",
+      "summary": "Arielle shares how using Square as a craft-fair merchant (and seeing sales lift) led her to email ex-Googlers at Square and ultimately interview and join\u2014giving her deep empathy for early customers.",
+      "timestamp_start": "00:08:01",
+      "timestamp_end": "00:09:38",
+      "speakers": [
+        "Lenny",
+        "Arielle Jackson"
+      ],
+      "themes": [
+        "Career",
+        "Go-to-Market"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "arielle-jackson_t7",
+      "title": "First Round marketer-in-residence role explained",
+      "summary": "Arielle explains her path into consulting and how she supports First Round seed-stage companies on everything from naming and positioning to brand identity, launch planning, and hiring marketing.",
+      "timestamp_start": "00:09:38",
+      "timestamp_end": "00:11:58",
+      "speakers": [
+        "Lenny",
+        "Arielle Jackson"
+      ],
+      "themes": [
+        "Career",
+        "Marketing"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "arielle-jackson_t8",
+      "title": "What makes a good startup name",
+      "summary": "Arielle outlines her preference for suggestive/evocative names (e.g., Seesaw, Maven) that click once you understand the product, and discusses the tradeoffs of \u201cempty vessel\u201d names like Yahoo or Eero.",
+      "timestamp_start": "00:11:58",
+      "timestamp_end": "00:19:16",
+      "speakers": [
+        "Lenny",
+        "Arielle Jackson"
+      ],
+      "themes": [
+        "Naming",
+        "Brand Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "arielle-jackson_t9",
+      "title": "Naming process: brief, criteria, brainstorm",
+      "summary": "She presents a structured naming workflow: do positioning first, write a naming brief, evaluate against core criteria (trademark, domain, distinctiveness, timelessness, messaging fit, pronunciation, appearance, length), then brainstorm via positioning words and thematic \u201cJeopardy\u201d categories to produce a shortlist.",
+      "timestamp_start": "00:19:16",
+      "timestamp_end": "00:27:23",
+      "speakers": [
+        "Lenny",
+        "Arielle Jackson"
+      ],
+      "themes": [
+        "Naming",
+        "Positioning"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "arielle-jackson_t10",
+      "title": "Product vs company naming and brand equity",
+      "summary": "They discuss when product names should be descriptive to leverage master-brand equity (e.g., Google Maps, Square Stand) versus when to diverge (e.g., Android, Cash).",
+      "timestamp_start": "00:27:23",
+      "timestamp_end": "00:28:20",
+      "speakers": [
+        "Lenny",
+        "Arielle Jackson"
+      ],
+      "themes": [
+        "Brand Architecture",
+        "Brand Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "arielle-jackson_t11",
+      "title": "Bad names rarely kill great companies",
+      "summary": "Arielle expands on why strong strategy and marketing can imbue even mediocre names with meaning over time, reducing pressure to find a \u201cperfect\u201d name from a spreadsheet list.",
+      "timestamp_start": "00:28:20",
+      "timestamp_end": "00:31:39",
+      "speakers": [
+        "Lenny",
+        "Arielle Jackson"
+      ],
+      "themes": [
+        "Brand Strategy",
+        "Naming"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "arielle-jackson_t12",
+      "title": "Common naming mistake and First Round value-add",
+      "summary": "Arielle warns against getting attached to early legal/incorporation \u201ccode names,\u201d recommends intentionally ridiculous placeholders, and notes the high cost of professional naming firms\u2014highlighting First Round\u2019s included support.",
+      "timestamp_start": "00:31:39",
+      "timestamp_end": "00:34:12",
+      "speakers": [
+        "Lenny",
+        "Arielle Jackson"
+      ],
+      "themes": [
+        "Naming",
+        "Venture Capital"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "arielle-jackson_t13",
+      "title": "Brand strategy framework: purpose, positioning, personality",
+      "summary": "Arielle reframes brand as \u201cwho people think you are,\u201d not just visuals, and introduces her startup-friendly framework: define purpose (why), positioning (role/value), and personality (how you show up), then express it via visual identity and voice.",
+      "timestamp_start": "00:34:12",
+      "timestamp_end": "00:39:48",
+      "speakers": [
+        "Lenny",
+        "Arielle Jackson"
+      ],
+      "themes": [
+        "Brand Strategy",
+        "Positioning"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "arielle-jackson_t14",
+      "title": "Sponsor Break",
+      "summary": "Athletic Greens/AG1 sponsor read focused on daily nutrition, product iteration, and a bundle offer (vitamin D + travel packs).",
+      "timestamp_start": "00:39:50",
+      "timestamp_end": "00:41:10",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "arielle-jackson_t15",
+      "title": "Brand work timing and defining purpose well",
+      "summary": "They discuss how quickly early-stage teams can complete brand strategy (often weeks) and why it saves time later; Arielle then defines \u201cpurpose\u201d as a memorable, 10-year north star and gives examples (Google, Stripe, Nike) with guidance on phrasing it as a single sentence.",
+      "timestamp_start": "00:41:18",
+      "timestamp_end": "00:46:22",
+      "speakers": [
+        "Lenny",
+        "Arielle Jackson"
+      ],
+      "themes": [
+        "Brand Strategy",
+        "Purpose"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

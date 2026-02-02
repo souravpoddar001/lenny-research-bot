@@ -1,0 +1,188 @@
+{
+  "episode_id": "annie-duke",
+  "topics": [
+    {
+      "topic_id": "annie-duke_t1",
+      "title": "Introduction and Background",
+      "summary": "Cold open on making intuition explicit, then Lenny introduces Annie Duke\u2019s background (poker, author, First Round Capital) and previews key topics: decision-making, feedback loops, and quitting.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:51",
+      "speakers": [
+        "Annie Duke",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Decision-Making"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "annie-duke_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Vanta and UserTesting.",
+      "timestamp_start": "00:01:51",
+      "timestamp_end": "00:03:58",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "annie-duke_t3",
+      "title": "Lessons from Daniel Kahneman",
+      "summary": "Annie reflects on Kahneman\u2019s humility, openness to being wrong (e.g., priming replication issues), and his practice of adversarial collaboration to resolve disagreements through joint research.",
+      "timestamp_start": "00:03:59",
+      "timestamp_end": "00:09:10",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Annie Duke"
+      ],
+      "themes": [
+        "Decision-Making"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "annie-duke_t4",
+      "title": "Parenting advice and resilience mindset",
+      "summary": "Annie shares practical parenting principles: kids need to feel deeply loved, mistakes happen (babies will bonk their heads), and parents have limited influence on temperament\u2014focus on basics like manners.",
+      "timestamp_start": "00:09:11",
+      "timestamp_end": "00:15:08",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Annie Duke"
+      ],
+      "themes": [
+        "Parenting"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "annie-duke_t5",
+      "title": "Decision tools for parenting and leadership",
+      "summary": "She applies decision concepts to parenting: Kahneman\u2019s \u201cnothing is as important as it seems,\u201d mental time travel to reduce present-bias, and using \u201cnevertheless\u201d to acknowledge feelings while holding boundaries\u2014also useful at work.",
+      "timestamp_start": "00:15:08",
+      "timestamp_end": "00:20:03",
+      "speakers": [
+        "Annie Duke",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Decision-Making",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "annie-duke_t6",
+      "title": "How much better can decisions get?",
+      "summary": "Annie argues improvement can be large if people actually implement tools; she cites Kahneman\u2019s structured hiring work improving hit rates (roughly 50% to 65%), but notes adoption is the hard part.",
+      "timestamp_start": "00:20:03",
+      "timestamp_end": "00:24:54",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Annie Duke"
+      ],
+      "themes": [
+        "Decision-Making"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "annie-duke_t7",
+      "title": "Fix meetings: separate discover, discuss, decide",
+      "summary": "Core tactic: stop discovering opinions in live meetings; collect inputs independently/asynchronously (nominal group), use meetings only for discussion (especially disagreements), and decide outside the room to reduce social influence and hierarchy effects.",
+      "timestamp_start": "00:24:54",
+      "timestamp_end": "00:34:17",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Annie Duke"
+      ],
+      "themes": [
+        "Decision-Making",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "annie-duke_t8",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for LinkedIn Ads.",
+      "timestamp_start": "00:34:17",
+      "timestamp_end": "00:35:14",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "annie-duke_t9",
+      "title": "DRI concerns: making people feel heard",
+      "summary": "Annie explains how to avoid coercive \u201calignment\u201d culture: facilitate curiosity, reflect back people\u2019s views, enforce turn-taking, and use questions for clarification\u2014people accept decisions better when they feel accurately understood.",
+      "timestamp_start": "00:35:14",
+      "timestamp_end": "00:42:41",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Annie Duke"
+      ],
+      "themes": [
+        "Leadership",
+        "Decision-Making"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "annie-duke_t10",
+      "title": "Operationalizing independent input and private voting",
+      "summary": "They recap the workflow (independent brainstorm/estimates \u2192 discuss deltas \u2192 decide), noting decisions can be made by a single owner or via private voting; Annie adds you can also pause live meetings to capture independent estimates on the fly.",
+      "timestamp_start": "00:42:41",
+      "timestamp_end": "00:44:49",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Annie Duke"
+      ],
+      "themes": [
+        "Decision-Making"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "annie-duke_t11",
+      "title": "First Round context and long-term decision quality",
+      "summary": "Prompted by Brett Berson\u2019s question, Annie sets up the challenge of evaluating decision quality when outcomes take years (e.g., venture investing) and why typical \u201cwe\u2019ll know in a decade\u201d thinking is flawed.",
+      "timestamp_start": "00:44:49",
+      "timestamp_end": "00:46:53",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Annie Duke"
+      ],
+      "themes": [
+        "Decision-Making",
+        "Venture Capital"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "annie-duke_t12",
+      "title": "No long feedback loops: create proxy signals",
+      "summary": "Annie argues there\u2019s no such thing as a long feedback loop if you choose leading indicators: identify necessary-but-not-sufficient milestones (e.g., Series A, PMF, traction, retention) that correlate with eventual success to shorten learning cycles.",
+      "timestamp_start": "00:46:53",
+      "timestamp_end": "00:49:55",
+      "speakers": [
+        "Annie Duke",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Decision-Making",
+        "Venture Capital"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

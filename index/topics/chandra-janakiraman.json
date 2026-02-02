@@ -1,0 +1,189 @@
+{
+  "episode_id": "chandra-janakiraman",
+  "topics": [
+    {
+      "topic_id": "chandra-janakiraman_t1",
+      "title": "Introduction and why strategy feels mystical",
+      "summary": "Chandra introduces the idea that product strategy is often treated as an innate talent (\u201cstrategy gene\u201d), setting up the episode\u2019s goal: making strategy repeatable and accessible.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:15",
+      "speakers": [
+        "Chandra Janakiraman",
+        "Lenny Rachitsky",
+        "Elon Musk"
+      ],
+      "themes": [
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chandra-janakiraman_t2",
+      "title": "Episode setup and Chandra\u2019s credentials",
+      "summary": "Lenny introduces Chandra\u2019s background and frames the episode as an operator-friendly, five-step strategy process inspired by classic strategy frameworks.",
+      "timestamp_start": "00:01:15",
+      "timestamp_end": "00:02:39",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Strategy"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "chandra-janakiraman_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Eppo (experimentation platform) and Airtable ProductCentral (product org system of record).",
+      "timestamp_start": "00:02:39",
+      "timestamp_end": "00:04:51",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Other"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chandra-janakiraman_t4",
+      "title": "Introduction and Background",
+      "summary": "Lenny shares how a community recommendation led to inviting Chandra, and tees up the promise of a practical playbook for building strategy and alignment.",
+      "timestamp_start": "00:04:51",
+      "timestamp_end": "00:05:39",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Chandra Janakiraman"
+      ],
+      "themes": [
+        "Product Leadership",
+        "Product Strategy"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "chandra-janakiraman_t5",
+      "title": "Headspace origin story: strategy to create clarity",
+      "summary": "Chandra recounts how a CEO comment (\u201cpeople don\u2019t know why we\u2019re working on this\u201d) triggered building Headspace\u2019s first written product strategy, leading to a major product reimagining and company trajectory shift.",
+      "timestamp_start": "00:05:39",
+      "timestamp_end": "00:10:29",
+      "speakers": [
+        "Chandra Janakiraman",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Product Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chandra-janakiraman_t6",
+      "title": "Who this playbook is for and why it works",
+      "summary": "Chandra explains this is an operator\u2019s synthesis of established strategy thinking (Porter, Rumelt, Playing to Win), designed for product people who want a repeatable method; he\u2019s iterated it across multiple companies including Meta.",
+      "timestamp_start": "00:10:29",
+      "timestamp_end": "00:12:36",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Chandra Janakiraman"
+      ],
+      "themes": [
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "chandra-janakiraman_t7",
+      "title": "Defining product strategy: resonance, focus, and tradeoffs",
+      "summary": "They define strategy as the bridge between mission/vision and the plan/roadmap, emphasizing forced choices, explicit non-goals, and the \u201cwhy,\u201d using a resonance analogy to describe product-market fit.",
+      "timestamp_start": "00:12:36",
+      "timestamp_end": "00:15:59",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Chandra Janakiraman"
+      ],
+      "themes": [
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chandra-janakiraman_t8",
+      "title": "Process overview: 8\u201312 weeks and five phases",
+      "summary": "Chandra outlines the end-to-end strategy process (prep, strategy sprint, design sprint, doc writing, rollout), why it takes ~a quarter, and how to handle pressure for faster timelines.",
+      "timestamp_start": "00:15:59",
+      "timestamp_end": "00:18:51",
+      "speakers": [
+        "Chandra Janakiraman",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chandra-janakiraman_t9",
+      "title": "Preparation phase: working group and key inputs",
+      "summary": "They detail forming a cross-functional strategy working group and compiling a comprehensive prep readout: behavioral insights, UXR synthesis, leadership interviews (the \u201cfruit\u201d story), competitive analysis, adjacent roadmaps, and user observation for empathy.",
+      "timestamp_start": "00:18:51",
+      "timestamp_end": "00:30:52",
+      "speakers": [
+        "Chandra Janakiraman",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Strategy",
+        "User Research"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chandra-janakiraman_t10",
+      "title": "Strategy sprint: problem clustering to strategic pillars",
+      "summary": "In a 3\u20135 day sprint, the team shares prep findings, enumerates and clusters problems, reframes them as opportunities, and ranks them by impact, certainty, clarity of levers, and differentiation to select ~3 strategic pillars and define what not to focus on.",
+      "timestamp_start": "00:30:52",
+      "timestamp_end": "00:40:43",
+      "speakers": [
+        "Chandra Janakiraman",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chandra-janakiraman_t11",
+      "title": "How-might-we prompts and winning aspiration headline",
+      "summary": "They translate pillars into \u201chow might we\u201d questions to spark solutions, then craft a two-year \u201cwinning aspiration\u201d using a newspaper-headline exercise (including an example from Meta\u2019s privacy work) to clarify intended outcomes.",
+      "timestamp_start": "00:40:43",
+      "timestamp_end": "00:46:30",
+      "speakers": [
+        "Chandra Janakiraman",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chandra-janakiraman_t12",
+      "title": "Alignment benefits and moving into the design sprint",
+      "summary": "They discuss how the process creates shared clarity even when outcomes evolve during execution (\u201cnot confused\u201d), then introduce the design sprint\u2019s purpose: generate illustrative concepts (not final features) that make each pillar tangible and testable.",
+      "timestamp_start": "00:46:30",
+      "timestamp_end": "00:50:16",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Chandra Janakiraman"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Product Design"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

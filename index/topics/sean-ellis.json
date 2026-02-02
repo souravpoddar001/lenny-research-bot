@@ -1,0 +1,247 @@
+{
+  "episode_id": "sean-ellis",
+  "topics": [
+    {
+      "topic_id": "sean-ellis_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Sean Ellis and frames the episode around two core areas: assessing product-market fit and driving growth after PMF. Sean agrees to focus the conversation on these themes.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:03:19",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Sean Ellis"
+      ],
+      "themes": [
+        "Product-Market Fit",
+        "Growth Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sean-ellis_t2",
+      "title": "Defining the Sean Ellis PMF test",
+      "summary": "Sean explains the core survey question (\u201cHow would you feel if you could no longer use this product?\u201d) and how \u201cvery disappointed\u201d responses identify must-have users. Lenny tees up the 40% heuristic as a common interpretation.",
+      "timestamp_start": "00:03:19",
+      "timestamp_end": "00:04:08",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Sean Ellis"
+      ],
+      "themes": [
+        "Product-Market Fit",
+        "User Research"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sean-ellis_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Gamma (AI presentations) and CommandBar (AI-powered in-product help/search/chat and nudges).",
+      "timestamp_start": "00:04:08",
+      "timestamp_end": "00:06:40",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sean-ellis_t4",
+      "title": "40% threshold and leading indicator logic",
+      "summary": "Sean clarifies the test as a leading indicator versus retention cohorts as the ultimate proof, and explains how the 40% benchmark emerged from patterns across many startups. They discuss when the test is useful even before robust analytics exist.",
+      "timestamp_start": "00:06:40",
+      "timestamp_end": "00:09:50",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Sean Ellis"
+      ],
+      "themes": [
+        "Product-Market Fit",
+        "Metrics & Measurement"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sean-ellis_t5",
+      "title": "Case study: Lookout from 7% to 40%",
+      "summary": "Sean describes diagnosing Lookout\u2019s low PMF score by analyzing the \u201cvery disappointed\u201d segment, discovering antivirus as the key value, then repositioning and streamlining onboarding to speed-to-value. The changes rapidly lifted the score and set the company up for major growth.",
+      "timestamp_start": "00:09:50",
+      "timestamp_end": "00:12:35",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Sean Ellis"
+      ],
+      "themes": [
+        "Product-Market Fit",
+        "Activation & Onboarding",
+        "Positioning & Messaging"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sean-ellis_t6",
+      "title": "Onboarding as the main lever for retention",
+      "summary": "They discuss how large PMF/retention gains can come from aligning expectations and onboarding users to the right experience, rather than tactical retention tricks. Sean emphasizes onboarding-to-value as a primary driver.",
+      "timestamp_start": "00:12:35",
+      "timestamp_end": "00:14:11",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Sean Ellis"
+      ],
+      "themes": [
+        "Activation & Onboarding",
+        "Retention"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "sean-ellis_t7",
+      "title": "What 40% really means: deepen user understanding",
+      "summary": "Sean warns that hitting the threshold doesn\u2019t automatically mean \u201cready to scale\u201d; teams must understand who the must-have users are and why. He shares follow-up survey tactics (primary benefit, why it matters) and an example from Xobni that improved messaging and acquisition hooks.",
+      "timestamp_start": "00:14:11",
+      "timestamp_end": "00:17:40",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Sean Ellis"
+      ],
+      "themes": [
+        "Product-Market Fit",
+        "User Research",
+        "Positioning & Messaging"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sean-ellis_t8",
+      "title": "How strict is 40% and why it helps teams",
+      "summary": "Sean explains 40% isn\u2019t a hard cutoff; its value is giving teams a shared target to avoid premature scaling. They discuss aligning the organization around a concrete definition of PMF (\u201cnail it then scale it\u201d).",
+      "timestamp_start": "00:17:40",
+      "timestamp_end": "00:19:03",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Sean Ellis"
+      ],
+      "themes": [
+        "Product-Market Fit",
+        "Growth Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sean-ellis_t9",
+      "title": "False positives: switching costs and investment effects",
+      "summary": "Sean shares cases like webs.com (90%) and Eventbrite where high \u201cvery disappointed\u201d scores were driven partly by user investment/switching costs, not just superior utility. Even so, the qualitative \u201cwhy\u201d still guides growth improvements.",
+      "timestamp_start": "00:19:03",
+      "timestamp_end": "00:22:22",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Sean Ellis"
+      ],
+      "themes": [
+        "Product-Market Fit",
+        "User Research"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sean-ellis_t10",
+      "title": "When to run the survey and key limitations",
+      "summary": "Sean recommends surveying a random sample of real users who have meaningfully used the product (e.g., 2+ uses, recent activity) and notes the test breaks down for one-off experiences (e.g., movies, workshops). They also discuss over-reliance and the need to validate with retention and the full growth funnel.",
+      "timestamp_start": "00:22:22",
+      "timestamp_end": "00:27:09",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Sean Ellis"
+      ],
+      "themes": [
+        "Product-Market Fit",
+        "User Research",
+        "Metrics & Measurement"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sean-ellis_t11",
+      "title": "Cultural thresholds and origin story of the question",
+      "summary": "They discuss adjusting thresholds by culture (e.g., Nubank using 50% in Brazil) and Sean explains the test originated as a way to get more honest feedback from hard-to-please senior managers. Sean also shares how early adopters differ from long-term utility users (Dropbox example).",
+      "timestamp_start": "00:27:09",
+      "timestamp_end": "00:31:54",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Sean Ellis"
+      ],
+      "themes": [
+        "Product-Market Fit",
+        "User Research"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sean-ellis_t12",
+      "title": "Durability, sample size, and market size tradeoffs",
+      "summary": "Sean notes the score rarely fades but companies can still fail due to execution; he suggests aiming for ~30+ responses for reliability. They discuss how to segment by use case to choose between a smaller passionate niche vs a broader less-loyal market, and Sean\u2019s bias toward passionate early customers.",
+      "timestamp_start": "00:31:54",
+      "timestamp_end": "00:36:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Sean Ellis"
+      ],
+      "themes": [
+        "Product-Market Fit",
+        "Metrics & Measurement",
+        "Growth Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sean-ellis_t13",
+      "title": "Tools, retention cohorts, and operationalizing PMF surveys",
+      "summary": "Sean recommends using any survey tool that provides a good user experience (Qualaroo, SurveyMonkey, etc.) and argues surveys complement retention cohorts by explaining the \u201cwhy.\u201d They discuss Nubank\u2019s feature-level usage and how to move from low scores by focusing on must-have users and carefully upgrading \u201csomewhat disappointed\u201d users (Superhuman approach).",
+      "timestamp_start": "00:36:12",
+      "timestamp_end": "00:43:05",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Sean Ellis"
+      ],
+      "themes": [
+        "Product-Market Fit",
+        "User Research",
+        "Activation & Onboarding"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sean-ellis_t14",
+      "title": "PMF survey templates and benefit/alternatives questions",
+      "summary": "Sean outlines the standard follow-up questions (primary benefit, why it matters, what they\u2019d use instead) and points to PMFsurvey.com as a template source. They emphasize that must-have requires both value and uniqueness, and Lenny transitions toward discussing growth strategy next.",
+      "timestamp_start": "00:43:05",
+      "timestamp_end": "00:46:10",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Sean Ellis"
+      ],
+      "themes": [
+        "Product-Market Fit",
+        "User Research"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sean-ellis_t15",
+      "title": "Reframing growth hacking as sustainable growth",
+      "summary": "Sean clarifies he coined \u201cgrowth hacking\u201d to mean rigorous scrutiny of everything\u2019s impact on growth, not one-off tricks, and to counter traditional awareness-first marketing playbooks that don\u2019t fit startups. Lenny asks what term he might have used instead as they begin shifting into growth strategy.",
+      "timestamp_start": "00:46:10",
+      "timestamp_end": "00:47:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Sean Ellis"
+      ],
+      "themes": [
+        "Growth Strategy"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

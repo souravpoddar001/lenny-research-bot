@@ -1,0 +1,236 @@
+{
+  "episode_id": "madhavan-ramanujam",
+  "topics": [
+    {
+      "topic_id": "madhavan-ramanujam_t1",
+      "title": "Cold open: AI monetization and outcome pricing",
+      "summary": "Madhavan previews why AI winners must master monetization early, avoid anchoring too low, and aim for outcome-based pricing where autonomy and attribution are high.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:00",
+      "speakers": [
+        "Madhavan Ramanujam",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Pricing & Monetization",
+        "AI Product Strategy",
+        "Business Models"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "madhavan-ramanujam_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Madhavan, his experience advising hundreds of companies, and the new book Scaling Innovation, plus a brief promo and how to connect with Madhavan.",
+      "timestamp_start": "00:01:02",
+      "timestamp_end": "00:02:32",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Company Building",
+        "Pricing & Monetization",
+        "Go-to-Market"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "madhavan-ramanujam_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Enterpret (customer intelligence) and DX (engineering productivity measurement).",
+      "timestamp_start": "00:02:40",
+      "timestamp_end": "00:04:34",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "madhavan-ramanujam_t4",
+      "title": "Why a sequel book and what changed",
+      "summary": "Madhavan contrasts Monetizing Innovation (building products people will pay for) with Scaling Innovation (architecting a scalable, profitable business) and explains the practical, non-fluffy intent.",
+      "timestamp_start": "00:04:34",
+      "timestamp_end": "00:06:38",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Madhavan Ramanujam"
+      ],
+      "themes": [
+        "Company Building",
+        "Pricing & Monetization",
+        "Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "madhavan-ramanujam_t5",
+      "title": "Core thesis: market share plus wallet share",
+      "summary": "The book\u2019s thesis is to architect for profitable growth by mastering both market share and wallet share via acquisition, monetization, and retention\u2014avoiding single-engine growth.",
+      "timestamp_start": "00:07:00",
+      "timestamp_end": "00:09:21",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Madhavan Ramanujam"
+      ],
+      "themes": [
+        "Growth",
+        "Pricing & Monetization",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "madhavan-ramanujam_t6",
+      "title": "Six common founder traps by archetype",
+      "summary": "Madhavan outlines traps for disruptors (land-not-expand, win-not-hold), moneymakers (nickel-and-dime, price premium paradox), and community builders (miss frontier, train for more-for-less).",
+      "timestamp_start": "00:09:36",
+      "timestamp_end": "00:12:07",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Madhavan Ramanujam"
+      ],
+      "themes": [
+        "Company Building",
+        "Growth",
+        "Pricing & Monetization"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "madhavan-ramanujam_t7",
+      "title": "Strategy: beautifully simple pricing early on",
+      "summary": "Early-stage pricing should be easy to explain and frictionless while telling a clear value story; examples include Superhuman\u2019s $30/month framing and Subway\u2019s $5 footlong.",
+      "timestamp_start": "00:12:07",
+      "timestamp_end": "00:15:01",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Madhavan Ramanujam"
+      ],
+      "themes": [
+        "Pricing & Monetization",
+        "Go-to-Market",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "madhavan-ramanujam_t8",
+      "title": "Scale-up strategy: mastering B2B negotiations",
+      "summary": "Madhavan breaks negotiation excellence into gives/gets (e.g., value audits), value selling (create needs, affirmation loops, co-created ROI), and tactics like options, anchoring, and tapering concessions.",
+      "timestamp_start": "00:15:01",
+      "timestamp_end": "00:26:14",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Madhavan Ramanujam"
+      ],
+      "themes": [
+        "Sales",
+        "Pricing & Monetization",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "madhavan-ramanujam_t9",
+      "title": "More strategies: packaging, churn, price increases",
+      "summary": "They briefly survey additional book strategies including land-and-expand design, packaging, preventing churn before it happens, and executing price increases effectively.",
+      "timestamp_start": "00:26:14",
+      "timestamp_end": "00:27:35",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Madhavan Ramanujam"
+      ],
+      "themes": [
+        "Pricing & Monetization",
+        "Retention",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "madhavan-ramanujam_t10",
+      "title": "Why AI pricing is fundamentally different",
+      "summary": "AI companies must monetize from day one due to cost dynamics and higher value capture (often tied to labor budgets), and because AI improves attribution\u2014shifting from pay-for-access to pay-for-work-delivered.",
+      "timestamp_start": "00:27:35",
+      "timestamp_end": "00:30:23",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Madhavan Ramanujam"
+      ],
+      "themes": [
+        "AI Product Strategy",
+        "Pricing & Monetization",
+        "Business Models"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "madhavan-ramanujam_t11",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Persona (identity verification and fraud prevention).",
+      "timestamp_start": "00:30:23",
+      "timestamp_end": "00:31:34",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "madhavan-ramanujam_t12",
+      "title": "POCs as business-case creation and charging smartly",
+      "summary": "Madhavan reframes POCs as ROI/business-case co-creation, argues to charge to filter tire-kickers, warns against anchoring with POC price, and suggests value-based deflection and budget ranges.",
+      "timestamp_start": "00:31:34",
+      "timestamp_end": "00:36:26",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Madhavan Ramanujam"
+      ],
+      "themes": [
+        "Sales",
+        "Pricing & Monetization",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "madhavan-ramanujam_t13",
+      "title": "Under-monetization risk in AI developer tools",
+      "summary": "They discuss how low starting prices (e.g., $20/month) can anchor expectations and create long-term monetization trouble unless paired with a clear land-and-expand path balancing market and wallet share.",
+      "timestamp_start": "00:36:26",
+      "timestamp_end": "00:38:59",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Madhavan Ramanujam"
+      ],
+      "themes": [
+        "AI Product Strategy",
+        "Pricing & Monetization",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "madhavan-ramanujam_t14",
+      "title": "AI pricing model 2x2: autonomy vs attribution",
+      "summary": "Madhavan presents a framework mapping pricing models to autonomy/attribution: seat-based (low/low), hybrid (high attribution/low autonomy), usage-based (high autonomy/low attribution), and outcome-based (high/high) as the \u201cgolden quadrant.\u201d",
+      "timestamp_start": "00:39:13",
+      "timestamp_end": "00:45:01",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Madhavan Ramanujam"
+      ],
+      "themes": [
+        "Business Models",
+        "AI Product Strategy",
+        "Pricing & Monetization"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

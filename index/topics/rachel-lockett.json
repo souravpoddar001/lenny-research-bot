@@ -1,0 +1,222 @@
+{
+  "episode_id": "rachel-lockett",
+  "topics": [
+    {
+      "topic_id": "rachel-lockett_t1",
+      "title": "Coaching vs. advising: the core leadership gap",
+      "summary": "Rachel explains that many (especially technical) leaders over-index on having answers, which trains teams to escalate problems instead of solving them. She frames coaching as a learnable alternative that builds ownership and scales leadership impact.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:26",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Rachel Lockett"
+      ],
+      "themes": [
+        "Leadership",
+        "Coaching",
+        "Team Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "rachel-lockett_t2",
+      "title": "Why conflicts are emotional, not purely logical",
+      "summary": "Rachel reframes difficult conversations: the goal isn\u2019t to prove someone wrong, but to create mutual understanding. She highlights how emotions and \u201cready to win\u201d mindsets make conflict harder in tech cultures.",
+      "timestamp_start": "00:00:27",
+      "timestamp_end": "00:00:57",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Rachel Lockett"
+      ],
+      "themes": [
+        "Communication",
+        "Conflict Resolution",
+        "Emotional Intelligence"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "rachel-lockett_t3",
+      "title": "Burnout preview: energy comes from strengths",
+      "summary": "Rachel previews her burnout perspective: people have more energy when operating in their gifts, and it\u2019s each person\u2019s responsibility to navigate their career rather than expecting managers to make work \u201cinteresting.\u201d",
+      "timestamp_start": "00:00:57",
+      "timestamp_end": "00:01:26",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Rachel Lockett"
+      ],
+      "themes": [
+        "Burnout",
+        "Career Growth",
+        "Self-Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "rachel-lockett_t4",
+      "title": "Show format: live coaching teased and introduced",
+      "summary": "Lenny introduces Rachel\u2019s background and what the episode will cover, including live coaching demonstrations and practical frameworks for leadership and personal growth.",
+      "timestamp_start": "00:01:26",
+      "timestamp_end": "00:02:26",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Podcast Intro",
+        "Leadership",
+        "Coaching"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "rachel-lockett_t5",
+      "title": "Sponsor Break",
+      "summary": "Lenny shares newsletter subscription perks and reads sponsor messages for Stripe and Vanta.",
+      "timestamp_start": "00:02:26",
+      "timestamp_end": "00:04:59",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "rachel-lockett_t6",
+      "title": "Introduction and Background",
+      "summary": "Rachel shares what she hopes listeners gain: simple, achievable tools for the human side of building businesses and teams. They discuss vulnerability in seeking help and Rachel tells a long-term client growth story as proof of compounding leadership development.",
+      "timestamp_start": "00:04:59",
+      "timestamp_end": "00:09:24",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Rachel Lockett"
+      ],
+      "themes": [
+        "Leadership",
+        "Personal Growth",
+        "Motivation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "rachel-lockett_t7",
+      "title": "When to advise vs. when to coach",
+      "summary": "Rachel explains why leaders must shift from being the smartest problem-solver to enabling others, especially as orgs scale and leaders have less context. She gives heuristics for advising (urgency, clear right answer, skill gaps) versus coaching (team has context).",
+      "timestamp_start": "00:09:24",
+      "timestamp_end": "00:13:21",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Rachel Lockett"
+      ],
+      "themes": [
+        "Leadership",
+        "Decision-Making",
+        "Coaching"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "rachel-lockett_t8",
+      "title": "Active listening: three levels and a demo",
+      "summary": "Rachel teaches level 1 (internal), level 2 (focused), and level 3 (global) listening, emphasizing emotional attunement. She demonstrates level-3 listening with Lenny discussing fatherhood and reflects back both content and underlying feelings.",
+      "timestamp_start": "00:13:21",
+      "timestamp_end": "00:18:37",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Rachel Lockett"
+      ],
+      "themes": [
+        "Communication",
+        "Emotional Intelligence",
+        "Coaching"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "rachel-lockett_t9",
+      "title": "Powerful questions: the GROW coaching model",
+      "summary": "Rachel introduces GROW (Goal, Reality, Options, Way forward) as a practical structure for coaching conversations. They discuss using it flexibly and how to respond when a coachee proposes a bad idea by staying curious (\u201chelp me understand\u201d) while still being accountable as a manager.",
+      "timestamp_start": "00:18:37",
+      "timestamp_end": "00:24:49",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Rachel Lockett"
+      ],
+      "themes": [
+        "Coaching",
+        "Communication",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "rachel-lockett_t10",
+      "title": "Case study: CEO stops being the decision bottleneck",
+      "summary": "Rachel shares a client example where a founder acting as head of product became the blocker for every decision. By creating squads, setting KPIs, and shifting into coaching during reviews, the team moved faster and the founder regained energy for vision and strategy.",
+      "timestamp_start": "00:24:49",
+      "timestamp_end": "00:27:35",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Rachel Lockett"
+      ],
+      "themes": [
+        "Leadership",
+        "Org Design",
+        "Coaching"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "rachel-lockett_t11",
+      "title": "Live coaching: Lenny\u2019s endless work problem",
+      "summary": "Rachel coaches Lenny using GROW: clarifying the desired state (more spaciousness without losing quality), exploring current patterns (filling freed time with new commitments), and identifying options (reduce cadence, delegate, stronger no\u2019s). They land on a near-term commitment to skip a newsletter week and revisit yes/no policies.",
+      "timestamp_start": "00:27:36",
+      "timestamp_end": "00:39:36",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Rachel Lockett"
+      ],
+      "themes": [
+        "Coaching",
+        "Productivity",
+        "Self-Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "rachel-lockett_t12",
+      "title": "Why coaching works: buy-in and asking preference",
+      "summary": "Rachel contrasts coaching with prescribing a generic to-do list, emphasizing that people follow through more when they generate their own plan. They also note a key tactic: explicitly ask whether someone wants advice or coaching space.",
+      "timestamp_start": "00:39:36",
+      "timestamp_end": "00:41:56",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Rachel Lockett"
+      ],
+      "themes": [
+        "Coaching",
+        "Leadership",
+        "Communication"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "rachel-lockett_t13",
+      "title": "Burnout: designing work around strengths and gifts",
+      "summary": "They transition into burnout in tech; Rachel shares observations from Stripe leaders and patterns she sees in founders/executives. Her core thesis: sustained energy comes from spending most time in strengths, and leaders can intentionally redesign roles (even as jobs evolve) to get closer to that.",
+      "timestamp_start": "00:41:59",
+      "timestamp_end": "00:45:17",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Rachel Lockett"
+      ],
+      "themes": [
+        "Burnout",
+        "Leadership",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

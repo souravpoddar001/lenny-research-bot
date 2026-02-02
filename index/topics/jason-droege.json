@@ -1,0 +1,257 @@
+{
+  "episode_id": "jason-droege",
+  "topics": [
+    {
+      "topic_id": "jason-droege_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny frames the episode around how AI models improve via expert feedback and data work, introduces Jason Droege\u2019s background (Scour, Uber Eats, Scale AI), and previews topics including the Meta deal and Scale\u2019s role in training data and evals.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:06:08",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jason Droege"
+      ],
+      "themes": [
+        "AI",
+        "Startups",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-droege_t2",
+      "title": "Scour lessons: everything is negotiable",
+      "summary": "Jason recounts co-founding Scour with Travis Kalanick, learning early that business has no fixed playbook and that negotiation and incentives shape outcomes.",
+      "timestamp_start": "00:06:10",
+      "timestamp_end": "00:09:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jason Droege"
+      ],
+      "themes": [
+        "Startups",
+        "Leadership",
+        "Entrepreneurship"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jason-droege_t3",
+      "title": "Scour shutdown and the lawsuit reality check",
+      "summary": "Jason explains how Scour\u2019s P2P sharing led to a massive lawsuit (settled for $1M), reinforcing how incumbents use legal pressure and how the \u201creal world\u201d operates.",
+      "timestamp_start": "00:09:12",
+      "timestamp_end": "00:10:28",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jason Droege"
+      ],
+      "themes": [
+        "Startups",
+        "Entrepreneurship",
+        "Business Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-droege_t4",
+      "title": "Scale AI after Meta\u2019s $14B investment",
+      "summary": "Jason clarifies the Meta transaction structure (49% non-voting, no new board seat, limited employee transfers), Scale\u2019s independence, and the company\u2019s current business health and growth.",
+      "timestamp_start": "00:10:28",
+      "timestamp_end": "00:12:57",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jason Droege"
+      ],
+      "themes": [
+        "AI",
+        "Business Strategy",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-droege_t5",
+      "title": "From basic labeling to expert data work",
+      "summary": "They discuss how the market shifted from simple preference tasks to complex expert-driven work (PhDs, professionals), and Jason argues Scale has evolved alongside model needs rather than being stuck in \u201clow-cost generalist labeling.\u201d",
+      "timestamp_start": "00:12:57",
+      "timestamp_end": "00:17:02",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jason Droege"
+      ],
+      "themes": [
+        "AI",
+        "Data",
+        "Business Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-droege_t6",
+      "title": "Recruiting and retaining scarce expert contributors",
+      "summary": "Jason describes how Scale finds experts via referrals, campus programs, and traditional sourcing, emphasizing that a strong contributor experience drives the best network effects.",
+      "timestamp_start": "00:17:02",
+      "timestamp_end": "00:18:48",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jason Droege"
+      ],
+      "themes": [
+        "Hiring",
+        "AI",
+        "Operations"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jason-droege_t7",
+      "title": "Reinforcement learning environments for AI agents",
+      "summary": "Jason explains RL environments as sandboxes for training agents to operate in real systems (e.g., Salesforce), highlighting the challenge of generalizing across endless permutations of configurations and tasks.",
+      "timestamp_start": "00:18:48",
+      "timestamp_end": "00:22:03",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jason Droege"
+      ],
+      "themes": [
+        "AI",
+        "Agents",
+        "Data"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-droege_t8",
+      "title": "What training data looks like in practice",
+      "summary": "They get concrete about data formats (artifacts plus rationale/annotations) and discuss how tasks vary depending on whether the goal is generation, debugging, or decision support.",
+      "timestamp_start": "00:22:03",
+      "timestamp_end": "00:23:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jason Droege"
+      ],
+      "themes": [
+        "AI",
+        "Data",
+        "Product"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jason-droege_t9",
+      "title": "Enterprise AI: healthcare workflow and judgment digitization",
+      "summary": "Jason shares a healthcare example where AI summarizes large patient records and flags critical issues (e.g., allergy/medication conflicts), arguing that enterprises increasingly need organization-specific labeling to encode local judgment and context.",
+      "timestamp_start": "00:23:33",
+      "timestamp_end": "00:28:18",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jason Droege"
+      ],
+      "themes": [
+        "AI",
+        "Enterprise",
+        "Healthcare"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-droege_t10",
+      "title": "How long will humans stay in the loop?",
+      "summary": "Jason argues data work is a \u201chistory of new beginnings,\u201d expecting ongoing human contribution as new skills and knowledge emerge; he\u2019s skeptical of near-term white-collar displacement and emphasizes human adaptability.",
+      "timestamp_start": "00:28:18",
+      "timestamp_end": "00:31:14",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jason Droege"
+      ],
+      "themes": [
+        "AI",
+        "Future of Work",
+        "Economy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-droege_t11",
+      "title": "Evals: defining what \u201cgood\u201d looks like",
+      "summary": "They unpack evals as benchmarks for quality\u2014especially in enterprise/government\u2014discussing probabilistic systems, when \u201cgood\u201d differs from \u201ccorrect,\u201d and why high-accuracy workflows are hardest to automate.",
+      "timestamp_start": "00:31:14",
+      "timestamp_end": "00:35:25",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jason Droege"
+      ],
+      "themes": [
+        "AI",
+        "Evaluation",
+        "Enterprise"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-droege_t12",
+      "title": "Where AI is heading: from knowing to doing",
+      "summary": "Jason predicts the next wave is models taking actions via agents operating in real environments; within 2\u20133 years, tech capability may outpace organizational change management and policy readiness.",
+      "timestamp_start": "00:35:25",
+      "timestamp_end": "00:37:35",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jason Droege"
+      ],
+      "themes": [
+        "AI",
+        "Agents",
+        "Future"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-droege_t13",
+      "title": "Enterprise AI reality: pilots, hype, and timelines",
+      "summary": "Jason explains why many enterprise POCs stall: getting from 60\u201370% to production-grade reliability takes 6\u201312 months plus approvals and change management; the value is real but harder to operationalize than demos suggest.",
+      "timestamp_start": "00:37:35",
+      "timestamp_end": "00:40:36",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jason Droege"
+      ],
+      "themes": [
+        "Enterprise",
+        "AI",
+        "Product"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-droege_t14",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Mercury, highlighting banking features for startups and businesses (wires, spend tracking, cards, invoicing, bill pay, reimbursements, capital).",
+      "timestamp_start": "00:40:36",
+      "timestamp_end": "00:41:44",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-droege_t15",
+      "title": "Customer obsession and incentives-driven product discovery",
+      "summary": "Jason describes his approach to customer conversations\u2014probing underlying incentives rather than literal requests\u2014and shares an early Uber Eats example where the team reverse-engineered restaurant unit economics to find a viable pricing/value model.",
+      "timestamp_start": "00:41:44",
+      "timestamp_end": "00:45:41",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jason Droege"
+      ],
+      "themes": [
+        "Product",
+        "Customer Research",
+        "Business Strategy"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

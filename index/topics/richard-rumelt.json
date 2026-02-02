@@ -1,0 +1,214 @@
+{
+  "episode_id": "richard-rumelt",
+  "topics": [
+    {
+      "topic_id": "richard-rumelt_t1",
+      "title": "Opening: Strategy as an action agenda",
+      "summary": "Rumelt argues strategy should be treated as an actionable agenda, not mission/vision/values work. Start by identifying 1\u20132 addressable challenges and define coherent actions to tackle them.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:42",
+      "speakers": [
+        "Richard Rumelt"
+      ],
+      "themes": [
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "richard-rumelt_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Richard Rumelt, his books (Good Strategy Bad Strategy, The Crux), and his experience advising major companies and government organizations.",
+      "timestamp_start": "00:00:42",
+      "timestamp_end": "00:01:58",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "richard-rumelt_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for CommandBar and Miro.",
+      "timestamp_start": "00:01:58",
+      "timestamp_end": "00:04:10",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "richard-rumelt_t4",
+      "title": "What strategy is: overcoming high-stakes challenges",
+      "summary": "Rumelt defines strategy as a design (policy + action) for overcoming a high-stakes challenge, tracing the term to Greek 'strategos' and emphasizing strategy\u2019s problem-centered nature.",
+      "timestamp_start": "00:04:29",
+      "timestamp_end": "00:06:24",
+      "speakers": [
+        "Lenny",
+        "Richard Rumelt"
+      ],
+      "themes": [
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "richard-rumelt_t5",
+      "title": "The kernel: diagnosis, guiding policy, coherent action",
+      "summary": "Rumelt explains his three-part 'kernel' of good strategy and contrasts it with mere analytical tools. He emphasizes rich diagnosis, choosing a real guiding policy (not many priorities), and coherent actions that don\u2019t conflict.",
+      "timestamp_start": "00:06:24",
+      "timestamp_end": "00:15:04",
+      "speakers": [
+        "Lenny",
+        "Richard Rumelt"
+      ],
+      "themes": [
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "richard-rumelt_t6",
+      "title": "Concrete examples and why organizations fail",
+      "summary": "Using Microsoft\u2019s AI pivot as a simple illustration, Rumelt notes strategy isn\u2019t mysterious\u2014organizational leaders often fail by assembling initiatives without synthesis or follow-through.",
+      "timestamp_start": "00:15:04",
+      "timestamp_end": "00:16:55",
+      "speakers": [
+        "Lenny",
+        "Richard Rumelt"
+      ],
+      "themes": [
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "richard-rumelt_t7",
+      "title": "Bad strategy patterns: goals, fluff, missing diagnosis",
+      "summary": "Rumelt outlines common bad-strategy signals: mistaking goals for strategy, word-salad fluff, incoherent actions, and especially skipping diagnosis (e.g., 'coordinate better' without addressing why coordination fails).",
+      "timestamp_start": "00:16:55",
+      "timestamp_end": "00:24:22",
+      "speakers": [
+        "Lenny",
+        "Richard Rumelt"
+      ],
+      "themes": [
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "richard-rumelt_t8",
+      "title": "Focus and the danger of too many priorities",
+      "summary": "They discuss why focus is the core source of strategic power and why saying yes too often dilutes a good strategy. Rumelt uses a magnifying-glass metaphor: power + focus + an affectable target.",
+      "timestamp_start": "00:24:22",
+      "timestamp_end": "00:28:21",
+      "speakers": [
+        "Lenny",
+        "Richard Rumelt"
+      ],
+      "themes": [
+        "Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "richard-rumelt_t9",
+      "title": "Power in strategy: asymmetry and advantage sources",
+      "summary": "Rumelt defines power as exploitable asymmetry\u2014reputation, relationships, being first, customer access\u2014and illustrates with IBM/Gerstner\u2019s customer footprint as power that later became a constraint as markets shifted.",
+      "timestamp_start": "00:28:21",
+      "timestamp_end": "00:34:38",
+      "speakers": [
+        "Lenny",
+        "Richard Rumelt"
+      ],
+      "themes": [
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "richard-rumelt_t10",
+      "title": "Modern power: network effects and scale dynamics",
+      "summary": "Rumelt discusses network effects and user-base power across platforms (telecom, social, Amazon) and how AI may amplify scale advantages via data. He notes specialization as a way to compete against giants.",
+      "timestamp_start": "00:34:38",
+      "timestamp_end": "00:40:25",
+      "speakers": [
+        "Lenny",
+        "Richard Rumelt"
+      ],
+      "themes": [
+        "Strategy",
+        "Technology"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "richard-rumelt_t11",
+      "title": "Where power fits in the kernel and execution",
+      "summary": "Rumelt explains power as the reason a strategy is not an even bet\u2014what makes success plausible versus base rates (e.g., restaurants). He critiques unfocused objectives using Afghanistan as an example of incoherent aims.",
+      "timestamp_start": "00:40:25",
+      "timestamp_end": "00:47:19",
+      "speakers": [
+        "Lenny",
+        "Richard Rumelt"
+      ],
+      "themes": [
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "richard-rumelt_t12",
+      "title": "Using history to build diagnosis and judgment",
+      "summary": "Rumelt argues strategy isn\u2019t a science; it relies on analogy and historical understanding. He describes reading contemporaneous sources (e.g., 1928\u201329 newspapers) to practice diagnosis and offers his own hypothesis about autos and the Great Depression.",
+      "timestamp_start": "00:47:19",
+      "timestamp_end": "00:54:23",
+      "speakers": [
+        "Lenny",
+        "Richard Rumelt"
+      ],
+      "themes": [
+        "Strategy",
+        "Learning"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "richard-rumelt_t13",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Vanta.",
+      "timestamp_start": "00:54:26",
+      "timestamp_end": "00:55:24",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "richard-rumelt_t14",
+      "title": "How to write strategy: start with the challenge",
+      "summary": "Rumelt gives tactical guidance: explicitly state what makes the challenge hard, avoid the overloaded 'strategy' label, and write an action agenda. Start from ambitions, pick an important and addressable challenge, then list concrete action steps.",
+      "timestamp_start": "00:55:24",
+      "timestamp_end": "01:02:49",
+      "speakers": [
+        "Lenny",
+        "Richard Rumelt"
+      ],
+      "themes": [
+        "Strategy",
+        "Execution"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

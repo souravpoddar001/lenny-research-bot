@@ -1,0 +1,255 @@
+{
+  "episode_id": "kevin-aluwi",
+  "topics": [
+    {
+      "topic_id": "kevin-aluwi_t1",
+      "title": "Driver safety and motorcycle taxi mafia threats",
+      "summary": "Kevin describes early violent resistance from local motorcycle taxi mafias and how Gojek responded by running a private security operation to protect and extract drivers from dangerous situations.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:16",
+      "speakers": [
+        "Kevin Aluwi"
+      ],
+      "themes": [
+        "Operations",
+        "Marketplace",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kevin-aluwi_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Kevin and previews key stories and lessons from Gojek\u2019s growth, scrappiness, ops, brand, and super-app strategy.",
+      "timestamp_start": "00:01:16",
+      "timestamp_end": "00:02:29",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Company Building",
+        "Leadership",
+        "Growth"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "kevin-aluwi_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Coda and Rows, describing their products and offers, followed by the start of the interview.",
+      "timestamp_start": "00:02:29",
+      "timestamp_end": "00:05:01",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kevin-aluwi_t4",
+      "title": "What Gojek is and its scale",
+      "summary": "Kevin explains Gojek\u2019s origins in motorcycle taxis, its evolution into on-demand services and payments, and shares massive scale metrics (drivers, orders, merchants) and IPO context.",
+      "timestamp_start": "00:05:01",
+      "timestamp_end": "00:08:35",
+      "speakers": [
+        "Lenny",
+        "Kevin Aluwi"
+      ],
+      "themes": [
+        "Company Building",
+        "Marketplace",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kevin-aluwi_t5",
+      "title": "Catalog of services and super-app definition",
+      "summary": "Kevin lists the breadth of services Gojek offered at its peak (nearly 30), setting up a deeper discussion on super-app strategy tradeoffs.",
+      "timestamp_start": "00:08:35",
+      "timestamp_end": "00:09:54",
+      "speakers": [
+        "Lenny",
+        "Kevin Aluwi"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Company Building",
+        "Marketplace"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "kevin-aluwi_t6",
+      "title": "Why super apps are often overrated",
+      "summary": "Kevin argues super-app benefits are overstated, sharing research showing low feature awareness and explaining the need for a unifying mental model; he also notes UX/design constraints and cross-sell limits.",
+      "timestamp_start": "00:09:54",
+      "timestamp_end": "00:15:28",
+      "speakers": [
+        "Lenny",
+        "Kevin Aluwi"
+      ],
+      "themes": [
+        "Product Strategy",
+        "User Research",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kevin-aluwi_t7",
+      "title": "Brand as a core consumer advantage",
+      "summary": "Kevin explains why brand is second only to product in consumer businesses, how Gojek used consistent touchpoints and cultural relevance to win despite being heavily underfunded versus competitors.",
+      "timestamp_start": "00:15:28",
+      "timestamp_end": "00:23:08",
+      "speakers": [
+        "Lenny",
+        "Kevin Aluwi"
+      ],
+      "themes": [
+        "Brand",
+        "Company Building",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kevin-aluwi_t8",
+      "title": "Helmets and jackets as brand distribution",
+      "summary": "They discuss how branded driver gear created both brand recall and a live demonstration of the value proposition (seeing riders, packages, food moving through traffic), making the marketing uniquely effective.",
+      "timestamp_start": "00:23:08",
+      "timestamp_end": "00:26:53",
+      "speakers": [
+        "Lenny",
+        "Kevin Aluwi"
+      ],
+      "themes": [
+        "Brand",
+        "Growth",
+        "Marketplace"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kevin-aluwi_t9",
+      "title": "Scrappy ops: cash booths and fighting fraud",
+      "summary": "Kevin shares operational hacks like building physical cash-out booths with vaults to pay drivers and countering fraudulent third-party driver apps by copying their best features due to limited security resources.",
+      "timestamp_start": "00:26:53",
+      "timestamp_end": "00:32:13",
+      "speakers": [
+        "Lenny",
+        "Kevin Aluwi"
+      ],
+      "themes": [
+        "Operations",
+        "Marketplace",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kevin-aluwi_t10",
+      "title": "Doing hard things as a competitive moat",
+      "summary": "Kevin explains his skepticism of traditional 'moats' and argues that executing hard, value-creating work is itself defensible; he revisits the private security response as an example that built driver loyalty.",
+      "timestamp_start": "00:32:13",
+      "timestamp_end": "00:38:13",
+      "speakers": [
+        "Lenny",
+        "Kevin Aluwi"
+      ],
+      "themes": [
+        "Leadership",
+        "Operations",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kevin-aluwi_t11",
+      "title": "Founder role-swapping and driver empathy",
+      "summary": "Kevin describes taking on many roles (including performance marketing) to learn what excellence looks like, and driving on the platform to build empathy\u2014leading to product changes like waiting fees and multi-stop support.",
+      "timestamp_start": "00:38:13",
+      "timestamp_end": "00:44:07",
+      "speakers": [
+        "Lenny",
+        "Kevin Aluwi"
+      ],
+      "themes": [
+        "Leadership",
+        "Product Strategy",
+        "Marketplace"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kevin-aluwi_t12",
+      "title": "Kevin\u2019s path from finance to tech",
+      "summary": "Kevin recounts starting in finance, struggling post-2008, then betting early on Indonesia\u2019s nascent tech ecosystem in 2011 before it was widely believed viable.",
+      "timestamp_start": "00:44:07",
+      "timestamp_end": "00:47:31",
+      "speakers": [
+        "Lenny",
+        "Kevin Aluwi"
+      ],
+      "themes": [
+        "Career",
+        "Company Building",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kevin-aluwi_t13",
+      "title": "Building outside Silicon Valley: tactics and lessons",
+      "summary": "Kevin shares advice for founders in emerging markets: be ops-heavy early, get good at remote work (e.g., Bangalore engineering center), and avoid copying by building for local dynamics like motorcycles and street-level branding.",
+      "timestamp_start": "00:47:31",
+      "timestamp_end": "00:52:10",
+      "speakers": [
+        "Lenny",
+        "Kevin Aluwi"
+      ],
+      "themes": [
+        "Company Building",
+        "Leadership",
+        "Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kevin-aluwi_t14",
+      "title": "Southeast Asia market dynamics and hypergrowth",
+      "summary": "Kevin highlights Indonesia/SEA scale and unusually fast adoption when PMF hits (100%+ MoM growth for 16\u201318 months), plus an example of unique regional startups like eFishery.",
+      "timestamp_start": "00:52:10",
+      "timestamp_end": "00:55:42",
+      "speakers": [
+        "Lenny",
+        "Kevin Aluwi"
+      ],
+      "themes": [
+        "Growth",
+        "Markets",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kevin-aluwi_t15",
+      "title": "Life after stepping down from Gojek",
+      "summary": "Kevin reflects on leaving the CEO role and board, how formative the experience was, and that he\u2019s exploring what\u2019s next (including angel investing) without a fixed plan yet.",
+      "timestamp_start": "00:55:42",
+      "timestamp_end": "00:56:37",
+      "speakers": [
+        "Lenny",
+        "Kevin Aluwi"
+      ],
+      "themes": [
+        "Leadership",
+        "Career",
+        "Company Building"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

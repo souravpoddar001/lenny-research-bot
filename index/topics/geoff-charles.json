@@ -1,0 +1,257 @@
+{
+  "episode_id": "geoff-charles",
+  "topics": [
+    {
+      "topic_id": "geoff-charles_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the show and guest Geoff Charles (VP Product at Ramp), framing the episode as a deep dive into Ramp\u2019s unusually fast product execution and culture.",
+      "timestamp_start": "00:00:32",
+      "timestamp_end": "00:01:25",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Company & Product Overview"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "geoff-charles_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Ezra (full-body cancer screening) and Coda (collaborative docs/work operating system).",
+      "timestamp_start": "00:01:38",
+      "timestamp_end": "00:04:08",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "geoff-charles_t3",
+      "title": "What Ramp does and who it serves",
+      "summary": "Geoff explains Ramp as a finance automation platform and corporate card for SMBs, covering expense management, bill pay, and accounting automation.",
+      "timestamp_start": "00:04:49",
+      "timestamp_end": "00:05:26",
+      "speakers": [
+        "Lenny",
+        "Geoff Charles"
+      ],
+      "themes": [
+        "Company & Product Overview"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "geoff-charles_t4",
+      "title": "Ramp\u2019s growth stats and scale",
+      "summary": "Geoff and Lenny highlight Ramp\u2019s rapid growth (e.g., $100M+ ARR early, thousands of users joining, billions in spend) and why it\u2019s considered historically fast for SaaS/FinTech.",
+      "timestamp_start": "00:05:42",
+      "timestamp_end": "00:06:34",
+      "speakers": [
+        "Lenny",
+        "Geoff Charles"
+      ],
+      "themes": [
+        "Growth & Metrics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "geoff-charles_t5",
+      "title": "Velocity as Ramp\u2019s core operating principle",
+      "summary": "Geoff explains why velocity is central at Ramp\u2014how it shapes hiring, incentives, decision-making, and de-risking through fast iteration.",
+      "timestamp_start": "00:06:34",
+      "timestamp_end": "00:08:44",
+      "speakers": [
+        "Lenny",
+        "Geoff Charles"
+      ],
+      "themes": [
+        "Execution & Velocity"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "geoff-charles_t6",
+      "title": "Concrete examples of extreme shipping speed",
+      "summary": "Geoff shares examples of small teams building major products quickly (cards, expense management, AP) and the \u201crecipe\u201d of small focused teams with tight timelines and protection from distractions.",
+      "timestamp_start": "00:09:12",
+      "timestamp_end": "00:10:25",
+      "speakers": [
+        "Lenny",
+        "Geoff Charles"
+      ],
+      "themes": [
+        "Execution & Velocity"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "geoff-charles_t7",
+      "title": "Single-threaded teams and focus mechanics",
+      "summary": "They unpack what \u201csingle-threaded\u201d means\u2014one goal, removing all other responsibilities\u2014and discuss an example (Flex) plus how Ramp structurally shields teams from interruptions.",
+      "timestamp_start": "00:10:25",
+      "timestamp_end": "00:13:15",
+      "speakers": [
+        "Lenny",
+        "Geoff Charles"
+      ],
+      "themes": [
+        "Org Design & Teams"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "geoff-charles_t8",
+      "title": "Lofty goals anchored by markets and design",
+      "summary": "Geoff explains how ambitious goals stay realistic by using market comparables (Bill.com, Expensify, etc.) and motivating design prototypes that anchor teams on the future experience.",
+      "timestamp_start": "00:13:15",
+      "timestamp_end": "00:15:11",
+      "speakers": [
+        "Lenny",
+        "Geoff Charles"
+      ],
+      "themes": [
+        "Strategy & Planning"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "geoff-charles_t9",
+      "title": "Context over control: empowering product teams",
+      "summary": "Geoff describes how leaders align on goals, hypotheses, and data (not solutions), enabling teams closest to the work to decide and move fast; he shares how he operationalizes this via weekly goals and biweekly context-sharing.",
+      "timestamp_start": "00:15:11",
+      "timestamp_end": "00:19:44",
+      "speakers": [
+        "Lenny",
+        "Geoff Charles"
+      ],
+      "themes": [
+        "Leadership & Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "geoff-charles_t10",
+      "title": "Scaling product quality while moving fast",
+      "summary": "They discuss how Ramp adds lightweight review gates for big bets (especially before GA) and uses feedback loops (VoC, NPS/CSAT, operational burden, confusion tickets) to prevent velocity from harming quality.",
+      "timestamp_start": "00:19:44",
+      "timestamp_end": "00:24:03",
+      "speakers": [
+        "Lenny",
+        "Geoff Charles"
+      ],
+      "themes": [
+        "Product Quality & Reliability"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "geoff-charles_t11",
+      "title": "Advice for teams pressured to \u201cmove faster\u201d",
+      "summary": "Geoff advises that velocity requires enabling conditions: top-tier engineering/design talent, real empowerment, fewer meetings/status overhead, and clearer tradeoffs/focus rather than piling on goals.",
+      "timestamp_start": "00:24:03",
+      "timestamp_end": "00:29:17",
+      "speakers": [
+        "Lenny",
+        "Geoff Charles"
+      ],
+      "themes": [
+        "Execution & Velocity"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "geoff-charles_t12",
+      "title": "Burnout, motivation, and sustainable intensity",
+      "summary": "Geoff argues burnout is more about low impact and lack of ownership than hard work; velocity can reduce burnout by creating flow, autonomy, and meaning tied to team-owned goals.",
+      "timestamp_start": "00:29:17",
+      "timestamp_end": "00:32:22",
+      "speakers": [
+        "Lenny",
+        "Geoff Charles"
+      ],
+      "themes": [
+        "Culture & Ways of Working"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "geoff-charles_t13",
+      "title": "Planning vs doing: where accuracy matters",
+      "summary": "Geoff explains Ramp\u2019s bias toward doing over planning, setting expectations for chaos while planning carefully only for high-value coordination moments (e.g., major launches), and keeping strategy consistent even if details shift.",
+      "timestamp_start": "00:32:22",
+      "timestamp_end": "00:36:33",
+      "speakers": [
+        "Lenny",
+        "Geoff Charles"
+      ],
+      "themes": [
+        "Strategy & Planning"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "geoff-charles_t14",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Attio (flexible CRM built around your data).",
+      "timestamp_start": "00:36:45",
+      "timestamp_end": "00:37:42",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "geoff-charles_t15",
+      "title": "Strategy as a contract: goals to initiatives",
+      "summary": "Geoff defines strategy as the bridge between vision and roadmap: goals, hypotheses, right-to-win, metrics, initiatives, risks, and outcomes; he describes how pods write their own strategy docs aligned to company and financial plans.",
+      "timestamp_start": "00:37:42",
+      "timestamp_end": "00:40:43",
+      "speakers": [
+        "Lenny",
+        "Geoff Charles"
+      ],
+      "themes": [
+        "Strategy & Planning"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "geoff-charles_t16",
+      "title": "OKRs skepticism and roadmap as the contract",
+      "summary": "Geoff explains why Ramp largely avoids OKRs for product teams (planning overhead and politics), using them mainly for cross-functional objectives while treating the roadmap as the primary commitment to the business.",
+      "timestamp_start": "00:40:43",
+      "timestamp_end": "00:44:41",
+      "speakers": [
+        "Lenny",
+        "Geoff Charles"
+      ],
+      "themes": [
+        "Strategy & Planning"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "geoff-charles_t17",
+      "title": "First principles thinking and a support example",
+      "summary": "Geoff describes why first-principles thinking is necessary given Ramp\u2019s hybrid business (credit, payments, software, PLG + sales) and gives an example: treating every support ticket as a product failure and having support report into product.",
+      "timestamp_start": "00:44:41",
+      "timestamp_end": "00:47:30",
+      "speakers": [
+        "Lenny",
+        "Geoff Charles"
+      ],
+      "themes": [
+        "Culture & Ways of Working"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

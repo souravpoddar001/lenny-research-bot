@@ -1,0 +1,286 @@
+{
+  "episode_id": "krithika-shankarraman",
+  "topics": [
+    {
+      "topic_id": "krithika-shankarraman_t1",
+      "title": "ChatGPT marketing: turning awareness into use cases",
+      "summary": "Krithika explains why OpenAI still needed marketing: awareness wasn\u2019t the issue\u2014people didn\u2019t know what to use ChatGPT for. Marketing\u2019s job became creating \u201cuse case epiphanies\u201d and focusing on customer outcomes over vanity metrics.",
+      "timestamp_start": "00:00:09",
+      "timestamp_end": "00:00:45",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Krithika Shankarraman"
+      ],
+      "themes": [
+        "Marketing",
+        "Product Marketing",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "krithika-shankarraman_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Krithika\u2019s background (OpenAI, Stripe, Retool, Dropbox, Google/Android) and previews key topics: her diagnostic framework, anti-playbook approach, B2B lessons from consumer marketing, and career advice.",
+      "timestamp_start": "00:00:55",
+      "timestamp_end": "00:02:13",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Career",
+        "Marketing",
+        "Go-to-Market"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "krithika-shankarraman_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Eppo (experimentation platform) and Airtable ProductCentral (product org system of record).",
+      "timestamp_start": "00:02:13",
+      "timestamp_end": "00:04:29",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "krithika-shankarraman_t4",
+      "title": "OpenAI: what marketing adds to magical products",
+      "summary": "They dig into how marketing complements product management from the start, and how OpenAI\u2019s enterprise motion differed from typical demand gen. Krithika shares how unexpected inbound demand forced unconventional solutions like building an early lead-scoring script.",
+      "timestamp_start": "00:04:29",
+      "timestamp_end": "00:08:25",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Krithika Shankarraman"
+      ],
+      "themes": [
+        "Marketing",
+        "Product Marketing",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "krithika-shankarraman_t5",
+      "title": "AI monetization and pricing are still evolving",
+      "summary": "They discuss how AI value doesn\u2019t map cleanly to traditional SaaS pricing models and why monetization remains an open frontier, despite ChatGPT\u2019s seemingly straightforward subscription approach.",
+      "timestamp_start": "00:08:25",
+      "timestamp_end": "00:09:44",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Krithika Shankarraman"
+      ],
+      "themes": [
+        "Monetization",
+        "Strategy",
+        "AI"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "krithika-shankarraman_t6",
+      "title": "Anti-playbook thinking: context beats copying tactics",
+      "summary": "Krithika explains why founders seeking \u2018the Stripe/OpenAI playbook\u2019 often miss the inputs (context, competition, timing). She argues for becoming diagnostic about what to do rather than copying others\u2019 outputs.",
+      "timestamp_start": "00:09:44",
+      "timestamp_end": "00:11:17",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Krithika Shankarraman"
+      ],
+      "themes": [
+        "Strategy",
+        "Marketing",
+        "Go-to-Market"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "krithika-shankarraman_t7",
+      "title": "The DATE framework for marketing decisions",
+      "summary": "Krithika lays out her four-step process: Diagnose the real funnel problem, Analyze competitors for baselines/gaps, Take a different path to differentiate, and Experiment to validate and scale what works. They discuss why \u2018cheaper\u2019 is rarely durable and why differentiation matters.",
+      "timestamp_start": "00:11:17",
+      "timestamp_end": "00:17:11",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Krithika Shankarraman"
+      ],
+      "themes": [
+        "Marketing",
+        "Strategy",
+        "Experimentation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "krithika-shankarraman_t8",
+      "title": "Retool case study: customer storytelling as differentiation",
+      "summary": "Applying DATE at Retool, they diagnose awareness as the bottleneck (not PMF), reject vanity metrics, and shift away from underperforming paid channels. They differentiate by leaning into enterprise customer proof and test formats like webinars, dinners, and events.",
+      "timestamp_start": "00:17:11",
+      "timestamp_end": "00:20:38",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Krithika Shankarraman"
+      ],
+      "themes": [
+        "Marketing",
+        "Go-to-Market",
+        "B2B"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "krithika-shankarraman_t9",
+      "title": "Stripe example: zigging on PayFac SEO positioning",
+      "summary": "Krithika shares how Stripe Connect competed against \u2018become a PayFac\u2019 consulting narratives by creating educational content that ranked for PayFac terms while steering users toward Connect. The lesson: you can borrow the category language without copying the category playbook.",
+      "timestamp_start": "00:20:38",
+      "timestamp_end": "00:22:29",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Krithika Shankarraman"
+      ],
+      "themes": [
+        "Product Marketing",
+        "Marketing",
+        "Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "krithika-shankarraman_t10",
+      "title": "Stripe lessons: marketing to developers with authenticity",
+      "summary": "As Stripe\u2019s first marketing hire, Krithika describes unlearning traditional marketing to meet developers\u2019 high bar for substance and correctness. Marketing artifacts must match product craftsmanship because developers quickly detect \u2018bugs\u2019 in messaging.",
+      "timestamp_start": "00:22:29",
+      "timestamp_end": "00:24:23",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Krithika Shankarraman"
+      ],
+      "themes": [
+        "Marketing",
+        "Product Marketing",
+        "Developer Marketing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "krithika-shankarraman_t11",
+      "title": "Stripe\u2019s marketing evolution across growth chapters",
+      "summary": "Krithika outlines Stripe\u2019s marketing \u2018epochs\u2019: clearing the backlog of uncommunicated launches, expanding launch distribution and community/DevRel, and later helping customers navigate a multi-product platform. They emphasize re-running diagnostics every few months in hypergrowth.",
+      "timestamp_start": "00:24:23",
+      "timestamp_end": "00:27:24",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Krithika Shankarraman"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Marketing",
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "krithika-shankarraman_t12",
+      "title": "Support insights into self-serve docs and messaging",
+      "summary": "Krithika explains how support rotations surfaced recurring confusion that became a prioritized backlog of educational landing pages. Customer language becomes a \u2018cheat code\u2019 for messaging, and great funnels for developers often look like self-directed learning, not sales calls.",
+      "timestamp_start": "00:29:05",
+      "timestamp_end": "00:31:24",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Krithika Shankarraman"
+      ],
+      "themes": [
+        "Customer Research",
+        "Product Marketing",
+        "Marketing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "krithika-shankarraman_t13",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for LinkedIn Ads focused on B2B targeting and a $100 credit offer.",
+      "timestamp_start": "00:31:24",
+      "timestamp_end": "00:32:32",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "krithika-shankarraman_t14",
+      "title": "Why process and reviews speed up marketing quality",
+      "summary": "Krithika argues that lightweight process increases velocity by creating consistency and scalable guardrails for new hires. She recommends a transparent \u2018Marketing Review\u2019 forum plus 20% (strategy) and 80% (execution) checkpoints to avoid last-minute rubber-stamping.",
+      "timestamp_start": "00:32:32",
+      "timestamp_end": "00:36:19",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Krithika Shankarraman"
+      ],
+      "themes": [
+        "Operations",
+        "Marketing",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "krithika-shankarraman_t15",
+      "title": "Brand as a company-wide experience and trust engine",
+      "summary": "They discuss why brand consistency isn\u2019t at odds with speed: brand is the sum of product, support, recruiting, and communications, and it sets expectations that compound trust. Krithika contrasts Stripe/OpenAI\u2019s different quality criteria while sharing the same ethos of responsibility.",
+      "timestamp_start": "00:36:19",
+      "timestamp_end": "00:39:55",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Krithika Shankarraman"
+      ],
+      "themes": [
+        "Brand",
+        "Marketing",
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "krithika-shankarraman_t16",
+      "title": "When to hire marketing and what marketing means",
+      "summary": "Krithika explains hiring marketing after clear PMF, and choosing the right pillar (product marketing, demand gen, brand/community) based on needs. She distinguishes \u2018Marketing\u2019 the function from \u2018marketing\u2019 as a whole-company motion spanning product, sales, and founder narrative.",
+      "timestamp_start": "00:39:55",
+      "timestamp_end": "00:42:47",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Krithika Shankarraman"
+      ],
+      "themes": [
+        "Hiring",
+        "Go-to-Market",
+        "Marketing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "krithika-shankarraman_t17",
+      "title": "ChatGPT vs Claude: mindshare question (setup)",
+      "summary": "Lenny tees up a discussion about why ChatGPT dominates mindshare even when competitors like Claude may be better at certain tasks, but the transcript cuts off before Krithika answers.",
+      "timestamp_start": "00:42:47",
+      "timestamp_end": "00:43:17",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Competition",
+        "Brand",
+        "AI"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

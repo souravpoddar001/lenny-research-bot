@@ -1,0 +1,289 @@
+{
+  "episode_id": "upasna-gautam",
+  "topics": [
+    {
+      "topic_id": "upasna-gautam_t1",
+      "title": "Breaking news chaos and building buffers",
+      "summary": "Upasna describes how breaking news routinely disrupts planned research/user testing with journalists, and why product teams must plan for pivots with backups and buffers.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:45",
+      "speakers": [
+        "Upasna Gautam"
+      ],
+      "themes": [
+        "Product Operations",
+        "User Research",
+        "Stakeholder Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "upasna-gautam_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Upasna, her role leading CNN\u2019s CMS for journalists, her work with News Product Alliance, and the episode\u2019s focus on CNN product building and mindfulness.",
+      "timestamp_start": "00:00:45",
+      "timestamp_end": "00:03:15",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career",
+        "Product Management",
+        "Media & News"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "upasna-gautam_t3",
+      "title": "Mindfulness, equanimity, and thriving in chaos",
+      "summary": "Upasna explains equanimity as a core skill for product in news: pausing before reacting, reducing reactivity, and serving as a calm compass amid constant volatility.",
+      "timestamp_start": "00:03:15",
+      "timestamp_end": "00:06:22",
+      "speakers": [
+        "Lenny",
+        "Upasna Gautam"
+      ],
+      "themes": [
+        "Mindfulness",
+        "Leadership",
+        "Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "upasna-gautam_t4",
+      "title": "When research gets canceled by breaking news",
+      "summary": "They unpack a common scenario where editors must drop user testing to cover breaking news, and how product teams adapt because journalists are the customers with higher-priority duties.",
+      "timestamp_start": "00:06:22",
+      "timestamp_end": "00:10:30",
+      "speakers": [
+        "Lenny",
+        "Upasna Gautam"
+      ],
+      "themes": [
+        "User Research",
+        "Stakeholder Management",
+        "Product Operations"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "upasna-gautam_t5",
+      "title": "Editorial intake system: demos, sessions, rehearsals, office hours",
+      "summary": "Upasna details a structured collaboration model with journalists: weekly demo days, collaborative working sessions, breaking-news dress rehearsals, and office hours to gather feedback and build trust.",
+      "timestamp_start": "00:10:30",
+      "timestamp_end": "00:15:15",
+      "speakers": [
+        "Lenny",
+        "Upasna Gautam"
+      ],
+      "themes": [
+        "Stakeholder Management",
+        "User Research",
+        "Product Operations"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "upasna-gautam_t6",
+      "title": "CNN Digital product org and Upasna\u2019s platform role",
+      "summary": "Upasna explains CNN Digital\u2019s squad-based structure across many product areas and her core-platform team\u2019s mission: rebuild the CMS and onboard the newsroom off the legacy system.",
+      "timestamp_start": "00:15:15",
+      "timestamp_end": "00:18:52",
+      "speakers": [
+        "Lenny",
+        "Upasna Gautam"
+      ],
+      "themes": [
+        "Org Design",
+        "Product Management",
+        "Media & News"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "upasna-gautam_t7",
+      "title": "OKRs and planning horizons for a long rebuild",
+      "summary": "They discuss how CNN uses OKRs, planning from multi-year goals down to weekly/daily execution, plus a layered roadmap with team autonomy to choose the approach.",
+      "timestamp_start": "00:18:52",
+      "timestamp_end": "00:21:27",
+      "speakers": [
+        "Lenny",
+        "Upasna Gautam"
+      ],
+      "themes": [
+        "OKRs & Goal Setting",
+        "Product Strategy",
+        "Product Operations"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "upasna-gautam_t8",
+      "title": "Product and design reviews with engineers embedded early",
+      "summary": "Upasna shares how bringing tech leads and engineers into discovery, user sessions, and design jams improved feasibility decisions and reinforced treating engineers as partners.",
+      "timestamp_start": "00:21:27",
+      "timestamp_end": "00:23:39",
+      "speakers": [
+        "Lenny",
+        "Upasna Gautam"
+      ],
+      "themes": [
+        "Cross-functional Collaboration",
+        "Product Discovery",
+        "Engineering"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "upasna-gautam_t9",
+      "title": "Remote celebrations and internal evangelism",
+      "summary": "They talk about morale and rituals on a mostly-remote team, celebrating launches/onboardings with small gift boxes, and the idea of leveraging on-air talent for internal promotion.",
+      "timestamp_start": "00:23:39",
+      "timestamp_end": "00:26:12",
+      "speakers": [
+        "Lenny",
+        "Upasna Gautam"
+      ],
+      "themes": [
+        "Team Culture",
+        "Leadership",
+        "Product Operations"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "upasna-gautam_t10",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Vanta and SOC 2 compliance automation, including a listener discount.",
+      "timestamp_start": "00:26:12",
+      "timestamp_end": "00:27:45",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Message"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "upasna-gautam_t11",
+      "title": "Balancing features, bugs, and incident response",
+      "summary": "Upasna explains sprint-by-sprint prioritization, how critical incidents override plans, and how a 24/7 editorial support team triages and escalates issues to product/engineering.",
+      "timestamp_start": "00:27:45",
+      "timestamp_end": "00:29:12",
+      "speakers": [
+        "Lenny",
+        "Upasna Gautam"
+      ],
+      "themes": [
+        "Product Operations",
+        "Incident Management",
+        "Prioritization"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "upasna-gautam_t12",
+      "title": "Election stress, platform fallbacks, and resilience",
+      "summary": "Upasna recounts how election coverage demands layered contingency planning and how the new CMS served as a real fallback during the 2020 election\u2014validating stability under pressure.",
+      "timestamp_start": "00:29:12",
+      "timestamp_end": "00:31:12",
+      "speakers": [
+        "Lenny",
+        "Upasna Gautam"
+      ],
+      "themes": [
+        "Reliability",
+        "Media & News",
+        "Product Operations"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "upasna-gautam_t13",
+      "title": "Breaking news dress rehearsals: scripted stress tests",
+      "summary": "They dive deeper into how rehearsals are scripted end-to-end (email to publish), run in minutes, and observed by engineers/support to ensure the platform can handle real breaking news.",
+      "timestamp_start": "00:31:12",
+      "timestamp_end": "00:33:35",
+      "speakers": [
+        "Lenny",
+        "Upasna Gautam"
+      ],
+      "themes": [
+        "Product Operations",
+        "User Research",
+        "Reliability"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "upasna-gautam_t14",
+      "title": "High agency under high pressure as a superpower",
+      "summary": "Upasna reflects on what she\u2019d take to future roles: rapid development and hypothesis testing with reduced risk in a complex system, building a culture of high agency under pressure.",
+      "timestamp_start": "00:33:35",
+      "timestamp_end": "00:35:03",
+      "speakers": [
+        "Lenny",
+        "Upasna Gautam"
+      ],
+      "themes": [
+        "Leadership",
+        "Product Management",
+        "Execution"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "upasna-gautam_t15",
+      "title": "Mindful communication: pause, listen, and translate",
+      "summary": "Upasna shares practical guidance: meditation as foundational, plus mindful communication\u2014listening deeply, pausing before reacting, and speaking in the listener\u2019s language to build trust with editorial.",
+      "timestamp_start": "00:35:03",
+      "timestamp_end": "00:41:00",
+      "speakers": [
+        "Lenny",
+        "Upasna Gautam"
+      ],
+      "themes": [
+        "Mindfulness",
+        "Communication",
+        "Stakeholder Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "upasna-gautam_t16",
+      "title": "How to start meditating: simple daily presence",
+      "summary": "Upasna recommends starting small by being fully present during routine activities (like brushing teeth) and suggests Insight Timer as a helpful app, emphasizing simplicity over tools.",
+      "timestamp_start": "00:41:00",
+      "timestamp_end": "00:43:52",
+      "speakers": [
+        "Lenny",
+        "Upasna Gautam"
+      ],
+      "themes": [
+        "Mindfulness",
+        "Habits",
+        "Personal Development"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "upasna-gautam_t17",
+      "title": "News Product Alliance and product thinking in newsrooms",
+      "summary": "Upasna explains why product management in news is still emerging, how resource constraints force journalists into product-like work, and how NPA builds community, resources, and mentorship globally.",
+      "timestamp_start": "00:43:52",
+      "timestamp_end": "00:51:07",
+      "speakers": [
+        "Lenny",
+        "Upasna Gautam"
+      ],
+      "themes": [
+        "Media & News",
+        "Community",
+        "Career"
+      ],
+      "quote_count": 0
+    }
+  ]
+}

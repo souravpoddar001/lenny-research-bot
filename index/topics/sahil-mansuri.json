@@ -1,0 +1,224 @@
+{
+  "episode_id": "sahil-mansuri",
+  "topics": [
+    {
+      "topic_id": "sahil-mansuri_t1",
+      "title": "Planning conservatively with milestone-based unlocks",
+      "summary": "Sahil explains how to plan in low-visibility conditions: set a conservative annual plan, then use short-term milestones to unlock additional spend or growth if targets are hit, avoiding whiplash and optimism bias.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:29",
+      "speakers": [
+        "Sahil Mansuri"
+      ],
+      "themes": [
+        "Revenue & GTM",
+        "Leadership & Management",
+        "Metrics & Forecasting"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "sahil-mansuri_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Sahil Mansuri and the episode\u2019s focus: how founders should adjust sales during a downturn (quotas, comp, forecasting, retention, and sales technique).",
+      "timestamp_start": "00:00:49",
+      "timestamp_end": "00:01:52",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Revenue & GTM"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "sahil-mansuri_t3",
+      "title": "Sponsor Break",
+      "summary": "Ads for Flatfile (data onboarding/CSV import) and Merge (unified API for integrations).",
+      "timestamp_start": "00:02:13",
+      "timestamp_end": "00:03:48",
+      "speakers": [
+        "Lenny",
+        "Ashley"
+      ],
+      "themes": [
+        "Sponsor / Ads"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sahil-mansuri_t4",
+      "title": "Sahil\u2019s sales career and Bravado overview",
+      "summary": "Sahil shares his sales background (starting in 2008, selling through the 2009 recession, major enterprise wins at Glassdoor) and explains Bravado\u2019s sales community and products.",
+      "timestamp_start": "00:04:21",
+      "timestamp_end": "00:08:22",
+      "speakers": [
+        "Lenny",
+        "Sahil Mansuri"
+      ],
+      "themes": [
+        "Revenue & GTM",
+        "Career & Skills"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sahil-mansuri_t5",
+      "title": "Bravado War Room and real-time market pulse",
+      "summary": "They discuss Bravado\u2019s War Room concept (Stack Overflow for sales) and how it provides real-time insight into quota attainment, industries, and company performance; Lenny discloses he\u2019s a small investor.",
+      "timestamp_start": "00:08:22",
+      "timestamp_end": "00:10:05",
+      "speakers": [
+        "Lenny",
+        "Sahil Mansuri"
+      ],
+      "themes": [
+        "Revenue & GTM",
+        "Metrics & Forecasting"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sahil-mansuri_t6",
+      "title": "Why sales strategy must change in downturns",
+      "summary": "Sahil contrasts boom-time sales playbooks with recession realities: capital is expensive, pipeline is harder, and companies must prioritize unit economics, retention, and expansion over pure new-logo growth.",
+      "timestamp_start": "00:10:05",
+      "timestamp_end": "00:12:00",
+      "speakers": [
+        "Lenny",
+        "Sahil Mansuri"
+      ],
+      "themes": [
+        "Revenue & GTM",
+        "Leadership & Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sahil-mansuri_t7",
+      "title": "Quota attainment data and forecasting approach",
+      "summary": "Sahil shares Bravado data showing rapidly worsening quota attainment (reps and companies missing targets) and recommends conservative annual forecasts with pre-agreed checkpoints to reforecast and adjust spend.",
+      "timestamp_start": "00:12:00",
+      "timestamp_end": "00:19:06",
+      "speakers": [
+        "Lenny",
+        "Sahil Mansuri"
+      ],
+      "themes": [
+        "Metrics & Forecasting",
+        "Revenue & GTM",
+        "Leadership & Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sahil-mansuri_t8",
+      "title": "Uncertainty, recession comparisons, and being wrong often",
+      "summary": "They discuss how this downturn differs from COVID, why many leaders haven\u2019t experienced volatility like this, and why teams must get comfortable reforecasting and updating decisions without stigma.",
+      "timestamp_start": "00:19:06",
+      "timestamp_end": "00:21:27",
+      "speakers": [
+        "Lenny",
+        "Sahil Mansuri"
+      ],
+      "themes": [
+        "Leadership & Management",
+        "Metrics & Forecasting"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sahil-mansuri_t9",
+      "title": "How Bravado collects quota benchmarks",
+      "summary": "Sahil explains Bravado\u2019s \u201cgift-to-get\u201d model: reps enter performance data to receive benchmarks and leaderboards; Lenny asks how listeners can join.",
+      "timestamp_start": "00:21:27",
+      "timestamp_end": "00:23:00",
+      "speakers": [
+        "Lenny",
+        "Sahil Mansuri"
+      ],
+      "themes": [
+        "Metrics & Forecasting",
+        "Revenue & GTM"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sahil-mansuri_t10",
+      "title": "Rethinking sales comp plans for retention",
+      "summary": "Sahil breaks down typical SaaS comp (OTE, quota ratios, accelerators) and argues it over-rewards short-term new bookings while ignoring churn; he advocates aligning incentives with renewals, retention, and customer outcomes.",
+      "timestamp_start": "00:23:00",
+      "timestamp_end": "00:33:00",
+      "speakers": [
+        "Lenny",
+        "Sahil Mansuri"
+      ],
+      "themes": [
+        "Revenue & GTM",
+        "Leadership & Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sahil-mansuri_t11",
+      "title": "Why comp plans don\u2019t innovate and short-termism",
+      "summary": "They explore why comp plans stay outdated: low transparency, executive whims, copy-paste leadership patterns, and founders\u2019 preference for short-term revenue spikes; Sahil ties this to building durable businesses customers love.",
+      "timestamp_start": "00:33:00",
+      "timestamp_end": "00:40:16",
+      "speakers": [
+        "Lenny",
+        "Sahil Mansuri"
+      ],
+      "themes": [
+        "Leadership & Management",
+        "Revenue & GTM"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sahil-mansuri_t12",
+      "title": "Sponsor Break",
+      "summary": "Ad for Miro (collaborative online whiteboard for product strategy, research, roadmaps, and design workflows).",
+      "timestamp_start": "00:40:16",
+      "timestamp_end": "00:41:28",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor / Ads"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sahil-mansuri_t13",
+      "title": "Retention-first: shift top sellers to customer success",
+      "summary": "Sahil argues outbound response rates are down and sales cycles are longer, so companies should prioritize keeping existing customers\u2014potentially moving top AEs into customer success to prevent churn and drive expansion.",
+      "timestamp_start": "00:41:28",
+      "timestamp_end": "00:46:45",
+      "speakers": [
+        "Lenny",
+        "Sahil Mansuri"
+      ],
+      "themes": [
+        "Revenue & GTM",
+        "Customer Retention"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sahil-mansuri_t14",
+      "title": "Become a value-added advisor with customer benchmarks",
+      "summary": "He recommends using vendor-wide visibility to help customers survive (benchmarks, playbooks, insights) and reframing content from lead-gen to retention; Sahil shares how Bravado offers market insights to retain clients as hiring slows.",
+      "timestamp_start": "00:46:45",
+      "timestamp_end": "00:49:03",
+      "speakers": [
+        "Sahil Mansuri"
+      ],
+      "themes": [
+        "Customer Retention",
+        "Revenue & GTM"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

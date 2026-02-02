@@ -1,0 +1,303 @@
+{
+  "episode_id": "melissa-tan",
+  "topics": [
+    {
+      "topic_id": "melissa-tan_t1",
+      "title": "First-principles thinking and innovation at Dropbox",
+      "summary": "Melissa shares her \"aha\" moment about first-principles thinking at Dropbox, describing how hiring smart people without sales experience led to innovative go-to-market motions and deeper user context across functions.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:38",
+      "speakers": [
+        "Melissa Tan"
+      ],
+      "themes": [
+        "First Principles Thinking",
+        "Go-to-Market",
+        "Hiring"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melissa-tan_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the podcast and Melissa\u2019s background (Dropbox growth, advising, Webflow), previews key topics (high-performing teams, growth teams, interviewing PMs, growth hiring), and sets expectations for the episode.",
+      "timestamp_start": "00:00:38",
+      "timestamp_end": "00:02:14",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career",
+        "Growth Teams",
+        "Leadership"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "melissa-tan_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for AssemblyAI (speech-to-text and audio understanding API) and Mixpanel (product analytics across the funnel).",
+      "timestamp_start": "00:02:14",
+      "timestamp_end": "00:04:12",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "melissa-tan_t4",
+      "title": "Melissa\u2019s transition back to full-time advising",
+      "summary": "Melissa announces she\u2019s leaving Webflow and returning to advising, focusing on helping earlier-stage companies scale growth after product-market fit.",
+      "timestamp_start": "00:04:12",
+      "timestamp_end": "00:04:59",
+      "speakers": [
+        "Lenny",
+        "Melissa Tan"
+      ],
+      "themes": [
+        "Career",
+        "Advising",
+        "Growth Strategy"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "melissa-tan_t5",
+      "title": "Advising focus areas and how to contact her",
+      "summary": "She outlines where she helps most\u2014go-to-market strategy, PLG vs sales motion, pricing/packaging, funnel optimization, and growth team building\u2014and recommends LinkedIn as the best way to reach her.",
+      "timestamp_start": "00:04:59",
+      "timestamp_end": "00:06:15",
+      "speakers": [
+        "Lenny",
+        "Melissa Tan"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Pricing & Packaging",
+        "Growth Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "melissa-tan_t6",
+      "title": "Dropbox growth: what worked and what didn\u2019t",
+      "summary": "Melissa reflects on Dropbox\u2019s successes and missteps: strong hiring and execution, but delayed clarity and investment in B2B/enterprise, plus the need to embed go-to-market and monetization thinking earlier across product development.",
+      "timestamp_start": "00:06:15",
+      "timestamp_end": "00:11:50",
+      "speakers": [
+        "Lenny",
+        "Melissa Tan"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Hiring",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melissa-tan_t7",
+      "title": "When to add sales to a product-led motion",
+      "summary": "She shares a framework for PLG vs sales-led: intuitive onboarding and virality favor PLG; enterprise needs emerge from self-serve demand (SSO/security), and some enterprise-first products later simplify to become more product-led.",
+      "timestamp_start": "00:11:50",
+      "timestamp_end": "00:14:30",
+      "speakers": [
+        "Lenny",
+        "Melissa Tan"
+      ],
+      "themes": [
+        "Product-Led Growth",
+        "Sales Strategy",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melissa-tan_t8",
+      "title": "Leading so people follow you across companies",
+      "summary": "Melissa attributes repeat followership to a people-first approach: deep care, trust-building, and active investment in career development, informed by mentors who supported her early on.",
+      "timestamp_start": "00:14:30",
+      "timestamp_end": "00:15:55",
+      "speakers": [
+        "Lenny",
+        "Melissa Tan"
+      ],
+      "themes": [
+        "Leadership",
+        "People Management",
+        "Career Development"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "melissa-tan_t9",
+      "title": "Balancing care with high performance expectations",
+      "summary": "She explains that caring and results orientation can coexist: define measurable success, create clarity on goals, and support people with feedback and coaching to hit outcomes.",
+      "timestamp_start": "00:15:55",
+      "timestamp_end": "00:17:15",
+      "speakers": [
+        "Lenny",
+        "Melissa Tan"
+      ],
+      "themes": [
+        "Leadership",
+        "Performance Management",
+        "Growth Teams"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "melissa-tan_t10",
+      "title": "Direct feedback as an act of care",
+      "summary": "Melissa gives an example of early, candid feedback to a new hire about moving faster, framing it with belief and support; she breaks down how to deliver feedback without blame and with clear intent.",
+      "timestamp_start": "00:17:15",
+      "timestamp_end": "00:20:28",
+      "speakers": [
+        "Lenny",
+        "Melissa Tan"
+      ],
+      "themes": [
+        "Feedback",
+        "Leadership",
+        "Coaching"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "melissa-tan_t11",
+      "title": "Why develop internal talent versus hiring externally",
+      "summary": "She describes personal motivation (paying forward mentorship) and business rationale (institutional knowledge, smoother scaling, reduced risk) for growing people internally.",
+      "timestamp_start": "00:20:28",
+      "timestamp_end": "00:22:27",
+      "speakers": [
+        "Lenny",
+        "Melissa Tan"
+      ],
+      "themes": [
+        "Talent Development",
+        "Leadership",
+        "Scaling"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "melissa-tan_t12",
+      "title": "How to find mentors and growth-oriented managers",
+      "summary": "Melissa advises evaluating managers during interviews (management philosophy, career path thinking, references from reports), building organic mentorships inside/outside the company, and avoiding the high-pressure \"will you be my mentor\" ask.",
+      "timestamp_start": "00:22:27",
+      "timestamp_end": "00:27:48",
+      "speakers": [
+        "Lenny",
+        "Melissa Tan"
+      ],
+      "themes": [
+        "Mentorship",
+        "Career Development",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "melissa-tan_t13",
+      "title": "Common ingredients of high-performing teams",
+      "summary": "Across Dropbox/Canva/Grammarly/Miro/Webflow, she highlights clear goals and mission, a results-oriented culture, collaboration and team-first norms, strong ownership/agency, and making space for fun.",
+      "timestamp_start": "00:27:48",
+      "timestamp_end": "00:31:38",
+      "speakers": [
+        "Lenny",
+        "Melissa Tan"
+      ],
+      "themes": [
+        "Team Culture",
+        "Leadership",
+        "Goal Setting"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melissa-tan_t14",
+      "title": "Creating ownership and team-first culture in practice",
+      "summary": "Melissa explains how to design meaningful scopes, encourage agency despite cross-functional blockers, lead by example, and balance individual accountability with collaboration\u2014while avoiding overcommitment and burnout.",
+      "timestamp_start": "00:31:38",
+      "timestamp_end": "00:38:18",
+      "speakers": [
+        "Lenny",
+        "Melissa Tan"
+      ],
+      "themes": [
+        "Ownership",
+        "Team Culture",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melissa-tan_t15",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Eppo, an A/B testing and experimentation platform for modern growth teams.",
+      "timestamp_start": "00:38:18",
+      "timestamp_end": "00:39:25",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "melissa-tan_t16",
+      "title": "How Melissa develops talent end-to-end",
+      "summary": "She outlines a lifecycle approach: hire for growth mindset, set clear 90-day success and early wins, give continuous feedback and visibility (e.g., Loom updates), and maintain long-term support beyond the reporting relationship; she connects this to Radical Candor.",
+      "timestamp_start": "00:39:25",
+      "timestamp_end": "00:42:43",
+      "speakers": [
+        "Lenny",
+        "Melissa Tan"
+      ],
+      "themes": [
+        "Talent Development",
+        "Feedback",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melissa-tan_t17",
+      "title": "What she looks for in PMs and interview signals",
+      "summary": "Melissa emphasizes first-principles/critical thinking, cross-functional communication, and growth mindset; she uses a presentation with a prep call to give feedback mid-process and observe how candidates incorporate it.",
+      "timestamp_start": "00:42:43",
+      "timestamp_end": "00:44:39",
+      "speakers": [
+        "Lenny",
+        "Melissa Tan"
+      ],
+      "themes": [
+        "Hiring",
+        "Product Management",
+        "Interviewing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melissa-tan_t18",
+      "title": "Interview process setup (partial, transcript cut off)",
+      "summary": "She begins describing her interview sequence (hiring manager screen plus live problem solving) but the transcript ends mid-explanation.",
+      "timestamp_start": "00:44:39",
+      "timestamp_end": "00:44:57",
+      "speakers": [
+        "Lenny",
+        "Melissa Tan"
+      ],
+      "themes": [
+        "Hiring",
+        "Interviewing",
+        "Product Management"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

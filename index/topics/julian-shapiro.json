@@ -1,0 +1,244 @@
+{
+  "episode_id": "julian-shapiro",
+  "topics": [
+    {
+      "topic_id": "julian-shapiro_t1",
+      "title": "Creative process: bad ideas lead to good",
+      "summary": "Julian explains why good ideas often arrive only after exhausting bad ones: iterating trains pattern recognition and removes weak elements. He argues creators quit too early when they don\u2019t push through the full idea-generation cycle.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:37",
+      "speakers": [
+        "Julian Shapiro"
+      ],
+      "themes": [
+        "Creativity & Writing"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "julian-shapiro_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the show, previews key topics (product-led acquisition, retention, writing/novelty, creativity), and welcomes Julian. He also shares Julian\u2019s background (Demand Curve, Webflow, investing, writing).",
+      "timestamp_start": "00:00:37",
+      "timestamp_end": "00:04:43",
+      "speakers": [
+        "Lenny",
+        "Julian Shapiro"
+      ],
+      "themes": [
+        "Career & Background"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "julian-shapiro_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor segments featuring Amplitude (product analytics, experimentation, CDP) and Flatfile (data onboarding/CSV importing) and why onboarding quality impacts retention and conversion.",
+      "timestamp_start": "00:04:43",
+      "timestamp_end": "00:03:34",
+      "speakers": [
+        "Lenny",
+        "John Cutler",
+        "Ashley"
+      ],
+      "themes": [
+        "Tools & Platforms"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "julian-shapiro_t4",
+      "title": "Twitter strategy: mind vs labor followers",
+      "summary": "Julian explains why he reduced tweeting: thread culture became \u201ccringe\u201d and attracted low-affinity audiences. He introduces the distinction between \u201cmind followers\u201d (original insights) and \u201clabor followers\u201d (curation/memes) and why the former matters more.",
+      "timestamp_start": "00:04:43",
+      "timestamp_end": "00:07:12",
+      "speakers": [
+        "Lenny",
+        "Julian Shapiro"
+      ],
+      "themes": [
+        "Creativity & Writing"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "julian-shapiro_t5",
+      "title": "How to grow on Twitter early",
+      "summary": "Julian shares tactical advice for new accounts: threads increase surface area and credibility, and clicky openings help distribution. He also suggests seeding an initial audience from newsletters/websites.",
+      "timestamp_start": "00:07:23",
+      "timestamp_end": "00:09:28",
+      "speakers": [
+        "Lenny",
+        "Julian Shapiro"
+      ],
+      "themes": [
+        "Marketing & Acquisition"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "julian-shapiro_t6",
+      "title": "Handbooks: why Julian writes them",
+      "summary": "Julian describes handbooks as personal forcing functions to learn deeply, distill insights, and create concise reference guides. He then publishes them because marginal effort is low and they help audience building.",
+      "timestamp_start": "00:09:53",
+      "timestamp_end": "00:11:14",
+      "speakers": [
+        "Lenny",
+        "Julian Shapiro"
+      ],
+      "themes": [
+        "Creativity & Writing"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "julian-shapiro_t7",
+      "title": "Evergreen publishing: web vs newsletter tradeoffs",
+      "summary": "They compare newsletters vs web handbooks: newsletters drive retention via inbox pings, while web content is more referenceable, SEO-friendly, and updateable. Julian emphasizes continually revising old posts to keep them evergreen.",
+      "timestamp_start": "00:11:34",
+      "timestamp_end": "00:13:25",
+      "speakers": [
+        "Lenny",
+        "Julian Shapiro"
+      ],
+      "themes": [
+        "Creativity & Writing"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "julian-shapiro_t8",
+      "title": "Product-led acquisition: definition and why it wins",
+      "summary": "Julian reframes \u201cproduct-led growth\u201d as product-led acquisition (PLA): the product\u2019s use directly drives new user acquisition. He argues PLA is the best growth engine when possible because it\u2019s scalable, low marginal cost, and less dependent on volatile third parties.",
+      "timestamp_start": "00:13:28",
+      "timestamp_end": "00:16:19",
+      "speakers": [
+        "Lenny",
+        "Julian Shapiro"
+      ],
+      "themes": [
+        "Marketing & Acquisition"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "julian-shapiro_t9",
+      "title": "PLA categories: settling debts and gated conversations",
+      "summary": "Julian outlines PLA mechanisms: (1) settling debts (e.g., PayPal/Venmo) forces recipients to join; (2) inviting people into conversations (WhatsApp/Discord/Slack) pulls new users in. He frames this as a product roadmap lens for growth features.",
+      "timestamp_start": "00:16:19",
+      "timestamp_end": "00:19:44",
+      "speakers": [
+        "Lenny",
+        "Julian Shapiro"
+      ],
+      "themes": [
+        "Marketing & Acquisition"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "julian-shapiro_t10",
+      "title": "PLA realism: idea selection vs tack-ons",
+      "summary": "Lenny asks how often PLA can be bolted on; Julian argues it\u2019s usually a DNA/idea-selection issue and warns against starting without a growth thesis. He distinguishes PLA from referral programs, which can attract low-quality, reward-seeking users.",
+      "timestamp_start": "00:19:44",
+      "timestamp_end": "00:22:00",
+      "speakers": [
+        "Lenny",
+        "Julian Shapiro"
+      ],
+      "themes": [
+        "Startups & Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "julian-shapiro_t11",
+      "title": "PLA categories: billboarding and user-generated content",
+      "summary": "Julian explains billboarding (product use visibly advertises itself: signatures, links like Calendly/Dropbox, physical visibility) and UGC (users create/share content that carries platform branding, including SEO-indexed discussions like Reddit/Quora). He reiterates PLA\u2019s scalability and low cost.",
+      "timestamp_start": "00:22:00",
+      "timestamp_end": "00:28:17",
+      "speakers": [
+        "Lenny",
+        "Julian Shapiro"
+      ],
+      "themes": [
+        "Marketing & Acquisition"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "julian-shapiro_t12",
+      "title": "Sponsor Break",
+      "summary": "Eppo sponsorship: an A/B testing platform for modern growth teams, emphasizing fast slicing, north-star metrics, and broad experimentation support (frontend, backend, email, ML).",
+      "timestamp_start": "00:28:17",
+      "timestamp_end": "00:29:34",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Tools & Platforms"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "julian-shapiro_t13",
+      "title": "Retention strategy: building state",
+      "summary": "Julian\u2019s core retention model is \u201cbuilding state,\u201d borrowed from video games: users accrue valuable progress that makes leaving costly. Examples include non-transferable reputation (eBay/Yelp), non-transferable audiences (YouTube), and social graphs (Facebook/LinkedIn).",
+      "timestamp_start": "00:29:34",
+      "timestamp_end": "00:35:39",
+      "speakers": [
+        "Lenny",
+        "Julian Shapiro"
+      ],
+      "themes": [
+        "Retention & Engagement"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "julian-shapiro_t14",
+      "title": "State building as investing and moat lens",
+      "summary": "Julian notes state building is usually inherent to product design rather than a bolt-on, citing embedded infrastructure (Stripe/Twilio/AWS) as sticky by default. He also critiques \u201cmoat\u201d as overused, reframing it as practical retention advantage rather than true barriers.",
+      "timestamp_start": "00:35:39",
+      "timestamp_end": "00:38:35",
+      "speakers": [
+        "Lenny",
+        "Julian Shapiro"
+      ],
+      "themes": [
+        "Startups & Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "julian-shapiro_t15",
+      "title": "Writing with novelty: definition and editing method",
+      "summary": "Julian defines novelty as new, significant, and non-obvious ideas that trigger a \u201cwhoa\u201d reaction. He describes a process of having readers highlight novel lines, then cutting filler to increase novelty density and momentum.",
+      "timestamp_start": "00:38:35",
+      "timestamp_end": "00:40:51",
+      "speakers": [
+        "Lenny",
+        "Julian Shapiro"
+      ],
+      "themes": [
+        "Creativity & Writing"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "julian-shapiro_t16",
+      "title": "Novelty types and examples in tweets",
+      "summary": "Julian lists novelty categories (counterintuitive, counter-narrative, shock-and-awe, elegant articulation) and explains capturing novelty scores when first learning something. He walks through tweet examples to show how novelty hooks attention and drives engagement.",
+      "timestamp_start": "00:40:51",
+      "timestamp_end": "00:44:33",
+      "speakers": [
+        "Lenny",
+        "Julian Shapiro"
+      ],
+      "themes": [
+        "Creativity & Writing"
+      ],
+      "quote_count": 0
+    }
+  ]
+}

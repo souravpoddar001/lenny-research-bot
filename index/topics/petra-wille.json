@@ -1,0 +1,228 @@
+{
+  "episode_id": "petra-wille",
+  "topics": [
+    {
+      "topic_id": "petra-wille_t1",
+      "title": "Introduction and Background",
+      "summary": "Cold open on why storytelling/public speaking matters for promotion, then Lenny introduces Petra Wille, her coaching work, and the episode\u2019s three focus areas.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:32",
+      "speakers": [
+        "Petra Wille",
+        "Lenny"
+      ],
+      "themes": [
+        "Coaching & Management",
+        "Storytelling & Communication"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "petra-wille_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Flatfile (CSV import/onboarding), Mixpanel (self-serve product analytics), and later AssemblyAI (audio/video AI models).",
+      "timestamp_start": "00:01:32",
+      "timestamp_end": "00:35:17",
+      "speakers": [
+        "Lenny",
+        "Ashley"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "petra-wille_t3",
+      "title": "Petra\u2019s coaching work and impact",
+      "summary": "Petra explains who she coaches (product leaders and previously IC PMs), how her work spans 1:1, group, and org coaching, and estimates her broader ripple-effect impact.",
+      "timestamp_start": "00:03:35",
+      "timestamp_end": "00:05:35",
+      "speakers": [
+        "Lenny",
+        "Petra Wille"
+      ],
+      "themes": [
+        "Coaching & Management",
+        "Product Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "petra-wille_t4",
+      "title": "Why middle-layer product leaders matter",
+      "summary": "They discuss why first-line managers/directors are highly influential, and Petra notes many product leaders come from non-product backgrounds and lack empathy for PM challenges.",
+      "timestamp_start": "00:05:35",
+      "timestamp_end": "00:07:02",
+      "speakers": [
+        "Lenny",
+        "Petra Wille"
+      ],
+      "themes": [
+        "Coaching & Management",
+        "Product Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "petra-wille_t5",
+      "title": "Common gaps for non-product product leaders",
+      "summary": "Petra highlights two big misses: leaders don\u2019t curate PM learning using the broader product community, and they underestimate the role\u2019s multi-skill complexity (beyond \u201cT-shaped\u201d).",
+      "timestamp_start": "00:07:02",
+      "timestamp_end": "00:09:32",
+      "speakers": [
+        "Lenny",
+        "Petra Wille"
+      ],
+      "themes": [
+        "Coaching & Management",
+        "Product Management Skills"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "petra-wille_t6",
+      "title": "Petra\u2019s book: Strong Product People",
+      "summary": "Petra describes her niche book for people managing PMs, focused on coaching and developing PM capabilities (feedback, discovery, motivation) rather than only strategy creation.",
+      "timestamp_start": "00:09:32",
+      "timestamp_end": "00:11:18",
+      "speakers": [
+        "Lenny",
+        "Petra Wille"
+      ],
+      "themes": [
+        "Coaching & Management",
+        "Product Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "petra-wille_t7",
+      "title": "Five ingredients to coach PMs well",
+      "summary": "Petra lays out her coaching framework: define what \u201cgood\u201d looks like, assess current state, set a shared vision and next challenge, create a development plan, and follow up consistently.",
+      "timestamp_start": "00:11:18",
+      "timestamp_end": "00:16:23",
+      "speakers": [
+        "Lenny",
+        "Petra Wille"
+      ],
+      "themes": [
+        "Coaching & Management",
+        "Product Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "petra-wille_t8",
+      "title": "Where to start: development plans and follow-up",
+      "summary": "They discuss the most practical starting point\u2014helping PMs build a development plan and nudging progress\u2014plus Lenny\u2019s example of monthly check-ins tied to review goals.",
+      "timestamp_start": "00:16:23",
+      "timestamp_end": "00:21:16",
+      "speakers": [
+        "Lenny",
+        "Petra Wille"
+      ],
+      "themes": [
+        "Coaching & Management",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "petra-wille_t9",
+      "title": "Defining competent PMs: ladders, traits, assessments",
+      "summary": "Petra recommends borrowing and customizing existing PM competency assessments, and emphasizes hiring for harder-to-train traits like curiosity and empathy.",
+      "timestamp_start": "00:21:16",
+      "timestamp_end": "00:24:03",
+      "speakers": [
+        "Lenny",
+        "Petra Wille"
+      ],
+      "themes": [
+        "Hiring & Team Building",
+        "Coaching & Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "petra-wille_t10",
+      "title": "PMwheel framework overview",
+      "summary": "Petra explains her PMwheel\u2019s eight buckets (problem/solution, planning, delivery, learn/iterate, team, personal growth, agile) and how to use self/manager/team assessments.",
+      "timestamp_start": "00:24:03",
+      "timestamp_end": "00:27:35",
+      "speakers": [
+        "Lenny",
+        "Petra Wille"
+      ],
+      "themes": [
+        "Product Management Skills",
+        "Coaching & Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "petra-wille_t11",
+      "title": "Practical coaching: questions and 1:1 structure",
+      "summary": "Petra suggests keeping a ready list of coaching questions (including emotion prompts) and references Mochary-style scaling questions to improve 1:1 quality and trust.",
+      "timestamp_start": "00:27:35",
+      "timestamp_end": "00:34:06",
+      "speakers": [
+        "Lenny",
+        "Petra Wille"
+      ],
+      "themes": [
+        "Coaching & Management",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "petra-wille_t12",
+      "title": "Storytelling basics: time investment and human language",
+      "summary": "Petra argues storytelling takes significant prep time (e.g., weeks for a quarterly narrative) and advises removing jargon in favor of vivid, human language that connects emotionally.",
+      "timestamp_start": "00:35:17",
+      "timestamp_end": "00:40:57",
+      "speakers": [
+        "Lenny",
+        "Petra Wille"
+      ],
+      "themes": [
+        "Storytelling & Communication",
+        "Product Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "petra-wille_t13",
+      "title": "Public speaking: practice, feedback, and nerves",
+      "summary": "They cover how to improve public speaking by starting with small friendly audiences, seeking feedback, and using pre-talk techniques (power poses, tapping) to manage anxiety.",
+      "timestamp_start": "00:40:57",
+      "timestamp_end": "00:44:39",
+      "speakers": [
+        "Lenny",
+        "Petra Wille"
+      ],
+      "themes": [
+        "Storytelling & Communication",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "petra-wille_t14",
+      "title": "Career impact of storytelling and role models",
+      "summary": "Petra explains why weak storytelling/public speaking can stall promotions (though teams can sometimes compensate) and begins citing a standout storyteller leader (Jason Goldberg).",
+      "timestamp_start": "00:44:39",
+      "timestamp_end": "00:46:59",
+      "speakers": [
+        "Lenny",
+        "Petra Wille"
+      ],
+      "themes": [
+        "Storytelling & Communication",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

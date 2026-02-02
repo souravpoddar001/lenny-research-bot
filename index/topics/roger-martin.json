@@ -1,0 +1,267 @@
+{
+  "episode_id": "roger-martin",
+  "topics": [
+    {
+      "topic_id": "roger-martin_t1",
+      "title": "Cold open: why strategy is hard",
+      "summary": "Roger argues most people struggle with strategy because business schools and companies don\u2019t train it well, and because strategy is both intellectually integrative and emotionally intimidating.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:46",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Roger Martin"
+      ],
+      "themes": [
+        "Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "roger-martin_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Roger Martin and previews the episode\u2019s focus: a tactical framework for crafting strategy and building strategic thinking skills.",
+      "timestamp_start": "00:00:59",
+      "timestamp_end": "00:02:24",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Roger Martin"
+      ],
+      "themes": [
+        "Strategy"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "roger-martin_t3",
+      "title": "Strategy isn\u2019t just for executives",
+      "summary": "They discuss why strategy should be practiced by people deep in the org, using Procter & Gamble as an example of training brand managers to make consequential strategic choices.",
+      "timestamp_start": "00:02:27",
+      "timestamp_end": "00:04:13",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Roger Martin"
+      ],
+      "themes": [
+        "Strategy",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "roger-martin_t4",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Webflow and WorkOS.",
+      "timestamp_start": "00:04:57",
+      "timestamp_end": "00:07:01",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "roger-martin_t5",
+      "title": "Why people are bad at strategy",
+      "summary": "Roger breaks down the core difficulties: strategy requires integrated choices, forces tradeoffs, and is poorly taught due to academic incentives and consulting industry shifts away from strategy work.",
+      "timestamp_start": "00:07:01",
+      "timestamp_end": "00:09:40",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Roger Martin"
+      ],
+      "themes": [
+        "Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "roger-martin_t6",
+      "title": "Business school strategy and the RBV critique",
+      "summary": "Roger critiques the resource-based view of the firm as an unhelpful academic backlash to Porter, arguing it fails to guide real resource investment decisions and dominates hiring/teaching.",
+      "timestamp_start": "00:09:40",
+      "timestamp_end": "00:13:55",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Roger Martin"
+      ],
+      "themes": [
+        "Strategy",
+        "Education"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "roger-martin_t7",
+      "title": "Where Helmer and Rumelt fit in",
+      "summary": "Roger positions Hamilton Helmer as a practical strategist with a useful \u201chow to win\u201d categorization, and criticizes Rumelt\u2019s hypercompetition framing and weak grounding in business reality.",
+      "timestamp_start": "00:13:55",
+      "timestamp_end": "00:17:32",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Roger Martin"
+      ],
+      "themes": [
+        "Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "roger-martin_t8",
+      "title": "Defining strategy: choices that compel customers",
+      "summary": "Roger defines strategy as an integrated set of choices that compels desired customer action, emphasizing companies control decisions but not customers\u2014strategy bridges that gap.",
+      "timestamp_start": "00:17:32",
+      "timestamp_end": "00:19:11",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Roger Martin"
+      ],
+      "themes": [
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "roger-martin_t9",
+      "title": "The strategy choice cascade: five questions",
+      "summary": "Roger explains the five-question cascade (winning aspiration, where to play, how to win, capabilities, management systems) and how it emerged from trying to operationalize Porter-style outputs.",
+      "timestamp_start": "00:19:11",
+      "timestamp_end": "00:23:21",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Roger Martin"
+      ],
+      "themes": [
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "roger-martin_t10",
+      "title": "Playing to win vs playing to play",
+      "summary": "They discuss how customer behavior reveals whether you\u2019re truly winning, and Roger argues sustainable advantage requires either differentiation or low cost\u2014otherwise competitors can \u201cbully\u201d you.",
+      "timestamp_start": "00:23:21",
+      "timestamp_end": "00:30:24",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Roger Martin"
+      ],
+      "themes": [
+        "Strategy",
+        "Competition"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "roger-martin_t11",
+      "title": "Differentiation needs defensible capabilities",
+      "summary": "Roger explains that being \u201cbetter\u201d isn\u2019t enough unless competitors can\u2019t or won\u2019t replicate it, using Amazon vs Walmart and Tesla vs OEMs to illustrate inertia and head starts as advantage drivers.",
+      "timestamp_start": "00:30:24",
+      "timestamp_end": "00:37:02",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Roger Martin"
+      ],
+      "themes": [
+        "Strategy",
+        "Competition"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "roger-martin_t12",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Cycle, an AI-powered product feedback platform.",
+      "timestamp_start": "00:37:02",
+      "timestamp_end": "00:38:12",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "roger-martin_t13",
+      "title": "Moats, replication barriers, and Westlaw example",
+      "summary": "They connect defensible advantage to \u201cmoats\u201d (Buffett), discuss Helmer\u2019s categorization, and Roger illustrates a hard-to-copy capability stack via Westlaw\u2019s lawyer-built legal search system.",
+      "timestamp_start": "00:38:12",
+      "timestamp_end": "00:40:23",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Roger Martin"
+      ],
+      "themes": [
+        "Strategy",
+        "Competition"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "roger-martin_t14",
+      "title": "Applying the cascade to FigJam",
+      "summary": "They walk through how FigJam might define aspiration and where-to-play choices (customers, channels, product scope), and Roger warns against vague rationales like \u201cthe market is big.\u201d",
+      "timestamp_start": "00:40:23",
+      "timestamp_end": "00:45:31",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Roger Martin"
+      ],
+      "themes": [
+        "Strategy",
+        "Product"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "roger-martin_t15",
+      "title": "Where-to-play includes value chain choices",
+      "summary": "Roger expands where-to-play to include vertical stage/value chain positioning, using Four Seasons\u2019 asset-light shift and app developers\u2019 dependence on Apple\u2019s distribution as examples.",
+      "timestamp_start": "00:45:31",
+      "timestamp_end": "00:48:28",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Roger Martin"
+      ],
+      "themes": [
+        "Strategy",
+        "Business Models"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "roger-martin_t16",
+      "title": "How to win: low cost vs differentiation tradeoffs",
+      "summary": "Roger outlines how-to-win hypotheses (cheaper, easier, more integrated into workflow) and pushes back on the idea that low-cost is inherently worse, noting it often requires dominant scale.",
+      "timestamp_start": "00:48:28",
+      "timestamp_end": "00:53:16",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Roger Martin"
+      ],
+      "themes": [
+        "Strategy",
+        "Competition"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "roger-martin_t17",
+      "title": "Capabilities: making the how-to-win real",
+      "summary": "They begin mapping how-to-win claims into concrete capabilities (e.g., learning curves, superior support/experience), emphasizing capabilities must operationalize the customer-facing advantage.",
+      "timestamp_start": "00:53:16",
+      "timestamp_end": "00:54:47",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Roger Martin"
+      ],
+      "themes": [
+        "Strategy",
+        "Operations"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

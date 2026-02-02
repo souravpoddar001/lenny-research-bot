@@ -1,0 +1,180 @@
+{
+  "episode_id": "tristan-de-montebello",
+  "topics": [
+    {
+      "topic_id": "tristan-de-montebello_t1",
+      "title": "Introduction and Background",
+      "summary": "Tristan opens with the idea that people adopt an unnatural \u201cpublic speaking voice.\u201d Lenny introduces Tristan\u2019s credentials and frames the episode as tactical, interactive practice to improve public speaking and anxiety.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:54",
+      "speakers": [
+        "Tristan de Montebello",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Communication",
+        "Personal Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tristan-de-montebello_t2",
+      "title": "Sponsor Break",
+      "summary": "Two sponsor reads: Eppo (experimentation/A-B testing platform) and Command AI (in-product AI support and nudges).",
+      "timestamp_start": "00:02:59",
+      "timestamp_end": "00:05:11",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Business"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tristan-de-montebello_t3",
+      "title": "Speaking as a meta-skill and \u201cdebugging\u201d yourself",
+      "summary": "Tristan argues the biggest misconception is underestimating how transformative speaking is because it\u2019s a meta-skill. He explains the \u201chardware vs. buggy software\u201d metaphor: humans are built to speak, but habits and avoidance create bugs that can be debugged and upgraded.",
+      "timestamp_start": "00:05:36",
+      "timestamp_end": "00:08:56",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tristan de Montebello"
+      ],
+      "themes": [
+        "Personal Growth",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tristan-de-montebello_t4",
+      "title": "Enjoyment as a barometer for speaking well",
+      "summary": "They discuss Tristan\u2019s principle: if you don\u2019t enjoy speaking, you\u2019re likely doing it wrong. Enjoyment signals you\u2019re speaking more naturally (like in personal conversations) and practicing in a sustainable way.",
+      "timestamp_start": "00:08:56",
+      "timestamp_end": "00:11:58",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tristan de Montebello"
+      ],
+      "themes": [
+        "Communication",
+        "Personal Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "tristan-de-montebello_t5",
+      "title": "Flow state and fixing root causes, not symptoms",
+      "summary": "Tristan explains speaking is a subconscious, flow-oriented process; the goal is staying in flow rather than adding conscious tactics. He advocates addressing root causes (comfort with pausing, trust, certainty) instead of symptoms like filler words or monotone delivery.",
+      "timestamp_start": "00:11:58",
+      "timestamp_end": "00:15:15",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tristan de Montebello"
+      ],
+      "themes": [
+        "Communication",
+        "Personal Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tristan-de-montebello_t6",
+      "title": "Three tactical tweaks: think up, end strong, stay in character",
+      "summary": "Tristan shares three practical tactics: look up while thinking to appear thoughtful/confident, \u201cend strong\u201d using summary prompts to avoid tapering off, and \u201cstay in character\u201d by not leaking insecurities or hedging mid-speech.",
+      "timestamp_start": "00:15:34",
+      "timestamp_end": "00:26:23",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tristan de Montebello"
+      ],
+      "themes": [
+        "Communication",
+        "Personal Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tristan-de-montebello_t7",
+      "title": "Why people \u201cleak\u201d and how to stop",
+      "summary": "Lenny relates to apologizing/flagging when things feel off; Tristan explains it\u2019s driven by the false belief the audience can tell. They use analogies (standup, train, pilot announcements) to show how calling attention to mistakes worsens audience perception.",
+      "timestamp_start": "00:26:23",
+      "timestamp_end": "00:29:18",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tristan de Montebello"
+      ],
+      "themes": [
+        "Communication",
+        "Personal Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tristan-de-montebello_t8",
+      "title": "Why Ultraspeaking uses games for practice",
+      "summary": "They transition into live exercises and discuss why games work: you can\u2019t improve without speaking, and games create short deliberate reps with feedback. Tristan describes how the curriculum evolved from coaching experiments into structured speaking games and tools.",
+      "timestamp_start": "00:29:18",
+      "timestamp_end": "00:34:56",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tristan de Montebello"
+      ],
+      "themes": [
+        "Communication",
+        "Learning"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tristan-de-montebello_t9",
+      "title": "Live game: Conductor explained and demoed",
+      "summary": "Tristan explains Conductor: speaking to a random prompt while adjusting intensity based on changing numbers and pausing on \u201cbreathe.\u201d He demonstrates on the prompt \u201cWhen I grow up,\u201d showing controlled shifts in energy and pacing.",
+      "timestamp_start": "00:34:56",
+      "timestamp_end": "00:37:56",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tristan de Montebello"
+      ],
+      "themes": [
+        "Communication",
+        "Learning"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tristan-de-montebello_t10",
+      "title": "Lenny plays Conductor; coaching on mindset",
+      "summary": "Lenny attempts Conductor (\u201cThe Greatest Puzzle\u201d), struggles to fully commit to the game, and Tristan coaches him to prioritize play over performance. Lenny tries again (\u201cIntegrating new cultures\u201d) and they note reduced leaking/hedging.",
+      "timestamp_start": "00:37:56",
+      "timestamp_end": "00:42:13",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tristan de Montebello"
+      ],
+      "themes": [
+        "Communication",
+        "Learning"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "tristan-de-montebello_t11",
+      "title": "Turbulence training and lessons from Conductor",
+      "summary": "Tristan frames games as flight simulators designed to create \u201cturbulence,\u201d teaching graceful recovery and confidence under pressure. Lenny shares takeaways: different energy levels unlock different thoughts (\u201cfolders\u201d), and low-stakes reps build real confidence; Tristan adds the model: energy \u2192 emotion \u2192 words.",
+      "timestamp_start": "00:42:13",
+      "timestamp_end": "00:47:44",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tristan de Montebello"
+      ],
+      "themes": [
+        "Communication",
+        "Personal Growth",
+        "Learning"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

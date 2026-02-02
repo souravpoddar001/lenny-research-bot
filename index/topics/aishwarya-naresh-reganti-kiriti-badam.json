@@ -1,0 +1,255 @@
+{
+  "episode_id": "aishwarya-naresh-reganti-kiriti-badam",
+  "topics": [
+    {
+      "topic_id": "aishwarya-naresh-reganti-kiriti-badam_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Aishwarya Reganti and Kiriti Badam, their experience across 50+ AI deployments, and the episode\u2019s goal: practical lessons to avoid common AI product failures.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:22",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Aishwarya Naresh Reganti",
+        "Kiriti Badam"
+      ],
+      "themes": [
+        "AI Product Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "aishwarya-naresh-reganti-kiriti-badam_t2",
+      "title": "Sponsor Break",
+      "summary": "Ads and promotions: Lenny\u2019s Product Pass, plus sponsor reads for Merge (integrations/connectors for SaaS and AI agents) and Strella (AI-powered user research interviews).",
+      "timestamp_start": "00:02:22",
+      "timestamp_end": "00:05:13",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Other"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "aishwarya-naresh-reganti-kiriti-badam_t3",
+      "title": "What\u2019s working and failing in AI adoption",
+      "summary": "Ash contrasts 2024 vs 2025: less skepticism and more workflow rethinking, but execution remains messy due to a new lifecycle and broken handoffs across PM/eng/data roles requiring tighter collaboration.",
+      "timestamp_start": "00:05:13",
+      "timestamp_end": "00:07:37",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Aishwarya Naresh Reganti"
+      ],
+      "themes": [
+        "AI Product Strategy",
+        "Org & Culture"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "aishwarya-naresh-reganti-kiriti-badam_t4",
+      "title": "Two core differences: nondeterminism and agency-control",
+      "summary": "Ash explains why AI products differ from traditional software: nondeterministic inputs/outputs (natural language + LLM variability) and the agency vs control trade-off where autonomy requires earned trust.",
+      "timestamp_start": "00:07:37",
+      "timestamp_end": "00:11:35",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Aishwarya Naresh Reganti"
+      ],
+      "themes": [
+        "AI Product Strategy",
+        "AI Safety & Risk"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "aishwarya-naresh-reganti-kiriti-badam_t5",
+      "title": "Build step-by-step: start small, then increase autonomy",
+      "summary": "Kiriti argues teams should avoid jumping straight to fully autonomous agents; instead, start with low-risk, high-control versions to learn capabilities, stay problem-first, and gradually add tools/context.",
+      "timestamp_start": "00:11:35",
+      "timestamp_end": "00:13:20",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Kiriti Badam"
+      ],
+      "themes": [
+        "AI Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "aishwarya-naresh-reganti-kiriti-badam_t6",
+      "title": "Customer support agent autonomy ladder example",
+      "summary": "Kiriti walks through a concrete progression: AI suggests responses to human agents, then answers customers directly, then expands to actions like refunds and feature requests\u2014only after learning from feedback.",
+      "timestamp_start": "00:13:20",
+      "timestamp_end": "00:16:02",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Kiriti Badam"
+      ],
+      "themes": [
+        "AI Product Strategy",
+        "AI Operations & Monitoring"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "aishwarya-naresh-reganti-kiriti-badam_t7",
+      "title": "Behavior calibration, risk tiers, and flywheels",
+      "summary": "Ash frames AI building as behavior calibration: constrain autonomy to protect UX, use risk-based routing (e.g., insurance pre-auth low vs high risk), and log human decisions to create improvement flywheels.",
+      "timestamp_start": "00:16:02",
+      "timestamp_end": "00:18:26",
+      "speakers": [
+        "Aishwarya Naresh Reganti",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Product Strategy",
+        "AI Safety & Risk"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "aishwarya-naresh-reganti-kiriti-badam_t8",
+      "title": "More autonomy ladder examples and why it matters",
+      "summary": "Lenny adds examples (coding assistant, marketing assistant) and the group reinforces that nondeterminism is both feature and bug; premature V3 autonomy increases complexity and failure risk.",
+      "timestamp_start": "00:17:41",
+      "timestamp_end": "00:21:31",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Aishwarya Naresh Reganti",
+        "Kiriti Badam"
+      ],
+      "themes": [
+        "AI Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "aishwarya-naresh-reganti-kiriti-badam_t9",
+      "title": "Reliability as top enterprise blocker",
+      "summary": "Ash cites research (Databricks/Berkeley) that ~75% of enterprises cite reliability as the biggest issue, explaining why many AI products focus on productivity assistance rather than full workflow replacement.",
+      "timestamp_start": "00:21:31",
+      "timestamp_end": "00:22:38",
+      "speakers": [
+        "Aishwarya Naresh Reganti",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Product Strategy",
+        "AI Safety & Risk"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "aishwarya-naresh-reganti-kiriti-badam_t10",
+      "title": "Prompt injection and guardrails risk discussion",
+      "summary": "They discuss how jailbreaks/prompt injection become scarier as agents gain autonomy; Kiriti stays optimistic that human-in-the-loop and early adoption can mitigate risks while delivering value.",
+      "timestamp_start": "00:22:38",
+      "timestamp_end": "00:25:06",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Aishwarya Naresh Reganti",
+        "Kiriti Badam"
+      ],
+      "themes": [
+        "AI Safety & Risk"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "aishwarya-naresh-reganti-kiriti-badam_t11",
+      "title": "Success triangle: leadership, culture, technical execution",
+      "summary": "Ash outlines three predictors of success: hands-on leaders rebuilding intuition, an empowering culture that reduces replacement fear (to engage SMEs), and technical rigor around workflows, hybrid systems, and fast iteration flywheels.",
+      "timestamp_start": "00:25:06",
+      "timestamp_end": "00:33:21",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Aishwarya Naresh Reganti"
+      ],
+      "themes": [
+        "Org & Culture",
+        "AI Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "aishwarya-naresh-reganti-kiriti-badam_t12",
+      "title": "Evals vs production monitoring: both are required",
+      "summary": "Kiriti rejects the \u2018evals vs monitoring\u2019 dichotomy: evals prevent regressions on known critical behaviors, while production monitoring surfaces unknown failures via explicit/implicit signals that then inform new evals.",
+      "timestamp_start": "00:33:21",
+      "timestamp_end": "00:38:13",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Kiriti Badam",
+        "Aishwarya Naresh Reganti"
+      ],
+      "themes": [
+        "AI Operations & Monitoring",
+        "AI Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "aishwarya-naresh-reganti-kiriti-badam_t13",
+      "title": "Semantic diffusion: what people mean by \u201cevals\u201d",
+      "summary": "Ash explains \u2018evals\u2019 now refers to many different activities (labeling, PRD-like specs, benchmarks), causing confusion; the real goal is an actionable feedback loop tailored to context, not a one-size prescription.",
+      "timestamp_start": "00:38:13",
+      "timestamp_end": "00:41:27",
+      "speakers": [
+        "Aishwarya Naresh Reganti",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Operations & Monitoring",
+        "AI Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "aishwarya-naresh-reganti-kiriti-badam_t14",
+      "title": "How Kodex balances evals, vibes, and user feedback",
+      "summary": "Kiriti describes Kodex\u2019s approach: core evals to protect critical behaviors, heavy reliance on customer signals and A/B tests, and team-based manual testing on hard problems given the product\u2019s broad customizability.",
+      "timestamp_start": "00:41:27",
+      "timestamp_end": "00:44:58",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Kiriti Badam"
+      ],
+      "themes": [
+        "AI Operations & Monitoring",
+        "AI Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "aishwarya-naresh-reganti-kiriti-badam_t15",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Brex: finance platform for founders with AI agents to automate expenses, detect waste, and run reports.",
+      "timestamp_start": "00:44:58",
+      "timestamp_end": "00:45:43",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Other"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "aishwarya-naresh-reganti-kiriti-badam_t16",
+      "title": "Transition to continuous calibration framework",
+      "summary": "Lenny tees up their \u201ccontinuous calibration, continuous development\u201d framework and prepares to pull up a visual and walk through the step-by-step process (discussion begins but is cut off in the provided transcript).",
+      "timestamp_start": "00:45:43",
+      "timestamp_end": "00:45:43",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "AI Product Strategy"
+      ],
+      "quote_count": 2
+    }
+  ]
+}

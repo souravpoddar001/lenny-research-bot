@@ -1,0 +1,305 @@
+{
+  "episode_id": "archie-abrams",
+  "topics": [
+    {
+      "topic_id": "archie-abrams_t1",
+      "title": "Introduction and Background",
+      "summary": "Archie and Lenny set up the episode\u2019s focus: how Shopify approaches product and growth differently, including long-term thinking, experimentation, and unconventional metrics.",
+      "timestamp_start": "00:00:48",
+      "timestamp_end": "00:03:56",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Archie Abrams"
+      ],
+      "themes": [
+        "Company Strategy",
+        "Growth Strategy",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "archie-abrams_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Explo (embedded analytics) and Dovetail (AI customer insights hub).",
+      "timestamp_start": "00:03:56",
+      "timestamp_end": "00:06:18",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "archie-abrams_t3",
+      "title": "Why Shopify optimizes for churn",
+      "summary": "Archie explains Shopify\u2019s mission-driven view: lower barriers so more people try entrepreneurship, accepting that many will fail, while a few big winners drive outsized value.",
+      "timestamp_start": "00:06:18",
+      "timestamp_end": "00:10:00",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Archie Abrams"
+      ],
+      "themes": [
+        "Growth Strategy",
+        "Business Model",
+        "Retention & Churn"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "archie-abrams_t4",
+      "title": "Measuring success via cohort GMV power laws",
+      "summary": "Instead of retention, Shopify evaluates cohorts by total GMV over years, reflecting a power-law distribution where a small number of merchants create most value.",
+      "timestamp_start": "00:10:00",
+      "timestamp_end": "00:11:18",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Archie Abrams"
+      ],
+      "themes": [
+        "Metrics & Measurement",
+        "Growth Strategy",
+        "Business Model"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "archie-abrams_t5",
+      "title": "Long feedback loops and long-term holdouts",
+      "summary": "Archie describes Shopify\u2019s long-horizon approach: different orgs operate on different timeframes, and growth uses long-term monitoring/holdouts to validate real downstream impact.",
+      "timestamp_start": "00:11:18",
+      "timestamp_end": "00:14:36",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Archie Abrams"
+      ],
+      "themes": [
+        "Experimentation",
+        "Metrics & Measurement",
+        "Company Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "archie-abrams_t6",
+      "title": "How often short-term lifts disappear later",
+      "summary": "Shopify frequently finds early metric lifts fade over time (often pull-forward effects), and sometimes discovers hidden long-term value pockets missed by short-term metrics.",
+      "timestamp_start": "00:14:36",
+      "timestamp_end": "00:18:15",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Archie Abrams"
+      ],
+      "themes": [
+        "Experimentation",
+        "Metrics & Measurement",
+        "Growth Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "archie-abrams_t7",
+      "title": "Monetary friction and unlocking valuable merchants",
+      "summary": "Archie explains how reducing early monetary friction (trials, incentives, pricing) can causally increase merchant success by giving entrepreneurs more runway to make progress.",
+      "timestamp_start": "00:16:16",
+      "timestamp_end": "00:17:40",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Archie Abrams"
+      ],
+      "themes": [
+        "Growth Strategy",
+        "Pricing & Monetization",
+        "Retention & Churn"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "archie-abrams_t8",
+      "title": "Advice when you can\u2019t run long holdouts",
+      "summary": "Archie recommends measuring as far downstream as possible, shipping short-term winners without over-crediting them, and recognizing neutral/positive short-term results rarely become negative long-term.",
+      "timestamp_start": "00:18:29",
+      "timestamp_end": "00:20:29",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Archie Abrams"
+      ],
+      "themes": [
+        "Experimentation",
+        "Metrics & Measurement",
+        "Growth Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "archie-abrams_t9",
+      "title": "Shopify\u2019s holdout design and experiment tooling",
+      "summary": "They use layered holdouts (e.g., global 5% plus cohort-based assignment for new merchants) and automated follow-ups that resurface results at 3/6/12 months to enforce accountability.",
+      "timestamp_start": "00:20:40",
+      "timestamp_end": "00:22:16",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Archie Abrams"
+      ],
+      "themes": [
+        "Experimentation",
+        "Data & Analytics",
+        "Metrics & Measurement"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "archie-abrams_t10",
+      "title": "Growth wins: onboarding personalization and friction",
+      "summary": "Archie highlights repeatable levers: monetary friction experiments and surprisingly large gains from improving signup/onboarding, collecting more info, and personalizing guidance.",
+      "timestamp_start": "00:22:56",
+      "timestamp_end": "00:25:07",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Archie Abrams"
+      ],
+      "themes": [
+        "Onboarding",
+        "Growth Strategy",
+        "Product Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "archie-abrams_t11",
+      "title": "Avoiding funnel-rate traps with absolute metrics",
+      "summary": "They emphasize absolute counts over conversion rates to prevent teams from gaming local metrics by adding upstream friction; optimizing totals aligns incentives with real growth.",
+      "timestamp_start": "00:25:07",
+      "timestamp_end": "00:29:47",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Archie Abrams"
+      ],
+      "themes": [
+        "Metrics & Measurement",
+        "Growth Strategy",
+        "Org Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "archie-abrams_t12",
+      "title": "Defining monetary friction",
+      "summary": "Archie clarifies \u201cmonetary friction\u201d as trials, incentives/credits, and pricing\u2014anything that changes early financial barriers to getting started and persisting.",
+      "timestamp_start": "00:26:36",
+      "timestamp_end": "00:27:16",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Archie Abrams"
+      ],
+      "themes": [
+        "Pricing & Monetization",
+        "Growth Strategy",
+        "Onboarding"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "archie-abrams_t13",
+      "title": "How Shopify\u2019s growth org is structured",
+      "summary": "Archie outlines two major groups\u2014Growth R&D and Growth Marketing\u2014and within R&D: Growth Product (lifecycle), Enable (platform/tools), and Support experience/tooling.",
+      "timestamp_start": "00:29:47",
+      "timestamp_end": "00:33:03",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Archie Abrams"
+      ],
+      "themes": [
+        "Org Design",
+        "Growth Strategy",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "archie-abrams_t14",
+      "title": "Goals and measurement across growth teams",
+      "summary": "At the top level they manage to cohort value (GMV/gross profit) with payback guardrails; channels use LTV:CAC constraints; product teams are evaluated by incremental cohort value over time.",
+      "timestamp_start": "00:33:03",
+      "timestamp_end": "00:36:01",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Archie Abrams"
+      ],
+      "themes": [
+        "Metrics & Measurement",
+        "Growth Strategy",
+        "Business Model"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "archie-abrams_t15",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Dovetail (AI-first customer insights hub) and its new features.",
+      "timestamp_start": "00:36:01",
+      "timestamp_end": "00:37:10",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "archie-abrams_t16",
+      "title": "Examples: pull-forward wins and delayed GMV impact",
+      "summary": "Archie shares a pull-forward example (payment failure/dunning notifications) that didn\u2019t lift long-term GMV, and a \u201cneutral early, positive later\u201d example (preconfigured store blocks improving merchant success).",
+      "timestamp_start": "00:37:10",
+      "timestamp_end": "00:42:03",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Archie Abrams"
+      ],
+      "themes": [
+        "Experimentation",
+        "Metrics & Measurement",
+        "Onboarding"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "archie-abrams_t17",
+      "title": "Aim heavy: 100-year mindset and principles",
+      "summary": "They discuss Shopify\u2019s long-term philosophy\u2014build the best product for merchants first, monetize second\u2014and why prioritizing entrepreneurs over short-term enterprise wins supports durability.",
+      "timestamp_start": "00:42:03",
+      "timestamp_end": "00:44:24",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Archie Abrams"
+      ],
+      "themes": [
+        "Company Strategy",
+        "Product Management",
+        "Growth Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "archie-abrams_t18",
+      "title": "Technical architecture as strategy (Tobi reviews)",
+      "summary": "Archie describes six-week R&D reviews with Tobi where \u201chow\u201d (technical architecture and optionality) is heavily scrutinized, even for seemingly small features, to preserve long-term flexibility.",
+      "timestamp_start": "00:44:24",
+      "timestamp_end": "00:47:02",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Archie Abrams"
+      ],
+      "themes": [
+        "Engineering Strategy",
+        "Company Strategy",
+        "Product Management"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

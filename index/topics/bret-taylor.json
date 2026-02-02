@@ -1,0 +1,207 @@
+{
+  "episode_id": "bret-taylor",
+  "topics": [
+    {
+      "topic_id": "bret-taylor_t1",
+      "title": "Introduction and Background",
+      "summary": "Cold open highlights Bret Taylor\u2019s career (Meta CTO, Salesforce co-CEO, OpenAI chair) and his view that software markets will shift toward AI agents and outcomes-based pricing. Lenny previews the episode\u2019s scope and Bret\u2019s builder/founder background.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:04:14",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bret Taylor"
+      ],
+      "themes": [
+        "AI Agents",
+        "Business Models & Pricing",
+        "Career & Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "bret-taylor_t2",
+      "title": "Fail Corner: Google Local misstep",
+      "summary": "Bret recounts launching Google Local as a me-too Yellow Pages product despite prime homepage placement, leading to an embarrassing underperformance and a tough review with leadership. He explains the core mistake: lacking differentiation and a compelling reason to switch.",
+      "timestamp_start": "00:04:15",
+      "timestamp_end": "00:07:52",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bret Taylor"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Career & Leadership",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bret-taylor_t3",
+      "title": "From failure to Google Maps breakthrough",
+      "summary": "Given a second shot, Bret and team invert the product hierarchy by making the map the primary canvas, bringing in Lars and Jens Rasmussen and integrating local search, directions, and mapping. Launch results (10M day-one users; 90M with satellite imagery) illustrate differentiation, \u201csizzle vs. steak,\u201d and creating viral moments.",
+      "timestamp_start": "00:07:52",
+      "timestamp_end": "00:11:18",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bret Taylor"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Growth",
+        "Product Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bret-taylor_t4",
+      "title": "Mindsets behind success across many roles",
+      "summary": "Bret explains how a flexible identity\u2014seeing himself as a \u201cbuilder\u201d rather than a fixed role\u2014helped him succeed as engineer, PM, executive, and founder. He emphasizes adapting to what the company needs at each stage (sales, design, engineering, recruiting).",
+      "timestamp_start": "00:11:18",
+      "timestamp_end": "00:15:09",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bret Taylor"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "Founding & Startups",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bret-taylor_t5",
+      "title": "Sheryl Sandberg\u2019s feedback and impact heuristic",
+      "summary": "Bret shares a formative moment at Facebook when Sheryl Sandberg pushed him to raise standards and manage effectively at scale. He adopts a daily guiding question\u2014\u201cWhat\u2019s the most impactful thing I can do today?\u201d\u2014and discovers he\u2019s motivated more by impact than by any specific function.",
+      "timestamp_start": "00:15:09",
+      "timestamp_end": "00:20:19",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bret Taylor"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "Management",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bret-taylor_t6",
+      "title": "Avoiding self-deception in diagnosing problems",
+      "summary": "Bret warns that founders often tell themselves convenient but wrong stories (e.g., \u2018pricing\u2019 vs. \u2018value/differentiation\u2019), then steer strategy off-course. He notes people default to their strengths (engineering, design, partnerships) and stresses intellectual honesty and cross-functional truth-seeking.",
+      "timestamp_start": "00:20:20",
+      "timestamp_end": "00:23:50",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bret Taylor"
+      ],
+      "themes": [
+        "Founding & Startups",
+        "Product Strategy",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bret-taylor_t7",
+      "title": "FriendFeed lesson: distribution beats product polish",
+      "summary": "Bret describes how FriendFeed innovated (real-time feed, like button) but lost to Twitter as Twitter focused on celebrity/public-figure adoption and distribution. He reflects on Google-era blind spots around distribution and the importance of seeking outside perspective via advisors and boards.",
+      "timestamp_start": "00:23:50",
+      "timestamp_end": "00:28:26",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bret Taylor"
+      ],
+      "themes": [
+        "Growth",
+        "Founding & Startups",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bret-taylor_t8",
+      "title": "Whose advice to trust: frameworks over confidence",
+      "summary": "Bret explains that confidence doesn\u2019t correlate with correctness and suggests triangulating by asking who else to talk to, then probing \u2018why\u2019 to uncover underlying frameworks. He emphasizes judgment-building through reflection and treating most advice as anecdotal rather than universal rules.",
+      "timestamp_start": "00:28:26",
+      "timestamp_end": "00:31:28",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bret Taylor"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "Founding & Startups",
+        "Decision-Making"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bret-taylor_t9",
+      "title": "Should people still learn to code?",
+      "summary": "Bret distinguishes learning to code from studying computer science, arguing CS remains valuable for systems thinking even as coding shifts toward operating code-generating machines. He uses product/system examples (e.g., messy real-world newsfeed data) to show why systems thinking matters more than typing code.",
+      "timestamp_start": "00:31:28",
+      "timestamp_end": "00:36:59",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bret Taylor"
+      ],
+      "themes": [
+        "AI & Future of Work",
+        "Engineering",
+        "Education"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bret-taylor_t10",
+      "title": "Programming systems for LLM-generated code",
+      "summary": "Bret argues we need a new \u2018programming system\u2019 optimized for AI generation and verification rather than human ergonomics, citing Rust-like compile-time guarantees and stronger verification/testing. He contrasts prototyping with the harder problems of maintaining and evolving complex systems safely at scale.",
+      "timestamp_start": "00:36:59",
+      "timestamp_end": "00:43:57",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bret Taylor"
+      ],
+      "themes": [
+        "Engineering",
+        "AI & Future of Work",
+        "Developer Tools"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bret-taylor_t11",
+      "title": "Sponsor Break",
+      "summary": "Sponsored messages for Vanta, including what the product does (automating compliance and security programs) and a listener discount offer.",
+      "timestamp_start": "00:43:57",
+      "timestamp_end": "00:45:26",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Christina Cacioppo"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "bret-taylor_t12",
+      "title": "Teaching kids in an AI-abundant world",
+      "summary": "Bret discusses encouraging kids to use AI as a learning tool and compares today\u2019s transition to allowing calculators on exams. He notes education and assessment are in an awkward phase, but AI can personalize learning styles and help students study (e.g., quizzing before tests).",
+      "timestamp_start": "00:45:26",
+      "timestamp_end": "00:47:46",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bret Taylor"
+      ],
+      "themes": [
+        "Education",
+        "AI & Future of Work",
+        "Parenting"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

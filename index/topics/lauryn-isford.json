@@ -1,0 +1,270 @@
+{
+  "episode_id": "lauryn-isford",
+  "topics": [
+    {
+      "topic_id": "lauryn-isford_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Lauryn Isford, her growth background (Airtable, Facebook/Meta, Blue Bottle), and frames the episode\u2019s focus on onboarding and activation metrics.",
+      "timestamp_start": "00:00:24",
+      "timestamp_end": "00:01:19",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Introduction",
+        "Onboarding",
+        "Activation"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "lauryn-isford_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Public.com Treasury accounts and Miro\u2019s collaborative whiteboard.",
+      "timestamp_start": "00:01:19",
+      "timestamp_end": "00:03:27",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lauryn-isford_t3",
+      "title": "When not to A/B test everything",
+      "summary": "Lauryn argues experimentation is often overused; teams should treat experiments primarily as risk mitigation for big changes and invest more in customer understanding and product rigor to ship with conviction.",
+      "timestamp_start": "00:03:27",
+      "timestamp_end": "00:06:44",
+      "speakers": [
+        "Lenny",
+        "Lauryn Isford"
+      ],
+      "themes": [
+        "Experimentation",
+        "Growth Strategy",
+        "Product Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lauryn-isford_t4",
+      "title": "Building a culture beyond experiment metrics",
+      "summary": "They discuss how experiment-driven cultures can distort incentives, and why teams should reward customer impact and business outcomes even when changes aren\u2019t measured via A/B tests.",
+      "timestamp_start": "00:06:44",
+      "timestamp_end": "00:08:50",
+      "speakers": [
+        "Lenny",
+        "Lauryn Isford"
+      ],
+      "themes": [
+        "Growth Culture",
+        "Experimentation",
+        "Team Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lauryn-isford_t5",
+      "title": "Example: Shipping Airtable Forms without testing",
+      "summary": "Lauryn shares a concrete case: enabling \u201crequest a copy of submission\u201d in Airtable Forms without an A/B test, relying on customer research and observing clear top-line signup impact post-launch.",
+      "timestamp_start": "00:08:50",
+      "timestamp_end": "00:11:33",
+      "speakers": [
+        "Lenny",
+        "Lauryn Isford"
+      ],
+      "themes": [
+        "Experimentation",
+        "Product Launch",
+        "Customer Research"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "lauryn-isford_t6",
+      "title": "Why onboarding is a major growth lever",
+      "summary": "They align on onboarding as a key choke point that drives downstream retention, conversion, and expansion\u2014especially for self-serve, freemium, or trial-based products.",
+      "timestamp_start": "00:11:33",
+      "timestamp_end": "00:13:13",
+      "speakers": [
+        "Lenny",
+        "Lauryn Isford"
+      ],
+      "themes": [
+        "Onboarding",
+        "Retention",
+        "Growth Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "lauryn-isford_t7",
+      "title": "Airtable onboarding rebuild: wizard, personalization, education",
+      "summary": "Lauryn outlines Airtable\u2019s onboarding overhaul: a guided onboarding wizard, use-case personalization, and ongoing education (\u201cThe Mole\u201d), plus retiring heavy tooltip reliance.",
+      "timestamp_start": "00:13:13",
+      "timestamp_end": "00:15:36",
+      "speakers": [
+        "Lenny",
+        "Lauryn Isford"
+      ],
+      "themes": [
+        "Onboarding",
+        "Activation",
+        "Product Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lauryn-isford_t8",
+      "title": "Impact and what made guided onboarding work",
+      "summary": "The onboarding investments drove ~20% activation lift; Lauryn explains why the immersive wizard reduced cognitive load for a complex product and why meeting users where they are matters more than showcasing advanced features early.",
+      "timestamp_start": "00:15:36",
+      "timestamp_end": "00:20:06",
+      "speakers": [
+        "Lenny",
+        "Lauryn Isford"
+      ],
+      "themes": [
+        "Onboarding",
+        "Activation",
+        "Retention"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lauryn-isford_t9",
+      "title": "Personalization: segment by learning and building style",
+      "summary": "Lauryn describes how Airtable identified onboarding personas via research, started with a broadly effective generic flow, then personalized based on learning/building styles rather than job function, and discusses future routing for collaborators vs builders.",
+      "timestamp_start": "00:20:06",
+      "timestamp_end": "00:24:11",
+      "speakers": [
+        "Lenny",
+        "Lauryn Isford"
+      ],
+      "themes": [
+        "Onboarding",
+        "Segmentation",
+        "Customer Research"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lauryn-isford_t10",
+      "title": "Choosing activation metrics: week-four multi-user active",
+      "summary": "Lauryn explains Airtable\u2019s activation north star (week 4 multi-user active), why lower activation rates (e.g., 5\u201315%) can be better if more predictive of long-term retention, and how correlation to retention should guide metric choice.",
+      "timestamp_start": "00:24:11",
+      "timestamp_end": "00:27:22",
+      "speakers": [
+        "Lenny",
+        "Lauryn Isford"
+      ],
+      "themes": [
+        "Activation",
+        "Metrics",
+        "Retention"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lauryn-isford_t11",
+      "title": "Operationalizing activation: decomposing and adding supporting metrics",
+      "summary": "They cover breaking the activation metric into components to find levers, and adding complementary measures (individual retention and a \u201cBuild\u201d sophistication score) to capture tradeoffs and better evaluate onboarding changes.",
+      "timestamp_start": "00:27:22",
+      "timestamp_end": "00:30:46",
+      "speakers": [
+        "Lenny",
+        "Lauryn Isford"
+      ],
+      "themes": [
+        "Activation",
+        "Metrics",
+        "Onboarding"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lauryn-isford_t12",
+      "title": "Workspace vs user activation, and changing north stars",
+      "summary": "Lauryn discusses when workspace/team activation makes sense for seat-based collaboration tools, and argues teams should be willing to evolve north star metrics over time rather than over-optimizing a single \u201cperfect\u201d metric forever.",
+      "timestamp_start": "00:30:46",
+      "timestamp_end": "00:33:24",
+      "speakers": [
+        "Lenny",
+        "Lauryn Isford"
+      ],
+      "themes": [
+        "Metrics",
+        "Growth Strategy",
+        "Activation"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "lauryn-isford_t13",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Eppo, an experimentation platform for modern growth teams.",
+      "timestamp_start": "00:33:24",
+      "timestamp_end": "00:34:34",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "lauryn-isford_t14",
+      "title": "Shifting Airtable growth focus from revenue to users",
+      "summary": "Lauryn shares Airtable\u2019s org-level north star shift from revenue to user/customer growth, motivated by long-term strategy and product-led sales dynamics, plus guidance on when and how to change north stars (typically after ~6 months).",
+      "timestamp_start": "00:34:34",
+      "timestamp_end": "00:38:05",
+      "speakers": [
+        "Lenny",
+        "Lauryn Isford"
+      ],
+      "themes": [
+        "Growth Strategy",
+        "Metrics",
+        "Product-Led Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lauryn-isford_t15",
+      "title": "Reverse trial: combining freemium with a trial",
+      "summary": "Lauryn advocates offering both freemium and a time-boxed premium trial (\u201creverse trial\u201d) to maximize user growth while showcasing premium value, and discusses alternatives for enterprise products that can\u2019t be fully self-serve.",
+      "timestamp_start": "00:38:05",
+      "timestamp_end": "00:46:02",
+      "speakers": [
+        "Lenny",
+        "Lauryn Isford"
+      ],
+      "themes": [
+        "Pricing Strategy",
+        "Product-Led Growth",
+        "Growth Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "lauryn-isford_t16",
+      "title": "Common onboarding trap: teaching features, not user value",
+      "summary": "Lauryn warns that teams often build onboarding around internal feature announcements (e.g., naming features like \u201cautomations\u201d) instead of helping users understand relevance and value; she begins outlining patterns to avoid.",
+      "timestamp_start": "00:46:02",
+      "timestamp_end": "00:46:26",
+      "speakers": [
+        "Lenny",
+        "Lauryn Isford"
+      ],
+      "themes": [
+        "Onboarding",
+        "Product Design",
+        "Customer Experience"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

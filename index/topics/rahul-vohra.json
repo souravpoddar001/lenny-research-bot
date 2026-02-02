@@ -1,0 +1,272 @@
+{
+  "episode_id": "rahul-vohra",
+  "topics": [
+    {
+      "topic_id": "rahul-vohra_t1",
+      "title": "Introduction and Background",
+      "summary": "Cold open teases key ideas: selective user feedback, CEO time allocation, Rahul\u2019s time-tracking method, and his view that \u201cvirality\u201d is mostly word of mouth. Lenny introduces Rahul and previews major topics for the episode.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:38",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Rahul Vohra"
+      ],
+      "themes": [
+        "Product-Market Fit",
+        "Leadership",
+        "Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "rahul-vohra_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Eppo (experimentation/A-B testing) and Fundrise (real estate investing).",
+      "timestamp_start": "00:02:38",
+      "timestamp_end": "00:05:04",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "rahul-vohra_t3",
+      "title": "Rapportive acquisition and pivotal career lessons",
+      "summary": "Rahul recounts building Rapportive, scaling to millions, and selling to LinkedIn. He explains why the acquisition was pivotal\u2014especially learning growth principles from LinkedIn\u2019s head of Growth and gaining resources to \u201cswing for the fences.\u201d",
+      "timestamp_start": "00:05:04",
+      "timestamp_end": "00:07:02",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Rahul Vohra"
+      ],
+      "themes": [
+        "Career",
+        "Growth",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "rahul-vohra_t4",
+      "title": "Virality myth: mechanics vs word of mouth",
+      "summary": "Rahul shares LinkedIn\u2019s insight that sustained viral factor >1 is rare; even famous products peak below 1. The real driver is unmeasurable word of mouth\u2014users spontaneously recommending the product.",
+      "timestamp_start": "00:07:02",
+      "timestamp_end": "00:09:23",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Rahul Vohra"
+      ],
+      "themes": [
+        "Growth",
+        "Word of Mouth",
+        "Virality"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "rahul-vohra_t5",
+      "title": "Whales, referrals, and making email collaborative",
+      "summary": "They discuss \u201cwhales\u201d who drive outsized referrals and how incentives differ for individuals vs teams. Rahul explains Superhuman\u2019s shift toward multiplayer/collaborative email (Superhuman 2.0) to enable organic team adoption.",
+      "timestamp_start": "00:09:23",
+      "timestamp_end": "00:11:43",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Rahul Vohra"
+      ],
+      "themes": [
+        "Growth",
+        "Product Strategy",
+        "Collaboration"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "rahul-vohra_t6",
+      "title": "Baking remarkableness into company values",
+      "summary": "Rahul describes how Superhuman encodes growth drivers into values: create delight, deliver remarkable quality, and build the extraordinary. The idea is that \u201cremarkable\u201d products naturally generate sharing and attention.",
+      "timestamp_start": "00:11:43",
+      "timestamp_end": "00:13:23",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Rahul Vohra"
+      ],
+      "themes": [
+        "Company Culture",
+        "Product Quality",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "rahul-vohra_t7",
+      "title": "Diagnosing slowdown: market widening vs deepening",
+      "summary": "Rahul breaks down perceived product-velocity slowdown into unavoidable vs avoidable causes. Unavoidable: investing in hard platform expansion (iOS/Android/Outlook/etc.) reduces visible improvements for existing users while building a moat.",
+      "timestamp_start": "00:13:23",
+      "timestamp_end": "00:17:37",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Rahul Vohra"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Platform Expansion",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "rahul-vohra_t8",
+      "title": "Org redesign to regain speed and focus",
+      "summary": "Avoidable slowdown came from a conventional exec-heavy structure that consumed Rahul\u2019s time. He hired a president, reduced direct reports from ~8 to 2, and shifted his time from ~6\u20137% to ~60\u201370% on product/design/tech/marketing.",
+      "timestamp_start": "00:17:37",
+      "timestamp_end": "00:20:15",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Rahul Vohra"
+      ],
+      "themes": [
+        "Leadership",
+        "Org Design",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "rahul-vohra_t9",
+      "title": "Switch log time tracking and context switching",
+      "summary": "Rahul explains his \u201cSwitch log\u201d: DM\u2019ing an assistant/Slackbot with a tag each time he changes tasks to capture real work vs calendar intent. They discuss context switching, attention, and using lightweight logging to audit where time truly goes.",
+      "timestamp_start": "00:20:15",
+      "timestamp_end": "00:24:44",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Rahul Vohra"
+      ],
+      "themes": [
+        "Productivity",
+        "Leadership",
+        "Time Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "rahul-vohra_t10",
+      "title": "Transcendental meditation for performance and creativity",
+      "summary": "Rahul shares his TM routine (20 minutes + rest, twice daily) and why it\u2019s non-negotiable. He describes benefits over time: improved focus, creativity, and expressiveness, plus advice to learn with a coach (Peak Leadership Institute).",
+      "timestamp_start": "00:24:44",
+      "timestamp_end": "00:27:35",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Rahul Vohra"
+      ],
+      "themes": [
+        "Wellness",
+        "Leadership",
+        "Productivity"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "rahul-vohra_t11",
+      "title": "President role as operational co-founder substitute",
+      "summary": "Rahul details what the president owns: exec-team management, operations, and strategic thought partnership across AI, margins, product roadmap, and hiring geography. He frames it as a \u201cgrown-up co-founder\u201d role that restores founder leverage.",
+      "timestamp_start": "00:27:35",
+      "timestamp_end": "00:30:52",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Rahul Vohra"
+      ],
+      "themes": [
+        "Leadership",
+        "Org Design",
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "rahul-vohra_t12",
+      "title": "Attention to detail: funding story and typography",
+      "summary": "Rahul recounts early Superhuman fundraising with Ed Sim and then dives into why Superhuman chose (and modified) Adelle Sans\u2014optimizing for beauty, tone flexibility, reading speed, and email-address rendering. The segment highlights craft as a product differentiator.",
+      "timestamp_start": "00:30:52",
+      "timestamp_end": "00:38:03",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Rahul Vohra"
+      ],
+      "themes": [
+        "Product Design",
+        "Craft",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "rahul-vohra_t13",
+      "title": "Craft vs speed: when polish matters pre-launch",
+      "summary": "They discuss the tradeoff between launching early and ensuring reliability, arguing it depends on market dynamics and product criticality. Rahul uses a Mailbox failure story to show why mission-critical tools like email can\u2019t ship half-baked.",
+      "timestamp_start": "00:38:03",
+      "timestamp_end": "00:43:03",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Rahul Vohra"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Quality",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "rahul-vohra_t14",
+      "title": "Positioning Superhuman around speed",
+      "summary": "Rahul explains how he chose \u201cspeed\u201d as Superhuman\u2019s core position: validated via customer interviews, uniqueness/availability, fit with competing against incumbents, and the \u201ccocktail party test.\u201d Speed became the memorable wedge for adoption.",
+      "timestamp_start": "00:43:03",
+      "timestamp_end": "00:46:01",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Rahul Vohra"
+      ],
+      "themes": [
+        "Positioning",
+        "Product Strategy",
+        "Marketing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "rahul-vohra_t15",
+      "title": "Sponsor Break",
+      "summary": "Sponsor segment featuring OneSchema and its new FileFeeds product for building CSV-based integrations quickly and reliably.",
+      "timestamp_start": "00:46:01",
+      "timestamp_end": "00:47:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Christina Gilbert"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "rahul-vohra_t16",
+      "title": "Manual concierge onboarding teaser",
+      "summary": "Lenny introduces Superhuman\u2019s contrarian approach of mandatory 1:1 onboarding for every new user and asks how far it scaled. Rahul begins to explain why it was essential early on, ending mid-thought as the excerpt cuts off.",
+      "timestamp_start": "00:47:33",
+      "timestamp_end": "00:48:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Rahul Vohra"
+      ],
+      "themes": [
+        "Onboarding",
+        "Product-Market Fit",
+        "Go-to-Market"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "episode_id": "garrett-lord",
+  "topics": [
+    {
+      "topic_id": "garrett-lord_t1",
+      "title": "Introduction and Background",
+      "summary": "Garrett previews the once-in-a-lifetime AI demand moment; Lenny introduces Handshake\u2019s original business and the new AI data business that rapidly scaled to massive ARR.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:03:01",
+      "speakers": [
+        "Garrett Lord",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Company Building",
+        "AI/ML",
+        "Careers"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "garrett-lord_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for CodeRabbit and Orkes.",
+      "timestamp_start": "00:03:01",
+      "timestamp_end": "00:05:04",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "garrett-lord_t3",
+      "title": "What data labeling is and why it matters",
+      "summary": "Garrett explains model training at a high level and why post-training data has become the main driver of frontier model improvements as pre-training gains plateau.",
+      "timestamp_start": "00:05:04",
+      "timestamp_end": "00:08:20",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Garrett Lord"
+      ],
+      "themes": [
+        "AI/ML",
+        "Data"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "garrett-lord_t4",
+      "title": "Post-training methods: RLHF, SFT, trajectories",
+      "summary": "They clarify post-training buckets (RLHF preference ranking, supervised fine-tuning, reasoning data) and why labs are experimenting with multiple evolving data types.",
+      "timestamp_start": "00:08:20",
+      "timestamp_end": "00:09:48",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Garrett Lord"
+      ],
+      "themes": [
+        "AI/ML",
+        "Data"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "garrett-lord_t5",
+      "title": "Handshake\u2019s edge: experts over generalists",
+      "summary": "Garrett describes Handshake\u2019s engaged network (PhDs, masters, global students) and argues the market shifted from low-cost generalists to domain experts to push models forward.",
+      "timestamp_start": "00:09:48",
+      "timestamp_end": "00:12:08",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Garrett Lord"
+      ],
+      "themes": [
+        "AI/ML",
+        "Company Building",
+        "Data"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "garrett-lord_t6",
+      "title": "Creating new data and breaking models",
+      "summary": "Handshake helps generate novel expert data and identify model weaknesses that average users can\u2019t surface, especially in advanced STEM and professional domains.",
+      "timestamp_start": "00:12:08",
+      "timestamp_end": "00:13:03",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Garrett Lord"
+      ],
+      "themes": [
+        "AI/ML",
+        "Data"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "garrett-lord_t7",
+      "title": "What experts do day-to-day (GPQA example)",
+      "summary": "Garrett walks through how experts craft hard questions, provide ground truth and step-by-step reasoning, and pinpoint where non-deterministic models fail.",
+      "timestamp_start": "00:13:03",
+      "timestamp_end": "00:15:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Garrett Lord"
+      ],
+      "themes": [
+        "AI/ML",
+        "Data"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "garrett-lord_t8",
+      "title": "Non-verifiable domains and human tool-use capture",
+      "summary": "They discuss domains without single right answers (e.g., education), plus collecting \u2018trajectory\u2019 data via screen/mouse/voice to teach models how humans solve real workflows.",
+      "timestamp_start": "00:15:33",
+      "timestamp_end": "00:18:06",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Garrett Lord"
+      ],
+      "themes": [
+        "AI/ML",
+        "Data"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "garrett-lord_t9",
+      "title": "Data formats, multimodal work, and rubric judging",
+      "summary": "Garrett notes outputs like structured JSON, describes multimodal labeling (audio/music), and explains rubric-based evaluation where models can act as judges for subjective tasks.",
+      "timestamp_start": "00:18:06",
+      "timestamp_end": "00:19:52",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Garrett Lord"
+      ],
+      "themes": [
+        "AI/ML",
+        "Data"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "garrett-lord_t10",
+      "title": "What labs optimize for: quality, volume, speed",
+      "summary": "Garrett outlines the three core buyer requirements and how Handshake uses assessment, post-training expertise, and fast iteration to deliver reliable gains.",
+      "timestamp_start": "00:19:52",
+      "timestamp_end": "00:22:39",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Garrett Lord"
+      ],
+      "themes": [
+        "AI/ML",
+        "Company Building",
+        "Data"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "garrett-lord_t11",
+      "title": "Humans in the loop and jobs impact debate",
+      "summary": "They discuss why humans will remain necessary for years, and debate AI\u2019s impact on entry-level jobs\u2014Garrett argues AI boosts productivity and shifts skills rather than eliminating work.",
+      "timestamp_start": "00:22:39",
+      "timestamp_end": "00:27:58",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Garrett Lord"
+      ],
+      "themes": [
+        "Careers",
+        "AI/ML"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "garrett-lord_t12",
+      "title": "Market dynamics and Scale\u2019s acquisition implications",
+      "summary": "Garrett comments on competitive concerns when a data provider is tied to a peer lab, and argues the key moat is audience access and trust, not just recruiting spend.",
+      "timestamp_start": "00:27:58",
+      "timestamp_end": "00:31:49",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Garrett Lord"
+      ],
+      "themes": [
+        "Company Building",
+        "AI/ML"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "garrett-lord_t13",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Anthropic\u2019s Claude and its workflow integrations.",
+      "timestamp_start": "00:31:49",
+      "timestamp_end": "00:33:06",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "garrett-lord_t14",
+      "title": "Origin story: launching the new AI data business",
+      "summary": "Garrett explains how middlemen demand and direct outreach from frontier labs revealed the opportunity; he describes building a specialized team and scaling to work with seven labs.",
+      "timestamp_start": "00:33:06",
+      "timestamp_end": "00:36:51",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Garrett Lord"
+      ],
+      "themes": [
+        "Company Building",
+        "AI/ML"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "garrett-lord_t15",
+      "title": "Handshake core business and AI-era unfair advantage",
+      "summary": "Garrett summarizes Handshake\u2019s 10-year student career platform, why it differs from LinkedIn for early-career users, and how its trusted network enabled rapid expansion into AI data.",
+      "timestamp_start": "00:36:51",
+      "timestamp_end": "00:40:43",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Garrett Lord"
+      ],
+      "themes": [
+        "Company Building",
+        "Careers"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "garrett-lord_t16",
+      "title": "How expert data platforms recruit and retain talent",
+      "summary": "They compare legacy approaches (recruiters + ads) with Handshake\u2019s community/training model, emphasizing better expert experience, higher retention, and structural CAC/LTV advantages.",
+      "timestamp_start": "00:40:43",
+      "timestamp_end": "00:45:48",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Garrett Lord"
+      ],
+      "themes": [
+        "Company Building",
+        "AI/ML"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "garrett-lord_t17",
+      "title": "Incubating business two inside business one",
+      "summary": "Garrett begins describing the tactical early steps\u2014working with middlemen, seeing demand signals, and receiving direct lab outreach\u2014setting up the next part of the story.",
+      "timestamp_start": "00:45:48",
+      "timestamp_end": "00:46:24",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Garrett Lord"
+      ],
+      "themes": [
+        "Company Building"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

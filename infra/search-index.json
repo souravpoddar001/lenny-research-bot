@@ -1,0 +1,54 @@
+{
+  "name": "lenny-transcripts-index",
+  "fields": [
+    {"name": "id", "type": "Edm.String", "key": true, "filterable": true},
+    {"name": "chunk_id", "type": "Edm.String", "filterable": true},
+    {"name": "transcript_id", "type": "Edm.String", "filterable": true, "facetable": true},
+    {"name": "guest", "type": "Edm.String", "searchable": true, "filterable": true, "facetable": true},
+    {"name": "title", "type": "Edm.String", "searchable": true, "filterable": true},
+    {"name": "youtube_url", "type": "Edm.String"},
+    {"name": "video_id", "type": "Edm.String"},
+    {"name": "publish_date", "type": "Edm.DateTimeOffset", "filterable": true, "sortable": true},
+    {"name": "duration", "type": "Edm.String"},
+    {"name": "keywords", "type": "Collection(Edm.String)", "searchable": true, "filterable": true, "facetable": true},
+    {"name": "speaker", "type": "Edm.String", "searchable": true, "filterable": true, "facetable": true},
+    {"name": "timestamp_start", "type": "Edm.String", "filterable": true},
+    {"name": "timestamp_end", "type": "Edm.String"},
+    {"name": "content", "type": "Edm.String", "searchable": true, "analyzer": "en.microsoft"},
+    {"name": "content_vector", "type": "Collection(Edm.Single)", "searchable": true, "dimensions": 1536, "vectorSearchProfile": "vector-profile"},
+    {"name": "chunk_sequence", "type": "Edm.Int32", "sortable": true, "filterable": true},
+    {"name": "chunk_type", "type": "Edm.String", "filterable": true, "facetable": true}
+  ],
+  "vectorSearch": {
+    "algorithms": [
+      {
+        "name": "hnsw-algorithm",
+        "kind": "hnsw",
+        "hnswParameters": {
+          "m": 4,
+          "efConstruction": 400,
+          "efSearch": 500,
+          "metric": "cosine"
+        }
+      }
+    ],
+    "profiles": [
+      {
+        "name": "vector-profile",
+        "algorithm": "hnsw-algorithm"
+      }
+    ]
+  },
+  "semantic": {
+    "configurations": [
+      {
+        "name": "semantic-config",
+        "prioritizedFields": {
+          "titleField": {"fieldName": "title"},
+          "contentFields": [{"fieldName": "content"}],
+          "keywordsFields": [{"fieldName": "keywords"}]
+        }
+      }
+    ]
+  }
+}

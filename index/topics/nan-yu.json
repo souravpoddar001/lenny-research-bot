@@ -1,0 +1,248 @@
+{
+  "episode_id": "nan-yu",
+  "topics": [
+    {
+      "topic_id": "nan-yu_t1",
+      "title": "Cold open: speed and quality aren\u2019t a trade-off",
+      "summary": "Nan argues the perceived speed-vs-quality trade-off is a misconception: true speed comes from competence, enabling more iterations and better outcomes. He frames fast, expert execution as a predictor of high-quality output.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:10",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nan Yu"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Execution",
+        "Product Craft"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nan-yu_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Nan Yu and tees up key topics: Linear\u2019s product system, customer empathy, speed/quality, and career advice. He positions Linear as a uniquely beloved B2B SaaS product and previews what listeners will learn.",
+      "timestamp_start": "00:01:17",
+      "timestamp_end": "00:02:30",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Company Building",
+        "Product Strategy",
+        "Product Craft"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "nan-yu_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Sinch (customer communications APIs and RCS) and Paragon (integration infrastructure for B2B SaaS, RAG/agents, and workflow integrations).",
+      "timestamp_start": "00:02:30",
+      "timestamp_end": "00:04:56",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nan-yu_t4",
+      "title": "Why people want to switch from Jira",
+      "summary": "Lenny shares survey results showing Linear is the #1 tool people wish they could switch to (from Jira), citing praise for simplicity, design, and speed. Nan explains Linear\u2019s origin story: removing workflow \u201cspeed bumps\u201d that make builders hate daily work.",
+      "timestamp_start": "00:04:56",
+      "timestamp_end": "00:07:11",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nan Yu"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Product Craft",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nan-yu_t5",
+      "title": "Operationalizing fast, high-quality product iteration",
+      "summary": "Nan defines \u201cspeed\u201d as having a workable prototype by ~10% of the time budget to test key hypotheses early. He attributes this to strong talent, intentional rough V1s, and focusing on learning rather than perfection.",
+      "timestamp_start": "00:07:52",
+      "timestamp_end": "00:13:50",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nan Yu"
+      ],
+      "themes": [
+        "Execution",
+        "Product Strategy",
+        "Product Craft"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nan-yu_t6",
+      "title": "Progressive rollout: internal, beta groups, then GA",
+      "summary": "Nan describes Linear\u2019s expanding circles of release: internal use first, then early-access customers, then broader betas, and finally GA. Engagement (or lack of it) becomes a key signal for whether they hit the mark.",
+      "timestamp_start": "00:13:50",
+      "timestamp_end": "00:15:30",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nan Yu"
+      ],
+      "themes": [
+        "Execution",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nan-yu_t7",
+      "title": "Avoiding bloat by saying no to reporting-driven customization",
+      "summary": "Nan explains Linear\u2019s hard line: reject customization requests that help middle-manager reporting at the expense of IC workflows. He argues these features degrade data quality anyway because ICs disengage or fill fields randomly.",
+      "timestamp_start": "00:15:31",
+      "timestamp_end": "00:19:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nan Yu"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Product Craft",
+        "Company Building"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "nan-yu_t8",
+      "title": "Enterprise growth without compromising the product",
+      "summary": "They discuss the fear of turning down big deals and how Linear navigates enterprise needs (e.g., SAML/SCIM) while resisting workflow-harming asks. Nan notes enterprise growth is strong as Linear becomes a credible \u201centerprise brand\u201d for teams that want to move like startups.",
+      "timestamp_start": "00:19:12",
+      "timestamp_end": "00:23:59",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nan Yu"
+      ],
+      "themes": [
+        "Company Building",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nan-yu_t9",
+      "title": "How Linear debates features: real people, real workflows",
+      "summary": "Nan describes harder product debates: extend existing primitives vs add new services, grounded in concrete, named users and their workflows. He warns against elegant solutions that don\u2019t match messy reality and explains how they evaluate feedback (wrong mental model vs many disparate use cases).",
+      "timestamp_start": "00:23:59",
+      "timestamp_end": "00:27:52",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nan Yu"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Product Craft"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nan-yu_t10",
+      "title": "Case study: Customer Requests instead of custom fields",
+      "summary": "Nan explains how repeated \u201ccustom fields\u201d requests often masked a customer-tracking need for B2B teams. Linear built Customer Requests to connect to support/CRM sources and auto-tag issues by customer, improving reporting without burdening ICs.",
+      "timestamp_start": "00:28:18",
+      "timestamp_end": "00:30:09",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nan Yu"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Execution",
+        "Product Craft"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nan-yu_t11",
+      "title": "Customer calls: dig for emotions to find real problems",
+      "summary": "Nan shares his approach to discovery: keep probing until he can \u201cfeel bad\u201d the way the customer feels, uncovering the emotional driver behind requests. Example: date commitments causing cross-team conflict led Linear to support flexible date granularity (month/quarter/half-year).",
+      "timestamp_start": "00:30:09",
+      "timestamp_end": "00:34:04",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nan Yu"
+      ],
+      "themes": [
+        "Customer Research",
+        "Product Craft",
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "nan-yu_t12",
+      "title": "Emotional hooks and schlep blindness in competitive markets",
+      "summary": "Nan argues that in crowded categories, goal-based JTBD is table stakes; differentiation comes from identifying recurring \u201cbad feelings\u201d and removing them. He references \u201cschlep blindness\u201d and gives an example of hating Mondays due to manual reporting work.",
+      "timestamp_start": "00:34:04",
+      "timestamp_end": "00:37:54",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nan Yu"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Customer Research",
+        "Product Craft"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nan-yu_t13",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Wix Studio, highlighting tools for agencies and marketers: dynamic pages, integrations, A/B testing, analytics, social management, and extensibility.",
+      "timestamp_start": "00:37:54",
+      "timestamp_end": "00:38:55",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Operations"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "nan-yu_t14",
+      "title": "Recap and nuance: incentives, mental models, and backlog shaping",
+      "summary": "Lenny summarizes Linear\u2019s principles; Nan adds nuance: focus on incentive misalignments between user groups, not just \u201cthe user.\u201d Nan then explains how Linear manages a backlog of 20\u201330 opportunities by continuously updating shared analyses to refine the team\u2019s customer mental model.",
+      "timestamp_start": "00:38:55",
+      "timestamp_end": "00:42:22",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nan Yu"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nan-yu_t15",
+      "title": "Example opportunity: capacity planning and scoping the solution",
+      "summary": "Nan describes capacity planning as an unsolved, spreadsheet-driven pain point and explains Linear is still building conviction on what portion of the problem they should tackle. The goal is a strong starting point using existing Linear data, not solving the entire domain at once.",
+      "timestamp_start": "00:42:22",
+      "timestamp_end": "00:43:42",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Nan Yu"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Customer Research"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

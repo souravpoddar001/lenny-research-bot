@@ -1,0 +1,271 @@
+{
+  "episode_id": "anton-osika",
+  "topics": [
+    {
+      "topic_id": "anton-osika_t1",
+      "title": "Introduction and Background",
+      "summary": "Anton introduces Lovable as a personal AI software engineer that turns prompts into working products, and Lenny frames the company\u2019s explosive early growth and what the episode will cover.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:17",
+      "speakers": [
+        "Anton Osika",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Company Overview",
+        "Growth",
+        "AI Product Development"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "anton-osika_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Cinch (customer communications/RCS) and Persona (identity verification and fraud prevention).",
+      "timestamp_start": "00:02:49",
+      "timestamp_end": "00:05:19",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "anton-osika_t3",
+      "title": "What Lovable is and who it\u2019s for",
+      "summary": "Anton explains Lovable\u2019s core value proposition\u2014enabling non-coders and builders to create software by talking to AI\u2014and shares early traction metrics and examples of users becoming founders.",
+      "timestamp_start": "00:05:19",
+      "timestamp_end": "00:09:38",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Anton Osika"
+      ],
+      "themes": [
+        "Company Overview",
+        "AI Product Development",
+        "Users & Use Cases"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "anton-osika_t4",
+      "title": "Live demo: building an Airbnb clone",
+      "summary": "Anton demos generating an Airbnb-like UI from a two-word prompt, iterating via prompting, and showing how Lovable can visually edit UI elements and connect to a backend (Supabase) for auth and persistence.",
+      "timestamp_start": "00:10:05",
+      "timestamp_end": "00:18:23",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Anton Osika"
+      ],
+      "themes": [
+        "Product Demo",
+        "AI Product Development",
+        "No-Code/Low-Code"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "anton-osika_t5",
+      "title": "How to use Lovable effectively",
+      "summary": "Anton shares practical tips: use chat mode to understand what\u2019s happening, be patient/curious, and write precise prompts describing expected vs. actual behavior to avoid miscommunication.",
+      "timestamp_start": "00:18:23",
+      "timestamp_end": "00:21:00",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Anton Osika"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Productivity",
+        "User Education"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "anton-osika_t6",
+      "title": "Why it\u2019s called Lovable",
+      "summary": "Anton explains the naming philosophy: aim for a \u201cminimum lovable product,\u201d then progressively more lovable versions\u2014making \u201clovable\u201d the north star for product quality.",
+      "timestamp_start": "00:21:00",
+      "timestamp_end": "00:21:36",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Anton Osika"
+      ],
+      "themes": [
+        "Branding",
+        "Product Strategy",
+        "Company Overview"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "anton-osika_t7",
+      "title": "Origin story: from GPT Engineer to Lovable",
+      "summary": "Anton recounts building the open-source GPT Engineer to prove LLMs could generate apps, then turning that insight into Lovable to empower the 99% who don\u2019t code.",
+      "timestamp_start": "00:21:36",
+      "timestamp_end": "00:25:43",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Anton Osika"
+      ],
+      "themes": [
+        "Founding Story",
+        "AI Product Development",
+        "Open Source"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "anton-osika_t8",
+      "title": "Early growth and scaling-law improvements",
+      "summary": "They discuss Lovable\u2019s rapid revenue ramp and Anton\u2019s description of a key technical focus: systematically finding where the agent gets stuck (bugs, dead-ends) and improving reliability via fast feedback loops.",
+      "timestamp_start": "00:25:43",
+      "timestamp_end": "00:29:48",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Anton Osika"
+      ],
+      "themes": [
+        "Growth",
+        "AI Product Development",
+        "Engineering"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "anton-osika_t9",
+      "title": "How a tiny team drove massive growth",
+      "summary": "Anton attributes growth primarily to product love and word-of-mouth, plus shipping updates publicly; he emphasizes packaging foundation models into a seamless end-to-end experience as the core differentiator.",
+      "timestamp_start": "00:29:48",
+      "timestamp_end": "00:32:17",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Anton Osika"
+      ],
+      "themes": [
+        "Growth",
+        "Go-to-Market",
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "anton-osika_t10",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Fundrise Flagship Fund focused on long-term real estate investing.",
+      "timestamp_start": "00:32:17",
+      "timestamp_end": "00:33:22",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "anton-osika_t11",
+      "title": "How the team builds Lovable with AI",
+      "summary": "Anton explains internal engineering workflows: they use AI heavily (notably Cursor), can even modify Lovable with itself in parts, and rely on developer tools for hyper-specific infrastructure needs.",
+      "timestamp_start": "00:33:22",
+      "timestamp_end": "00:34:49",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Anton Osika"
+      ],
+      "themes": [
+        "Engineering",
+        "AI Product Development",
+        "Tooling"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "anton-osika_t12",
+      "title": "Competition and Lovable\u2019s differentiation",
+      "summary": "Anton compares Lovable to Bolt/Replit: focus on non-technical packaging, visual editing, GitHub sync enabling collaboration with tools like Cursor, and a reliability focus on \u201cnot getting stuck.\u201d",
+      "timestamp_start": "00:34:49",
+      "timestamp_end": "00:36:23",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Anton Osika"
+      ],
+      "themes": [
+        "Competitive Landscape",
+        "Product Strategy",
+        "AI Product Development"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "anton-osika_t13",
+      "title": "Vision: the last piece of software",
+      "summary": "Anton outlines the long-term vision: near-instant product creation integrated with existing systems and third-party services, plus AI-driven analytics, UX suggestions, and automated A/B testing.",
+      "timestamp_start": "00:36:23",
+      "timestamp_end": "00:38:15",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Anton Osika"
+      ],
+      "themes": [
+        "Vision",
+        "AI Product Development",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "anton-osika_t14",
+      "title": "Future skills: taste, discovery, generalists",
+      "summary": "They discuss how value shifts from coding to deciding what to build and evaluating quality; Anton argues engineers become translators of human problems to technical solutions and teams should favor generalists with deep strengths.",
+      "timestamp_start": "00:38:15",
+      "timestamp_end": "00:41:17",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Anton Osika"
+      ],
+      "themes": [
+        "Careers",
+        "Product Strategy",
+        "AI Impact"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "anton-osika_t15",
+      "title": "Hiring: what they look for and how",
+      "summary": "Anton shares hiring criteria (obsession, user/product care, team contribution, one standout superpower) and evaluation methods (deep past-project probing, hard novel problems, and day-to-week work trials), plus notes on ambitious talent in Sweden/Europe.",
+      "timestamp_start": "00:41:17",
+      "timestamp_end": "00:48:01",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Anton Osika"
+      ],
+      "themes": [
+        "Hiring",
+        "Company Culture",
+        "Careers"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "anton-osika_t16",
+      "title": "Prioritization and operating cadence",
+      "summary": "Anton describes a bottleneck-driven prioritization approach, heavy engineering leadership due to technical entanglement, and lightweight process: weekly planning, a ranked problem board, and weekly demos with an emerging short roadmap.",
+      "timestamp_start": "00:48:01",
+      "timestamp_end": "00:50:10",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Anton Osika"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Execution",
+        "Engineering Management"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

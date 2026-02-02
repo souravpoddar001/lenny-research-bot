@@ -1,0 +1,186 @@
+{
+  "episode_id": "anneka-gupta",
+  "topics": [
+    {
+      "topic_id": "anneka-gupta_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Anneka Gupta, her roles (CPO at Rubrik, Stanford lecturer, board member), and previews episode themes like strategy, feedback, energy management, and navigating difficult colleagues.",
+      "timestamp_start": "00:00:40",
+      "timestamp_end": "00:01:52",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Anneka Gupta"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership",
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "anneka-gupta_t2",
+      "title": "Having fun during hard times at work",
+      "summary": "Anneka shares a core mindset: deliberately finding ways to have fun even in difficult situations to avoid scarcity thinking and unlock better problem-solving, including a story about rapidly changing out her direct reports.",
+      "timestamp_start": "00:01:52",
+      "timestamp_end": "00:06:50",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Anneka Gupta"
+      ],
+      "themes": [
+        "Mindset",
+        "Leadership",
+        "Resilience"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "anneka-gupta_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Enterprise Ready Conference and Command AI.",
+      "timestamp_start": "00:06:50",
+      "timestamp_end": "00:09:06",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "anneka-gupta_t4",
+      "title": "Founder mode: working effectively with founders",
+      "summary": "They discuss Paul Graham\u2019s 'founder mode' concept and Anneka explains how product leaders can leverage a founder\u2019s unique power as a force-multiplier, while also navigating pet projects by clarifying underlying objectives and choosing which battles to fight.",
+      "timestamp_start": "00:09:06",
+      "timestamp_end": "00:13:47",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Anneka Gupta"
+      ],
+      "themes": [
+        "Leadership",
+        "Stakeholder Management",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "anneka-gupta_t5",
+      "title": "Founder mode as a product leader",
+      "summary": "Anneka describes 'founder-mode' leadership behaviors for product execs: go deep on business details, selectively intervene where it matters most, and bring teams along via early involvement, questions, and hypothesis-sharing rather than top-down rewrites.",
+      "timestamp_start": "00:13:47",
+      "timestamp_end": "00:18:27",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Anneka Gupta"
+      ],
+      "themes": [
+        "Leadership",
+        "Product Strategy",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "anneka-gupta_t6",
+      "title": "Becoming more strategic: definition and tactics",
+      "summary": "Anneka defines 'strategic' as (1) articulating a compelling, simple why and (2) championing hard, long-term change; she shares practical tactics like summarizing discussions, synthesizing viewpoints, and making ideas 'one click better.'",
+      "timestamp_start": "00:18:27",
+      "timestamp_end": "00:27:53",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Anneka Gupta"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Communication",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "anneka-gupta_t7",
+      "title": "Decision-making: be the historian of past choices",
+      "summary": "Anneka explains how learning a company\u2019s decision history\u2014what failed, why, and what baggage remains\u2014improves current decision-making and helps leaders anticipate objections like 'we tried that before.'",
+      "timestamp_start": "00:27:53",
+      "timestamp_end": "00:29:56",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Anneka Gupta"
+      ],
+      "themes": [
+        "Decision-Making",
+        "Product Strategy",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "anneka-gupta_t8",
+      "title": "Decision-making: commit, learn, and iterate fast",
+      "summary": "She argues it\u2019s more important to make a decision than chase perfect information: commit with a clear hypothesis, learn from real-world feedback, and build a culture that rewards learning over outcomes to reduce fear of being wrong.",
+      "timestamp_start": "00:29:56",
+      "timestamp_end": "00:36:01",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Anneka Gupta"
+      ],
+      "themes": [
+        "Decision-Making",
+        "Execution",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "anneka-gupta_t9",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Eppo (A/B testing and feature management).",
+      "timestamp_start": "00:36:01",
+      "timestamp_end": "00:37:20",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "anneka-gupta_t10",
+      "title": "Navigating difficult personalities with curiosity and gratitude",
+      "summary": "Anneka shares how she handles high-ego or hard-to-work-with colleagues by understanding what drives them, aligning incentives, learning from their strengths, and reframing frustration into curiosity and gratitude; she also suggests asking others how to work with them effectively.",
+      "timestamp_start": "00:37:20",
+      "timestamp_end": "00:41:16",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Anneka Gupta"
+      ],
+      "themes": [
+        "Stakeholder Management",
+        "Leadership",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "anneka-gupta_t11",
+      "title": "Receiving hard feedback: feel it, then get curious",
+      "summary": "Anneka outlines a process for receiving tough feedback: allow the emotional reaction, avoid immediate defensiveness, investigate context with curiosity, and decide what to act on by anchoring to what the company needs most right now.",
+      "timestamp_start": "00:41:16",
+      "timestamp_end": "00:45:48",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Anneka Gupta"
+      ],
+      "themes": [
+        "Feedback",
+        "Leadership",
+        "Mindset"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

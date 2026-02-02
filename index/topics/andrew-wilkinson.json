@@ -1,0 +1,258 @@
+{
+  "episode_id": "andrew-wilkinson",
+  "topics": [
+    {
+      "topic_id": "andrew-wilkinson_t1",
+      "title": "Introduction and Background",
+      "summary": "Cold open on avoiding overly ambitious first startups, then Lenny introduces Andrew Wilkinson, Tiny\u2019s model, and the episode\u2019s major themes (ideas, AI, happiness).",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:04:15",
+      "speakers": [
+        "Andrew Wilkinson",
+        "Lenny Rachitsky",
+        "Speaker 3"
+      ],
+      "themes": [
+        "Introduction",
+        "Entrepreneurship",
+        "AI"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "andrew-wilkinson_t2",
+      "title": "Finding startup ideas by avoiding crowded markets",
+      "summary": "Andrew shares his core idea heuristic: pursue niches with less competition (\u201cfish where the fish are\u201d), contrasting glamorous ideas (cafes) with unsexy but profitable ones (funeral homes, pest control, government forms).",
+      "timestamp_start": "00:04:17",
+      "timestamp_end": "00:07:19",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Andrew Wilkinson"
+      ],
+      "themes": [
+        "Entrepreneurship",
+        "Startups",
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "andrew-wilkinson_t3",
+      "title": "Start small to build entrepreneurial \u201creps\u201d",
+      "summary": "He argues first-time founders should pick simpler businesses to get early wins and confidence, sharing his own early agency success and later failures when he overreached into unfamiliar models.",
+      "timestamp_start": "00:07:19",
+      "timestamp_end": "00:09:22",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Andrew Wilkinson"
+      ],
+      "themes": [
+        "Entrepreneurship",
+        "Startups",
+        "Career"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "andrew-wilkinson_t4",
+      "title": "Avoid building a job: scale and delegation",
+      "summary": "They discuss how founders accidentally create jobs they hate; Andrew explains that many \u201cdirty work\u201d businesses become attractive once scaled enough to hire operators, emphasizing \u201clazy leadership\u201d and shedding disliked tasks fast.",
+      "timestamp_start": "00:09:22",
+      "timestamp_end": "00:12:00",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Andrew Wilkinson"
+      ],
+      "themes": [
+        "Entrepreneurship",
+        "Operations",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "andrew-wilkinson_t5",
+      "title": "Choosing software vs physical businesses via unfair advantage",
+      "summary": "Andrew frames idea selection around personal strengths and distribution advantages, giving examples of adjacent opportunities (restaurant vendors) and how passions can lead to durable, profitable bets (Letterboxd, AeroPress).",
+      "timestamp_start": "00:12:00",
+      "timestamp_end": "00:17:09",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Andrew Wilkinson"
+      ],
+      "themes": [
+        "Entrepreneurship",
+        "Strategy",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "andrew-wilkinson_t6",
+      "title": "Judging market value: experience, gut, and AI research",
+      "summary": "They explore how to tell if a problem is worth solving; Andrew says it\u2019s largely pattern recognition built from experience, but founders can now use LLMs to model unit economics and constraints before committing.",
+      "timestamp_start": "00:17:09",
+      "timestamp_end": "00:20:07",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Andrew Wilkinson"
+      ],
+      "themes": [
+        "Startups",
+        "AI",
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "andrew-wilkinson_t7",
+      "title": "Boring businesses and why flashy ideas fail",
+      "summary": "Andrew recounts losing $10M competing in project management (Flow vs Asana) and argues boring, overlooked problems (like government form automation) can be far more profitable due to weaker competition.",
+      "timestamp_start": "00:20:07",
+      "timestamp_end": "00:22:29",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Andrew Wilkinson"
+      ],
+      "themes": [
+        "Entrepreneurship",
+        "Startups",
+        "Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "andrew-wilkinson_t8",
+      "title": "Avoiding \u201cgraveyard\u201d business models and false confidence",
+      "summary": "He warns against entering models with repeated historical failures (bars, local news), noting that strong management can\u2019t fix a fundamentally bad business model; they discuss rare exceptions like Instacart/Webvan.",
+      "timestamp_start": "00:22:29",
+      "timestamp_end": "00:25:32",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Andrew Wilkinson"
+      ],
+      "themes": [
+        "Entrepreneurship",
+        "Startups",
+        "Risk"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "andrew-wilkinson_t9",
+      "title": "Bootstrapping vs venture: goals, competition, and scale",
+      "summary": "Andrew argues bootstrapped companies can still become huge, and the real difference is willingness to burn capital; they discuss lifestyle success (Things) and why VCs ignore smaller but great businesses.",
+      "timestamp_start": "00:25:32",
+      "timestamp_end": "00:31:04",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Andrew Wilkinson"
+      ],
+      "themes": [
+        "Entrepreneurship",
+        "Funding",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "andrew-wilkinson_t10",
+      "title": "What makes a great business: moats and acquisition criteria",
+      "summary": "Andrew explains Tiny\u2019s acquisition philosophy: buy businesses that are hard to ruin, change little post-acquisition, and prioritize moats like brand, network effects, and (less ideally) switching costs.",
+      "timestamp_start": "00:31:04",
+      "timestamp_end": "00:35:56",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Andrew Wilkinson"
+      ],
+      "themes": [
+        "Business Models",
+        "M&A",
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "andrew-wilkinson_t11",
+      "title": "Serato acquisition and passion-driven pattern recognition",
+      "summary": "They cover Tiny\u2019s purchase of Serato and how Andrew\u2019s personal DJ background helped him understand the product\u2019s moat (user base + hardware integration) and evaluate the opportunity quickly.",
+      "timestamp_start": "00:35:56",
+      "timestamp_end": "00:36:35",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Andrew Wilkinson"
+      ],
+      "themes": [
+        "M&A",
+        "Strategy",
+        "Entrepreneurship"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "andrew-wilkinson_t12",
+      "title": "Hiring and people: \u201cno problems, only people problems\u201d",
+      "summary": "Andrew shares hiring lessons across Tiny\u2019s portfolio: prioritize avoiding toxic personalities, don\u2019t bet on \u201cpotential,\u201d and treat the first serious doubt as a firing signal\u2014especially for leadership roles.",
+      "timestamp_start": "00:36:35",
+      "timestamp_end": "00:39:31",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Andrew Wilkinson"
+      ],
+      "themes": [
+        "Leadership",
+        "Hiring",
+        "Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "andrew-wilkinson_t13",
+      "title": "Hiring CEOs: alignment, autonomy, and the \u2018hammer\u2019 problem",
+      "summary": "He explains why CEOs tend to execute their own playbook regardless of guidance; Tiny looks for leaders whose instincts match the needed strategy, then gives them space to run without interference.",
+      "timestamp_start": "00:39:31",
+      "timestamp_end": "00:41:37",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Andrew Wilkinson"
+      ],
+      "themes": [
+        "Leadership",
+        "Management",
+        "Hiring"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "andrew-wilkinson_t14",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Miro\u2019s Innovation Workspace and how teams can use AI in collaborative workflows.",
+      "timestamp_start": "00:41:37",
+      "timestamp_end": "00:42:41",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "andrew-wilkinson_t15",
+      "title": "AI workflows with Lindy: automating email and calendar",
+      "summary": "Andrew details his AI stack centered on Lindy agents that triage, label, and draft replies to emails, plus calendar automation (including rules and even emoji labeling), effectively replacing assistant-like tasks.",
+      "timestamp_start": "00:42:41",
+      "timestamp_end": "00:47:03",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Andrew Wilkinson"
+      ],
+      "themes": [
+        "AI",
+        "Productivity",
+        "Automation"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

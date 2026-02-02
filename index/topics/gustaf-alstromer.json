@@ -1,0 +1,201 @@
+{
+  "episode_id": "gustaf-alstromer",
+  "topics": [
+    {
+      "topic_id": "gustaf-alstromer_t1",
+      "title": "Product-market fit comes from talking to users",
+      "summary": "Gustaf opens with a core YC lesson: startups fail primarily because they don\u2019t talk to users, so they never find product-market fit. He reinforces YC\u2019s mantra: make things people want.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:30",
+      "speakers": [
+        "Gustaf Alstr\u00f6mer"
+      ],
+      "themes": [
+        "Product-Market Fit",
+        "Customer Development",
+        "Startup Advice"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "gustaf-alstromer_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the show and Gustaf\u2019s background (Airbnb growth, YC partner, climate tech focus). He previews the episode\u2019s main arcs: climate tech and lessons from 600+ YC startups.",
+      "timestamp_start": "00:00:30",
+      "timestamp_end": "00:01:53",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Podcast Intro",
+        "Career Background",
+        "Startup Advice"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "gustaf-alstromer_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Linear (issue tracking/product workflows) and Eppo (A/B testing/experimentation platform).",
+      "timestamp_start": "00:01:53",
+      "timestamp_end": "00:04:15",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Message"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gustaf-alstromer_t4",
+      "title": "Why Airbnb felt uniquely special",
+      "summary": "Gustaf reflects on Airbnb\u2019s early culture: it felt like friends building a mission, creating a lasting bond among alumni. He attributes much of the magic to the early team\u2019s bar-setting and the strength of the underlying business.",
+      "timestamp_start": "00:04:15",
+      "timestamp_end": "00:10:18",
+      "speakers": [
+        "Lenny",
+        "Gustaf Alstr\u00f6mer"
+      ],
+      "themes": [
+        "Company Culture",
+        "Hiring",
+        "Career Background"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gustaf-alstromer_t5",
+      "title": "Founder motivations: beyond \u201ca career step\u201d",
+      "summary": "They discuss whether starting a company is \u201cdesperation\u201d and explore diverse founder motivations. Gustaf notes motivations vary and evolve, and cautions against starting a startup merely as a resume move or when life constraints prevent full commitment.",
+      "timestamp_start": "00:10:30",
+      "timestamp_end": "00:16:03",
+      "speakers": [
+        "Lenny",
+        "Gustaf Alstr\u00f6mer"
+      ],
+      "themes": [
+        "Founder Psychology",
+        "Startup Advice",
+        "Career Decisions"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gustaf-alstromer_t6",
+      "title": "YC office hours: diagnosing blockers and accountability",
+      "summary": "Gustaf explains 1:1 office hours (\u201cwhat\u2019s holding you back from moving faster?\u201d) and group office hours (goals, progress, and obstacles). He emphasizes the loneliness of founding and how peer groups create learning, support, and accountability.",
+      "timestamp_start": "00:16:03",
+      "timestamp_end": "00:22:26",
+      "speakers": [
+        "Lenny",
+        "Gustaf Alstr\u00f6mer"
+      ],
+      "themes": [
+        "YC Program",
+        "Founder Psychology",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gustaf-alstromer_t7",
+      "title": "Most common startup mistakes: not talking to customers",
+      "summary": "Gustaf identifies the dominant failure mode: insufficient customer conversations leading to no product-market fit. He adds that founders often fear outreach and underestimate the volume needed to find early adopters.",
+      "timestamp_start": "00:22:26",
+      "timestamp_end": "00:28:45",
+      "speakers": [
+        "Lenny",
+        "Gustaf Alstr\u00f6mer"
+      ],
+      "themes": [
+        "Customer Development",
+        "Product-Market Fit",
+        "Startup Advice"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gustaf-alstromer_t8",
+      "title": "Overcoming rejection and learning customer indifference",
+      "summary": "Gustaf reframes the fear of rejection: most users are simply indifferent, not hostile, and you often get multiple chances. They discuss why attention is scarce and why strong painkillers beat \u201cnice-to-have\u201d products.",
+      "timestamp_start": "00:28:45",
+      "timestamp_end": "00:34:13",
+      "speakers": [
+        "Lenny",
+        "Gustaf Alstr\u00f6mer"
+      ],
+      "themes": [
+        "Founder Psychology",
+        "Customer Development",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gustaf-alstromer_t9",
+      "title": "How to discover real pain: watch workflows",
+      "summary": "Gustaf advises founders to observe users (screen share, walkthroughs) rather than rely on abstract survey questions. He gives examples like Excel-heavy manual work and broken EV charging experiences to illustrate learning by doing.",
+      "timestamp_start": "00:34:13",
+      "timestamp_end": "00:34:41",
+      "speakers": [
+        "Lenny",
+        "Gustaf Alstr\u00f6mer"
+      ],
+      "themes": [
+        "Customer Development",
+        "User Research",
+        "Product Discovery"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "gustaf-alstromer_t10",
+      "title": "Why technical co-founders matter and alternatives",
+      "summary": "Gustaf explains why YC values technical founders: iteration speed and technical decision-making can\u2019t be outsourced via specs. He suggests co-founder matching, directly asking strong engineers, offering meaningful equity, or learning to code to build a prototype.",
+      "timestamp_start": "00:34:41",
+      "timestamp_end": "00:39:46",
+      "speakers": [
+        "Lenny",
+        "Gustaf Alstr\u00f6mer"
+      ],
+      "themes": [
+        "Founding Team",
+        "Engineering",
+        "Startup Advice"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gustaf-alstromer_t11",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Pando, a continuous performance management platform for employee growth and transparency.",
+      "timestamp_start": "00:39:49",
+      "timestamp_end": "00:40:47",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Message"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "gustaf-alstromer_t12",
+      "title": "Traits of successful founders and YC winners",
+      "summary": "Gustaf lists common attributes among successful companies: determination, technical strength, fast customer-driven execution, and strong communication/storytelling that inspires teams and helps with fundraising when needed.",
+      "timestamp_start": "00:40:47",
+      "timestamp_end": "00:44:06",
+      "speakers": [
+        "Lenny",
+        "Gustaf Alstr\u00f6mer"
+      ],
+      "themes": [
+        "Founder Traits",
+        "Startup Advice",
+        "Execution"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

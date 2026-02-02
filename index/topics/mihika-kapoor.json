@@ -1,0 +1,239 @@
+{
+  "episode_id": "mihika-kapoor",
+  "topics": [
+    {
+      "topic_id": "mihika-kapoor_t1",
+      "title": "Cold open: Mihika\u2019s reputation and ambition",
+      "summary": "Lenny shares that Mihika was the most-mentioned \u201cbest PM\u201d on Twitter; Mihika frames her mindset as having world-sized scope and using prototyping to imagine the future. They tease Figma\u2019s Maker Week as a driver of entrepreneurial culture.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:31",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mihika Kapoor"
+      ],
+      "themes": [
+        "Vision",
+        "Culture",
+        "0\u21921 Product Development"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "mihika-kapoor_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Mihika\u2019s background (FigJam early PM, new product launching in June, prior Meta and nonprofit work) and previews the episode\u2019s focus: vision, buy-in, conviction, empathy/culture, and 0\u21921 execution inside a company.",
+      "timestamp_start": "00:00:43",
+      "timestamp_end": "00:02:29",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Career",
+        "Vision",
+        "0\u21921 Product Development"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "mihika-kapoor_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Paragon (embedded integrations) and Lenny\u2019s Job Board / recruiting service.",
+      "timestamp_start": "00:02:29",
+      "timestamp_end": "00:04:29",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "mihika-kapoor_t4",
+      "title": "Framing: strengths-based PMing and growth mindset",
+      "summary": "Lenny explains the \u201creverse performance review\u201d format; Mihika describes her hybrid CS + visual arts background, why PM fits her, and the importance of leaning into spikes while still improving weaker areas.",
+      "timestamp_start": "00:04:29",
+      "timestamp_end": "00:07:32",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mihika Kapoor"
+      ],
+      "themes": [
+        "Career",
+        "Product Management",
+        "Personal Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mihika-kapoor_t5",
+      "title": "Crafting vision: anchor through chaos",
+      "summary": "Mihika argues vision is essential to navigate messy product development, keeping teams oriented through pivots and setbacks. She explains vision-building as cross-functional (research, design/prototyping, engineering feasibility) rather than linear.",
+      "timestamp_start": "00:07:32",
+      "timestamp_end": "00:12:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mihika Kapoor"
+      ],
+      "themes": [
+        "Vision",
+        "Cross-functional Collaboration",
+        "0\u21921 Product Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mihika-kapoor_t6",
+      "title": "FigJam vision example: democratizing meetings",
+      "summary": "Using FigJam\u2019s pandemic-era rise, Mihika shares how the team expanded from \u201cbrainstorms work well\u201d to a broader vision: make many meeting types more democratic and participatory. This vision then informed features and rituals (templates, voting, music, kudos).",
+      "timestamp_start": "00:12:12",
+      "timestamp_end": "00:16:22",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mihika Kapoor"
+      ],
+      "themes": [
+        "Vision",
+        "Product Strategy",
+        "Future of Work"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mihika-kapoor_t7",
+      "title": "How to deliver vision: one shared artifact",
+      "summary": "Mihika emphasizes aligning the team around a single combined deliverable (often a Figma deck) rather than separate readouts. Figma\u2019s \u201csee to believe\u201d culture pushes teams to prototype early\u2014even before green-lighting\u2014to make the future feel real.",
+      "timestamp_start": "00:16:22",
+      "timestamp_end": "00:18:25",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mihika Kapoor"
+      ],
+      "themes": [
+        "Vision",
+        "Communication",
+        "Cross-functional Collaboration"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "mihika-kapoor_t8",
+      "title": "Prototyping without skills: AI and asking for help",
+      "summary": "For PMs lacking design/engineering skills, Mihika suggests leveraging AI tools to lower the build barrier and proactively recruiting collaborators. She describes using Maker Week (internal hackathon) to assemble a team by directly asking coworkers to join.",
+      "timestamp_start": "00:18:25",
+      "timestamp_end": "00:21:27",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mihika Kapoor"
+      ],
+      "themes": [
+        "0\u21921 Product Development",
+        "Execution",
+        "Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mihika-kapoor_t9",
+      "title": "Building conviction fast: intuition and two-way doors",
+      "summary": "Mihika explains conviction as a momentum engine, grounded in Bezos\u2019s two-way-door decisions and Meta\u2019s \u201cproduct sense.\u201d She builds intuition via constant user conversations, shares the value of offering an initial hypothesis to provoke reactions, and stresses \u201cstrong opinions, weakly held.\u201d",
+      "timestamp_start": "00:21:27",
+      "timestamp_end": "00:26:37",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mihika Kapoor"
+      ],
+      "themes": [
+        "Decision Making",
+        "Product Sense",
+        "0\u21921 Product Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mihika-kapoor_t10",
+      "title": "Directness with trust: calibrating confidence and feedback",
+      "summary": "They discuss balancing strong opinions with team voice by explicitly signaling confidence levels and inviting disagreement. Mihika shares tactics for healthy directness: make it two-way, ask for feedback first, treat feedback as a continuous gift, and act on it quickly.",
+      "timestamp_start": "00:26:37",
+      "timestamp_end": "00:31:43",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mihika Kapoor"
+      ],
+      "themes": [
+        "Communication",
+        "Leadership",
+        "Team Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mihika-kapoor_t11",
+      "title": "Hype as a PM responsibility: internal momentum moments",
+      "summary": "Mihika describes \u201chacking hype\u201d as monitoring organizational sentiment and creating visibility moments\u2014especially for bottom-up 0\u21921 bets. She shares pushing for an early demo of her new product at SKO to rally the company and accelerate learning despite rough edges.",
+      "timestamp_start": "00:32:48",
+      "timestamp_end": "00:37:58",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mihika Kapoor"
+      ],
+      "themes": [
+        "Influence",
+        "0\u21921 Product Development",
+        "Internal Alignment"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mihika-kapoor_t12",
+      "title": "External hype and delight: FigJam birthday launch",
+      "summary": "Mihika contrasts internal vs external hype and explains tailoring excitement to a product\u2019s brand. She recounts FigJam\u2019s one-year \u201cbirthday\u201d with an in-product Easter-egg hunt of feature \u201cpresents,\u201d designed to make users feel celebrated and emotionally connected.",
+      "timestamp_start": "00:37:58",
+      "timestamp_end": "00:42:19",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mihika Kapoor"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Product Marketing",
+        "User Delight"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mihika-kapoor_t13",
+      "title": "Staying close to users: users, non-users, and sales calls",
+      "summary": "Mihika shares practical ways to stay immersed: ask friends and peers how they use (or don\u2019t use) the product, prioritize non-user insights to uncover perception barriers, and partner closely with sales by joining calls so customer pain points shape the roadmap.",
+      "timestamp_start": "00:42:19",
+      "timestamp_end": "00:47:16",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mihika Kapoor"
+      ],
+      "themes": [
+        "User Research",
+        "Customer Development",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mihika-kapoor_t14",
+      "title": "Operationalizing insights (partial, transcript cut off)",
+      "summary": "Lenny asks how Mihika captures and systematizes what she hears (cadence, repositories, tooling). Mihika begins explaining how insights get operationalized at Figma/ FigJam, but the provided transcript ends mid-answer.",
+      "timestamp_start": "00:47:16",
+      "timestamp_end": "00:47:50",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mihika Kapoor"
+      ],
+      "themes": [
+        "User Research",
+        "Execution",
+        "Product Operations"
+      ],
+      "quote_count": 3
+    }
+  ]
+}

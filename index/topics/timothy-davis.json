@@ -1,0 +1,239 @@
+{
+  "episode_id": "timothy-davis",
+  "topics": [
+    {
+      "topic_id": "timothy-davis_t1",
+      "title": "Introduction and performance marketing definitions",
+      "summary": "Lenny introduces Timothy and frames the episode. They define performance marketing vs. paid growth, clarify what counts as \u201cpaid\u201d (online/offline/affiliates), and anchor performance marketing as measurable marketing.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:03:46",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Timothy Davis"
+      ],
+      "themes": [
+        "Paid Growth & Performance Marketing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "timothy-davis_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for BuildBetter and OneSchema, including product overviews and use cases.",
+      "timestamp_start": "00:03:46",
+      "timestamp_end": "00:06:32",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Christina Gilbert"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "timothy-davis_t3",
+      "title": "Is paid growth for every company?",
+      "summary": "Timothy argues \u201cpaid is for everyone,\u201d emphasizing platforms becoming pay-to-play. He recommends paid search as a baseline channel because it\u2019s user-intent driven, while social/video are more disruptive and context-dependent.",
+      "timestamp_start": "00:06:32",
+      "timestamp_end": "00:08:11",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Timothy Davis"
+      ],
+      "themes": [
+        "Paid Growth & Performance Marketing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "timothy-davis_t4",
+      "title": "When paid can be the primary growth engine",
+      "summary": "They discuss how to tell if paid could drive most growth by analyzing where users already come from and \u201cturning the knob up.\u201d Timothy shares an example (Hairstory/IPSY) and warns that creative doesn\u2019t transfer cleanly across platforms due to different user mindsets.",
+      "timestamp_start": "00:08:11",
+      "timestamp_end": "00:11:24",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Timothy Davis"
+      ],
+      "themes": [
+        "Paid Growth & Performance Marketing"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "timothy-davis_t5",
+      "title": "Running \u201csigns of life\u201d tests on channels",
+      "summary": "Timothy explains lightweight \u201csigns of life\u201d experiments: start small, validate signal, then build proper campaigns rather than scaling immediately. He recommends starting with first-party data and tight lookalikes (e.g., 1%) before broadening.",
+      "timestamp_start": "00:11:24",
+      "timestamp_end": "00:14:39",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Timothy Davis"
+      ],
+      "themes": [
+        "Experimentation & Testing",
+        "Paid Growth & Performance Marketing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "timothy-davis_t6",
+      "title": "Diagnosing failures: targeting, creative, and measurement",
+      "summary": "They cover how to interpret early metrics (e.g., CTR) to separate targeting issues from creative issues, and why qualitative feedback (focus groups) can be necessary. Timothy also discusses control-vs-test creative setups and the limits of platform metrics.",
+      "timestamp_start": "00:14:40",
+      "timestamp_end": "00:16:34",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Timothy Davis"
+      ],
+      "themes": [
+        "Creative & Messaging",
+        "Experimentation & Testing"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "timothy-davis_t7",
+      "title": "Test duration, budget constraints, and projections",
+      "summary": "Timothy explains that ideal test length is driven by statistical relevance but usually constrained by budget. He suggests using small-test results to model expected returns at higher spend with partner input (Meta/Google reps).",
+      "timestamp_start": "00:16:34",
+      "timestamp_end": "00:17:42",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Timothy Davis"
+      ],
+      "themes": [
+        "Measurement & Analytics",
+        "Experimentation & Testing"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "timothy-davis_t8",
+      "title": "Experimentation mindset and platform differences",
+      "summary": "Timothy advises teams to expect failures and treat them as learning, since each platform\u2019s behavior and mechanics differ. He emphasizes creating a culture where experimentation is safe and iterative.",
+      "timestamp_start": "00:17:42",
+      "timestamp_end": "00:18:56",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Timothy Davis"
+      ],
+      "themes": [
+        "Experimentation & Testing"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "timothy-davis_t9",
+      "title": "Which platforms to prioritize and why",
+      "summary": "Timothy recommends starting with Google Search, then Meta, and adding YouTube if you can sustain a video-creative refresh flywheel; TikTok depends on existing audience signals. He notes LinkedIn\u2019s high costs but powerful targeting, best for high-LTV/enterprise use cases.",
+      "timestamp_start": "00:18:56",
+      "timestamp_end": "00:25:15",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Timothy Davis"
+      ],
+      "themes": [
+        "Channel Strategy",
+        "Paid Growth & Performance Marketing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "timothy-davis_t10",
+      "title": "What makes YouTube video ads work",
+      "summary": "Timothy shares creative guidance for YouTube: start with emotion (comedy, happiness, etc.) to create memorability and downstream action. He reiterates the need for consistent creative refresh to keep performance strong.",
+      "timestamp_start": "00:25:15",
+      "timestamp_end": "00:26:21",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Timothy Davis"
+      ],
+      "themes": [
+        "Creative & Messaging",
+        "Channel Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "timothy-davis_t11",
+      "title": "Emerging channels: podcasts, CTV, VR, AI ads",
+      "summary": "They discuss newer opportunities beyond core platforms, including podcasts and connected TV (when measured well), plus early-stage areas like VR and AI advertising. Timothy prefers learning from others\u2019 experiments before investing heavily.",
+      "timestamp_start": "00:26:21",
+      "timestamp_end": "00:27:34",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Timothy Davis"
+      ],
+      "themes": [
+        "Channel Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "timothy-davis_t12",
+      "title": "When to start paid and scaling considerations",
+      "summary": "Timothy explains timing depends on goals and market demand: paid can drive immediate results while SEO takes time. He contrasts demand-capture (search, competitor bidding) with demand-creation (display) using a hotel \u201cromantic setup\u201d example.",
+      "timestamp_start": "00:27:34",
+      "timestamp_end": "00:30:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Timothy Davis"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Channel Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "timothy-davis_t13",
+      "title": "Paid before product-market fit risks",
+      "summary": "They discuss why heavy paid spend pre-PMF can backfire if operational/product constraints prevent conversion (IBM in Africa currency example). Timothy advises ensuring conversion readiness to avoid wasted spend and brand damage.",
+      "timestamp_start": "00:30:33",
+      "timestamp_end": "00:33:31",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Timothy Davis"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Paid Growth & Performance Marketing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "timothy-davis_t14",
+      "title": "Why agencies underperform and how to use them",
+      "summary": "Timothy explains agencies often rely on copy-paste playbooks and lack time for deep account work (landing pages, UX, full ops cadence). He recommends agencies/consultants for getting started, with clear milestones to hire in-house and red flags if partners resist that plan.",
+      "timestamp_start": "00:33:31",
+      "timestamp_end": "00:40:37",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Timothy Davis"
+      ],
+      "themes": [
+        "Team & Hiring",
+        "Paid Growth & Performance Marketing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "timothy-davis_t15",
+      "title": "First in-house hire: signal vs noise mindset",
+      "summary": "Timothy describes hiring for analytical thinking over channel-specific skills, emphasizing the ability to identify the right metrics for the campaign goal. He ties this to his baseball stats background and shares an interview approach that tests prioritization under data overload.",
+      "timestamp_start": "00:40:37",
+      "timestamp_end": "00:47:34",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Timothy Davis"
+      ],
+      "themes": [
+        "Team & Hiring",
+        "Measurement & Analytics"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

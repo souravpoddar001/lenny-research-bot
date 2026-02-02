@@ -1,0 +1,240 @@
+{
+  "episode_id": "alex-komoroske",
+  "topics": [
+    {
+      "topic_id": "alex-komoroske_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Alex Komoroske\u2019s background (Google, Stripe, now founding a startup) and previews major themes: AI\u2019s impact on product, organizational dynamics, and \u201cgardening\u201d vs \u201cbuilding.\u201d",
+      "timestamp_start": "00:00:40",
+      "timestamp_end": "00:02:01",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Alex Komoroske"
+      ],
+      "themes": [
+        "Career",
+        "Product Management",
+        "AI"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "alex-komoroske_t2",
+      "title": "Bits and Bobs: a reflection practice",
+      "summary": "Alex explains his 600-page \u201cBits and Bobs\u201d doc: daily capture of interesting ideas, weekly reflection to find patterns, and why it\u2019s intentionally raw and not optimized for an audience.",
+      "timestamp_start": "00:02:02",
+      "timestamp_end": "00:04:09",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Alex Komoroske"
+      ],
+      "themes": [
+        "Productivity",
+        "Learning",
+        "Writing"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "alex-komoroske_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Eppo (experimentation platform) and Vanta (security/compliance automation).",
+      "timestamp_start": "00:04:09",
+      "timestamp_end": "00:05:28",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "alex-komoroske_t4",
+      "title": "The Compendium: note system and embeddings",
+      "summary": "Alex describes his personal tool \u201cThe Compendium,\u201d how he processes thousands of working notes, uses embeddings to surface related ideas, and publishes distilled insights weekly.",
+      "timestamp_start": "00:06:21",
+      "timestamp_end": "00:07:39",
+      "speakers": [
+        "Alex Komoroske",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Productivity",
+        "Tools",
+        "Learning"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "alex-komoroske_t5",
+      "title": "Making time for deep thinking",
+      "summary": "Alex argues deep thinking requires protected time; he shares his practice of meeting-free Fridays to reflect, read carefully, and turn repeated explanations into reusable documents.",
+      "timestamp_start": "00:07:39",
+      "timestamp_end": "00:10:09",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Alex Komoroske"
+      ],
+      "themes": [
+        "Productivity",
+        "Leadership",
+        "Communication"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "alex-komoroske_t6",
+      "title": "How LLMs change product development",
+      "summary": "Alex frames LLMs as a disruptive shift that breaks old assumptions (software cost structures, business models) and introduces \u201csquishy computing,\u201d requiring product designs that tolerate imperfection.",
+      "timestamp_start": "00:10:10",
+      "timestamp_end": "00:14:24",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Alex Komoroske"
+      ],
+      "themes": [
+        "AI",
+        "Product Strategy",
+        "Technology"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "alex-komoroske_t7",
+      "title": "Skills for PMs: curiosity and taste",
+      "summary": "He advises PMs to lean into play and exploration in this early \u201ccommunity gardening\u201d phase of AI, and to develop \u201ctaste\u201d as a differentiator in a world of cheap content production.",
+      "timestamp_start": "00:14:24",
+      "timestamp_end": "00:17:53",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Alex Komoroske"
+      ],
+      "themes": [
+        "AI",
+        "Product Management",
+        "Career"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "alex-komoroske_t8",
+      "title": "WebSim and valuing weird AI-native products",
+      "summary": "They discuss WebSim as an example of an AI-native, alien-feeling product that reveals new interaction patterns, and why such weird prototypes may signal the future more than \u201cAI slapped on\u201d playbooks.",
+      "timestamp_start": "00:17:53",
+      "timestamp_end": "00:19:03",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Alex Komoroske"
+      ],
+      "themes": [
+        "AI",
+        "Product Discovery",
+        "Innovation"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "alex-komoroske_t9",
+      "title": "AI as an individual amplifier, not collaboration tool",
+      "summary": "Alex explains why AI adoption can be invisible inside companies: it boosts individual productivity in ways people may hide, making value creation diffuse and hard for organizations to measure.",
+      "timestamp_start": "00:19:03",
+      "timestamp_end": "00:20:48",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Alex Komoroske"
+      ],
+      "themes": [
+        "AI",
+        "Organizations",
+        "Productivity"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "alex-komoroske_t10",
+      "title": "How Alex uses Claude day-to-day",
+      "summary": "He shares practical usage: brainstorming names and frames, critiquing options, exploring domains with a \u201cwell-read, naive friend,\u201d and using LLMs like an \u201celectric bike\u201d for idea spaces.",
+      "timestamp_start": "00:20:48",
+      "timestamp_end": "00:23:05",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Alex Komoroske"
+      ],
+      "themes": [
+        "AI",
+        "Productivity",
+        "Thinking"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "alex-komoroske_t11",
+      "title": "Organizational kayfabe and compounding misreporting",
+      "summary": "Alex defines kayfabe as shared pretense (optimism/status) that lubricates execution but can compound into leadership being far from ground truth, creating zombie strategies and bad decisions.",
+      "timestamp_start": "00:23:05",
+      "timestamp_end": "00:30:55",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Alex Komoroske"
+      ],
+      "themes": [
+        "Organizations",
+        "Leadership",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "alex-komoroske_t12",
+      "title": "Gardening vs building: farming for miracles",
+      "summary": "He contrasts linear \u201cbuilder\u201d execution with \u201cgardening\u201d systems that can compound on their own; the goal is to plant many cheap seeds and nurture the ones that show accelerating traction.",
+      "timestamp_start": "00:30:55",
+      "timestamp_end": "00:34:47",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Alex Komoroske"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Innovation",
+        "Thinking"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "alex-komoroske_t13",
+      "title": "Designing for emergence and protecting experiments",
+      "summary": "Alex explains why emergence work looks unserious and hard to credit, and recommends a portfolio approach: deliver obvious value (~70%) to earn trust, while reserving space (~30%) for high-upside seeds.",
+      "timestamp_start": "00:34:47",
+      "timestamp_end": "00:38:46",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Alex Komoroske"
+      ],
+      "themes": [
+        "Leadership",
+        "Product Strategy",
+        "Organizations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "alex-komoroske_t14",
+      "title": "Seeing seeds of greatness in people",
+      "summary": "They discuss protecting \u201cugly baby\u201d ideas and Alex\u2019s mentoring approach: identify someone\u2019s superpower early, help them lean into it, and create high-trust environments that enable great work.",
+      "timestamp_start": "00:38:46",
+      "timestamp_end": "00:40:49",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Alex Komoroske"
+      ],
+      "themes": [
+        "Leadership",
+        "Career",
+        "Organizations"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

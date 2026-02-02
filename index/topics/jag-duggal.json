@@ -1,0 +1,219 @@
+{
+  "episode_id": "jag-duggal",
+  "topics": [
+    {
+      "topic_id": "jag-duggal_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Nubank\u2019s scale and word-of-mouth growth, plus Jag\u2019s background across Nubank, Facebook, Google, and Quantcast, setting up the episode\u2019s focus on product, strategy, and fintech.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:03",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jag Duggal"
+      ],
+      "themes": [
+        "Company Building",
+        "Product Management",
+        "Fintech"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jag-duggal_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for WorkOS (enterprise features/authz) and Mercury (startup banking and bill pay/accounting capabilities).",
+      "timestamp_start": "00:02:03",
+      "timestamp_end": "00:04:04",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jag-duggal_t3",
+      "title": "Nubank mind-blowing stats and word of mouth",
+      "summary": "Lenny shares Nubank\u2019s comparative size, customer count, and viral growth; Jag adds brand stunts/records, reinforcing how unusual Nubank\u2019s organic growth is for banking.",
+      "timestamp_start": "00:04:38",
+      "timestamp_end": "00:06:24",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jag Duggal"
+      ],
+      "themes": [
+        "Growth",
+        "Fintech",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jag-duggal_t4",
+      "title": "Building products customers love fanatically",
+      "summary": "Jag explains Nubank\u2019s foundations: targeting deep emotional pain points with incumbents, embedding customer love into culture, and using discovery/observation plus rapid iteration to earn advocacy.",
+      "timestamp_start": "00:06:24",
+      "timestamp_end": "00:11:23",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jag Duggal"
+      ],
+      "themes": [
+        "Product Management",
+        "Customer Research",
+        "Company Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jag-duggal_t5",
+      "title": "Company values and operationalizing customer obsession",
+      "summary": "Jag lists Nubank\u2019s five values and describes mechanisms like Amazon-style PR/FAQ writing and frequent product/design reviews to test whether work is truly \u201cfundamentally different\u201d for customers.",
+      "timestamp_start": "00:11:23",
+      "timestamp_end": "00:14:26",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jag Duggal"
+      ],
+      "themes": [
+        "Company Culture",
+        "Product Management",
+        "Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jag-duggal_t6",
+      "title": "Measuring love: Sean Ellis score, NPS, churn",
+      "summary": "Jag details Nubank\u2019s gating metrics: Sean Ellis \u2018very disappointed\u2019 score (with a higher bar in Brazil), world-class NPS targets, and churn/leaky-bucket focus to sustain word-of-mouth loops.",
+      "timestamp_start": "00:14:26",
+      "timestamp_end": "00:18:42",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jag Duggal"
+      ],
+      "themes": [
+        "Metrics",
+        "Product Management",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jag-duggal_t7",
+      "title": "Using cohorts to raise product-market-fit scores",
+      "summary": "They discuss diagnosing why scores are low, finding \u2018bullseye\u2019 cohorts where love is high, and iterating toward \u2018great enough\u2019\u2014with examples like bill-pay automation and Ultravioleta card benefits.",
+      "timestamp_start": "00:18:42",
+      "timestamp_end": "00:27:11",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jag Duggal"
+      ],
+      "themes": [
+        "Product Management",
+        "Metrics",
+        "Customer Research"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jag-duggal_t8",
+      "title": "Direct customer calls and fast feedback loops",
+      "summary": "Jag advocates PMs/designers personally calling ~10 customers to capture nuance and speed learning, minimizing research distance and using qualitative signal to guide iteration.",
+      "timestamp_start": "00:27:11",
+      "timestamp_end": "00:30:42",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jag Duggal"
+      ],
+      "themes": [
+        "Customer Research",
+        "Product Management",
+        "Company Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jag-duggal_t9",
+      "title": "PM courage: pushing back and not scaling problems",
+      "summary": "Jag explains why PMs must say no under pressure, avoid \u2018bouncing a dead cat\u2019 with forced distribution, and rely on ownership culture plus clarity/data to prevent scaling small issues into big messes.",
+      "timestamp_start": "00:30:42",
+      "timestamp_end": "00:34:10",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jag Duggal"
+      ],
+      "themes": [
+        "Product Management",
+        "Leadership",
+        "Company Culture"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jag-duggal_t10",
+      "title": "Doing customer research well: hypotheses and observation",
+      "summary": "Jag shares pitfalls and best practices: start with a crisp hypothesis, don\u2019t become a lawyer for it, prefer observation and indirect questions, and keep anecdotes central alongside analysis.",
+      "timestamp_start": "00:34:10",
+      "timestamp_end": "00:42:01",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jag Duggal"
+      ],
+      "themes": [
+        "Customer Research",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jag-duggal_t11",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for OneSchema, an embeddable CSV importer that handles messy data and reduces engineering/support burden.",
+      "timestamp_start": "00:42:01",
+      "timestamp_end": "00:43:13",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jag-duggal_t12",
+      "title": "Strategy: clarity, focus, and coherent bets",
+      "summary": "Jag argues strategy is not aspiration but a coherent plan; he cites Kevin Systrom\u2019s \u2018at least we are clear,\u2019 references Rumelt, and explains Nubank\u2019s early focused wedge and why concentrated bets beat hedging.",
+      "timestamp_start": "00:43:13",
+      "timestamp_end": "00:49:05",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jag Duggal"
+      ],
+      "themes": [
+        "Strategy",
+        "Company Building",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jag-duggal_t13",
+      "title": "Building strategic muscle and being fundamentally different",
+      "summary": "Jag recommends taking strategy seriously, using frameworks (Rumelt, Roger Martin, category design), and practicing courageous focus; he reiterates Nubank\u2019s mantra of being fundamentally different, not incrementally better.",
+      "timestamp_start": "00:49:05",
+      "timestamp_end": "00:52:46",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jag Duggal"
+      ],
+      "themes": [
+        "Strategy",
+        "Product Management",
+        "Company Building"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

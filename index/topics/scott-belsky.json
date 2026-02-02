@@ -1,0 +1,324 @@
+{
+  "episode_id": "scott-belsky",
+  "topics": [
+    {
+      "topic_id": "scott-belsky_t1",
+      "title": "Conviction as the signal to persist or quit",
+      "summary": "Scott explains his heuristic for founders in trouble: compare your current conviction (now that you know more) to your initial conviction. If conviction has increased, you\u2019re likely in the \u201cmessy middle\u201d; if it\u2019s decreased, it\u2019s time to quit or pivot.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:01",
+      "speakers": [
+        "Scott Belsky"
+      ],
+      "themes": [
+        "Entrepreneurship",
+        "Leadership",
+        "Mindset"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "scott-belsky_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Scott\u2019s background (Behance founder, Adobe exec, author, investor) and previews topics: product sense, building fewer features, consumer products, and AI\u2019s impact.",
+      "timestamp_start": "00:01:15",
+      "timestamp_end": "00:02:21",
+      "speakers": [
+        "Lenny",
+        "Scott Belsky"
+      ],
+      "themes": [
+        "Career",
+        "Product Management",
+        "Leadership"
+      ],
+      "quote_count": 2
+    },
+    {
+      "topic_id": "scott-belsky_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Braintrust (talent network), Eppo (A/B testing), and later Rows (modern spreadsheet with integrations and sharing).",
+      "timestamp_start": "00:02:21",
+      "timestamp_end": "00:33:05",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "scott-belsky_t4",
+      "title": "Scott\u2019s new Adobe role and responsibilities",
+      "summary": "Scott describes moving from CPO to overseeing strategy, corporate development, company-wide design, and emerging products, driven by shifts like AI and new growth areas (3D/immersive, stock). He also outlines what his day-to-day looks like across these domains.",
+      "timestamp_start": "00:04:52",
+      "timestamp_end": "00:07:12",
+      "speakers": [
+        "Lenny",
+        "Scott Belsky"
+      ],
+      "themes": [
+        "Leadership",
+        "Strategy",
+        "Career"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "scott-belsky_t5",
+      "title": "Why Scott thrived as Adobe\u2019s CPO",
+      "summary": "Scott attributes longevity to breaking down artificial boundaries between product, design, and engineering, emphasizing that user experience\u2014not just technology\u2014drives product success. He notes many CPO roles lack design/engineering scope, limiting impact.",
+      "timestamp_start": "00:07:12",
+      "timestamp_end": "00:08:29",
+      "speakers": [
+        "Lenny",
+        "Scott Belsky"
+      ],
+      "themes": [
+        "Leadership",
+        "Product Management",
+        "Org Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "scott-belsky_t6",
+      "title": "Building product sense through empathy and psychology",
+      "summary": "Scott argues product sense starts with deep customer empathy rather than attachment to a solution, and that great product work is applied psychology. He introduces the \u201cfirst mile\u201d concept: in the first 30 seconds users are lazy, vain, and selfish, so onboarding/orientation/defaults must minimize friction.",
+      "timestamp_start": "00:08:29",
+      "timestamp_end": "00:11:10",
+      "speakers": [
+        "Lenny",
+        "Scott Belsky"
+      ],
+      "themes": [
+        "Product Management",
+        "User Experience",
+        "Customer Research"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "scott-belsky_t7",
+      "title": "First mile remains critical as customers evolve",
+      "summary": "Scott explains why onboarding must be continually redesigned: new cohorts are less forgiving and have different expectations. He uses Photoshop\u2019s shift to subscription and a broader audience to illustrate how funnel changes force onboarding changes.",
+      "timestamp_start": "00:11:10",
+      "timestamp_end": "00:13:17",
+      "speakers": [
+        "Lenny",
+        "Scott Belsky"
+      ],
+      "themes": [
+        "User Experience",
+        "Growth",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "scott-belsky_t8",
+      "title": "How to build empathy: shoulder-to-shoulder research",
+      "summary": "Scott recommends observing customers in context\u2014watching their whole day, not just product usage\u2014to understand interruptions, constraints, and real workflows. This context builds intuition and enables teams to \u201cbe the customer.\u201d",
+      "timestamp_start": "00:13:24",
+      "timestamp_end": "00:15:08",
+      "speakers": [
+        "Lenny",
+        "Scott Belsky"
+      ],
+      "themes": [
+        "Customer Research",
+        "Product Management",
+        "User Experience"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "scott-belsky_t9",
+      "title": "Designing for surprise to drive word-of-mouth",
+      "summary": "Scott notes people don\u2019t talk about products that meet expectations; they talk about unexpected delight (e.g., Tesla Easter eggs). He connects this to \u201cmagic tricks\u201d in consumer products as a lever for organic growth.",
+      "timestamp_start": "00:15:09",
+      "timestamp_end": "00:16:34",
+      "speakers": [
+        "Lenny",
+        "Scott Belsky"
+      ],
+      "themes": [
+        "Growth",
+        "Consumer Products",
+        "User Experience"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "scott-belsky_t10",
+      "title": "Why most new consumer apps fade quickly",
+      "summary": "Scott contrasts durable consumer winners (Uber, Pinterest) that created new network effects and unique psychological insights with \u201cclever interface\u201d apps that get copied by platforms. He argues many startups become de facto R&D for incumbents with distribution.",
+      "timestamp_start": "00:16:34",
+      "timestamp_end": "00:19:09",
+      "speakers": [
+        "Lenny",
+        "Scott Belsky"
+      ],
+      "themes": [
+        "Consumer Products",
+        "Strategy",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "scott-belsky_t11",
+      "title": "What consumer success requires today (vs. 10 years ago)",
+      "summary": "Scott suggests users now tolerate more complexity and cognitive load (tabs, hidden menus), enabling platforms to absorb novel features rather than spawning standalone apps. He frames this as a shift from atomized apps toward more consolidated experiences.",
+      "timestamp_start": "00:19:09",
+      "timestamp_end": "00:20:42",
+      "speakers": [
+        "Lenny",
+        "Scott Belsky"
+      ],
+      "themes": [
+        "Consumer Products",
+        "Product Management",
+        "Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "scott-belsky_t12",
+      "title": "Build half the features: optimize for desired problems",
+      "summary": "Scott advises teams to ship only what gets users to value, and defer \u201cnice-to-have\u201d requests until users care enough to ask. He shares Behance lessons: removing underused features increased focus on the core metric, and most removals trigger brief outrage then silence.",
+      "timestamp_start": "00:20:42",
+      "timestamp_end": "00:26:15",
+      "speakers": [
+        "Lenny",
+        "Scott Belsky"
+      ],
+      "themes": [
+        "Product Management",
+        "Prioritization",
+        "MVP"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "scott-belsky_t13",
+      "title": "AI\u2019s impact: from workflow to flow",
+      "summary": "Scott predicts AI will reduce mundane work and unlock human ingenuity, potentially increasing what companies attempt rather than shrinking teams. He argues AI mines the \u201ccenter\u201d (useful) while humans still find new edges, and expects more focus on experiences and non-scalable customer value.",
+      "timestamp_start": "00:26:15",
+      "timestamp_end": "00:29:09",
+      "speakers": [
+        "Lenny",
+        "Scott Belsky"
+      ],
+      "themes": [
+        "AI",
+        "Future of Work",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "scott-belsky_t14",
+      "title": "Collapsing the stack: cross-functional empowerment via AI",
+      "summary": "Scott expects fewer organizational handoffs as people self-serve insights and execution (e.g., less dependency on analysts for routine questions). He likens this to the advantage of small teams and suggests specialists can shift from repetitive requests to higher-leverage work.",
+      "timestamp_start": "00:29:09",
+      "timestamp_end": "00:31:43",
+      "speakers": [
+        "Lenny",
+        "Scott Belsky"
+      ],
+      "themes": [
+        "AI",
+        "Org Design",
+        "Future of Work"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "scott-belsky_t15",
+      "title": "How AI changes PM work: explore more possibilities",
+      "summary": "Scott argues top performers win by exploring many options, narrowing, and iterating\u2014something AI accelerates by expanding the surface area of ideas. He shares a filmmaker using ChatGPT for scenario exploration (not final scripts) as an analogy for product discovery.",
+      "timestamp_start": "00:33:05",
+      "timestamp_end": "00:35:18",
+      "speakers": [
+        "Lenny",
+        "Scott Belsky"
+      ],
+      "themes": [
+        "AI",
+        "Product Management",
+        "Creativity"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "scott-belsky_t16",
+      "title": "Design upstream, generative tools, and the \u201cgolden gut\u201d",
+      "summary": "Scott describes pushing design earlier into product development and how generative AI will augment designers with rapid options and leaps (e.g., outpainting in Photoshop). He defines \u201cgolden gut\u201d as experienced intuition for reducing cognitive load and making high-leverage micro-decisions in flows.",
+      "timestamp_start": "00:35:18",
+      "timestamp_end": "00:38:13",
+      "speakers": [
+        "Lenny",
+        "Scott Belsky"
+      ],
+      "themes": [
+        "Design",
+        "AI",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "scott-belsky_t17",
+      "title": "Staying ahead with AI: play, write, and prioritize time",
+      "summary": "Scott\u2019s advice is to actively experiment with AI tools to avoid getting stuck in old habits. He plugs his Implications newsletter as a forcing function for learning, discusses writing as a way to crystallize thinking, and shares the discipline required to carve out time.",
+      "timestamp_start": "00:38:13",
+      "timestamp_end": "00:41:49",
+      "speakers": [
+        "Lenny",
+        "Scott Belsky"
+      ],
+      "themes": [
+        "AI",
+        "Learning",
+        "Productivity"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "scott-belsky_t18",
+      "title": "Surviving the messy middle: progress narratives and micro-goals",
+      "summary": "Scott explains why the middle is volatile and psychologically hard, and how teams must manufacture motivation through shared micro-milestones. He emphasizes \u201cmerchandising progress\u201d so teams feel momentum despite uncertainty and anonymity.",
+      "timestamp_start": "00:41:49",
+      "timestamp_end": "00:44:19",
+      "speakers": [
+        "Lenny",
+        "Scott Belsky"
+      ],
+      "themes": [
+        "Leadership",
+        "Startups",
+        "Mindset"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "scott-belsky_t19",
+      "title": "When to quit: conviction check for founders",
+      "summary": "Scott reiterates his decision rule: if you now have more conviction, persist; if you\u2019d never start the company knowing what you know now, quit and pivot. He frames this as respecting life\u2019s shortness and avoiding entrepreneurship without belief.",
+      "timestamp_start": "00:44:19",
+      "timestamp_end": "00:46:19",
+      "speakers": [
+        "Lenny",
+        "Scott Belsky"
+      ],
+      "themes": [
+        "Entrepreneurship",
+        "Decision Making",
+        "Mindset"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

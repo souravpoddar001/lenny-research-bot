@@ -1,0 +1,252 @@
+{
+  "episode_id": "hila-qu",
+  "topics": [
+    {
+      "topic_id": "hila-qu_t1",
+      "title": "DLG framing: PLG requires strong data foundation",
+      "summary": "Hila argues product-led growth is fundamentally data-led growth: free users should provide reach and behavioral data that informs conversion/retention drivers. Without instrumentation and analysis capability, giving away a free product yields little value.",
+      "timestamp_start": "00:00:01",
+      "timestamp_end": "00:00:44",
+      "speakers": [
+        "Hila Qu"
+      ],
+      "themes": [
+        "Product-Led Growth",
+        "Analytics & Data",
+        "Growth Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "hila-qu_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Hila Qu and frames the episode as a tactical guide to starting and optimizing a PLG motion, including funnel audits, activation/retention tangents, and team/tooling considerations.",
+      "timestamp_start": "00:00:44",
+      "timestamp_end": "00:01:49",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Product-Led Growth",
+        "Growth Strategy",
+        "B2B SaaS"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "hila-qu_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Amplitude (analytics) and Miro (collaborative whiteboard), including calls to action and brief product positioning.",
+      "timestamp_start": "00:01:49",
+      "timestamp_end": "00:03:26",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hila-qu_t4",
+      "title": "Hila\u2019s PLG writing impact and learnings",
+      "summary": "They discuss Hila\u2019s popular PLG newsletter posts, outcomes from publishing (shares, inbound opportunities, advisory clients), and how her thinking has evolved through client work.",
+      "timestamp_start": "00:03:26",
+      "timestamp_end": "00:05:25",
+      "speakers": [
+        "Lenny",
+        "Hila Qu"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "Product-Led Growth",
+        "Growth Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hila-qu_t5",
+      "title": "Why companies need both PLG and sales",
+      "summary": "Hila explains why many startups run hybrid motions: PLG broadens reach and lowers friction, while sales targets large accounts for bigger contracts. They discuss competitive dynamics pushing most B2B companies toward eventually adopting both.",
+      "timestamp_start": "00:05:25",
+      "timestamp_end": "00:07:56",
+      "speakers": [
+        "Lenny",
+        "Hila Qu"
+      ],
+      "themes": [
+        "Growth Strategy",
+        "Product-Led Growth",
+        "Sales Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "hila-qu_t6",
+      "title": "Defining PLG and why it\u2019s rising",
+      "summary": "Hila defines PLG by contrasting B2C-style self-serve adoption with traditional B2B sales-led purchasing. She attributes PLG\u2019s rise to buyer expectations shaped by consumer software and the ability to try products before contracts.",
+      "timestamp_start": "00:07:56",
+      "timestamp_end": "00:09:42",
+      "speakers": [
+        "Lenny",
+        "Hila Qu"
+      ],
+      "themes": [
+        "Product-Led Growth",
+        "B2B SaaS",
+        "Growth Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hila-qu_t7",
+      "title": "What makes a product truly product-led",
+      "summary": "Using Zoom as an example, they outline PLG attributes: low barrier entry (free/trial), self-serve onboarding, viral/spread mechanics, and self-serve upgrade/checkout triggered by usage limits or needs.",
+      "timestamp_start": "00:09:42",
+      "timestamp_end": "00:11:24",
+      "speakers": [
+        "Lenny",
+        "Hila Qu"
+      ],
+      "themes": [
+        "Product-Led Growth",
+        "User Onboarding",
+        "Monetization"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "hila-qu_t8",
+      "title": "Common PLG pitfalls: vehicle, commitment, expertise",
+      "summary": "Hila details why PLG attempts fail: no self-serve entry point (only \u201cbook a demo\u201d), underestimating the scope (treating PLG as just adding a trial), and lacking data/PLG expertise. She emphasizes committing to a multi-quarter roadmap and building analytics capabilities.",
+      "timestamp_start": "00:11:24",
+      "timestamp_end": "00:16:06",
+      "speakers": [
+        "Lenny",
+        "Hila Qu"
+      ],
+      "themes": [
+        "Product-Led Growth",
+        "Analytics & Data",
+        "Growth Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hila-qu_t9",
+      "title": "Red flags and when PLG may not fit",
+      "summary": "They discuss signals a company isn\u2019t truly committed (no dedicated team, trend-chasing, shallow understanding) and criteria for PLG fit (complexity, customization needs, market size). Hila notes PLG is a spectrum and extreme niche markets may not benefit.",
+      "timestamp_start": "00:16:06",
+      "timestamp_end": "00:20:05",
+      "speakers": [
+        "Lenny",
+        "Hila Qu"
+      ],
+      "themes": [
+        "Growth Strategy",
+        "Product-Led Growth",
+        "B2B SaaS"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hila-qu_t10",
+      "title": "PLG readiness checklist: time-to-value, checkout, pricing",
+      "summary": "Hila outlines prerequisites: a PLG vehicle (free/trial/open source/interactive demo), reduced time-to-value via warm starts, self-serve checkout, strong behavioral data, and simple pricing that doesn\u2019t require quoting.",
+      "timestamp_start": "00:20:05",
+      "timestamp_end": "00:24:52",
+      "speakers": [
+        "Lenny",
+        "Hila Qu"
+      ],
+      "themes": [
+        "Product-Led Growth",
+        "User Onboarding",
+        "Monetization"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hila-qu_t11",
+      "title": "First step: map SLG vs PLG funnels",
+      "summary": "Hila recommends leaders learn the difference between sales-led funnels (MQLs via marketing engagement) and PLG funnels (product usage as the leading indicator). She explains two conversion paths: self-serve purchase and product-led sales via PQL/PQA routing.",
+      "timestamp_start": "00:24:52",
+      "timestamp_end": "00:30:12",
+      "speakers": [
+        "Lenny",
+        "Hila Qu"
+      ],
+      "themes": [
+        "Product-Led Growth",
+        "Sales Strategy",
+        "Growth Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hila-qu_t12",
+      "title": "GitLab example: open source to PLG + sales",
+      "summary": "Hila walks through GitLab\u2019s hybrid motion: individual developers adopt via free/open source, later champion at work, then teams trial advanced features and either self-serve buy or engage sales for larger deals.",
+      "timestamp_start": "00:30:12",
+      "timestamp_end": "00:34:07",
+      "speakers": [
+        "Lenny",
+        "Hila Qu"
+      ],
+      "themes": [
+        "Product-Led Growth",
+        "B2B SaaS",
+        "Sales Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hila-qu_t13",
+      "title": "Funnel mapping details and full PLG funnel audit",
+      "summary": "Hila explains that mapping the funnel is easy but execution lives in the details (messaging, onboarding, payments). She describes a full-funnel audit: landing page clarity, signup friction, in-product confusion, checkout issues, plus early lifecycle emails and step-level metrics.",
+      "timestamp_start": "00:34:07",
+      "timestamp_end": "00:46:42",
+      "speakers": [
+        "Lenny",
+        "Hila Qu"
+      ],
+      "themes": [
+        "Product-Led Growth",
+        "User Onboarding",
+        "Conversion Rate Optimization"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hila-qu_t14",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Ahrefs Webmaster Tools, highlighting free SEO audits, link analysis, and keyword visibility features.",
+      "timestamp_start": "00:46:42",
+      "timestamp_end": "00:47:31",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "hila-qu_t15",
+      "title": "Choosing where to start: activation, conversion, PQL, acquisition",
+      "summary": "Hila advises picking the highest-leverage starting point\u2014often activation for B2B\u2014then improving conversion/checkout, building product-led sales routing (PQL/PQA signals), and later investing in product-led acquisition loops for collaborative products.",
+      "timestamp_start": "00:47:31",
+      "timestamp_end": "00:52:40",
+      "speakers": [
+        "Lenny",
+        "Hila Qu"
+      ],
+      "themes": [
+        "Product-Led Growth",
+        "Growth Strategy",
+        "Conversion Rate Optimization"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "episode_id": "logan-kilpatrick",
+  "topics": [
+    {
+      "topic_id": "logan-kilpatrick_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Logan Kilpatrick, his role at OpenAI, and what the episode will cover: real-world AI use cases, prompt engineering, OpenAI\u2019s operating cadence, hiring traits, and startup opportunities.",
+      "timestamp_start": "00:00:36",
+      "timestamp_end": "00:01:38",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Company & Culture",
+        "AI Product Development",
+        "Startups & Entrepreneurship"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "logan-kilpatrick_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Hex and Whimsical.",
+      "timestamp_start": "00:01:56",
+      "timestamp_end": "00:03:52",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "logan-kilpatrick_t3",
+      "title": "Inside OpenAI during the board weekend",
+      "summary": "Logan describes the stress and surprise of the Sam Altman/board weekend, why it was shocking internally, and how quickly the company returned to execution afterward.",
+      "timestamp_start": "00:03:52",
+      "timestamp_end": "00:06:40",
+      "speakers": [
+        "Lenny",
+        "Logan Kilpatrick"
+      ],
+      "themes": [
+        "Company & Culture",
+        "Leadership",
+        "Crisis Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "logan-kilpatrick_t4",
+      "title": "Aftereffects: cohesion and timing of the crisis",
+      "summary": "They discuss how the incident may have unified the team and why Logan is glad it happened earlier rather than later when stakes could be higher; shared \u201cevents\u201d (ChatGPT launch, DevDay) bond the org.",
+      "timestamp_start": "00:06:40",
+      "timestamp_end": "00:08:20",
+      "speakers": [
+        "Lenny",
+        "Logan Kilpatrick"
+      ],
+      "themes": [
+        "Company & Culture",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "logan-kilpatrick_t5",
+      "title": "New AI interfaces beyond chat",
+      "summary": "Logan highlights mind-blowing progress in AI UX\u2014devices like Rabbit R-1 and infinite-canvas tools like tldraw\u2014arguing chat is only the first dominant interface and 2024 will push new paradigms.",
+      "timestamp_start": "00:08:20",
+      "timestamp_end": "00:09:53",
+      "speakers": [
+        "Lenny",
+        "Logan Kilpatrick"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Design & UX"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "logan-kilpatrick_t6",
+      "title": "Where founders should build vs OpenAI",
+      "summary": "They explore how to avoid competing head-on with OpenAI: OpenAI focuses on general capabilities, while startups should win via vertical/domain specificity or radically different experiences; examples include Harvey.",
+      "timestamp_start": "00:09:53",
+      "timestamp_end": "00:12:59",
+      "speakers": [
+        "Lenny",
+        "Logan Kilpatrick"
+      ],
+      "themes": [
+        "Startups & Entrepreneurship",
+        "AI Product Development",
+        "Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "logan-kilpatrick_t7",
+      "title": "Using GPTs and AI to boost company efficiency",
+      "summary": "Logan discusses productivity gains from AI (especially in engineering), the value of GPTs for domain-specific nuance, and early examples like ad-writing and experiment-analysis GPTs used internally at companies.",
+      "timestamp_start": "00:12:59",
+      "timestamp_end": "00:17:43",
+      "speakers": [
+        "Lenny",
+        "Logan Kilpatrick"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Work & Productivity",
+        "Data & Experimentation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "logan-kilpatrick_t8",
+      "title": "Logan\u2019s planning GPT for metrics and timelines",
+      "summary": "Logan explains a private GPT he built to improve planning: it generates timelines, success metrics, and stakeholder lists, and forces rigor/consistency in quarterly planning inputs.",
+      "timestamp_start": "00:17:43",
+      "timestamp_end": "00:18:35",
+      "speakers": [
+        "Lenny",
+        "Logan Kilpatrick"
+      ],
+      "themes": [
+        "Work & Productivity",
+        "AI Product Development"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "logan-kilpatrick_t9",
+      "title": "Prompt engineering: context, techniques, and examples",
+      "summary": "They define prompt engineering as giving models the context humans naturally need, discuss why generic prompts yield generic answers, and share practical tips (provide sources, ask it to pause/think, even small cues like tone).",
+      "timestamp_start": "00:18:35",
+      "timestamp_end": "00:26:03",
+      "speakers": [
+        "Lenny",
+        "Logan Kilpatrick"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Work & Productivity",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "logan-kilpatrick_t10",
+      "title": "GPTs and the GPT Store: what it is",
+      "summary": "Logan explains GPTs as shareable, customized ChatGPT instances with instructions, files, and tools (browsing, code interpreter, image generation, API actions), and previews monetization via the GPT Store.",
+      "timestamp_start": "00:26:03",
+      "timestamp_end": "00:29:03",
+      "speakers": [
+        "Lenny",
+        "Logan Kilpatrick"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Platform & Ecosystems"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "logan-kilpatrick_t11",
+      "title": "Favorite GPT examples: Zapier and learning tutors",
+      "summary": "They discuss standout GPTs, including Zapier\u2019s integration enabling thousands of actions and a \u201cUniversal Primer\u201d GPT for Socratic learning; emphasis on empowering non-developers via integrations.",
+      "timestamp_start": "00:29:03",
+      "timestamp_end": "00:30:54",
+      "speakers": [
+        "Lenny",
+        "Logan Kilpatrick"
+      ],
+      "themes": [
+        "Platform & Ecosystems",
+        "AI Product Development",
+        "Education"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "logan-kilpatrick_t12",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Arcade (interactive product demos).",
+      "timestamp_start": "00:30:54",
+      "timestamp_end": "00:32:11",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "logan-kilpatrick_t13",
+      "title": "How OpenAI ships fast: agency, urgency, and Slack",
+      "summary": "Logan contrasts Apple/NASA pace with OpenAI\u2019s speed, attributing it to hiring for high agency and urgency, rapid cross-functional problem solving (e.g., Assistants API), and a Slack-heavy culture for coordination.",
+      "timestamp_start": "00:32:11",
+      "timestamp_end": "00:42:33",
+      "speakers": [
+        "Lenny",
+        "Logan Kilpatrick"
+      ],
+      "themes": [
+        "Company & Culture",
+        "Execution & Shipping",
+        "Hiring"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "logan-kilpatrick_t14",
+      "title": "Planning, metrics, and scaling the organization",
+      "summary": "They cover how OpenAI prioritizes amid massive demand (mission alignment, reliability), uses relatively lightweight planning (not OKR-heavy), measures success via adoption/revenue as proxies for compute, and discusses team size and growth.",
+      "timestamp_start": "00:42:33",
+      "timestamp_end": "00:43:19",
+      "speakers": [
+        "Lenny",
+        "Logan Kilpatrick"
+      ],
+      "themes": [
+        "Strategy",
+        "Company & Culture",
+        "AI Product Development"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

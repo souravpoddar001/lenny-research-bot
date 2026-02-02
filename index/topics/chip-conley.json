@@ -1,0 +1,230 @@
+{
+  "episode_id": "chip-conley",
+  "topics": [
+    {
+      "topic_id": "chip-conley_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny opens by teasing Chip\u2019s unusual path into Airbnb as a 52-year-old and the value of older perspectives. He introduces Chip\u2019s career highlights (Joie de Vivre, Airbnb, MEA) and frames the conversation\u2019s main arcs.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:22",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Chip Conley"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership",
+        "Company Culture"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "chip-conley_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Great Question (UX research platform) and Vanta (security/compliance automation).",
+      "timestamp_start": "00:02:22",
+      "timestamp_end": "00:04:22",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsors/Ads"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chip-conley_t3",
+      "title": "Setting up the three career arcs",
+      "summary": "Lenny and Chip reconnect and outline the episode structure: Joie de Vivre, Airbnb, and Modern Elder Academy. They decide to start with the Airbnb chapter.",
+      "timestamp_start": "00:04:22",
+      "timestamp_end": "00:05:22",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Chip Conley"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "chip-conley_t4",
+      "title": "Joining Airbnb at 52: culture shock",
+      "summary": "Chip recounts how a one-off talk turned into a consulting role and then full-time work, and what it felt like being older than almost everyone. He describes learning tech language, redefining \u201cproduct,\u201d and leading with humility while reporting to a younger CEO.",
+      "timestamp_start": "00:05:22",
+      "timestamp_end": "00:11:45",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Chip Conley"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chip-conley_t5",
+      "title": "Working for Brian Chesky in founder mode",
+      "summary": "Chip shares candid lessons about Brian\u2019s strengths (curiosity, learning mindset) and challenges (workaholism expectations, intense product reviews, unrealistic goals). He explains how he tried to influence Brian toward more emotionally intelligent leadership.",
+      "timestamp_start": "00:11:45",
+      "timestamp_end": "00:18:28",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Chip Conley"
+      ],
+      "themes": [
+        "Leadership",
+        "Company Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chip-conley_t6",
+      "title": "Tactics for succeeding with intense founders",
+      "summary": "Chip offers practical meeting tactics: align on goals and success criteria upfront, keep decks minimal, and be ready for nonlinear discussions. He emphasizes earning credibility through deep customer exposure (e.g., host world tour).",
+      "timestamp_start": "00:18:28",
+      "timestamp_end": "00:21:09",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Chip Conley"
+      ],
+      "themes": [
+        "Leadership",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chip-conley_t7",
+      "title": "Intergenerational collaboration and modern elder value",
+      "summary": "Chip explains fluid vs. crystallized intelligence and why mixed-age teams outperform when they combine speed with systems thinking. He gives examples: advocating for older hosts in product decisions, anticipating regulation risk, and \u201cinvisible productivity\u201d through elevating others.",
+      "timestamp_start": "00:21:09",
+      "timestamp_end": "00:27:05",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Chip Conley"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership",
+        "Company Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chip-conley_t8",
+      "title": "Ageism in tech and adapting work arrangements",
+      "summary": "Chip discusses how real ageism is (cost, perceived slowness, skill gaps) and how ERGs like \u201cWisdom at Airbnb\u201d helped. He suggests flexible roles (60\u201380% time) and highlights the growing importance of human wisdom alongside AI.",
+      "timestamp_start": "00:27:05",
+      "timestamp_end": "00:30:49",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Chip Conley"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chip-conley_t9",
+      "title": "How to thrive in tech as you age",
+      "summary": "Chip identifies common traits of midlife professionals who keep thriving: curiosity, learner-teacher mindset, physical/positive energy, and approachability. He argues \u201cage-fluid\u201d presence matters more than chronology.",
+      "timestamp_start": "00:30:49",
+      "timestamp_end": "00:33:44",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Chip Conley"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chip-conley_t10",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Coda, describing how Lenny uses it to run the podcast and community workflows.",
+      "timestamp_start": "00:33:44",
+      "timestamp_end": "00:35:03",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsors/Ads"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chip-conley_t11",
+      "title": "Hiring older talent: generalists and mutual mentorship",
+      "summary": "Chip advises companies to prioritize generalists as AI accelerates execution, and to design mutual mentorship so older workers teach management/craft while younger workers teach tools/tech. He also suggests resume framing around thorny problems solved and measurable outcomes.",
+      "timestamp_start": "00:35:03",
+      "timestamp_end": "00:42:34",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Chip Conley"
+      ],
+      "themes": [
+        "Hiring",
+        "Career Growth",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chip-conley_t12",
+      "title": "Founding Joie de Vivre and midlife turning point",
+      "summary": "Chip tells the origin story of starting the Phoenix and growing Joie de Vivre into a major boutique hotel group, then burning out during the Great Recession. He foreshadows the near-death experience that catalyzed selling the company and opening space for Airbnb.",
+      "timestamp_start": "00:42:34",
+      "timestamp_end": "00:44:58",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Chip Conley"
+      ],
+      "themes": [
+        "Career Growth",
+        "Entrepreneurship"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chip-conley_t13",
+      "title": "Near-death experience and its life message",
+      "summary": "Chip describes flatlining repeatedly due to an antibiotic allergy and experiencing vivid imagery and \u201cbird talk\u201d urging him to slow down and notice beauty. The experience reshaped his priorities and accelerated major life changes.",
+      "timestamp_start": "00:44:58",
+      "timestamp_end": "00:47:52",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Chip Conley"
+      ],
+      "themes": [
+        "Personal Development",
+        "Career Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "chip-conley_t14",
+      "title": "Culture as an operating system for companies",
+      "summary": "Chip explains culture as what happens when the boss isn\u2019t around, especially critical in distributed/remote orgs. He contrasts culture fit vs. culture add and notes culture\u2019s role in decision-making, hiring magnets, and employee experience.",
+      "timestamp_start": "00:47:52",
+      "timestamp_end": "00:51:24",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Chip Conley"
+      ],
+      "themes": [
+        "Company Culture",
+        "Leadership",
+        "Hiring"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

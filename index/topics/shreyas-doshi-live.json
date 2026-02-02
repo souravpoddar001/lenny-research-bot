@@ -1,0 +1,218 @@
+{
+  "episode_id": "shreyas-doshi-live",
+  "topics": [
+    {
+      "topic_id": "shreyas-doshi-live_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the live-recorded episode and previews Shreyas\u2019s \u201cquestions I wish I asked sooner\u201d framing. They banter about the venue and the unusual setup compared to their first remote recording.",
+      "timestamp_start": "00:00:02",
+      "timestamp_end": "00:02:16",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Shreyas Doshi"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership",
+        "Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "shreyas-doshi-live_t2",
+      "title": "Why Shreyas focuses on career questions",
+      "summary": "Shreyas explains he\u2019s sharing questions he wished he\u2019d asked earlier\u2014and notes the harder part is being honest about the answers. Sets up the episode structure (three questions plus a bonus).",
+      "timestamp_start": "00:02:16",
+      "timestamp_end": "00:03:06",
+      "speakers": [
+        "Shreyas Doshi",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Career Growth",
+        "Self-Reflection",
+        "Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "shreyas-doshi-live_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for WorkOS (enterprise auth/SCIM/authorization) and Paragon (building and maintaining B2B integrations faster).",
+      "timestamp_start": "00:03:06",
+      "timestamp_end": "00:05:37",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "shreyas-doshi-live_t4",
+      "title": "Question 1: Why am I so busy?",
+      "summary": "Shreyas describes chronic stress from constant busyness and how productivity tactics eventually fail as scope grows. He frames scope as the \u201cimmovable force\u201d that overwhelms even strong time-management systems.",
+      "timestamp_start": "00:05:37",
+      "timestamp_end": "00:09:43",
+      "speakers": [
+        "Shreyas Doshi",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Management",
+        "Leadership",
+        "Career Growth"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "shreyas-doshi-live_t5",
+      "title": "Annual planning is bloated without real strategy",
+      "summary": "Using annual planning as an example, Shreyas argues 4\u20136 week planning cycles are often wasteful and quickly invalidated. He shares how having a real, aligned product strategy at Stripe let him plan in days and avoid false precision debates.",
+      "timestamp_start": "00:09:43",
+      "timestamp_end": "00:16:49",
+      "speakers": [
+        "Shreyas Doshi",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Planning",
+        "Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "shreyas-doshi-live_t6",
+      "title": "Busyness comes from weak product decisions",
+      "summary": "Shreyas explains how \u201ctwo-way door\u201d thinking can lead teams to ship low-adoption features, then get trapped into expanding them due to QBR optics and stakeholder pressure. The result is accumulating feature debt that keeps leaders perpetually busy.",
+      "timestamp_start": "00:16:49",
+      "timestamp_end": "00:24:18",
+      "speakers": [
+        "Shreyas Doshi",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Decisions",
+        "Execution",
+        "Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "shreyas-doshi-live_t7",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Vanta (automating security compliance and trust management, including SOC 2/ISO/HIPAA and AI-assisted questionnaires).",
+      "timestamp_start": "00:24:28",
+      "timestamp_end": "00:25:21",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "shreyas-doshi-live_t8",
+      "title": "Question 2: Do I actually have good taste?",
+      "summary": "Shreyas recounts early-career beliefs at Google that devalued strategy, then how Twitter and Stripe taught him strategy is essential. He reframes \u201ctaste\u201d as choosing sound beliefs and inputs\u2014not just pixel-level product aesthetics.",
+      "timestamp_start": "00:25:21",
+      "timestamp_end": "00:31:21",
+      "speakers": [
+        "Shreyas Doshi",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Career Growth",
+        "Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "shreyas-doshi-live_t9",
+      "title": "Building taste: resist metaphors, alliteration, authority",
+      "summary": "Shreyas argues real taste is recognizing quality before outcomes are obvious, and avoiding being swayed by catchy metaphors (two-way doors), alliteration (fail fast), and impressive-but-empty complexity. He emphasizes separating ideas from social proof to become a more critical thinker.",
+      "timestamp_start": "00:31:21",
+      "timestamp_end": "00:37:31",
+      "speakers": [
+        "Shreyas Doshi",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Decision Making",
+        "Critical Thinking",
+        "Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "shreyas-doshi-live_t10",
+      "title": "Question 3: Why is my job so frustrating?",
+      "summary": "Shreyas describes PM leadership as lonely and introduces a three-level model: impact, execution, and optics. Frustration comes from spending too much time outside your \u201chappy place,\u201d especially as seniority forces more optics work.",
+      "timestamp_start": "00:38:18",
+      "timestamp_end": "00:42:34",
+      "speakers": [
+        "Shreyas Doshi",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Leadership",
+        "Career Growth",
+        "Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "shreyas-doshi-live_t11",
+      "title": "Align career choices with superpowers, not expectations",
+      "summary": "He shares choosing to cap scope (e.g., avoiding very large orgs) to reduce optics-heavy work and stay aligned with his strengths. Advice: make career decisions based on superpowers and authenticity rather than status, envy, or LinkedIn narratives.",
+      "timestamp_start": "00:42:34",
+      "timestamp_end": "00:43:23",
+      "speakers": [
+        "Shreyas Doshi",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership",
+        "Self-Reflection"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "shreyas-doshi-live_t12",
+      "title": "Bonus question: Am I really listening?",
+      "summary": "Shreyas challenges the idea that recap-and-eye-contact equals good listening, arguing there\u2019s a deeper level that enables world-class leadership. He points to thinkers like Rick Rubin and Drucker as starting points for learning real listening.",
+      "timestamp_start": "00:43:35",
+      "timestamp_end": "00:44:36",
+      "speakers": [
+        "Shreyas Doshi",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Communication",
+        "Leadership",
+        "Self-Reflection"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "shreyas-doshi-live_t13",
+      "title": "Wrap-up and outro",
+      "summary": "They close with logistics about Shreyas hanging around, thank-yous, a quick selfie, and Lenny\u2019s standard subscribe/review outro.",
+      "timestamp_start": "00:44:36",
+      "timestamp_end": "00:45:07",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Shreyas Doshi"
+      ],
+      "themes": [
+        "Podcast Outro"
+      ],
+      "quote_count": 0
+    }
+  ]
+}

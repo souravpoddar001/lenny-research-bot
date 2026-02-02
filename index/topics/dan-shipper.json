@@ -1,0 +1,240 @@
+{
+  "episode_id": "dan-shipper",
+  "topics": [
+    {
+      "topic_id": "dan-shipper_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Dan Shipper and Every\u2019s AI-first approach: a small team shipping multiple products, a daily newsletter, and AI-driven workflows across engineering and editorial.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:04:16",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dan Shipper"
+      ],
+      "themes": [
+        "AI Strategy",
+        "Startups",
+        "Operations"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "dan-shipper_t2",
+      "title": "Hot take: AI reshoring American jobs",
+      "summary": "Dan argues cheap intelligence may increase demand for services and make US-based labor more cost-effective, potentially reshoring jobs rather than eliminating them.",
+      "timestamp_start": "00:04:16",
+      "timestamp_end": "00:06:58",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dan Shipper"
+      ],
+      "themes": [
+        "Future of Work",
+        "AI Strategy",
+        "Economics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dan-shipper_t3",
+      "title": "Claude Code for non-coders and local agents",
+      "summary": "Dan explains why terminal-based agents like Claude Code (and Gemini CLI) are underrated for non-technical users: they can process local files, run long tasks autonomously, and summarize insights across large text corpora.",
+      "timestamp_start": "00:07:10",
+      "timestamp_end": "00:12:53",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dan Shipper"
+      ],
+      "themes": [
+        "AI Tools",
+        "Productivity",
+        "Automation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dan-shipper_t4",
+      "title": "From chatboxes to delegation-first AI interfaces",
+      "summary": "They discuss the shift from AI embedded in existing UIs (chat sidebars/autocomplete) toward delegation-based agents that execute tasks end-to-end with minimal human interleaving.",
+      "timestamp_start": "00:12:53",
+      "timestamp_end": "00:14:32",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dan Shipper"
+      ],
+      "themes": [
+        "AI Product Design",
+        "Automation",
+        "AI Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dan-shipper_t5",
+      "title": "Defining AGI by autonomy leash and profitability",
+      "summary": "Dan proposes an AGI definition based on how long you can let an agent work without intervention, culminating in always-on agents that are economically profitable to run indefinitely.",
+      "timestamp_start": "00:14:38",
+      "timestamp_end": "00:18:29",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dan Shipper"
+      ],
+      "themes": [
+        "AGI",
+        "AI Strategy",
+        "Economics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dan-shipper_t6",
+      "title": "Debunking job-loss and \u201cAI turns off brain\u201d narratives",
+      "summary": "Dan critiques simplistic headlines about AI replacing workers or degrading cognition, arguing AI-use is a skill, studies are context-dependent, and tech historically trades old skills for new leverage (e.g., writing vs memory).",
+      "timestamp_start": "00:18:48",
+      "timestamp_end": "00:21:55",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dan Shipper"
+      ],
+      "themes": [
+        "Future of Work",
+        "AI Strategy",
+        "Education"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dan-shipper_t7",
+      "title": "Context engineering limits and \u201cCEO benchmark\u201d experiment",
+      "summary": "Dan describes testing frontier models on predicting his meeting speech from transcripts, finding performance constrained by context engineering; he also explains using AI to avoid repeating himself by codifying feedback into prompts.",
+      "timestamp_start": "00:21:55",
+      "timestamp_end": "00:25:41",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dan Shipper"
+      ],
+      "themes": [
+        "AI Strategy",
+        "Productivity",
+        "Automation"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "dan-shipper_t8",
+      "title": "What Every is: ideas, apps, and AI edge",
+      "summary": "Dan explains Every\u2019s unusual company shape: a daily newsletter read by frontier AI builders, \u201cvibe check\u201d model evaluations, and a growing bundle of internal-to-external AI products like Cora, Sparkle, and Spiral (plus Lex spun out).",
+      "timestamp_start": "00:25:41",
+      "timestamp_end": "00:29:21",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dan Shipper"
+      ],
+      "themes": [
+        "Startups",
+        "AI Product Design",
+        "Media"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dan-shipper_t9",
+      "title": "Consulting arm: helping companies become AI-first",
+      "summary": "They briefly cover Every\u2019s consulting work training large organizations on AI adoption and best practices, positioning it as a major growth lever.",
+      "timestamp_start": "00:29:21",
+      "timestamp_end": "00:29:53",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dan Shipper"
+      ],
+      "themes": [
+        "Enterprise",
+        "AI Strategy",
+        "Operations"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "dan-shipper_t10",
+      "title": "AI operations lead and editorial workflow automation",
+      "summary": "Dan details hiring a Head of AI Operations to systematically turn repetitive work into prompts/workflows, including AI copy-editing with a style guide and behavior changes to ensure adoption across teams.",
+      "timestamp_start": "00:29:53",
+      "timestamp_end": "00:35:26",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dan Shipper"
+      ],
+      "themes": [
+        "Operations",
+        "Productivity",
+        "Automation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dan-shipper_t11",
+      "title": "Dan\u2019s AI tool stack and Opus 4 judging ability",
+      "summary": "Dan shares his personal stack (o3/ChatGPT with memory, Claude Code, Gemini for app workloads, Codex) and highlights Claude Opus 4\u2019s improved \u201ctaste\u201d for judging writing quality, enabling self-critique loops in content automation.",
+      "timestamp_start": "00:35:36",
+      "timestamp_end": "00:40:17",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dan Shipper"
+      ],
+      "themes": [
+        "AI Tools",
+        "Writing",
+        "AI Product Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dan-shipper_t12",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for PostHog (product analytics platform) following earlier sponsor reads for CodeRabbit and DX.",
+      "timestamp_start": "00:02:16",
+      "timestamp_end": "00:41:07",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dan-shipper_t13",
+      "title": "Compounding engineering with prompts and agent libraries",
+      "summary": "Dan explains how the Cora team uses \u201ccompounding engineering\u201d: investing in reusable prompts/commands (e.g., PRD generation) stored in GitHub and executed via Claude Code slash commands to make each future task faster.",
+      "timestamp_start": "00:41:28",
+      "timestamp_end": "00:44:24",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dan Shipper"
+      ],
+      "themes": [
+        "Engineering",
+        "Automation",
+        "Productivity"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dan-shipper_t14",
+      "title": "Multi-agent workflows and emerging agent tools",
+      "summary": "They begin discussing running many concurrent Claude instances plus other agents (e.g., Friday, Charlie) and internal evaluations of agent quality, before the transcript cuts off mid-thought.",
+      "timestamp_start": "00:44:24",
+      "timestamp_end": "00:44:48",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dan Shipper"
+      ],
+      "themes": [
+        "AI Tools",
+        "Automation",
+        "Engineering"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

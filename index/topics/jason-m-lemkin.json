@@ -1,0 +1,224 @@
+{
+  "episode_id": "jason-m-lemkin",
+  "topics": [
+    {
+      "topic_id": "jason-m-lemkin_t1",
+      "title": "SaaS sales is problem-solving, not selling",
+      "summary": "Jason reframes B2B SaaS selling as diagnosing and solving customer problems (not pushy tactics), using an extended Tesla-vs-used-car analogy to illustrate consultative selling and trust-building.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:48",
+      "speakers": [
+        "Jason Lemkin"
+      ],
+      "themes": [
+        "Sales",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-m-lemkin_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Jason Lemkin\u2019s background (SaaStr, EchoSign/Adobe) and previews the episode\u2019s focus: practical guidance for building and scaling a sales team and improving product\u2013sales collaboration.",
+      "timestamp_start": "00:00:48",
+      "timestamp_end": "00:02:36",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Leadership",
+        "Sales"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jason-m-lemkin_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for CommandBar (AI in-product assistance) and Vanta (security compliance automation) followed by the host welcoming Jason to the show.",
+      "timestamp_start": "00:02:36",
+      "timestamp_end": "00:05:03",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Other"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-m-lemkin_t4",
+      "title": "Why sales-team building stays confusing",
+      "summary": "Jason and Lenny set the agenda: sales-team building remains an evergreen challenge with recurring founder mistakes, despite changing tools and market conditions.",
+      "timestamp_start": "00:05:03",
+      "timestamp_end": "00:06:09",
+      "speakers": [
+        "Jason Lemkin",
+        "Lenny"
+      ],
+      "themes": [
+        "Sales",
+        "Leadership"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "jason-m-lemkin_t5",
+      "title": "Do you need sales or can PLG work?",
+      "summary": "Jason explains that some companies can start self-serve and add enterprise later, but founders must be honest about what early customers require; avoiding sales when customers need it can kill the business.",
+      "timestamp_start": "00:06:09",
+      "timestamp_end": "00:11:06",
+      "speakers": [
+        "Jason Lemkin",
+        "Lenny"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Sales"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-m-lemkin_t6",
+      "title": "Founders must close first customers themselves",
+      "summary": "Jason argues founders should close the first ~10 customers even if they dislike sales, because customers want to talk to the CEO and founders are strong at the \u201cmiddle\u201d of sales (product/problem expertise).",
+      "timestamp_start": "00:11:06",
+      "timestamp_end": "00:14:21",
+      "speakers": [
+        "Jason Lemkin",
+        "Lenny"
+      ],
+      "themes": [
+        "Sales",
+        "Founder"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-m-lemkin_t7",
+      "title": "When to hire first reps and why two",
+      "summary": "After initial traction, hire sales when founder time in sales becomes a major load (e.g., >20%); Jason insists hiring two reps enables an A/B test and reduces risk when leads are scarce.",
+      "timestamp_start": "00:14:21",
+      "timestamp_end": "00:18:57",
+      "speakers": [
+        "Jason Lemkin",
+        "Lenny"
+      ],
+      "themes": [
+        "Sales",
+        "Hiring"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-m-lemkin_t8",
+      "title": "Profile of early reps: people you\u2019d buy from",
+      "summary": "Jason\u2019s \u201ccheat code\u201d for first reps: choose candidates you\u2019d personally buy your product from\u2014often quirky, product-savvy, and hungry\u2014because early leads are precious and misfires can be fatal.",
+      "timestamp_start": "00:18:57",
+      "timestamp_end": "00:19:14",
+      "speakers": [
+        "Jason Lemkin",
+        "Lenny"
+      ],
+      "themes": [
+        "Hiring",
+        "Sales"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "jason-m-lemkin_t9",
+      "title": "When to hire a VP of Sales",
+      "summary": "Jason warns that hiring a VP of Sales before two reps are reliably closing is a near-certain failure; VPs are best at scaling a repeatable motion (rep 3 to 300), not finding initial fit.",
+      "timestamp_start": "00:19:14",
+      "timestamp_end": "00:22:24",
+      "speakers": [
+        "Jason Lemkin",
+        "Lenny"
+      ],
+      "themes": [
+        "Sales",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-m-lemkin_t10",
+      "title": "Should VPs carry a bag and sell?",
+      "summary": "Jason increasingly favors VPs who actively sell (carry quota or spend heavy time in deals), citing recent market burnout and leaders who avoid customer work; he emphasizes hiring sales leaders who love the craft.",
+      "timestamp_start": "00:22:24",
+      "timestamp_end": "00:30:06",
+      "speakers": [
+        "Jason Lemkin",
+        "Lenny"
+      ],
+      "themes": [
+        "Sales",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-m-lemkin_t11",
+      "title": "Interview signals: customer obsession over process",
+      "summary": "Jason shares a key interview test: ask what they\u2019ll do in the first two weeks\u2014strong leaders immediately talk to customers/prospects; \u201cprocess-first\u201d answers (dashboards, territories, Salesforce setup) are red flags early on.",
+      "timestamp_start": "00:30:06",
+      "timestamp_end": "00:33:33",
+      "speakers": [
+        "Jason Lemkin",
+        "Lenny"
+      ],
+      "themes": [
+        "Hiring",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-m-lemkin_t12",
+      "title": "Sales leaders must stay in big deals",
+      "summary": "Jason rejects the idea that sales leadership can be purely managerial, arguing even at massive scale leaders must engage in major deals (e.g., Benioff still meeting customers).",
+      "timestamp_start": "00:33:33",
+      "timestamp_end": "00:35:17",
+      "speakers": [
+        "Jason Lemkin",
+        "Lenny"
+      ],
+      "themes": [
+        "Sales",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-m-lemkin_t13",
+      "title": "How to interview early reps: demo the product",
+      "summary": "Jason recommends a practical \u201csell me this app\u201d exercise: candidates should study available materials (videos/webinars) and deliver a credible pitch; he reiterates consultative selling and the confidence to disqualify bad-fit buyers.",
+      "timestamp_start": "00:35:17",
+      "timestamp_end": "00:40:51",
+      "speakers": [
+        "Jason Lemkin",
+        "Lenny"
+      ],
+      "themes": [
+        "Hiring",
+        "Sales"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-m-lemkin_t14",
+      "title": "Hiring rigor: reference checks and avoiding mis-hires",
+      "summary": "Jason argues hiring standards slipped post-2020 (fewer reference checks and practical tests), leading to costly mis-hires; he stresses it\u2019s the founder\u2019s responsibility to validate fit and set candidates up for success.",
+      "timestamp_start": "00:40:51",
+      "timestamp_end": "00:43:44",
+      "speakers": [
+        "Jason Lemkin"
+      ],
+      "themes": [
+        "Hiring",
+        "Leadership"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "episode_id": "will-larson",
+  "topics": [
+    {
+      "topic_id": "will-larson_t1",
+      "title": "Engineers as adults and leadership accountability",
+      "summary": "Will argues engineers are often \"coddled\" and sheltered from important work, which limits growth. He sees the current market shift as an opportunity to hold engineers accountable and place them into senior leadership roles.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:35",
+      "speakers": [
+        "Will Larson"
+      ],
+      "themes": [
+        "Engineering Leadership",
+        "Career Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "will-larson_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Will Larson\u2019s background (CTO at Carta; leadership roles at Stripe, Uber, Calm; author of key engineering books) and previews topics they\u2019ll cover.",
+      "timestamp_start": "00:00:35",
+      "timestamp_end": "00:01:39",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Engineering Leadership"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "will-larson_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for DX (developer productivity measurement), OneSchema (CSV importing), and later Vanta (security compliance automation).",
+      "timestamp_start": "00:01:39",
+      "timestamp_end": "00:03:36",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Developer Productivity"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "will-larson_t4",
+      "title": "What\u2019s changing in engineering post-ZIRP",
+      "summary": "Will contrasts the hypergrowth era (constant hiring) with today\u2019s slowdown (few interviews, team consolidations). He notes managers must now demonstrate leadership, prioritization, and org-sizing skills rather than just hiring prowess.",
+      "timestamp_start": "00:03:36",
+      "timestamp_end": "00:06:27",
+      "speakers": [
+        "Lenny",
+        "Will Larson"
+      ],
+      "themes": [
+        "Engineering Leadership",
+        "Hiring"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "will-larson_t5",
+      "title": "Engineer leverage, coddling, and senior roles",
+      "summary": "They discuss how reduced engineer leverage can reduce coddling and enable clearer accountability. Will connects this to unlocking senior IC roles (e.g., Staff Engineer) by expecting engineers to own hard, business-critical problems.",
+      "timestamp_start": "00:06:27",
+      "timestamp_end": "00:08:33",
+      "speakers": [
+        "Lenny",
+        "Will Larson"
+      ],
+      "themes": [
+        "Engineering Leadership",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "will-larson_t6",
+      "title": "Systems thinking: definition and pitfalls",
+      "summary": "Will defines systems thinking as modeling stocks and flows, and warns against over-committing to models when reality disagrees. He shares a Stripe incident-management example where measurement crowded out actual improvement work.",
+      "timestamp_start": "00:08:33",
+      "timestamp_end": "00:13:14",
+      "speakers": [
+        "Lenny",
+        "Will Larson"
+      ],
+      "themes": [
+        "Systems Thinking",
+        "Reliability"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "will-larson_t7",
+      "title": "Applying systems thinking to hiring pipelines",
+      "summary": "Will maps hiring as a stock-and-flow system (sourcing \u2192 screens \u2192 offers \u2192 accepts) and explains how modeling reveals bottlenecks like low offer conviction or poor closing. The goal is to target fixes based on observed drop-offs rather than vibes.",
+      "timestamp_start": "00:13:14",
+      "timestamp_end": "00:16:17",
+      "speakers": [
+        "Lenny",
+        "Will Larson"
+      ],
+      "themes": [
+        "Hiring",
+        "Systems Thinking"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "will-larson_t8",
+      "title": "Engineering strategy: write it down and embrace boring",
+      "summary": "Will argues every org has a strategy even if it\u2019s unwritten; writing enables debugging alignment and execution. He emphasizes that good engineering strategy is often \"boring\" constraints (e.g., standard toolkits) that focus energy on what matters.",
+      "timestamp_start": "00:16:17",
+      "timestamp_end": "00:20:21",
+      "speakers": [
+        "Lenny",
+        "Will Larson"
+      ],
+      "themes": [
+        "Engineering Strategy",
+        "Engineering Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "will-larson_t9",
+      "title": "Strategy examples: constraints at Uber and Stripe",
+      "summary": "Will shares concrete strategy constraints: Uber\u2019s \u201cno cloud\u201d policy enabling rapid geopolitical expansion, and Stripe\u2019s Ruby monolith focusing effort on customer value over tooling sprawl. They discuss strategy as choosing constraints to allocate limited capacity.",
+      "timestamp_start": "00:20:21",
+      "timestamp_end": "00:24:17",
+      "speakers": [
+        "Lenny",
+        "Will Larson"
+      ],
+      "themes": [
+        "Engineering Strategy",
+        "Platform Engineering"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "will-larson_t10",
+      "title": "How to get better at strategy",
+      "summary": "Will recommends foundational strategy and systems books (Rumelt\u2019s Good Strategy Bad Strategy; Meadows\u2019 Thinking in Systems) plus engineering-adjacent strategy texts. He notes a gap in a canonical engineering strategy book and hints at writing one.",
+      "timestamp_start": "00:24:17",
+      "timestamp_end": "00:26:48",
+      "speakers": [
+        "Lenny",
+        "Will Larson"
+      ],
+      "themes": [
+        "Engineering Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "will-larson_t11",
+      "title": "Writing output: motivation, energy, and longevity",
+      "summary": "Will explains he writes what energizes him, avoids rigid schedules, and stops projects that don\u2019t cohere. Lenny and Will discuss playing the long game, avoiding trend-chasing, and sustaining quality by staying in one\u2019s lane.",
+      "timestamp_start": "00:26:48",
+      "timestamp_end": "00:30:55",
+      "speakers": [
+        "Lenny",
+        "Will Larson"
+      ],
+      "themes": [
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "will-larson_t12",
+      "title": "Sponsor Break",
+      "summary": "Vanta sponsor read about streamlining security compliance (SOC 2, ISO 27001, HIPAA, etc.) with automation and a listener discount.",
+      "timestamp_start": "00:29:57",
+      "timestamp_end": "00:30:55",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Security & Compliance"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "will-larson_t13",
+      "title": "Tactical writing workflow with a demanding job",
+      "summary": "Will estimates ~1,000 posts and explains he aligns writing with work problems to improve thinking and performance. He describes shifting from weekend writing pre-kids to nighttime writing, emphasizing energy as the limiting factor.",
+      "timestamp_start": "00:30:55",
+      "timestamp_end": "00:37:41",
+      "speakers": [
+        "Lenny",
+        "Will Larson"
+      ],
+      "themes": [
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "will-larson_t14",
+      "title": "Advice for aspiring writers: artifacts vs consistency",
+      "summary": "Will advises career-advancers to write 2\u20133 excellent pieces rather than start a newsletter, while consistent writers should publish frequently and not over-optimize quality early. They discuss ignoring unhelpful feedback and the low stakes of early publishing.",
+      "timestamp_start": "00:37:41",
+      "timestamp_end": "00:41:15",
+      "speakers": [
+        "Lenny",
+        "Will Larson"
+      ],
+      "themes": [
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "will-larson_t15",
+      "title": "Improving PM\u2013engineering relationships and incentives",
+      "summary": "Will identifies two common issues: misaligned incentives and lack of understanding of each other\u2019s true needs. He suggests aligning EM/PM accountability (including experimenting with shared performance outcomes) and focusing on deeper needs to find win-win solutions.",
+      "timestamp_start": "00:41:18",
+      "timestamp_end": "00:45:20",
+      "speakers": [
+        "Lenny",
+        "Will Larson"
+      ],
+      "themes": [
+        "Product Management",
+        "Engineering Leadership"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

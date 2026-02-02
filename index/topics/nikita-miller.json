@@ -1,0 +1,227 @@
+{
+  "episode_id": "nikita-miller",
+  "topics": [
+    {
+      "topic_id": "nikita-miller_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the show and Nikita Miller\u2019s background (The Knot Worldwide, Dooly, Trello/Atlassian) and previews topics like team alignment, remote work, and PM career advice.",
+      "timestamp_start": "00:00:52",
+      "timestamp_end": "00:01:51",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career & Hiring"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "nikita-miller_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Wealthfront and Lenny\u2019s Jobs/Talent collective.",
+      "timestamp_start": "00:01:51",
+      "timestamp_end": "00:03:21",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "nikita-miller_t3",
+      "title": "The Knot Worldwide strategy and product scope",
+      "summary": "They discuss The Knot Worldwide\u2019s portfolio (including The Bump) and the strategy of supporting major life celebrations, plus adjacent opportunities like registries and baby showers.",
+      "timestamp_start": "00:03:21",
+      "timestamp_end": "00:05:24",
+      "speakers": [
+        "Lenny",
+        "Nikita Miller"
+      ],
+      "themes": [
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "nikita-miller_t4",
+      "title": "Who Trello is for vs other tools",
+      "summary": "Nikita explains Trello\u2019s origins as a simple, broadly useful planning tool and how it evolved toward more sophisticated and software-focused use cases over time, contrasting it with tools that start complex.",
+      "timestamp_start": "00:05:24",
+      "timestamp_end": "00:07:50",
+      "speakers": [
+        "Lenny",
+        "Nikita Miller"
+      ],
+      "themes": [
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "nikita-miller_t5",
+      "title": "Growing Trello in enterprise and collaboration",
+      "summary": "Nikita shares her work building Trello\u2019s enterprise motion: expanding from small teams to org-wide adoption, emphasizing collaboration, and adding many small enterprise-grade capabilities.",
+      "timestamp_start": "00:07:50",
+      "timestamp_end": "00:09:41",
+      "speakers": [
+        "Lenny",
+        "Nikita Miller"
+      ],
+      "themes": [
+        "Growth & Retention"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "nikita-miller_t6",
+      "title": "Trello vs Jira decision guide",
+      "summary": "A practical heuristic: Trello works well for early ideation, discovery, and lightweight tracking; Jira is often better once work is defined and needs detailed task breakdown and execution tracking.",
+      "timestamp_start": "00:09:41",
+      "timestamp_end": "00:10:29",
+      "speakers": [
+        "Lenny",
+        "Nikita Miller"
+      ],
+      "themes": [
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "nikita-miller_t7",
+      "title": "Building productivity products for PMs",
+      "summary": "They discuss the challenges of building productivity software for diverse roles (PM, design, engineering, data) and the trade-offs of serving broad audiences versus narrowing to software development needs.",
+      "timestamp_start": "00:10:29",
+      "timestamp_end": "00:12:15",
+      "speakers": [
+        "Lenny",
+        "Nikita Miller"
+      ],
+      "themes": [
+        "Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "nikita-miller_t8",
+      "title": "PMs vs couples planning weddings",
+      "summary": "Nikita compares wedding planning to product work: high-stakes, emotional, stakeholder-heavy, long-horizon projects; she also contrasts SaaS with The Knot\u2019s multi-business model and user needs.",
+      "timestamp_start": "00:12:15",
+      "timestamp_end": "00:14:59",
+      "speakers": [
+        "Lenny",
+        "Nikita Miller"
+      ],
+      "themes": [
+        "Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "nikita-miller_t9",
+      "title": "Trello power tips: Power-Ups and integrations",
+      "summary": "Nikita recommends underused Trello Power-Ups (integrations) as the main way to extend Trello\u2019s capabilities for more complex workflows.",
+      "timestamp_start": "00:14:59",
+      "timestamp_end": "00:15:39",
+      "speakers": [
+        "Lenny",
+        "Nikita Miller"
+      ],
+      "themes": [
+        "Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "nikita-miller_t10",
+      "title": "Aligning teams with roles and responsibilities contracts",
+      "summary": "Nikita outlines a structured exercise where PM, design, engineering, and data leaders write expectations for themselves and each other, reconcile differences, and cascade a shared \u201ccontract\u201d across teams.",
+      "timestamp_start": "00:15:39",
+      "timestamp_end": "00:23:59",
+      "speakers": [
+        "Lenny",
+        "Nikita Miller"
+      ],
+      "themes": [
+        "Team Alignment & Collaboration"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "nikita-miller_t11",
+      "title": "Execution and velocity: outcomes vs output",
+      "summary": "They dig into common causes of slow delivery (decision velocity, ticket sizing, unclear articulation) and the need to balance outcome-focus with shipping output as a key indicator of progress and urgency.",
+      "timestamp_start": "00:23:59",
+      "timestamp_end": "00:32:35",
+      "speakers": [
+        "Lenny",
+        "Nikita Miller"
+      ],
+      "themes": [
+        "Execution & Delivery"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "nikita-miller_t12",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Ahrefs Webmaster Tools.",
+      "timestamp_start": "00:32:35",
+      "timestamp_end": "00:33:09",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "nikita-miller_t13",
+      "title": "How product management is changing",
+      "summary": "Nikita describes PM becoming mainstream (degrees, career paths), shifting expectations (PMs more technical, designers more business-savvy, engineers more product/user-focused), and deeper cross-functional collaboration.",
+      "timestamp_start": "00:33:09",
+      "timestamp_end": "00:37:45",
+      "speakers": [
+        "Lenny",
+        "Nikita Miller"
+      ],
+      "themes": [
+        "Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "nikita-miller_t14",
+      "title": "Getting into PM, stress of the role, work-life optimization",
+      "summary": "Nikita shares entry paths into PM (big-tech programs, startups) and discusses the role\u2019s inherent stress; she reframes work-life balance as \u201coptimization\u201d that changes by season and life stage.",
+      "timestamp_start": "00:37:45",
+      "timestamp_end": "00:43:02",
+      "speakers": [
+        "Lenny",
+        "Nikita Miller"
+      ],
+      "themes": [
+        "Career & Hiring"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "nikita-miller_t15",
+      "title": "Remote and distributed teams: documentation and offsites",
+      "summary": "Nikita explains what makes remote work succeed (documentation, async communication) and why periodic in-person time is crucial for trust and solving hard problems; she describes how she structures focused 48-hour offsites.",
+      "timestamp_start": "00:43:02",
+      "timestamp_end": "00:47:21",
+      "speakers": [
+        "Lenny",
+        "Nikita Miller"
+      ],
+      "themes": [
+        "Remote Work"
+      ],
+      "quote_count": 0
+    }
+  ]
+}

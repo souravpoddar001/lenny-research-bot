@@ -1,0 +1,240 @@
+{
+  "episode_id": "dhanji-r-prasanna",
+  "topics": [
+    {
+      "topic_id": "dhanji-r-prasanna_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny tees up Block\u2019s AI productivity gains, Goose\u2019s capabilities, and Dhanji\u2019s contrarian views on engineering and product success. The episode overview frames the conversation around becoming an AI-native enterprise.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:05:34",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dhanji R. Prasanna"
+      ],
+      "themes": [
+        "AI Strategy",
+        "Productivity",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dhanji-r-prasanna_t2",
+      "title": "The AI manifesto letter to Jack Dorsey",
+      "summary": "Dhanji explains why he wrote an internal \u201cAI manifesto,\u201d how AI was missing from exec discussions, and how it led to deeper alignment and ultimately his CTO role. He describes the context of Block\u2019s leadership cadence and the urgency to become AI-native.",
+      "timestamp_start": "00:05:37",
+      "timestamp_end": "00:07:30",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dhanji R. Prasanna"
+      ],
+      "themes": [
+        "AI Strategy",
+        "Leadership",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dhanji-r-prasanna_t3",
+      "title": "Re-centering Block as a technology company",
+      "summary": "Dhanji outlines early moves to reignite a tech-first culture: convening top ICs, running special projects, and bringing back company-wide hack week. The goal was to reverse \u201cidentity drift\u201d from fintech framing back to engineering/design-led innovation.",
+      "timestamp_start": "00:07:30",
+      "timestamp_end": "00:09:19",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dhanji R. Prasanna"
+      ],
+      "themes": [
+        "Company Building",
+        "Engineering Culture",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dhanji-r-prasanna_t4",
+      "title": "GM to functional org restructure for AI",
+      "summary": "They discuss why Block moved from a GM/portfolio structure (Square, Cash App, Afterpay, etc.) to a functional org where engineering and design unify under single leaders. Dhanji argues this enables shared strategy, tooling, mobility, and deeper technical focus\u2014critical for AI transformation.",
+      "timestamp_start": "00:09:19",
+      "timestamp_end": "00:13:58",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dhanji R. Prasanna"
+      ],
+      "themes": [
+        "Org Design",
+        "AI Strategy",
+        "Engineering Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dhanji-r-prasanna_t5",
+      "title": "How engineering work changed with AI automation",
+      "summary": "Dhanji contrasts AI-native teams doing \u201cvibe coding\u201d and greenfield work with legacy-heavy teams seeing slower gains. He also describes always-on background agents in CI that analyze vulnerabilities, bugs, and propose patches while engineers are offline.",
+      "timestamp_start": "00:13:58",
+      "timestamp_end": "00:15:25",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dhanji R. Prasanna"
+      ],
+      "themes": [
+        "Developer Tools",
+        "Productivity",
+        "AI Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dhanji-r-prasanna_t6",
+      "title": "Measured AI productivity gains and where it works",
+      "summary": "Block estimates 20\u201325% manual hours saved across the company, with AI-forward engineering teams self-reporting 8\u201310 hours/week saved, validated via PR and throughput metrics. Dhanji explains why AI excels at certain tasks (non-technical tool-building, UI test automation via \u201cGosling\u201d) but still struggles with deep architecture and complex legacy codebases.",
+      "timestamp_start": "00:15:25",
+      "timestamp_end": "00:20:18",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dhanji R. Prasanna"
+      ],
+      "themes": [
+        "Productivity",
+        "AI Strategy",
+        "Developer Tools"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dhanji-r-prasanna_t7",
+      "title": "Goose: Block\u2019s open-source AI agent via MCP",
+      "summary": "Dhanji defines Goose as a general-purpose desktop agent that can orchestrate real enterprise tools using Model Context Protocol (MCP), turning LLMs from chat into action. He gives examples like generating and distributing marketing reports by connecting to Snowflake/Tableau/Docs and explains why Goose is more integrated than standalone chat tools.",
+      "timestamp_start": "00:20:18",
+      "timestamp_end": "00:26:43",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dhanji R. Prasanna"
+      ],
+      "themes": [
+        "Developer Tools",
+        "AI Strategy",
+        "Open Source"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dhanji-r-prasanna_t8",
+      "title": "Open-sourcing Goose and the origin story",
+      "summary": "They cover why Block open-sourced Goose (openness as a mission, giving back to the ecosystem) and note adoption by other companies. Dhanji shares the Top Gun-inspired naming story and the internal culture of experimentation behind it.",
+      "timestamp_start": "00:26:43",
+      "timestamp_end": "00:28:41",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dhanji R. Prasanna"
+      ],
+      "themes": [
+        "Open Source",
+        "Engineering Culture",
+        "Company Building"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "dhanji-r-prasanna_t9",
+      "title": "Extreme workflows: Goose watching and acting proactively",
+      "summary": "Dhanji describes an engineer who lets Goose watch his screen and listen to conversations, then proactively builds features and opens PRs or reschedules meetings. The segment explores how close this is to practical autonomy versus experimental novelty.",
+      "timestamp_start": "00:28:41",
+      "timestamp_end": "00:32:16",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dhanji R. Prasanna"
+      ],
+      "themes": [
+        "AI Agents",
+        "Productivity",
+        "Developer Tools"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dhanji-r-prasanna_t10",
+      "title": "Future of work: longer autonomy and overnight experiments",
+      "summary": "They predict a shift from short \u201cping-pong\u201d prompting to multi-hour autonomous sessions where agents work nights/weekends, run parallel experiments, and enable more aggressive throwaway prototyping. Dhanji suggests AI may make full rewrites feasible\u2014if it can preserve accumulated edge-case knowledge.",
+      "timestamp_start": "00:32:16",
+      "timestamp_end": "00:36:25",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dhanji R. Prasanna"
+      ],
+      "themes": [
+        "Future of Work",
+        "AI Agents",
+        "Productivity"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dhanji-r-prasanna_t11",
+      "title": "Human taste, portfolio judgment, and avoiding AI slop",
+      "summary": "Dhanji argues humans remain essential to keep AI aligned with what matters, especially for prioritization and process decisions that reduce unnecessary tooling. He gives examples where teams debate buying tools vs building with Goose, and where the right answer is changing the underlying process instead.",
+      "timestamp_start": "00:36:25",
+      "timestamp_end": "00:41:38",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dhanji R. Prasanna"
+      ],
+      "themes": [
+        "AI Strategy",
+        "Product Management",
+        "Decision Making"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dhanji-r-prasanna_t12",
+      "title": "Build vs buy and the hidden cost of maintenance",
+      "summary": "They discuss why replacing SaaS with internal AI-built tools can be a distraction from Block\u2019s mission, and how maintenance/edge cases dominate long-term cost. Dhanji uses Cash Card as an example of fast initial build followed by extensive long-tail hardening.",
+      "timestamp_start": "00:41:38",
+      "timestamp_end": "00:43:04",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dhanji R. Prasanna"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Engineering Management",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "dhanji-r-prasanna_t13",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Persona, describing identity verification to combat AI-enabled fraud and offering a listener promotion.",
+      "timestamp_start": "00:43:04",
+      "timestamp_end": "00:44:06",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "dhanji-r-prasanna_t14",
+      "title": "Hiring in an AI era: mindset over tool mastery",
+      "summary": "Dhanji says AI hasn\u2019t yet fundamentally reduced headcount needs for products at Cash App scale; the bigger shift came from the functional org model reducing \u201cengineers as commodity\u201d thinking. In hiring and interviews, Block increasingly values learning mindset and openness to AI tools, while still prioritizing core engineering judgment and problem understanding.",
+      "timestamp_start": "00:44:06",
+      "timestamp_end": "00:51:37",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Dhanji R. Prasanna"
+      ],
+      "themes": [
+        "Hiring",
+        "Engineering Culture",
+        "AI Strategy"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

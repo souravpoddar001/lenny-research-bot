@@ -1,0 +1,199 @@
+{
+  "episode_id": "peter-deng",
+  "topics": [
+    {
+      "topic_id": "peter-deng_t1",
+      "title": "Rapid-fire lessons: strategy, hiring, AI, product",
+      "summary": "Lenny opens with quick questions on success from 0\u2192billions, counterintuitive product lessons, AI\u2019s impact, hiring bar, and PM archetypes\u2014setting the episode\u2019s core themes.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:27",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Peter Deng"
+      ],
+      "themes": [
+        "Product Strategy",
+        "AI",
+        "Hiring & Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "peter-deng_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Peter Deng\u2019s career highlights across OpenAI, Instagram, Uber, Facebook, Airtable, and Oculus, plus acknowledgements and subscription/bundle notes.",
+      "timestamp_start": "00:01:27",
+      "timestamp_end": "00:03:29",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Career & Background"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "peter-deng_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsored segments covering Paragon (integrations for AI products) and Pragmatic Institute (product training and certifications).",
+      "timestamp_start": "00:03:29",
+      "timestamp_end": "00:05:45",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brandon Foo"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "peter-deng_t4",
+      "title": "Speaking freely: context, storytelling, no PR",
+      "summary": "Peter explains why this is his first chance to go deeper publicly\u2014less about revealing secrets and more about having room for nuance and context without corporate messaging constraints.",
+      "timestamp_start": "00:05:45",
+      "timestamp_end": "00:07:31",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Peter Deng"
+      ],
+      "themes": [
+        "Career & Background",
+        "Hiring & Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "peter-deng_t5",
+      "title": "AGI expectations: necessary but not sufficient",
+      "summary": "Peter argues AGI won\u2019t automatically solve everything; real value still requires builders to \u201charness\u201d the technology into products people want, similar to past tech shifts.",
+      "timestamp_start": "00:07:31",
+      "timestamp_end": "00:11:35",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Peter Deng"
+      ],
+      "themes": [
+        "AI",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "peter-deng_t6",
+      "title": "AI and education: kids rewiring, abstraction shift",
+      "summary": "Peter predicts education will change dramatically as children learn to ask better questions and operate at higher abstraction levels, sharing an example of his son building a custom GPT for pangram generation.",
+      "timestamp_start": "00:11:35",
+      "timestamp_end": "00:16:53",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Peter Deng"
+      ],
+      "themes": [
+        "AI",
+        "Education"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "peter-deng_t7",
+      "title": "Language shapes thought: precision in communication",
+      "summary": "Peter discusses how language influences thinking and why leaders should obsess over wording in docs and decks; they connect this to why LLMs are powerful and how AI can aid writing.",
+      "timestamp_start": "00:16:53",
+      "timestamp_end": "00:21:07",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Peter Deng"
+      ],
+      "themes": [
+        "Communication",
+        "AI",
+        "Hiring & Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "peter-deng_t8",
+      "title": "Counterintuitive product lesson: pixels sometimes don\u2019t matter",
+      "summary": "Peter shares that at Uber the true product was price and ETA more than UI polish, and notes many iconic companies succeeded by operational excellence and iteration rather than novel tech breakthroughs.",
+      "timestamp_start": "00:21:07",
+      "timestamp_end": "00:27:20",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Peter Deng"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "peter-deng_t9",
+      "title": "AI startup moats: data flywheels and workflow craft",
+      "summary": "They discuss defensibility for AI products: proprietary/compounding data, usage-driven flywheels, and deeply integrated workflows; Peter emphasizes grit and product craft to beat incumbents\u2019 distribution.",
+      "timestamp_start": "00:27:20",
+      "timestamp_end": "00:34:10",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Peter Deng"
+      ],
+      "themes": [
+        "AI",
+        "Product Strategy",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "peter-deng_t10",
+      "title": "Product\u2019s role at frontier model labs",
+      "summary": "Peter explains why PM leverage often comes from partnering with research/post-training teams to shape model capabilities, and highlights the strategic importance of strong product leadership at OpenAI.",
+      "timestamp_start": "00:34:10",
+      "timestamp_end": "00:36:52",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Peter Deng"
+      ],
+      "themes": [
+        "AI",
+        "Product Strategy",
+        "Org Design"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "peter-deng_t11",
+      "title": "Scaling 1\u2192100: plan chess moves, build systems",
+      "summary": "Peter describes hyperscale as \u201cG-forces\u201d and argues teams must invest in durable systems/architecture (e.g., News Feed loops, Uber pickup abstractions, Messenger infra) to move sustainably faster.",
+      "timestamp_start": "00:36:52",
+      "timestamp_end": "00:42:34",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Peter Deng"
+      ],
+      "themes": [
+        "Scaling",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "peter-deng_t12",
+      "title": "When to re-architect: portfolio thinking and measurement",
+      "summary": "Peter advises it\u2019s a ramp, not a switch\u2014use a portfolio allocation approach, instrument everything, and build a growth team early to expose logging gaps and drive rigorous diagnosis.",
+      "timestamp_start": "00:42:34",
+      "timestamp_end": "00:45:20",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Peter Deng"
+      ],
+      "themes": [
+        "Growth",
+        "Scaling",
+        "Product Analytics"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

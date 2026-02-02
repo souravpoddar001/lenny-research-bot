@@ -1,0 +1,215 @@
+{
+  "episode_id": "eeke-de-milliano",
+  "topics": [
+    {
+      "topic_id": "eeke-de-milliano_t1",
+      "title": "Process reduces variance, can dampen top performers",
+      "summary": "Eeke frames process as inherently variance-reducing: it raises the floor but can also pull down the most creative, high-performing people. She notes the tension grows as companies scale and seek consistency.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:34",
+      "speakers": [
+        "Eeke de Milliano"
+      ],
+      "themes": [
+        "Operations & Process",
+        "Leadership & Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eeke-de-milliano_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the show and Eeke\u2019s background (Retool Head of Product; early Stripe PM) and previews topics like innovation, process, and talent. He then transitions into sponsor messages.",
+      "timestamp_start": "00:00:52",
+      "timestamp_end": "00:01:32",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career & Background"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eeke-de-milliano_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Miro (visual whiteboard collaboration) and Notion (all-in-one workspace) with calls to action and examples of use cases.",
+      "timestamp_start": "00:01:41",
+      "timestamp_end": "00:03:21",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eeke-de-milliano_t4",
+      "title": "Stripe early days: roles, Connect, Radar",
+      "summary": "Eeke recounts joining Stripe in 2013 as the first account executive, then moving into product as Stripe added its first PMs. She highlights building Stripe Connect for marketplaces and Stripe Radar for fraud prevention, including product challenges around explaining ML decisions to users.",
+      "timestamp_start": "00:03:36",
+      "timestamp_end": "00:08:33",
+      "speakers": [
+        "Lenny",
+        "Eeke de Milliano"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Career & Background",
+        "Data & AI"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eeke-de-milliano_t5",
+      "title": "Why Stripe delayed PM hiring",
+      "summary": "They discuss Stripe\u2019s reputation for operating without PMs and why it worked early: building for developers meant engineers were close to the customer. PMs became necessary as the customer base diversified and the org became more complex and matrixed (global, legal, compliance).",
+      "timestamp_start": "00:08:37",
+      "timestamp_end": "00:10:51",
+      "speakers": [
+        "Lenny",
+        "Eeke de Milliano"
+      ],
+      "themes": [
+        "Org Design",
+        "Product Management",
+        "Leadership & Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eeke-de-milliano_t6",
+      "title": "What PM work really entails",
+      "summary": "Eeke and Lenny emphasize that PM (and management) roles are often misunderstood: influence without authority, lots of cross-team coordination, and non-glamorous work. They caution aspiring PMs/managers to be clear-eyed about the day-to-day reality.",
+      "timestamp_start": "00:11:04",
+      "timestamp_end": "00:12:20",
+      "speakers": [
+        "Lenny",
+        "Eeke de Milliano"
+      ],
+      "themes": [
+        "Product Management",
+        "Leadership & Management",
+        "Career & Background"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "eeke-de-milliano_t7",
+      "title": "Stripe culture: rigorous thinking and writing",
+      "summary": "Eeke describes Stripe\u2019s culture guide and what made Stripe distinctive: deep respect for rigorous first-principles thinking, a strong writing culture that forces clarity, and fast decision-making using one-way/two-way door framing. She also notes Stripe\u2019s unusual approach to titles and why it\u2019s a \u2018trapdoor\u2019 decision.",
+      "timestamp_start": "00:12:23",
+      "timestamp_end": "00:17:16",
+      "speakers": [
+        "Lenny",
+        "Eeke de Milliano"
+      ],
+      "themes": [
+        "Company Culture",
+        "Decision-Making",
+        "Leadership & Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eeke-de-milliano_t8",
+      "title": "Operationalizing first principles and operating principles",
+      "summary": "They dig into how Stripe instilled first-principles thinking (founder-driven, hiring, writing) and discuss Stripe\u2019s operating principles like urgency/focus, users first, and micro-pessimist/macro-optimist. Eeke explains why Stripe calls them operating principles rather than values.",
+      "timestamp_start": "00:17:37",
+      "timestamp_end": "00:20:53",
+      "speakers": [
+        "Lenny",
+        "Eeke de Milliano"
+      ],
+      "themes": [
+        "Company Culture",
+        "Leadership & Management",
+        "Decision-Making"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eeke-de-milliano_t9",
+      "title": "How to foster innovation and big thinking",
+      "summary": "Eeke explains why most teams default to incremental work: fear of failure, being trapped in urgent fires (debt/incidents), and lack of time/permission to think. She shares tactics like normalizing learning-focused retrospectives, increasing \u2018at-bats\u2019 with faster feedback and smaller teams, and creating explicit prompts like \u2018Think Bigger\u2019 and annual \u2018Crazy Ideas\u2019 docs.",
+      "timestamp_start": "00:20:53",
+      "timestamp_end": "00:26:17",
+      "speakers": [
+        "Lenny",
+        "Eeke de Milliano"
+      ],
+      "themes": [
+        "Innovation",
+        "Company Culture",
+        "Leadership & Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eeke-de-milliano_t10",
+      "title": "Making failure safe and funding exploration time",
+      "summary": "They discuss concrete ways to normalize failure (public learnings via shipped emails or all-hands) and how leaders can create space for long-term thinking by explicitly funding time, using hackathons, and embedding prompts like \u201820% more time\u2019 or \u2018double the team\u2019 into planning.",
+      "timestamp_start": "00:26:26",
+      "timestamp_end": "00:30:40",
+      "speakers": [
+        "Lenny",
+        "Eeke de Milliano"
+      ],
+      "themes": [
+        "Leadership & Management",
+        "Innovation",
+        "Operations & Process"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eeke-de-milliano_t11",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Eppo, an experimentation/A/B testing platform, highlighting faster analysis, slicing results, and support for multiple surfaces (frontend/backend/email/ML).",
+      "timestamp_start": "00:30:53",
+      "timestamp_end": "00:32:03",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eeke-de-milliano_t12",
+      "title": "Launching three Retool products in one year",
+      "summary": "Eeke outlines Retool Workflows, Mobile, and Database, then reflects on whether launching three products at once was wise (sequencing could\u2019ve been better). She explains how they pulled it off: start with tiny teams, treat initiatives like VC-funded startups with ROI proof, and keep teams separate early to preserve speed and independent thinking.",
+      "timestamp_start": "00:32:03",
+      "timestamp_end": "00:37:52",
+      "speakers": [
+        "Lenny",
+        "Eeke de Milliano"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Org Design",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "eeke-de-milliano_t13",
+      "title": "Right amount of process by company stage",
+      "summary": "They transition into process design across stages: Eeke wishes for \u2018time capsules\u2019 of how great companies evolved process. She frames process as variance reduction with a tradeoff\u2014raising the floor while potentially constraining top performers\u2014and notes scaling increases pressure to standardize.",
+      "timestamp_start": "00:38:00",
+      "timestamp_end": "00:41:07",
+      "speakers": [
+        "Lenny",
+        "Eeke de Milliano"
+      ],
+      "themes": [
+        "Operations & Process",
+        "Leadership & Management",
+        "Scaling"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

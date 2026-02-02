@@ -1,0 +1,203 @@
+{
+  "episode_id": "stewart-butterfield",
+  "topics": [
+    {
+      "topic_id": "stewart-butterfield_t1",
+      "title": "Introduction and Background",
+      "summary": "Cold open highlights Stewart\u2019s relentless dissatisfaction with early Slack quality, plus quick framing of Slack\u2019s customer-value ethos, friction vs comprehension, and the emotional difficulty of pivoting. Lenny introduces Stewart\u2019s background (Flickr, Slack) and previews key topics for the episode.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:27",
+      "speakers": [
+        "Stewart Butterfield",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Leadership",
+        "Startups & Entrepreneurship"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "stewart-butterfield_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for WorkOS (enterprise features APIs) and Metronome (usage-based billing infrastructure).",
+      "timestamp_start": "00:02:57",
+      "timestamp_end": "00:04:59",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsors & Promotions"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "stewart-butterfield_t3",
+      "title": "What Stewart is doing after Slack",
+      "summary": "Stewart shares life post-Salesforce: spending time with family, exploring philanthropic and creative projects, and periodically discussing future ideas with Cal Henderson. He also reflects on the tension of building software while feeling modern tech can be harmful.",
+      "timestamp_start": "00:04:59",
+      "timestamp_end": "00:06:45",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Stewart Butterfield"
+      ],
+      "themes": [
+        "Leadership",
+        "Startups & Entrepreneurship",
+        "Personal Development"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "stewart-butterfield_t4",
+      "title": "Utility curves for prioritizing product investment",
+      "summary": "Stewart explains the S-curve of effort vs value and how it applies to features and product quality: early work may yield little value until a threshold, then diminishing returns set in. The framework helps teams decide whether to invest more, stop, or rethink a feature.",
+      "timestamp_start": "00:06:45",
+      "timestamp_end": "00:11:22",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Stewart Butterfield"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Product Management",
+        "Decision-Making"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "stewart-butterfield_t5",
+      "title": "Rising quality bars and neglected UX basics",
+      "summary": "Stewart discusses \u201cdivine discontent\u201d and how user expectations rise over time, requiring continual iteration even on unglamorous flows. He uses Google Calendar\u2019s time zone picker as an example of high-impact UX debt that erodes delight and advocacy.",
+      "timestamp_start": "00:11:22",
+      "timestamp_end": "00:15:11",
+      "speakers": [
+        "Stewart Butterfield",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Design",
+        "User Experience",
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "stewart-butterfield_t6",
+      "title": "Taste, empathy, and Slack\u2019s craft advantage",
+      "summary": "Stewart defines product \u201ctaste\u201d as learnable through practice and argues it\u2019s a competitive advantage because many teams don\u2019t invest in it. He shares the \u201ctilt your umbrella\u201d story as a metaphor for empathy and small courtesies that create emotional connection and word-of-mouth growth.",
+      "timestamp_start": "00:15:11",
+      "timestamp_end": "00:20:20",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Stewart Butterfield"
+      ],
+      "themes": [
+        "Product Design",
+        "User Experience",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "stewart-butterfield_t7",
+      "title": "Early Slack craft decisions that paid off",
+      "summary": "Concrete examples of delight-driven product choices: magic-link login to avoid mobile password pain, default notifications to help early comprehension, and guided transitions to recommended settings. Stewart emphasizes investing to get users over the initial \u201chump.\u201d",
+      "timestamp_start": "00:20:20",
+      "timestamp_end": "00:23:41",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Stewart Butterfield"
+      ],
+      "themes": [
+        "Product Design",
+        "Onboarding",
+        "User Experience"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "stewart-butterfield_t8",
+      "title": "Shaping behavior: @everyone rooster and norms",
+      "summary": "Stewart explains how features can steer culture: the \u201cshouty rooster\u201d warning discourages abusive @everyone usage by making the cost salient. The goal is to preserve signal-to-noise and teach users how the system works.",
+      "timestamp_start": "00:23:41",
+      "timestamp_end": "00:25:11",
+      "speakers": [
+        "Stewart Butterfield",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Design",
+        "User Experience",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "stewart-butterfield_t9",
+      "title": "Rolling out Do Not Disturb at scale",
+      "summary": "A detailed look at launching DND without breaking critical workflows (e.g., ops alerts) across many organizations. Stewart describes admin pre-communication, sensible defaults, and layered override rules balancing org policy with individual control.",
+      "timestamp_start": "00:25:11",
+      "timestamp_end": "00:28:30",
+      "speakers": [
+        "Stewart Butterfield",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Product Management",
+        "Change Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "stewart-butterfield_t10",
+      "title": "Friction vs comprehension: don\u2019t optimize clicks",
+      "summary": "Stewart argues \u201creduce friction\u201d is often misapplied; the real challenge is comprehension when user intent is low and they don\u2019t understand what to do next. He ties this to \u201cDon\u2019t Make Me Think,\u201d cognitive/ emotional costs of confusion, and why fewer taps can be worse than clearer steps.",
+      "timestamp_start": "00:28:31",
+      "timestamp_end": "00:45:06",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Stewart Butterfield"
+      ],
+      "themes": [
+        "User Experience",
+        "Product Design",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "stewart-butterfield_t11",
+      "title": "Relentless critique culture and continuous improvement",
+      "summary": "Stewart shares his infamous 2014 quote calling Slack \u201ca giant piece of shit\u201d as a way to instill perpetual improvement and high standards. He connects this to building trust for direct feedback and treating mistakes as valuable learning opportunities (Michael Jordan skiing story).",
+      "timestamp_start": "00:45:06",
+      "timestamp_end": "00:49:10",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Stewart Butterfield"
+      ],
+      "themes": [
+        "Leadership",
+        "Culture",
+        "Continuous Improvement"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "stewart-butterfield_t12",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read begins for Lovable (build apps/websites by chatting with AI).",
+      "timestamp_start": "00:49:10",
+      "timestamp_end": "00:49:10",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsors & Promotions"
+      ],
+      "quote_count": 3
+    }
+  ]
+}

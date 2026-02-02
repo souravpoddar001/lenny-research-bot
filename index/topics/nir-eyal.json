@@ -1,0 +1,206 @@
+{
+  "episode_id": "nir-eyal",
+  "topics": [
+    {
+      "topic_id": "nir-eyal_t1",
+      "title": "Internal triggers, not tech, cause distraction",
+      "summary": "Nir explains that even removing technology didn\u2019t stop his distractions, because the real driver is discomfort and internal triggers. He frames distraction as escaping feelings, which is empowering because it can be managed with tools.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:51",
+      "speakers": [
+        "Nir Eyal"
+      ],
+      "themes": [
+        "Focus & Productivity",
+        "Psychology & Behavior Change"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nir-eyal_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Nir Eyal, his books (Hooked, Indistractable), and sets the goal of sharing tactical methods to improve focus and reduce distraction.",
+      "timestamp_start": "00:01:10",
+      "timestamp_end": "00:02:03",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Focus & Productivity"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "nir-eyal_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Vanta and Jira Product Discovery.",
+      "timestamp_start": "00:02:03",
+      "timestamp_end": "00:04:24",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "nir-eyal_t4",
+      "title": "Why Nir wrote Indistractable; common myths",
+      "summary": "Nir shares he wrote the book because he struggled with distraction for years and found conventional advice (quit tech) impractical. He argues most people know what to do, but don\u2019t know how to stop self-sabotaging via distraction.",
+      "timestamp_start": "00:04:24",
+      "timestamp_end": "00:07:23",
+      "speakers": [
+        "Lenny",
+        "Nir Eyal"
+      ],
+      "themes": [
+        "Focus & Productivity",
+        "Psychology & Behavior Change"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nir-eyal_t5",
+      "title": "Defining distraction: traction vs distraction",
+      "summary": "Nir defines traction and distraction as actions pulled by intent, emphasizing that even \u201cwork tasks\u201d (like email) can be distractions if they\u2019re not what you intended to do. This reframes distraction as something we do, not something done to us.",
+      "timestamp_start": "00:07:23",
+      "timestamp_end": "00:11:08",
+      "speakers": [
+        "Nir Eyal",
+        "Lenny"
+      ],
+      "themes": [
+        "Focus & Productivity",
+        "Psychology & Behavior Change"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "nir-eyal_t6",
+      "title": "Four-step framework to become indistractable",
+      "summary": "Nir outlines the four steps: master internal triggers, make time for traction, hack back external triggers, and prevent distraction with pacts. Lenny asks for a recap and Nir clarifies what each step covers beyond just notifications.",
+      "timestamp_start": "00:11:08",
+      "timestamp_end": "00:14:09",
+      "speakers": [
+        "Nir Eyal",
+        "Lenny"
+      ],
+      "themes": [
+        "Focus & Productivity"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nir-eyal_t7",
+      "title": "Diagnosing Lenny\u2019s distraction: avoiding hard thinking",
+      "summary": "They apply the framework to Lenny\u2019s habit of checking Twitter/email instead of writing, identifying the internal trigger as discomfort from \u201ccold start\u201d deep work. Nir emphasizes the root cause is emotional discomfort, not devices.",
+      "timestamp_start": "00:14:09",
+      "timestamp_end": "00:17:27",
+      "speakers": [
+        "Lenny",
+        "Nir Eyal"
+      ],
+      "themes": [
+        "Focus & Productivity",
+        "Psychology & Behavior Change"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nir-eyal_t8",
+      "title": "The 10-minute rule and surfing the urge",
+      "summary": "Nir teaches a practical technique: delay distraction by 10 minutes, observe the urge like a wave, and use a mantra (\u201cthis is what it feels like to get better\u201d). He argues this builds agency by proving you can postpone impulses.",
+      "timestamp_start": "00:17:27",
+      "timestamp_end": "00:21:46",
+      "speakers": [
+        "Nir Eyal",
+        "Lenny"
+      ],
+      "themes": [
+        "Focus & Productivity",
+        "Psychology & Behavior Change"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nir-eyal_t9",
+      "title": "Timeboxing values: calendar over to-do lists",
+      "summary": "Nir explains you can\u2019t label something a distraction unless you know what it distracted you from, so you must timebox traction on your calendar (including leisure and relationships). He describes weekly planning around values across self, relationships, and work (reactive vs reflective).",
+      "timestamp_start": "00:21:46",
+      "timestamp_end": "00:28:36",
+      "speakers": [
+        "Nir Eyal",
+        "Lenny"
+      ],
+      "themes": [
+        "Focus & Productivity",
+        "Workplace & Collaboration"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nir-eyal_t10",
+      "title": "Pacts and stakes: precommitment and price contracts",
+      "summary": "Nir introduces \u201cpacts\u201d as a last-resort firewall, including price pacts where failing to act costs money, illustrating how higher stakes reveal you can make time. Lenny shares his own deep-work calendar blocks as a practical parallel.",
+      "timestamp_start": "00:28:36",
+      "timestamp_end": "00:30:57",
+      "speakers": [
+        "Nir Eyal",
+        "Lenny"
+      ],
+      "themes": [
+        "Focus & Productivity",
+        "Psychology & Behavior Change"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nir-eyal_t11",
+      "title": "Why to-do lists fail; measure time, not tasks",
+      "summary": "Nir argues to-do lists lack constraints and feedback loops, fueling guilt and poor estimation (planning fallacy). He recommends measuring success by doing what you planned for the planned duration without distraction, which improves estimation and output quality.",
+      "timestamp_start": "00:30:57",
+      "timestamp_end": "00:34:31",
+      "speakers": [
+        "Lenny",
+        "Nir Eyal"
+      ],
+      "themes": [
+        "Focus & Productivity"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nir-eyal_t12",
+      "title": "Deadlines, procrastination, and emotion regulation",
+      "summary": "They discuss deadline-driven work and why it often harms quality. Nir frames procrastination as an emotion regulation problem (not a character flaw) and says the solution starts with managing internal triggers plus scheduling distraction-free work time.",
+      "timestamp_start": "00:34:31",
+      "timestamp_end": "00:36:08",
+      "speakers": [
+        "Lenny",
+        "Nir Eyal"
+      ],
+      "themes": [
+        "Focus & Productivity",
+        "Psychology & Behavior Change"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nir-eyal_t13",
+      "title": "Motivation: escaping discomfort drives behavior",
+      "summary": "Nir challenges the \u2018pleasure principle,\u2019 arguing all motivation is about escaping discomfort\u2014\u2018the carrot is the stick.\u2019 Lenny asks for more internal-trigger tools; Nir previews additional techniques and reiterates internal triggers must be addressed first.",
+      "timestamp_start": "00:36:08",
+      "timestamp_end": "00:41:10",
+      "speakers": [
+        "Lenny",
+        "Nir Eyal"
+      ],
+      "themes": [
+        "Psychology & Behavior Change",
+        "Focus & Productivity"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "episode_id": "jessica-livingston",
+  "topics": [
+    {
+      "topic_id": "jessica-livingston_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Jessica Livingston, her role as YC co-founder, and frames the episode around her \"Social Radar\" ability to read founders and people dynamics.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:50",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Livingston"
+      ],
+      "themes": [
+        "Podcast Intro/Background"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jessica-livingston_t2",
+      "title": "Being erased and credit for founding YC",
+      "summary": "Jessica discusses being left out of YC narratives (media/Wikipedia), why it happens, and why she personally doesn\u2019t dwell on external validation\u2014while noting how omission can serve certain narratives about YC.",
+      "timestamp_start": "00:02:52",
+      "timestamp_end": "00:05:15",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Livingston"
+      ],
+      "themes": [
+        "Career Stories",
+        "Diversity/Equity/Inclusion"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jessica-livingston_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Enterpret and Anvil.",
+      "timestamp_start": "00:05:20",
+      "timestamp_end": "00:07:11",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jessica-livingston_t4",
+      "title": "What \"Social Radar\" means at YC",
+      "summary": "Jessica explains how she evaluated founders through social cues during 10-minute YC interviews\u2014co-founder dynamics, commitment, and subtle red flags\u2014complementing her technical co-founders\u2019 focus.",
+      "timestamp_start": "00:07:53",
+      "timestamp_end": "00:12:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Livingston"
+      ],
+      "themes": [
+        "Startup Investing",
+        "Hiring/Teams"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jessica-livingston_t5",
+      "title": "Avoiding assholes and building YC culture",
+      "summary": "They discuss why YC sometimes avoided funding overtly difficult personalities, especially early on, and how that helped shape a supportive alumni culture where founders help each other.",
+      "timestamp_start": "00:12:33",
+      "timestamp_end": "00:15:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Livingston"
+      ],
+      "themes": [
+        "Community/Culture",
+        "Startup Investing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jessica-livingston_t6",
+      "title": "Application and interview red flags",
+      "summary": "Jessica details what she flagged in applications (equity splits, job commitment, cap table oddities) and in interviews (defensiveness, co-founder control issues, \"hacker in a cage\" dynamics).",
+      "timestamp_start": "00:15:12",
+      "timestamp_end": "00:18:50",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Livingston"
+      ],
+      "themes": [
+        "Startup Investing",
+        "Hiring/Teams"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jessica-livingston_t7",
+      "title": "Defensiveness vs open-mindedness in founders",
+      "summary": "Jessica explains why defensiveness predicts failure: founders must handle skepticism, learn quickly, and adapt to user reality; the best founders treat questioning as collaborative problem-solving.",
+      "timestamp_start": "00:18:50",
+      "timestamp_end": "00:21:01",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Livingston"
+      ],
+      "themes": [
+        "Founder Psychology",
+        "Startup Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jessica-livingston_t8",
+      "title": "Airbnb interview: hustlers and founder bet",
+      "summary": "Jessica recounts the Airbnb interview: YC disliked the idea but loved the founders\u2019 energy and scrappiness, highlighted by the Obama O\u2019s/Cap\u2019n McCain\u2019s stunt, leading to a strong founder-based bet.",
+      "timestamp_start": "00:21:01",
+      "timestamp_end": "00:25:57",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Livingston"
+      ],
+      "themes": [
+        "Startup Investing",
+        "Founder Psychology"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jessica-livingston_t9",
+      "title": "More founder-bet stories: GOAT and others",
+      "summary": "Jessica shares how certain interviews made her confident in founders regardless of idea, including GOAT\u2019s founders (then Grubwithus) and the importance of domain insight even in unsexy markets.",
+      "timestamp_start": "00:25:57",
+      "timestamp_end": "00:28:24",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Livingston"
+      ],
+      "themes": [
+        "Startup Investing",
+        "Founder Psychology"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jessica-livingston_t10",
+      "title": "Charisma, domain expertise, and earnestness",
+      "summary": "They distinguish useful charisma from empty salesmanship, emphasize domain expertise, and introduce \"earnestness\"/authenticity as a key signal\u2014illustrated by a non-credible \"teen fashion\" app example.",
+      "timestamp_start": "00:28:27",
+      "timestamp_end": "00:32:47",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Livingston"
+      ],
+      "themes": [
+        "Founder Psychology",
+        "Startup Investing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jessica-livingston_t11",
+      "title": "Confidence and commitment: quitting and co-founder fit",
+      "summary": "Jessica contrasts confidence with defensiveness, explains why founders must eventually \"burn the boat\" (quit jobs), and why co-founder relationship quality/history is critical given how often disputes kill startups.",
+      "timestamp_start": "00:32:47",
+      "timestamp_end": "00:37:46",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Livingston"
+      ],
+      "themes": [
+        "Founder Psychology",
+        "Hiring/Teams"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jessica-livingston_t12",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Vanta.",
+      "timestamp_start": "00:39:07",
+      "timestamp_end": "00:40:00",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jessica-livingston_t13",
+      "title": "Origins of her people-reading ability",
+      "summary": "Jessica describes lifelong curiosity about people and motives (\"Detective Livingston\"), how she notices anomalies and dislikes phoniness, and demonstrates it by inferring why Lenny added a podcast disclaimer.",
+      "timestamp_start": "00:40:00",
+      "timestamp_end": "00:43:23",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Livingston"
+      ],
+      "themes": [
+        "Founder Psychology",
+        "Personal Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jessica-livingston_t14",
+      "title": "Validating instincts, being fooled, and YC tooling",
+      "summary": "She explains how she sanity-checks gut instincts over years, admits occasional misses (including a founder later convicted of major crypto theft), and describes YC\u2019s application flagging system for common risks.",
+      "timestamp_start": "00:43:23",
+      "timestamp_end": "00:49:37",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Livingston"
+      ],
+      "themes": [
+        "Startup Investing",
+        "Risk/Trust"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jessica-livingston_t15",
+      "title": "How to develop a \"social radar\" checklist",
+      "summary": "Jessica offers practical guidance: consciously watch for subtle cues, ask direct questions about co-founder history and commitment, and use a simple mental checklist (defensiveness, alignment, product understanding).",
+      "timestamp_start": "00:49:37",
+      "timestamp_end": "00:52:09",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jessica Livingston"
+      ],
+      "themes": [
+        "Personal Development",
+        "Startup Investing"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

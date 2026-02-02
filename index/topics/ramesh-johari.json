@@ -1,0 +1,254 @@
+{
+  "episode_id": "ramesh-johari",
+  "topics": [
+    {
+      "topic_id": "ramesh-johari_t1",
+      "title": "Marketplace whac-a-mole and tradeoffs",
+      "summary": "Ramesh explains how marketplace changes often shift attention/inventory, creating winners and losers; improving one side can degrade the other, requiring constant rebalancing and prioritization.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:58",
+      "speakers": [
+        "Ramesh Johari"
+      ],
+      "themes": [
+        "Marketplaces"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ramesh-johari_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Ramesh Johari, his Stanford work and marketplace advising background, and previews topics like data science, reviews, experimentation, and AI in marketplaces.",
+      "timestamp_start": "00:01:00",
+      "timestamp_end": "00:02:03",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Marketplaces",
+        "Data Science"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "ramesh-johari_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Sanity (headless CMS) and Hex (collaborative analytics notebooks with AI assistance).",
+      "timestamp_start": "00:02:04",
+      "timestamp_end": "00:04:30",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Other"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ramesh-johari_t4",
+      "title": "Ramesh\u2019s background and early marketplace data science",
+      "summary": "Ramesh and Lenny discuss Riley Newman\u2019s connection and Ramesh\u2019s early work at oDesk leading data science, setting up the episode\u2019s focus on marketplaces, experimentation, and data.",
+      "timestamp_start": "00:04:31",
+      "timestamp_end": "00:05:36",
+      "speakers": [
+        "Lenny",
+        "Ramesh Johari"
+      ],
+      "themes": [
+        "Marketplaces",
+        "Data Science"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ramesh-johari_t5",
+      "title": "What marketplaces really sell: removing transaction costs",
+      "summary": "Ramesh reframes Uber/Airbnb as selling reduced friction (transaction costs), not rides/rooms, and emphasizes both sides (buyers and sellers) are the platform\u2019s customers.",
+      "timestamp_start": "00:05:37",
+      "timestamp_end": "00:08:35",
+      "speakers": [
+        "Lenny",
+        "Ramesh Johari"
+      ],
+      "themes": [
+        "Marketplaces"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ramesh-johari_t6",
+      "title": "Why data science underpins marketplace flywheels",
+      "summary": "He outlines the core data loop: find potential matches, make matches, and learn from outcomes (ratings/passive signals) to improve future matching\u2014this is the heart of marketplace data science.",
+      "timestamp_start": "00:08:36",
+      "timestamp_end": "00:11:21",
+      "speakers": [
+        "Ramesh Johari",
+        "Lenny"
+      ],
+      "themes": [
+        "Data Science",
+        "Marketplaces"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ramesh-johari_t7",
+      "title": "Why many marketplace ideas fail early",
+      "summary": "Lenny asks about common marketplace failure modes; Ramesh argues the biggest issue is founders over-focusing on being a marketplace before achieving liquidity and solving an initial non-marketplace wedge problem.",
+      "timestamp_start": "00:11:22",
+      "timestamp_end": "00:12:32",
+      "speakers": [
+        "Lenny",
+        "Ramesh Johari"
+      ],
+      "themes": [
+        "Marketplaces",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ramesh-johari_t8",
+      "title": "Start with a wedge: UrbanSitter and oDesk examples",
+      "summary": "Ramesh explains how successful marketplaces often begin by solving a specific friction (e.g., credit card payments for babysitting; remote-work trust tools) before evolving into true matching and discovery platforms.",
+      "timestamp_start": "00:12:33",
+      "timestamp_end": "00:16:42",
+      "speakers": [
+        "Ramesh Johari",
+        "Lenny"
+      ],
+      "themes": [
+        "Marketplaces",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ramesh-johari_t9",
+      "title": "Every founder can become a marketplace founder",
+      "summary": "Ramesh argues most businesses can evolve into platforms (e.g., OpenAI plugins), warns against early commitments that constrain later marketplace monetization, and discusses disintermediation and pricing-model pitfalls.",
+      "timestamp_start": "00:16:43",
+      "timestamp_end": "00:20:25",
+      "speakers": [
+        "Lenny",
+        "Ramesh Johari"
+      ],
+      "themes": [
+        "Marketplaces",
+        "Business Models"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ramesh-johari_t10",
+      "title": "Social contracts with sellers: Substack vs eBay",
+      "summary": "They discuss how platforms can add value to justify take rates (Substack driving subscribers) and how changing fee structures can violate long-standing seller expectations (eBay cautionary tale).",
+      "timestamp_start": "00:20:26",
+      "timestamp_end": "00:22:23",
+      "speakers": [
+        "Lenny",
+        "Ramesh Johari"
+      ],
+      "themes": [
+        "Marketplaces",
+        "Business Models"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ramesh-johari_t11",
+      "title": "Reframing: liquidity test and when you\u2019re not a marketplace",
+      "summary": "Ramesh offers a litmus test\u2014scaled liquidity on both sides\u2014and advises founders to focus on scaling one side first, then use it to attract the other (e.g., Uber subsidies), dropping ego about being a marketplace too early.",
+      "timestamp_start": "00:22:24",
+      "timestamp_end": "00:25:51",
+      "speakers": [
+        "Lenny",
+        "Ramesh Johari"
+      ],
+      "themes": [
+        "Marketplaces",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ramesh-johari_t12",
+      "title": "Market vs firm: when to own or curate supply",
+      "summary": "They explore when a marketplace model may be inferior to tighter control (employees/curated labor), citing examples like Stitch Fix styling and healthcare/physical therapy where continuity and trust matter.",
+      "timestamp_start": "00:25:52",
+      "timestamp_end": "00:28:24",
+      "speakers": [
+        "Lenny",
+        "Ramesh Johari"
+      ],
+      "themes": [
+        "Marketplaces",
+        "Business Models"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ramesh-johari_t13",
+      "title": "Where data scientists add leverage: decisions over predictions",
+      "summary": "Ramesh discusses common DS focus areas (pricing, search) but emphasizes the deeper point: prediction finds correlations, while business value comes from causal decision-making (incremental impact), illustrated via hiring and LTV targeting examples.",
+      "timestamp_start": "00:28:25",
+      "timestamp_end": "00:35:26",
+      "speakers": [
+        "Lenny",
+        "Ramesh Johari"
+      ],
+      "themes": [
+        "Data Science",
+        "Experimentation"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ramesh-johari_t14",
+      "title": "Causal inference in ranking and matching quality",
+      "summary": "He explains evaluating algorithms by their causal impact on outcomes (e.g., bookings, match quality) rather than offline predictive accuracy, tying back to the marketplace loop of matching and learning.",
+      "timestamp_start": "00:35:27",
+      "timestamp_end": "00:38:11",
+      "speakers": [
+        "Lenny",
+        "Ramesh Johari"
+      ],
+      "themes": [
+        "Data Science",
+        "Marketplaces",
+        "Experimentation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ramesh-johari_t15",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Eppo, an A/B testing and feature management platform focused on faster, rigorous experimentation and analysis.",
+      "timestamp_start": "00:38:12",
+      "timestamp_end": "00:39:28",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Experimentation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ramesh-johari_t16",
+      "title": "Experimentation culture: avoiding local maxima and incentives traps",
+      "summary": "Ramesh argues experiments are essential for causal learning but warns that \u201cwin\u201d incentives drive overly incremental tests and overly long runtimes; he advocates hypothesis-driven learning, velocity, and comfort with big failures to find fat-tail wins.",
+      "timestamp_start": "00:39:29",
+      "timestamp_end": "00:44:11",
+      "speakers": [
+        "Lenny",
+        "Ramesh Johari"
+      ],
+      "themes": [
+        "Experimentation",
+        "Data Science"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

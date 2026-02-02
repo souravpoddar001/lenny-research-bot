@@ -1,0 +1,246 @@
+{
+  "episode_id": "varun-mohan",
+  "topics": [
+    {
+      "topic_id": "varun-mohan_t1",
+      "title": "Introduction and Background",
+      "summary": "Cold open highlights Varun\u2019s long-term product bets, hiring philosophy, and the importance of agency. Lenny introduces Varun and frames Windsurf\u2019s rapid growth and the episode\u2019s main topics.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:59",
+      "speakers": [
+        "Varun Mohan",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Company Building",
+        "Hiring",
+        "AI Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "varun-mohan_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Brex banking/treasury and Productboard\u2019s product management platform and Pulse voice-of-customer solution.",
+      "timestamp_start": "00:01:59",
+      "timestamp_end": "00:04:00",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "varun-mohan_t3",
+      "title": "Codeium origin story and two pivots",
+      "summary": "Varun recounts starting as a GPU virtualization/compiler company, reaching revenue and scale, then pivoting as generative AI changed the value of bespoke models. They vertically integrated into Codeium (free IDE plugins) and later expanded into enterprise needs like security and personalization.",
+      "timestamp_start": "00:04:00",
+      "timestamp_end": "00:08:05",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Varun Mohan"
+      ],
+      "themes": [
+        "Company Building",
+        "AI Product Strategy",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "varun-mohan_t4",
+      "title": "Where value accrues in the AI stack",
+      "summary": "They discuss how changing assumptions (heterogeneous architectures vs. transformers) drove a shift away from infrastructure differentiation. Varun argues the application layer offers the deepest room for durable differentiation via better workflows and UX.",
+      "timestamp_start": "00:08:05",
+      "timestamp_end": "00:10:22",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Varun Mohan"
+      ],
+      "themes": [
+        "AI Product Strategy",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "varun-mohan_t5",
+      "title": "Pivot decision-making and truth-seeking culture",
+      "summary": "Varun explains how to balance optimism with realism, move fast with focus, and avoid falling in love with ideas. He emphasizes building a morale-resilient, truth-seeking org that treats each year\u2019s increased engineering output as a new chance to test hypotheses.",
+      "timestamp_start": "00:10:22",
+      "timestamp_end": "00:12:59",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Varun Mohan"
+      ],
+      "themes": [
+        "Company Building",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "varun-mohan_t6",
+      "title": "What Windsurf is and why an IDE",
+      "summary": "Varun defines Windsurf as a new IDE built because existing IDEs (notably VS Code) limited agentic UX and review workflows. He shares an example where custom UI tripled acceptance rates with the same models, motivating a fork and new surface area.",
+      "timestamp_start": "00:12:59",
+      "timestamp_end": "00:16:35",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Varun Mohan"
+      ],
+      "themes": [
+        "AI Product Strategy",
+        "Product"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "varun-mohan_t7",
+      "title": "Traction and the risk of switching IDEs",
+      "summary": "They cover Windsurf\u2019s early traction (1M+ tried in ~4 months, hundreds of thousands MAU) and the inherent risk of asking developers to switch tools. Varun notes continued commitment to other IDE ecosystems (e.g., JetBrains) while pushing the new interface forward.",
+      "timestamp_start": "00:16:35",
+      "timestamp_end": "00:17:39",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Varun Mohan"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Product"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "varun-mohan_t8",
+      "title": "How coding changes with AI",
+      "summary": "Varun breaks engineering into what to solve, how to solve, and solving\u2014predicting AI will increasingly handle the latter two. He argues CS fundamentals still matter for better judgment and system understanding, even as more people can build without deep background.",
+      "timestamp_start": "00:17:39",
+      "timestamp_end": "00:21:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Varun Mohan"
+      ],
+      "themes": [
+        "AI Product Strategy",
+        "Engineering"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "varun-mohan_t9",
+      "title": "Should students still study computer science?",
+      "summary": "Varun advises CS remains valuable as structured problem-solving and systems thinking, even if specific tools/languages change. He highlights learning trade-offs (e.g., distributed systems, parallelism) as enduring benefits beyond day-to-day coding tasks.",
+      "timestamp_start": "00:21:12",
+      "timestamp_end": "00:22:52",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Varun Mohan"
+      ],
+      "themes": [
+        "Engineering",
+        "Career"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "varun-mohan_t10",
+      "title": "Agency as the key skill in AI era",
+      "summary": "Varun argues high agency\u2014self-directed building and ownership\u2014is undervalued by traditional schooling and many big-company roles. For startups, it\u2019s essential because survival requires constant innovation and \u201ccrazy\u201d bets.",
+      "timestamp_start": "00:22:52",
+      "timestamp_end": "00:23:22",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Varun Mohan"
+      ],
+      "themes": [
+        "Career",
+        "Leadership",
+        "Company Building"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "varun-mohan_t11",
+      "title": "Lean hiring: when to add headcount",
+      "summary": "Varun explains hiring only when teams are truly \u201cunderwater,\u201d using a dehydration metaphor to enforce ruthless prioritization and avoid politics. They discuss how scarcity clarifies what matters and prevents manufactured work.",
+      "timestamp_start": "00:23:22",
+      "timestamp_end": "00:30:35",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Varun Mohan"
+      ],
+      "themes": [
+        "Hiring",
+        "Company Building",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "varun-mohan_t12",
+      "title": "Hiring bar, work ethic, and interviewing with AI",
+      "summary": "Varun describes Windsurf\u2019s high technical bar, mission alignment, and explicit expectation of working hard to maintain a strong team culture. They also cover adapting interviews to AI tools\u2014allowing them, but still testing real-time reasoning and problem-solving.",
+      "timestamp_start": "00:30:35",
+      "timestamp_end": "00:34:07",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Varun Mohan"
+      ],
+      "themes": [
+        "Hiring",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "varun-mohan_t13",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Coda as an all-in-one collaborative workspace with docs, spreadsheets, apps, and AI; includes a startup team plan offer.",
+      "timestamp_start": "00:34:07",
+      "timestamp_end": "00:35:24",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "varun-mohan_t14",
+      "title": "Enterprise go-to-market and early sales investment",
+      "summary": "Varun explains why they built enterprise sales early, influenced by operator angels and clear demand from large companies. He contrasts the earlier infra business (hard to scale selling) with Codeium\u2019s rapid enterprise pull and the need for pilots and Fortune 500 procurement, leading to an 80+ person GTM org.",
+      "timestamp_start": "00:35:24",
+      "timestamp_end": "00:37:35",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Varun Mohan"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "varun-mohan_t15",
+      "title": "Differentiation vs Cursor: codebase understanding and security",
+      "summary": "Varun outlines product differentiators: deep understanding of massive enterprise codebases via distributed systems and custom models, multi-IDE support (especially JetBrains), and enterprise-grade security/compliance (e.g., FedRAMP, hybrid/on-tenant indexing).",
+      "timestamp_start": "00:37:35",
+      "timestamp_end": "00:40:42",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Varun Mohan"
+      ],
+      "themes": [
+        "Product",
+        "AI Product Strategy",
+        "Enterprise"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

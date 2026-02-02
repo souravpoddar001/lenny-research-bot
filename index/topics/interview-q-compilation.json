@@ -1,0 +1,276 @@
+{
+  "episode_id": "interview-q-compilation",
+  "topics": [
+    {
+      "topic_id": "interview-q-compilation_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny explains this special compilation episode: 17 favorite interview questions from past guests, meant to help listeners interview better or prepare as candidates.",
+      "timestamp_start": "00:00:03",
+      "timestamp_end": "00:00:47",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Hiring & Interviewing"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "interview-q-compilation_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Sendbird (in-app communications API) and ePO (A/B testing and feature management platform), highlighting key benefits and listener offers.",
+      "timestamp_start": "00:00:47",
+      "timestamp_end": "00:03:22",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Hiring & Interviewing"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "interview-q-compilation_t3",
+      "title": "Self-awareness: attributing success beyond luck",
+      "summary": "Eeke De Miliano shares the question 'To what do you attribute your success?' (without saying luck) to assess self-awareness and reflection on what drove outcomes.",
+      "timestamp_start": "00:03:22",
+      "timestamp_end": "00:03:58",
+      "speakers": [
+        "Lenny",
+        "Eeke De Miliano"
+      ],
+      "themes": [
+        "Hiring & Interviewing",
+        "Career Growth"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "interview-q-compilation_t4",
+      "title": "Resilience: defining and overcoming hard things",
+      "summary": "Geoff Charles asks 'What\u2019s the hardest thing you\u2019ve ever done?' to understand a candidate\u2019s bar for difficulty, agency, collaboration, and perseverance.",
+      "timestamp_start": "00:03:58",
+      "timestamp_end": "00:04:31",
+      "speakers": [
+        "Lenny",
+        "Geoff Charles"
+      ],
+      "themes": [
+        "Hiring & Interviewing",
+        "Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "interview-q-compilation_t5",
+      "title": "Eigenquestions: teleportation product strategy test",
+      "summary": "Shishir Mehrotra\u2019s teleportation prompt tests how candidates clarify ambiguity, prioritize the two most important questions, and build a plan from limited information.",
+      "timestamp_start": "00:04:31",
+      "timestamp_end": "00:08:45",
+      "speakers": [
+        "Lenny",
+        "Shishir Mehrotra"
+      ],
+      "themes": [
+        "Hiring & Interviewing",
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "interview-q-compilation_t6",
+      "title": "Handling controversy and compelling product storytelling",
+      "summary": "Yuhki Yamashita probes how candidates navigated controversial product decisions and whether they can frame problems in a way that rallies others through clear storytelling.",
+      "timestamp_start": "00:08:45",
+      "timestamp_end": "00:09:57",
+      "speakers": [
+        "Lenny",
+        "Yuhki Yamashita"
+      ],
+      "themes": [
+        "Hiring & Interviewing",
+        "Product Strategy",
+        "Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "interview-q-compilation_t7",
+      "title": "Pride in work: values, taste, and motivation",
+      "summary": "Katie Dill, Karri Saarinen, and Camille Hearst all ask what candidates are most proud of to reveal judgment, values, motivation, and how they define great work.",
+      "timestamp_start": "00:09:57",
+      "timestamp_end": "00:11:29",
+      "speakers": [
+        "Lenny",
+        "Katie Dill",
+        "Karri Saarinen",
+        "Camille Hearst"
+      ],
+      "themes": [
+        "Hiring & Interviewing",
+        "Career Growth"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "interview-q-compilation_t8",
+      "title": "Navigating ambiguity with structure and milestones",
+      "summary": "Jiaona Zhang emphasizes behavioral questions about ambiguity, looking for candidates who create structure, seek input, and define milestones to validate direction.",
+      "timestamp_start": "00:11:29",
+      "timestamp_end": "00:12:44",
+      "speakers": [
+        "Lenny",
+        "Jiaona Zhang"
+      ],
+      "themes": [
+        "Hiring & Interviewing",
+        "Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "interview-q-compilation_t9",
+      "title": "Unfair secrets: boosting product team velocity",
+      "summary": "Noah Weiss asks for 'unfair secrets' that improved team velocity/energy, pushing candidates to share learned, practical insights and how they apply them.",
+      "timestamp_start": "00:12:44",
+      "timestamp_end": "00:13:11",
+      "speakers": [
+        "Lenny",
+        "Noah Weiss"
+      ],
+      "themes": [
+        "Hiring & Interviewing",
+        "Team & Culture"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "interview-q-compilation_t10",
+      "title": "Future self, curiosity, and values alignment checks",
+      "summary": "Ben Williams asks what will be different about the candidate in three years to surface humility and growth areas, and notes a strong candidate question about DEIB involvement.",
+      "timestamp_start": "00:13:11",
+      "timestamp_end": "00:14:42",
+      "speakers": [
+        "Lenny",
+        "Ben Williams"
+      ],
+      "themes": [
+        "Hiring & Interviewing",
+        "Career Growth",
+        "Team & Culture"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "interview-q-compilation_t11",
+      "title": "Third-person perspective: what siblings say about you",
+      "summary": "Meltem Kuran Berkowitz uses 'What would your siblings say about you?' to test sincerity and self-awareness, looking for grounded, non-performative answers.",
+      "timestamp_start": "00:14:42",
+      "timestamp_end": "00:15:30",
+      "speakers": [
+        "Lenny",
+        "Meltem Kuran Berkowitz"
+      ],
+      "themes": [
+        "Hiring & Interviewing",
+        "Career Growth"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "interview-q-compilation_t12",
+      "title": "Failure mindset: when something went wrong",
+      "summary": "Paige Costello asks about a time something went wrong to evaluate accountability, learning orientation, and how candidates assess and respond when work fails.",
+      "timestamp_start": "00:15:30",
+      "timestamp_end": "00:16:15",
+      "speakers": [
+        "Lenny",
+        "Paige Costello"
+      ],
+      "themes": [
+        "Hiring & Interviewing",
+        "Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "interview-q-compilation_t13",
+      "title": "Authenticity: challenging conventional wisdom",
+      "summary": "Nikhyl Singhal asks what widely believed idea is inaccurate to force genuine opinions and break rehearsed interview patterns, revealing authenticity and independent thinking.",
+      "timestamp_start": "00:16:15",
+      "timestamp_end": "00:17:52",
+      "speakers": [
+        "Lenny",
+        "Nikhyl Singhal"
+      ],
+      "themes": [
+        "Hiring & Interviewing",
+        "Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "interview-q-compilation_t14",
+      "title": "Introspection: why decisions worked or didn\u2019t",
+      "summary": "Ayo Omojola probes reflection by asking about outcomes that succeeded for unexpected reasons or good decisions that failed, testing learning and model-updating.",
+      "timestamp_start": "00:17:52",
+      "timestamp_end": "00:18:21",
+      "speakers": [
+        "Lenny",
+        "Ayo Omojola"
+      ],
+      "themes": [
+        "Hiring & Interviewing",
+        "Decision-Making"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "interview-q-compilation_t15",
+      "title": "Limits and luck: self-knowledge under pressure",
+      "summary": "Scott Belsky asks what candidates learned about their limitations and whether they consider themselves lucky, assessing introspection, accountability, and comfort with privilege.",
+      "timestamp_start": "00:18:21",
+      "timestamp_end": "00:19:18",
+      "speakers": [
+        "Lenny",
+        "Scott Belsky"
+      ],
+      "themes": [
+        "Hiring & Interviewing",
+        "Career Growth"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "interview-q-compilation_t16",
+      "title": "Defining impact: delivering meaningful outcomes",
+      "summary": "Lauryn Isford asks about delivering something impactful to understand how candidates define impact and whether they\u2019re intrinsically motivated by business results.",
+      "timestamp_start": "00:19:18",
+      "timestamp_end": "00:19:46",
+      "speakers": [
+        "Lenny",
+        "Lauryn Isford"
+      ],
+      "themes": [
+        "Hiring & Interviewing",
+        "Growth"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "interview-q-compilation_t17",
+      "title": "Reference calls: performance-review feedback question",
+      "summary": "Paul Adams shares a reference-check question\u2014what feedback you\u2019ll give in the first performance review\u2014to elicit candid, actionable insights beyond glowing referrals.",
+      "timestamp_start": "00:19:46",
+      "timestamp_end": "00:20:23",
+      "speakers": [
+        "Lenny",
+        "Paul Adams"
+      ],
+      "themes": [
+        "Hiring & Interviewing"
+      ],
+      "quote_count": 0
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "episode_id": "christian-idiodi",
+  "topics": [
+    {
+      "topic_id": "christian-idiodi_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Christian Idiodi, his role at SVPG, and previews major themes: why PMs are disliked, coaching, trust-building, and discovery methods, plus Christian\u2019s work in Africa.",
+      "timestamp_start": "00:00:35",
+      "timestamp_end": "00:01:38",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christian-idiodi_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Jira Product Discovery (Atlassian) and Vanta, followed by Lenny welcoming Christian to the show.",
+      "timestamp_start": "00:01:38",
+      "timestamp_end": "00:04:03",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Other"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "christian-idiodi_t3",
+      "title": "Why product managers are often disliked",
+      "summary": "Christian argues PMs are disliked largely because teams haven\u2019t experienced competent PMs; trust comes from deep customer, business, and data competence, and poor competency leads to executive/sales-driven alternatives.",
+      "timestamp_start": "00:04:06",
+      "timestamp_end": "00:07:45",
+      "speakers": [
+        "Lenny",
+        "Christian Idiodi"
+      ],
+      "themes": [
+        "Product Management",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "christian-idiodi_t4",
+      "title": "How PMs earn trust and credibility",
+      "summary": "Christian recommends humility, deliberate learning, and borrowing trust by apprenticing with influential leaders\u2014either asking them to teach you or offering to help\u2014while continuously doing discovery so others see your growing competence.",
+      "timestamp_start": "00:07:45",
+      "timestamp_end": "00:11:26",
+      "speakers": [
+        "Lenny",
+        "Christian Idiodi"
+      ],
+      "themes": [
+        "Product Management",
+        "Career"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christian-idiodi_t5",
+      "title": "SVPG PM fundamentals: four product risks",
+      "summary": "Christian outlines the four key risks product teams must address\u2014value, usability, feasibility, viability\u2014and frames PM work as solving customer problems in ways customers reward and the business can sustain.",
+      "timestamp_start": "00:11:26",
+      "timestamp_end": "00:14:52",
+      "speakers": [
+        "Lenny",
+        "Christian Idiodi"
+      ],
+      "themes": [
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christian-idiodi_t6",
+      "title": "Why value risk is most often missed",
+      "summary": "Christian explains that value is the hardest and most overlooked risk because roadmap/project-driven operating models assume value; he warns that usability tests and stated preferences don\u2019t prove customers will buy/choose/use.",
+      "timestamp_start": "00:14:52",
+      "timestamp_end": "00:16:55",
+      "speakers": [
+        "Lenny",
+        "Christian Idiodi"
+      ],
+      "themes": [
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christian-idiodi_t7",
+      "title": "Reference customers as the best discovery method",
+      "summary": "Christian advocates building with reference customers as the \u201choly grail\u201d of discovery: create early users who love the solution enough to recommend it, making downstream sales/marketing easier and validating real demand.",
+      "timestamp_start": "00:16:55",
+      "timestamp_end": "00:23:15",
+      "speakers": [
+        "Lenny",
+        "Christian Idiodi"
+      ],
+      "themes": [
+        "Product Discovery",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christian-idiodi_t8",
+      "title": "How many references signal product-market fit",
+      "summary": "They discuss practical thresholds (6\u20138 B2B, 15\u201325 B2C) and why recruiting willingness is itself a signal; Christian describes launching apps only after securing 25 five-star reviews from real target users.",
+      "timestamp_start": "00:23:15",
+      "timestamp_end": "00:26:29",
+      "speakers": [
+        "Lenny",
+        "Christian Idiodi"
+      ],
+      "themes": [
+        "Product Discovery",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christian-idiodi_t9",
+      "title": "Defining \u201clove\u201d: reputation-on-the-line references",
+      "summary": "Christian defines product-market fit at the individual level as customers willing to put their reputation on the line (reviews/testimonials), using that commitment to surface honest feedback and refine positioning and pricing.",
+      "timestamp_start": "00:26:29",
+      "timestamp_end": "00:32:49",
+      "speakers": [
+        "Lenny",
+        "Christian Idiodi"
+      ],
+      "themes": [
+        "Product Discovery",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christian-idiodi_t10",
+      "title": "One solution for many: avoiding custom one-offs",
+      "summary": "Christian emphasizes that reference-driven discovery only works if the same core solution satisfies the whole target set; if needs diverge, you narrow the market rather than customizing endlessly.",
+      "timestamp_start": "00:32:49",
+      "timestamp_end": "00:34:06",
+      "speakers": [
+        "Lenny",
+        "Christian Idiodi"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Product Discovery"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "christian-idiodi_t11",
+      "title": "Case study: high-volume hiring product built manually",
+      "summary": "Christian tells a detailed story starting with Starbucks\u2019 urgent hiring crisis, then validating the broader problem via McDonald\u2019s and others, iterating through manual recruiting, learning constraints (e.g., airports), and ultimately building software that drove $32M in sales in 90 days.",
+      "timestamp_start": "00:34:06",
+      "timestamp_end": "00:46:34",
+      "speakers": [
+        "Lenny",
+        "Christian Idiodi"
+      ],
+      "themes": [
+        "Product Discovery",
+        "Startups",
+        "Product Management"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

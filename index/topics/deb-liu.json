@@ -1,0 +1,242 @@
+{
+  "episode_id": "deb-liu",
+  "topics": [
+    {
+      "topic_id": "deb-liu_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Deb Liu\u2019s career highlights (PayPal/eBay, Facebook VP Product, Ancestry CEO) and frames the episode as tactical career and product-building advice from a product leader at heart.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:23",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Deb Liu"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "deb-liu_t2",
+      "title": "Always be learning: balancing learning and impact",
+      "summary": "Deb\u2019s core career advice is to always be learning, alternating between roles where you can deliver impact and roles where you\u2019re a beginner again. She emphasizes careers are non-linear and continuous improvement beats being today\u2019s expert.",
+      "timestamp_start": "00:02:23",
+      "timestamp_end": "00:04:21",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Deb Liu"
+      ],
+      "themes": [
+        "Career Growth",
+        "Learning"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "deb-liu_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Pendo (product experience platform) and WorkOS (enterprise SaaS features like SSO/SCIM and authorization).",
+      "timestamp_start": "00:04:21",
+      "timestamp_end": "00:07:03",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "deb-liu_t4",
+      "title": "Breaking into PM: PayPal origin story",
+      "summary": "Deb shares how she accidentally entered product management at PayPal by leaning on deep user passion and curiosity, then learning the craft on the job. Key takeaway: you don\u2019t need perfect PM process knowledge to start\u2014bring insight into the problem and customers.",
+      "timestamp_start": "00:07:03",
+      "timestamp_end": "00:09:46",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Deb Liu"
+      ],
+      "themes": [
+        "Product Management",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "deb-liu_t5",
+      "title": "Interviewing without experience: passion over process",
+      "summary": "They discuss \u201cfake it till you make it\u201d and Deb reframes it as showing authentic passion for the product/problem rather than pretending to know PM artifacts. She stresses falling in love with the problem and demonstrating customer understanding.",
+      "timestamp_start": "00:09:46",
+      "timestamp_end": "00:11:27",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Deb Liu"
+      ],
+      "themes": [
+        "Product Management",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "deb-liu_t6",
+      "title": "Resilience: adversity creates stronger leaders",
+      "summary": "Deb argues the most successful people aren\u2019t those with charmed careers but those who turn failures and hard feedback into growth. Resilience\u2014bouncing back and learning\u2014is portrayed as a key differentiator for long-term success.",
+      "timestamp_start": "00:11:27",
+      "timestamp_end": "00:13:02",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Deb Liu"
+      ],
+      "themes": [
+        "Leadership",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "deb-liu_t7",
+      "title": "Failure Corner: denied dream role at Facebook",
+      "summary": "Deb recounts being told by Mark Zuckerberg she\u2019d never get a role she wanted, and how she chose to transform the job she had into the job she wanted. The lesson: you\u2019re not right for every role, and agency comes from shaping what you control.",
+      "timestamp_start": "00:13:02",
+      "timestamp_end": "00:15:08",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Deb Liu"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "deb-liu_t8",
+      "title": "Building zero-to-one inside Facebook: tactics and reality",
+      "summary": "Deb explains her path building new businesses (games/payments, direct-response mobile ads) and how iteration, multiple near-death moments, and minimal early scrutiny/resources are often necessary. She highlights the high failure rate and the need to prune/pivot quickly.",
+      "timestamp_start": "00:15:08",
+      "timestamp_end": "00:19:18",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Deb Liu"
+      ],
+      "themes": [
+        "Zero-to-One",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "deb-liu_t9",
+      "title": "Creating space for innovation: patience and portfolio thinking",
+      "summary": "They discuss how leaders can support innovation by being patient and treating new bets as a portfolio with expected failures. Deb contrasts core-product incremental growth with new-product work where a 50% hit rate is considered strong.",
+      "timestamp_start": "00:19:18",
+      "timestamp_end": "00:21:42",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Deb Liu"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "deb-liu_t10",
+      "title": "Career bet selection: when to take big swings",
+      "summary": "Deb advises early-career PMs to first build core skills in stable areas, then later allocate 2\u20133 years to a high-risk \u201cbig swing\u201d that can define career narratives. The tradeoff is resume certainty versus trajectory-changing outcomes.",
+      "timestamp_start": "00:21:42",
+      "timestamp_end": "00:23:39",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Deb Liu"
+      ],
+      "themes": [
+        "Career Growth",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "deb-liu_t11",
+      "title": "PM your career: write a spec and metrics",
+      "summary": "Deb argues many great PMs drift in their careers without goals, milestones, or metrics, and should manage careers with the same intentionality as products. She shares her own largely accidental path as a cautionary tale about relying on luck and mentors.",
+      "timestamp_start": "00:23:39",
+      "timestamp_end": "00:29:20",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Deb Liu"
+      ],
+      "themes": [
+        "Career Growth",
+        "Learning"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "deb-liu_t12",
+      "title": "Direction vs rigidity: aiming your career thoughtfully",
+      "summary": "They explore balancing planning with openness\u2014having a direction and a measuring stick for serial job decisions without over-grasping outcomes. Deb shares an example of mentoring someone who worked backward from a board-seat goal into concrete steps.",
+      "timestamp_start": "00:29:20",
+      "timestamp_end": "00:33:07",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Deb Liu"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "deb-liu_t13",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Webflow (visual-first platform to build, launch, and optimize webpages quickly).",
+      "timestamp_start": "00:33:07",
+      "timestamp_end": "00:33:53",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "deb-liu_t14",
+      "title": "Introverts at work: bias, visibility, and inclusive practices",
+      "summary": "Deb discusses how workplaces reward speaking up, which can hide introverts\u2019 impact, and shares tactics like structured round-robin input and offline voting docs to equalize voices. She frames leadership as both adapting personally and redesigning systems to reduce bias.",
+      "timestamp_start": "00:33:53",
+      "timestamp_end": "00:37:59",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Deb Liu"
+      ],
+      "themes": [
+        "Introversion",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "deb-liu_t15",
+      "title": "Speaking up as a learnable skill, not self-promotion",
+      "summary": "Deb argues introverts must treat communication as a necessary, learnable leadership skill and reframe \u201cself-promotion\u201d as educating others and advocating for team resources. They discuss discomfort with performative LinkedIn-style posting and how reframing can unlock visibility.",
+      "timestamp_start": "00:37:59",
+      "timestamp_end": "00:42:08",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Deb Liu"
+      ],
+      "themes": [
+        "Introversion",
+        "Career Growth",
+        "Leadership"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

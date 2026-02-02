@@ -1,0 +1,47 @@
+{
+  "id": "fundraising",
+  "name": "Fundraising",
+  "description": "Fundraising across these episodes is treated less as a single pitch event and more as an ongoing process of narrative-building, signal creation, and survival under uncertainty. The theme covers how founders earn conviction (or decide not to raise), how to communicate a compelling \u201cwhy now\u201d story, and how to manage runway, rejection, and investor dynamics\u2014because capital strategy shapes product focus, hiring, speed, and ultimately company outcomes.",
+  "episode_count": 16,
+  "episodes": [
+    "andy-raskin",
+    "andy-raskin_",
+    "cam-adams",
+    "dalton-caldwell",
+    "edwin-chen",
+    "grant-lee",
+    "jason-droege",
+    "jason-fried",
+    "jessica-livingston",
+    "julia-schottenstein",
+    "keith-yandell",
+    "melanie-perkins",
+    "merci-grace",
+    "mike-maples-jr",
+    "sri-batchu",
+    "uri-levine"
+  ],
+  "subtopics": [
+    "Pitch narrative vs. feature pitch: how to frame a \u201cshift in the world\u201d and a new set of rules investors can believe in",
+    "Handling rejection and near-death rounds: resilience, iteration loops on the story, and staying alive long enough to be right",
+    "Runway and default-alive thinking: practical tactics to avoid running out of money and when to persist vs. shut down",
+    "Bootstrapping vs. venture: when profitability and constraints beat fundraising, and when raising is strategically justified",
+    "Fundraising as go-to-market leverage: using the cap table to recruit customers/advocates and accelerate distribution",
+    "Investor psychology and subjectivity: how decisions get made, what signals matter, and how founders control the narrative"
+  ],
+  "key_episodes": [
+    "andy-raskin",
+    "keith-yandell",
+    "melanie-perkins",
+    "jason-fried",
+    "merci-grace"
+  ],
+  "common_frameworks": [
+    "Strategic Narrative (Old Game \u2192 New Game; \u201cshift in the world\u201d / movement story)",
+    "Rejection-driven iteration (treating investor \u201cno\u2019s\u201d as feedback to refine positioning and strategy)",
+    "Near-death / resilience mindset (expect repeated fundraising crises; persistence as a core founder skill)",
+    "Runway management / don\u2019t-run-out-of-money heuristics (operate to extend time-to-learn and time-to-PMF)",
+    "Default alive vs. default dead (profitability and burn discipline as strategic optionality)",
+    "Cap table as a growth strategy (recruit investors who become customers, partners, and distribution)"
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "episode_id": "heidi-helfand",
+  "topics": [
+    {
+      "topic_id": "heidi-helfand_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Heidi Helfand and her work on Dynamic Reteaming, framing why team change matters and what they\u2019ll cover (types of reteaming, anti-patterns, transparency, team structures).",
+      "timestamp_start": "00:00:25",
+      "timestamp_end": "00:01:29",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Organizational Design",
+        "Leadership",
+        "Team Dynamics"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "heidi-helfand_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for productroadmap.ai/Ignition and Hex.",
+      "timestamp_start": "00:01:29",
+      "timestamp_end": "00:03:41",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "heidi-helfand_t3",
+      "title": "Why Heidi studied reteaming and reorgs",
+      "summary": "Heidi explains how rapid startup growth made \u201cstable teams\u201d advice feel unrealistic, motivating her to research how teams naturally morph and how to do it well.",
+      "timestamp_start": "00:03:41",
+      "timestamp_end": "00:05:56",
+      "speakers": [
+        "Lenny",
+        "Heidi Helfand"
+      ],
+      "themes": [
+        "Organizational Design",
+        "Team Dynamics",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "heidi-helfand_t4",
+      "title": "The overlooked people layer in product building",
+      "summary": "Heidi argues that beyond product delivery, organizations must intentionally design the people/enablement layer because humans and change are unavoidable.",
+      "timestamp_start": "00:05:56",
+      "timestamp_end": "00:07:38",
+      "speakers": [
+        "Lenny",
+        "Heidi Helfand"
+      ],
+      "themes": [
+        "Leadership",
+        "Team Dynamics",
+        "Organizational Design"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "heidi-helfand_t5",
+      "title": "Transparency in reorgs and creating opportunities",
+      "summary": "Heidi shares examples (Spotify, Procore) of visualizing proposed org changes on whiteboards, inviting feedback, surfacing mistakes, and enabling internal mobility through visible openings.",
+      "timestamp_start": "00:07:38",
+      "timestamp_end": "00:11:56",
+      "speakers": [
+        "Lenny",
+        "Heidi Helfand"
+      ],
+      "themes": [
+        "Organizational Design",
+        "Leadership",
+        "Team Dynamics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "heidi-helfand_t6",
+      "title": "Making collaborative reorgs work: clarity and timeboxing",
+      "summary": "They discuss risks of involving everyone (distraction, disagreement) and Heidi recommends decision clarity (who requests/input/decides/executes) plus timeboxing changes with a bias toward shorter cycles.",
+      "timestamp_start": "00:11:56",
+      "timestamp_end": "00:17:10",
+      "speakers": [
+        "Lenny",
+        "Heidi Helfand"
+      ],
+      "themes": [
+        "Leadership",
+        "Organizational Design",
+        "Team Dynamics"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "heidi-helfand_t7",
+      "title": "Five patterns of reteaming and what \u201creorg\u201d means",
+      "summary": "Heidi outlines the five reteaming patterns (one-by-one, grow-and-split, merging, isolation, switching) and distinguishes \u201creorg\u201d as a baggage-heavy term from broader, everyday reteaming.",
+      "timestamp_start": "00:17:10",
+      "timestamp_end": "00:19:30",
+      "speakers": [
+        "Lenny",
+        "Heidi Helfand"
+      ],
+      "themes": [
+        "Organizational Design",
+        "Team Dynamics"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "heidi-helfand_t8",
+      "title": "Isolation pattern story: Expertcity pivot to GoToMyPC",
+      "summary": "Heidi recounts killing a failing marketplace product, then forming an isolated team with process freedom to rapidly iterate on GoToMyPC\u2014an innovation-by-isolation pivot that helped save the company.",
+      "timestamp_start": "00:19:30",
+      "timestamp_end": "00:27:39",
+      "speakers": [
+        "Lenny",
+        "Heidi Helfand"
+      ],
+      "themes": [
+        "Organizational Design",
+        "Product Strategy",
+        "Team Dynamics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "heidi-helfand_t9",
+      "title": "How to run a successful \u201cstartup within a company\u201d",
+      "summary": "Heidi gives practical guidance for isolation teams: physical separation, explicit protection from interruptions, shared ownership to avoid single points of failure, process freedom, and strong executive sponsorship.",
+      "timestamp_start": "00:27:39",
+      "timestamp_end": "00:32:28",
+      "speakers": [
+        "Lenny",
+        "Heidi Helfand"
+      ],
+      "themes": [
+        "Leadership",
+        "Organizational Design",
+        "Team Dynamics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "heidi-helfand_t10",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Ahrefs Webmaster Tools.",
+      "timestamp_start": "00:32:37",
+      "timestamp_end": "00:33:27",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "heidi-helfand_t11",
+      "title": "Isolation caveats: how it can fail",
+      "summary": "They note isolation teams can create maintenance burdens and resentment if they bypass shared decision-making; executive protection matters, but outcomes aren\u2019t guaranteed.",
+      "timestamp_start": "00:33:27",
+      "timestamp_end": "00:34:33",
+      "speakers": [
+        "Lenny",
+        "Heidi Helfand"
+      ],
+      "themes": [
+        "Organizational Design",
+        "Leadership",
+        "Team Dynamics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "heidi-helfand_t12",
+      "title": "Tips for the other reteaming patterns",
+      "summary": "Heidi offers guidance across patterns: onboarding and belonging (one-by-one), signals and tradeoffs when splitting teams, techniques for merging (shared history timelines), and switching for learning, redundancy, and retention.",
+      "timestamp_start": "00:34:33",
+      "timestamp_end": "00:47:03",
+      "speakers": [
+        "Lenny",
+        "Heidi Helfand"
+      ],
+      "themes": [
+        "Team Dynamics",
+        "Organizational Design",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "heidi-helfand_t13",
+      "title": "No perfect org: problem trading and leadership stance",
+      "summary": "They discuss how org design is always a best-guess under changing conditions, emphasizing iterative improvement, tradeoffs, and choosing a leadership approach that invites appropriate participation.",
+      "timestamp_start": "00:47:03",
+      "timestamp_end": "00:50:19",
+      "speakers": [
+        "Lenny",
+        "Heidi Helfand"
+      ],
+      "themes": [
+        "Leadership",
+        "Organizational Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "heidi-helfand_t14",
+      "title": "Reteaming anti-patterns: percentages and spreading stars",
+      "summary": "Heidi begins outlining anti-patterns, including fractional allocation across many projects (context-switching tax), surprise moves with no communication, and the failed idea of \u201cspreading high performers\u201d to fix other teams.",
+      "timestamp_start": "00:50:19",
+      "timestamp_end": "00:51:38",
+      "speakers": [
+        "Lenny",
+        "Heidi Helfand"
+      ],
+      "themes": [
+        "Team Dynamics",
+        "Organizational Design",
+        "Leadership"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

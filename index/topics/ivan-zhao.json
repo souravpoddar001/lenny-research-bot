@@ -1,0 +1,287 @@
+{
+  "episode_id": "ivan-zhao",
+  "topics": [
+    {
+      "topic_id": "ivan-zhao_t1",
+      "title": "Notion\u2019s \u201clost years\u201d and sugar-coated broccoli",
+      "summary": "Ivan explains Notion\u2019s early failed iterations (a too-developer-focused tool) and the key pivot: hiding the powerful \u201ceveryone can build software\u201d vision inside a productivity tool people already want.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:15",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ivan Zhao"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Product-Market Fit",
+        "Founder Journey"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ivan-zhao_t2",
+      "title": "Tools shape humans, and vice versa",
+      "summary": "They discuss Notion as more than productivity software\u2014tools as extensions of people that, once created, feed back to shape how we think and work.",
+      "timestamp_start": "00:01:03",
+      "timestamp_end": "00:01:28",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ivan Zhao"
+      ],
+      "themes": [
+        "Product Philosophy",
+        "Human Behavior",
+        "Product Strategy"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "ivan-zhao_t3",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Ivan Zhao and previews major topics: Notion\u2019s early struggles, Ivan\u2019s path into programming, building a horizontal product, staying lean, leadership, and a near-death COVID infrastructure story.",
+      "timestamp_start": "00:01:28",
+      "timestamp_end": "00:02:32",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Founder Journey",
+        "Company Building",
+        "Product Strategy"
+      ],
+      "quote_count": 2
+    },
+    {
+      "topic_id": "ivan-zhao_t4",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Eppo (experimentation platform) and Airtable ProductCentral (product org system of record).",
+      "timestamp_start": "00:02:32",
+      "timestamp_end": "00:04:44",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ivan-zhao_t5",
+      "title": "Ivan\u2019s early life: contests, art, and coding",
+      "summary": "Ivan shares growing up in Urumqi, moving to Beijing, winning a programming Olympiad to access better schools, then moving to Canada and discovering a gap: artists needed help creating on the web.",
+      "timestamp_start": "00:04:44",
+      "timestamp_end": "00:06:49",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ivan Zhao"
+      ],
+      "themes": [
+        "Founder Journey",
+        "Career",
+        "Product Inspiration"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ivan-zhao_t6",
+      "title": "Learning English and discovering computing pioneers",
+      "summary": "Ivan recounts learning cultural English via cartoons and describes the impact of Engelbart\u2019s \u201cAugmenting Human Intellect,\u201d which cemented his obsession with tools that empower users to create.",
+      "timestamp_start": "00:06:49",
+      "timestamp_end": "00:09:05",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ivan Zhao"
+      ],
+      "themes": [
+        "Product Philosophy",
+        "Founder Journey",
+        "Product Inspiration"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ivan-zhao_t7",
+      "title": "Steve Jobs, Xerox PARC, and malleable software",
+      "summary": "Ivan argues the industry missed the deeper Smalltalk/Alto idea\u2014no separation between user and builder\u2014leading to today\u2019s app-centric SaaS world and influencing Notion\u2019s direction.",
+      "timestamp_start": "00:09:05",
+      "timestamp_end": "00:10:43",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ivan Zhao"
+      ],
+      "themes": [
+        "Product Philosophy",
+        "Tech History",
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ivan-zhao_t8",
+      "title": "Lost years: pivots, rebuilds, and throwing away code",
+      "summary": "They dig into why PMF took 3\u20134 years: early misread of what users want, then a major technical reset after betting on unstable Web Components, forcing a full rebuild.",
+      "timestamp_start": "00:10:43",
+      "timestamp_end": "00:15:10",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ivan Zhao"
+      ],
+      "themes": [
+        "Product-Market Fit",
+        "Engineering",
+        "Founder Journey"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ivan-zhao_t9",
+      "title": "Staying alive: mom\u2019s loan, layoffs, and Japan reset",
+      "summary": "Ivan explains how they stayed solvent (including borrowing from his mom), laid off down to two people, and relocated/traveled (Japan) to rebuild morale and focus while coding intensely.",
+      "timestamp_start": "00:15:10",
+      "timestamp_end": "00:18:55",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ivan Zhao"
+      ],
+      "themes": [
+        "Founder Journey",
+        "Company Building",
+        "Resilience"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ivan-zhao_t10",
+      "title": "Advice for founders: reset, abstraction, and balance",
+      "summary": "Ivan shares tactics for enduring long uncertainty: sleep as a reset, courage to restart, and the deeper idea that better abstractions compound faster\u2014plus balancing personal values with market needs.",
+      "timestamp_start": "00:18:55",
+      "timestamp_end": "00:25:07",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ivan Zhao"
+      ],
+      "themes": [
+        "Founder Journey",
+        "Product Strategy",
+        "Mindset"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ivan-zhao_t11",
+      "title": "What PMF felt like: gradual ramp and VC signals",
+      "summary": "PMF didn\u2019t feel binary; it was a gradual increase in users and revenue. A notable signal was inbound investor attention (including a quirky dog-treat gift), and learning to avoid validation-seeking meetings.",
+      "timestamp_start": "00:25:07",
+      "timestamp_end": "00:28:43",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ivan Zhao"
+      ],
+      "themes": [
+        "Product-Market Fit",
+        "Fundraising",
+        "Founder Journey"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ivan-zhao_t12",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Sinch (customer communications APIs and RCS messaging).",
+      "timestamp_start": "00:28:43",
+      "timestamp_end": "00:29:57",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ivan-zhao_t13",
+      "title": "Staying small: profitability, systems, and talent density",
+      "summary": "Ivan explains Notion\u2019s lean approach\u2014profitability, minimal sales/PM hiring early, and relying on strong generalists and internal systems (Notion itself) to reduce coordination overhead and boost talent density.",
+      "timestamp_start": "00:29:57",
+      "timestamp_end": "00:33:05",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ivan Zhao"
+      ],
+      "themes": [
+        "Company Building",
+        "Operations",
+        "Hiring"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ivan-zhao_t14",
+      "title": "Small bus metaphor and office as creative studio",
+      "summary": "Ivan shares how they reinforce leanness culturally (the \u201csmall bus\u201d metaphor) and why the office is designed like a cozy home/artist studio\u2014down to lighting, colors, and furniture aesthetics.",
+      "timestamp_start": "00:33:05",
+      "timestamp_end": "00:36:05",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ivan Zhao"
+      ],
+      "themes": [
+        "Company Culture",
+        "Leadership",
+        "Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ivan-zhao_t15",
+      "title": "Timeless tools, craftsmanship, and trade-offs",
+      "summary": "They discuss naming rooms after iconic tools to inspire durability, then dive into Notion\u2019s craft-and-values philosophy and how product building is fundamentally about making smart trade-offs\u2014especially as new tech (AI) shifts constraints.",
+      "timestamp_start": "00:36:05",
+      "timestamp_end": "00:41:16",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ivan Zhao"
+      ],
+      "themes": [
+        "Product Philosophy",
+        "Product Strategy",
+        "Craft"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ivan-zhao_t16",
+      "title": "Leadership growth: storytelling at scale and authenticity",
+      "summary": "Ivan reflects on evolving from one-to-one to one-to-many storytelling (including podcasts) and the importance of truthful positioning\u2014packaging the vision so people can adopt it without betraying core value creation.",
+      "timestamp_start": "00:41:16",
+      "timestamp_end": "00:45:15",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ivan Zhao"
+      ],
+      "themes": [
+        "Leadership",
+        "Marketing",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ivan-zhao_t17",
+      "title": "Losing the way: hard-coded features vs Lego principles",
+      "summary": "Ivan describes a surprising misstep: shipping features that violated Notion\u2019s \u201cLego\u201d philosophy (e.g., hard-coded project management concepts like sprints), causing product and org friction, and the slow realization that they needed to return to first principles.",
+      "timestamp_start": "00:45:15",
+      "timestamp_end": "00:49:11",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Ivan Zhao"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Product Philosophy",
+        "Leadership"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

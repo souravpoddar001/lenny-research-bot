@@ -1,0 +1,225 @@
+{
+  "episode_id": "casey-winters_",
+  "topics": [
+    {
+      "topic_id": "casey-winters__t1",
+      "title": "Introduction and Background",
+      "summary": "Casey opens with a critique of overly rigid PM frameworks, and Lenny introduces Casey\u2019s background and what the episode will cover.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:56",
+      "speakers": [
+        "Casey Winters",
+        "Lenny"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "Product Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "casey-winters__t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Amplitude and Eppo, focused on analytics and experimentation tooling for product and growth teams.",
+      "timestamp_start": "00:01:56",
+      "timestamp_end": "00:03:37",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "casey-winters__t3",
+      "title": "Casey\u2019s current work and advising",
+      "summary": "Casey shares what he\u2019s doing post-Eventbrite: advising (Whatnot, Eventbrite), board work, angel investing, and revamping Reforge\u2019s product strategy program.",
+      "timestamp_start": "00:03:37",
+      "timestamp_end": "00:05:19",
+      "speakers": [
+        "Lenny",
+        "Casey Winters"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "Startups & Venture"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "casey-winters__t4",
+      "title": "Why the CPO role is so hard",
+      "summary": "Casey explains why CPO tenure is often short: shifting business needs, CEO alignment risk, and executive-level accountability without \u201cPIPs,\u201d plus why he transitioned out of the role.",
+      "timestamp_start": "00:05:19",
+      "timestamp_end": "00:07:26",
+      "speakers": [
+        "Lenny",
+        "Casey Winters"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "casey-winters__t5",
+      "title": "How to survive and succeed as CPO",
+      "summary": "Key lessons: be a company executive first, build credibility across functions, and explicitly diagnose team/product strengths and gaps while educating peers on what \u201cgreat product\u201d looks like.",
+      "timestamp_start": "00:07:26",
+      "timestamp_end": "00:10:15",
+      "speakers": [
+        "Lenny",
+        "Casey Winters"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "casey-winters__t6",
+      "title": "Zero interest rate phenomenon product managers",
+      "summary": "Casey describes how abundant capital led PMs to over-index on process, research, and \u201cbest practices,\u201d reducing risk-taking and decision-making under uncertainty\u2014especially problematic in startups.",
+      "timestamp_start": "00:10:15",
+      "timestamp_end": "00:16:09",
+      "speakers": [
+        "Lenny",
+        "Casey Winters"
+      ],
+      "themes": [
+        "Product Management",
+        "Career & Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "casey-winters__t7",
+      "title": "When to use research vs ship to learn",
+      "summary": "Casey gives heuristics for research allocation: consumer products should bias toward shipping/experimentation; enterprise relies more on direct customer input; \u201cmiddle\u201d businesses must reserve research for high-uncertainty, high-leverage problems.",
+      "timestamp_start": "00:16:09",
+      "timestamp_end": "00:21:15",
+      "speakers": [
+        "Lenny",
+        "Casey Winters"
+      ],
+      "themes": [
+        "Product Management",
+        "User Research"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "casey-winters__t8",
+      "title": "Whatnot overview and interviewing PMs",
+      "summary": "Casey explains Whatnot (live-streaming collectibles marketplace) and shares an interview philosophy focused on realistic scenarios over performative storytelling, plus red flags like slow-to-signal solutions.",
+      "timestamp_start": "00:21:15",
+      "timestamp_end": "00:24:11",
+      "speakers": [
+        "Lenny",
+        "Casey Winters"
+      ],
+      "themes": [
+        "Hiring & Interviewing",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "casey-winters__t9",
+      "title": "AI and the future of product management",
+      "summary": "Casey argues PMs won\u2019t be replaced if they do real decision-making; he warns current AI can be confidently wrong, but is useful for low-risk tasks like formulas, tooling steps, and automation help.",
+      "timestamp_start": "00:24:11",
+      "timestamp_end": "00:27:47",
+      "speakers": [
+        "Lenny",
+        "Casey Winters"
+      ],
+      "themes": [
+        "AI & Product",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "casey-winters__t10",
+      "title": "Founder intuition versus team expertise",
+      "summary": "Casey outlines how founders should initially direct decisions due to deep product intuition, then delegate as teams build expertise; employees should signal when they need direction or when they\u2019ve earned trust to own decisions.",
+      "timestamp_start": "00:27:47",
+      "timestamp_end": "00:34:08",
+      "speakers": [
+        "Lenny",
+        "Casey Winters"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "Startups & Venture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "casey-winters__t11",
+      "title": "Influencing founders and handling disagreement",
+      "summary": "Advice for pushing back: learn what evidence a founder responds to (data, advisors, customers), build the case accordingly, and if still overruled, disagree-and-commit or move on; Casey shares how he used external validation at Pinterest.",
+      "timestamp_start": "00:34:08",
+      "timestamp_end": "00:39:10",
+      "speakers": [
+        "Lenny",
+        "Casey Winters"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "Communication & Influence"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "casey-winters__t12",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Ahrefs Webmaster Tools, highlighting free SEO audits, backlink insights, and keyword visibility tracking.",
+      "timestamp_start": "00:39:10",
+      "timestamp_end": "00:40:00",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "casey-winters__t13",
+      "title": "Network effects: types and how they evolve",
+      "summary": "Casey defines network effects and breaks down direct, cross-side, and data network effects, explaining why many products (especially social) evolve beyond pure direct effects to monetize and personalize.",
+      "timestamp_start": "00:40:00",
+      "timestamp_end": "00:43:11",
+      "speakers": [
+        "Lenny",
+        "Casey Winters"
+      ],
+      "themes": [
+        "Marketplaces & Network Effects",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "casey-winters__t14",
+      "title": "Marketplace examples and Grubhub disruption setup",
+      "summary": "Casey discusses examples like Zillow and begins explaining how marketplaces with network effects can still be disrupted\u2014often when competitors expand selection via new supply strategies like building delivery networks.",
+      "timestamp_start": "00:43:11",
+      "timestamp_end": "00:45:51",
+      "speakers": [
+        "Lenny",
+        "Casey Winters"
+      ],
+      "themes": [
+        "Marketplaces & Network Effects",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "episode_id": "gibson-biddle",
+  "topics": [
+    {
+      "topic_id": "gibson-biddle_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Gibson Biddle\u2019s career highlights (Netflix, Chegg) and frames the episode as a deep dive into product strategy and prioritization frameworks.",
+      "timestamp_start": "00:00:04",
+      "timestamp_end": "00:00:21",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "gibson-biddle_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Flat File (data onboarding/importing) and Coda (all-in-one docs/spreadsheets/apps) with use cases and promo links.",
+      "timestamp_start": "00:00:45",
+      "timestamp_end": "00:03:14",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career & Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "gibson-biddle_t3",
+      "title": "Gibson\u2019s career journey into product and teaching",
+      "summary": "Gibson recounts his path from marketing and naming/branding work to business school, EA/Disney ventures, Netflix, Chegg, and ultimately full-time teaching and writing.",
+      "timestamp_start": "00:03:14",
+      "timestamp_end": "00:06:02",
+      "speakers": [
+        "Lenny",
+        "Gibson Biddle"
+      ],
+      "themes": [
+        "Career & Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "gibson-biddle_t4",
+      "title": "How many PMs he\u2019s trained and reached",
+      "summary": "Gibson estimates the number of PMs he\u2019s impacted through direct work and scaled channels (talks, workshops, writing), explaining his feedback-driven approach to measuring reach.",
+      "timestamp_start": "00:06:02",
+      "timestamp_end": "00:08:04",
+      "speakers": [
+        "Lenny",
+        "Gibson Biddle"
+      ],
+      "themes": [
+        "Career & Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "gibson-biddle_t5",
+      "title": "DHM strategy model: delight, hard-to-copy, margin",
+      "summary": "Gibson explains the origins of his product strategy definition\u2014\u201cdelight customers in hard-to-copy, margin-enhancing ways\u201d\u2014and why balancing delight vs. margin is the central challenge.",
+      "timestamp_start": "00:08:04",
+      "timestamp_end": "00:10:56",
+      "speakers": [
+        "Lenny",
+        "Gibson Biddle"
+      ],
+      "themes": [
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "gibson-biddle_t6",
+      "title": "Netflix DVD case: Perfect New Release A/B test",
+      "summary": "They walk through an A/B test where next-day new releases barely improved retention, leading to an ROI discussion (LTV, word-of-mouth multiplier) and why Netflix didn\u2019t roll it out.",
+      "timestamp_start": "00:10:56",
+      "timestamp_end": "00:15:03",
+      "speakers": [
+        "Lenny",
+        "Gibson Biddle"
+      ],
+      "themes": [
+        "Experimentation & Metrics",
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "gibson-biddle_t7",
+      "title": "What makes Netflix hard to copy",
+      "summary": "Lenny and Gibson brainstorm defensibility: originals/content, brand trust, personalization/tech, and attempted (but failed) social/network effects; they discuss how these relate to strategy.",
+      "timestamp_start": "00:15:03",
+      "timestamp_end": "00:18:40",
+      "speakers": [
+        "Lenny",
+        "Gibson Biddle"
+      ],
+      "themes": [
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "gibson-biddle_t8",
+      "title": "Applying DHM to B2B and enterprise products",
+      "summary": "Gibson discusses how the DHM model can still apply to B2B, noting differences like switching costs and complexity needs, while caveating his limited enterprise experience.",
+      "timestamp_start": "00:18:40",
+      "timestamp_end": "00:21:33",
+      "speakers": [
+        "Lenny",
+        "Gibson Biddle"
+      ],
+      "themes": [
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "gibson-biddle_t9",
+      "title": "Mini-case: Netflix Party and two-percenter features",
+      "summary": "They evaluate a watch-together feature through DHM, emphasizing reach/usage thresholds and the cost of complexity; Gibson cites past social experiments (Xbox Party) as cautionary signals.",
+      "timestamp_start": "00:21:33",
+      "timestamp_end": "00:26:06",
+      "speakers": [
+        "Lenny",
+        "Gibson Biddle"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Prioritization"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "gibson-biddle_t10",
+      "title": "Mini-case: auto-canceling inactive subscribers",
+      "summary": "Gibson explains Netflix\u2019s decision to auto-cancel long-inactive members as a delight/brand move despite revenue loss, framing it as a low-stakes, reversible \u201ctwo-way door\u201d decision.",
+      "timestamp_start": "00:26:06",
+      "timestamp_end": "00:29:05",
+      "speakers": [
+        "Lenny",
+        "Gibson Biddle"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Decision-Making"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "gibson-biddle_t11",
+      "title": "Mini-case: ad-supported cheaper Netflix plan",
+      "summary": "They assess an ad-supported tier via DHM and revisit Netflix\u2019s earlier ads experiment; Gibson shares Reed Hastings\u2019 focus on simplicity and personalization, and why customer choice may now win.",
+      "timestamp_start": "00:29:05",
+      "timestamp_end": "00:34:47",
+      "speakers": [
+        "Lenny",
+        "Gibson Biddle"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Business Model"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "gibson-biddle_t12",
+      "title": "Mini-case: paid account sharing and growth tradeoffs",
+      "summary": "They discuss Netflix\u2019s password-sharing crackdown: how multi-stream plans encouraged sharing, the complexity of converting sharers to paid users, and why experimentation in smaller markets matters.",
+      "timestamp_start": "00:34:47",
+      "timestamp_end": "00:40:17",
+      "speakers": [
+        "Lenny",
+        "Gibson Biddle"
+      ],
+      "themes": [
+        "Experimentation & Metrics",
+        "Business Model"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "gibson-biddle_t13",
+      "title": "Building a personal board of directors",
+      "summary": "Gibson describes cultivating a peer network for quick, practical insight on product questions, and how this \u201cpersonal board\u201d supports better judgment and leadership growth.",
+      "timestamp_start": "00:40:17",
+      "timestamp_end": "00:41:46",
+      "speakers": [
+        "Lenny",
+        "Gibson Biddle"
+      ],
+      "themes": [
+        "Career & Leadership"
+      ],
+      "quote_count": 0
+    }
+  ]
+}

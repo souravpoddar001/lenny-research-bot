@@ -1,0 +1,257 @@
+{
+  "episode_id": "josh-miller",
+  "topics": [
+    {
+      "topic_id": "josh-miller_t1",
+      "title": "Introduction and Background",
+      "summary": "Josh opens with what he looks for in teammates\u2014\"heartfelt intensity\"\u2014and Lenny introduces the show, Josh, and the goal of exploring Arc\u2019s product craft and culture.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:28",
+      "speakers": [
+        "Josh Miller",
+        "Lenny"
+      ],
+      "themes": [
+        "Company Building",
+        "Hiring",
+        "Product Craft"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "josh-miller_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Rytr (enterprise generative AI content platform) and Dovetail (customer insights platform).",
+      "timestamp_start": "00:02:01",
+      "timestamp_end": "00:03:25",
+      "speakers": [
+        "Speaker 3"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "josh-miller_t3",
+      "title": "What Arc is and how it\u2019s measured",
+      "summary": "Josh and Lenny discuss how hard Arc is to describe, what it replaces (your default browser), and the company\u2019s primary growth metric: D5/D7 (using Arc at least 5 days a week) and week-over-week growth rate.",
+      "timestamp_start": "00:03:57",
+      "timestamp_end": "00:06:01",
+      "speakers": [
+        "Lenny",
+        "Josh Miller"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Metrics & Analytics",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "josh-miller_t4",
+      "title": "Retention numbers and cohort improvement focus",
+      "summary": "Josh shares approximate D5/D7 retention (low/mid-30s to low-40s depending on cohort) and emphasizes tracking improvement cohort-by-cohort rather than obsessing over absolute numbers.",
+      "timestamp_start": "00:06:01",
+      "timestamp_end": "00:08:11",
+      "speakers": [
+        "Josh Miller",
+        "Lenny"
+      ],
+      "themes": [
+        "Metrics & Analytics",
+        "Retention",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "josh-miller_t5",
+      "title": "Why Lenny invited Josh and what stands out",
+      "summary": "Lenny explains why he broke his usual \"no CEOs\" rule: Arc\u2019s remarkable product experience and the team/culture signals from the outside; Josh responds with appreciation.",
+      "timestamp_start": "00:08:18",
+      "timestamp_end": "00:09:06",
+      "speakers": [
+        "Lenny",
+        "Josh Miller"
+      ],
+      "themes": [
+        "Product Craft",
+        "Company Building",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "josh-miller_t6",
+      "title": "Reacting to Silicon Valley: optimize feelings, not graphs",
+      "summary": "Josh contrasts Facebook-era metric obsession with The Browser Company\u2019s focus on designing for human feelings (joy, speed, focus), using brands like Disney/Nike/Apple and a Snapchat vs. Facebook example to illustrate.",
+      "timestamp_start": "00:09:06",
+      "timestamp_end": "00:14:19",
+      "speakers": [
+        "Josh Miller",
+        "Lenny"
+      ],
+      "themes": [
+        "Product Philosophy",
+        "Product Strategy",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "josh-miller_t7",
+      "title": "Operationalizing feelings with metrics as guardrails",
+      "summary": "They discuss how \"feelings\" can map to business outcomes (e.g., delight drives word-of-mouth) and why the right approach is a nuanced blend of qualitative intent and quantitative accountability.",
+      "timestamp_start": "00:14:19",
+      "timestamp_end": "00:17:05",
+      "speakers": [
+        "Lenny",
+        "Josh Miller"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Metrics & Analytics",
+        "Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "josh-miller_t8",
+      "title": "Example: designing Peek for lightness and speed",
+      "summary": "Josh explains how Peek emerged from conversational alignment on the intended experience (airy, effortless, fast) rather than formal PRDs listing emotions, especially for rapid link exploration use cases.",
+      "timestamp_start": "00:17:05",
+      "timestamp_end": "00:18:57",
+      "speakers": [
+        "Lenny",
+        "Josh Miller"
+      ],
+      "themes": [
+        "Product Craft",
+        "Product Development",
+        "UX"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "josh-miller_t9",
+      "title": "Shipping fast by shipping values",
+      "summary": "Prompted by Scott Belsky, Josh attributes frequent meaningful shipping to company values: heartfelt intensity, assume you don\u2019t know (bias to action), start by asking what could be, swarming for the crew, and making users feel something.",
+      "timestamp_start": "00:18:57",
+      "timestamp_end": "00:22:46",
+      "speakers": [
+        "Lenny",
+        "Josh Miller"
+      ],
+      "themes": [
+        "Execution",
+        "Company Culture",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "josh-miller_t10",
+      "title": "Creating values: from anti-corporate to 'Notes on Road Trips'",
+      "summary": "Josh describes initially disliking corporate values, then discovering organic cultural patterns via team conversations and turning them into a narrative essay/manual (\u201cNotes on Road Trips\u201d) instead of a generic values page.",
+      "timestamp_start": "00:22:46",
+      "timestamp_end": "00:25:49",
+      "speakers": [
+        "Lenny",
+        "Josh Miller"
+      ],
+      "themes": [
+        "Company Culture",
+        "Leadership",
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "josh-miller_t11",
+      "title": "Tactical process: interviewing everyone to extract values",
+      "summary": "Josh details the practical method: 1:1 interviews with the whole team (no surveys), using employees\u2019 own words, and a collaborative writing process that took about three months.",
+      "timestamp_start": "00:25:49",
+      "timestamp_end": "00:27:40",
+      "speakers": [
+        "Lenny",
+        "Josh Miller"
+      ],
+      "themes": [
+        "Company Culture",
+        "Operations",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "josh-miller_t12",
+      "title": "Hiring top talent: build the company as the product",
+      "summary": "Josh explains that the core intent wasn\u2019t \"build a browser\" but \"build a dream team\" and a way of working; he shares examples of senior leaders joining as ICs and what attracts them (ambition, empowerment, kindness, low-bullshit culture).",
+      "timestamp_start": "00:27:40",
+      "timestamp_end": "00:34:37",
+      "speakers": [
+        "Lenny",
+        "Josh Miller"
+      ],
+      "themes": [
+        "Hiring",
+        "Company Building",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "josh-miller_t13",
+      "title": "Public celebration and credit as a hiring flywheel",
+      "summary": "Josh describes publicly celebrating hires and feature makers to counter CEO-centric narratives, creating recognition and reinforcing a culture that attracts experienced builders.",
+      "timestamp_start": "00:34:37",
+      "timestamp_end": "00:37:26",
+      "speakers": [
+        "Josh Miller",
+        "Lenny"
+      ],
+      "themes": [
+        "Company Culture",
+        "Hiring",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "josh-miller_t14",
+      "title": "Building in public to earn trust (and risks)",
+      "summary": "Josh explains the motivation for radical trust-building via public videos (board meetings, project discussions), acknowledges the risk of over-centering the CEO, and ties transparency to rebuilding trust in tech\u2014especially critical for a browser.",
+      "timestamp_start": "00:37:26",
+      "timestamp_end": "00:45:15",
+      "speakers": [
+        "Lenny",
+        "Josh Miller"
+      ],
+      "themes": [
+        "Trust & Transparency",
+        "Brand & Marketing",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "josh-miller_t15",
+      "title": "Unusual teams: storytelling and membership (prototype org design)",
+      "summary": "Josh begins describing non-traditional startup functions at The Browser Company\u2014like a dedicated storytelling team and a membership team\u2014framed as organizational experiments driven by a prototype-first culture.",
+      "timestamp_start": "00:45:15",
+      "timestamp_end": "00:45:55",
+      "speakers": [
+        "Lenny",
+        "Josh Miller"
+      ],
+      "themes": [
+        "Org Design",
+        "Brand & Marketing",
+        "Company Building"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

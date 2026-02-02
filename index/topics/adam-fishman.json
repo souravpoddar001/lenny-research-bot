@@ -1,0 +1,235 @@
+{
+  "episode_id": "adam-fishman",
+  "topics": [
+    {
+      "topic_id": "adam-fishman_t1",
+      "title": "Introduction and Background",
+      "summary": "Adam frames onboarding as the only universally-touched product surface and the first moment to deliver on brand promises. Lenny introduces Adam\u2019s background (Lyft, Patreon, Imperfect Foods) and previews the episode\u2019s three focus areas.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:50",
+      "speakers": [
+        "Adam Fishman",
+        "Lenny"
+      ],
+      "themes": [
+        "Growth",
+        "Onboarding",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "adam-fishman_t2",
+      "title": "Sponsor Break: Coda and Linear",
+      "summary": "Lenny reads sponsor messages for Coda (all-in-one docs with templates) and Linear (modern issue tracking and product workflows).",
+      "timestamp_start": "00:01:50",
+      "timestamp_end": "00:04:26",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "adam-fishman_t3",
+      "title": "Adam\u2019s career overview and current work",
+      "summary": "Adam gives a quick career recap and explains his current pillars: Reforge EIR/course creation, advising, and his newsletter (fishmanafnewsletter.com). They also discuss how to engage him for advising.",
+      "timestamp_start": "00:04:26",
+      "timestamp_end": "00:06:15",
+      "speakers": [
+        "Lenny",
+        "Adam Fishman"
+      ],
+      "themes": [
+        "Career",
+        "Growth",
+        "Leadership"
+      ],
+      "quote_count": 2
+    },
+    {
+      "topic_id": "adam-fishman_t4",
+      "title": "Early Lyft memories and launch story",
+      "summary": "Adam shares a vivid memory of Lyft\u2019s launch event: opening garage doors, driving a mustached car into the office, and serving a pink mustache cake.",
+      "timestamp_start": "00:06:17",
+      "timestamp_end": "00:07:21",
+      "speakers": [
+        "Lenny",
+        "Adam Fishman"
+      ],
+      "themes": [
+        "Career",
+        "Company Building"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "adam-fishman_t5",
+      "title": "Super Pumped reflections and Joseph Gordon-Levitt",
+      "summary": "Adam reacts to Super Pumped as both painful and validating, recalling competitive dynamics with Uber. He also tells a story about interviewing with Joseph Gordon-Levitt while JGL was in full Travis Kalanick costume on set.",
+      "timestamp_start": "00:07:21",
+      "timestamp_end": "00:09:37",
+      "speakers": [
+        "Lenny",
+        "Adam Fishman"
+      ],
+      "themes": [
+        "Career",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "adam-fishman_t6",
+      "title": "Why Adam wrote the growth competency model",
+      "summary": "Adam explains the need for a canonical framework for hiring/evaluating growth talent and avoiding shallow pattern-matching (\u201cfind another Adam\u201d). He shares a cautionary tale from Wyzant where founders sought a \u201csilver bullet\u201d rather than a durable growth system.",
+      "timestamp_start": "00:09:54",
+      "timestamp_end": "00:15:11",
+      "speakers": [
+        "Lenny",
+        "Adam Fishman"
+      ],
+      "themes": [
+        "Hiring",
+        "Growth",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "adam-fishman_t7",
+      "title": "Model overview: four competency buckets",
+      "summary": "Adam outlines the four pillars\u2014growth execution, customer knowledge, growth strategy, and communication/influence\u2014and emphasizes building a balanced team rather than a unicorn. They discuss using the model for alignment, interviewing, and performance feedback.",
+      "timestamp_start": "00:15:11",
+      "timestamp_end": "00:18:44",
+      "speakers": [
+        "Lenny",
+        "Adam Fishman"
+      ],
+      "themes": [
+        "Growth",
+        "Hiring",
+        "Performance Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "adam-fishman_t8",
+      "title": "Deep dive: customer knowledge and user psychology",
+      "summary": "Adam breaks down customer knowledge (data fluency, psychology, narrative/creative learning) and argues users arrive with emotional frames, not purely logical ones. Lenny connects this to the idea that research builds a customer model that then guides product decisions.",
+      "timestamp_start": "00:18:47",
+      "timestamp_end": "00:21:24",
+      "speakers": [
+        "Lenny",
+        "Adam Fishman"
+      ],
+      "themes": [
+        "Customer Research",
+        "Growth",
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "adam-fishman_t9",
+      "title": "Deep dive: growth strategy and influence skills",
+      "summary": "Adam covers growth strategy (loop modeling, capital allocation/forecasting, prioritization/roadmapping) and communication/influence (strategic comms, team leadership, stakeholder management). He notes these are advanced, learned over time, and critical for aligning growth with product craft.",
+      "timestamp_start": "00:21:24",
+      "timestamp_end": "00:25:38",
+      "speakers": [
+        "Lenny",
+        "Adam Fishman"
+      ],
+      "themes": [
+        "Growth Strategy",
+        "Leadership",
+        "Stakeholder Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "adam-fishman_t10",
+      "title": "Hiring up-and-coming growth talent: what to prioritize",
+      "summary": "Adam advises that early growth hires should be strong in execution and customer knowledge, and that founders must invest in mentorship/advisors to avoid wasted effort. He shares examples: hiring Ben at Lyft (high execution/work ethic) and transitioning Sean at Patreon from marketing to growth PM.",
+      "timestamp_start": "00:25:38",
+      "timestamp_end": "00:33:25",
+      "speakers": [
+        "Lenny",
+        "Adam Fishman"
+      ],
+      "themes": [
+        "Hiring",
+        "Growth",
+        "Team Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "adam-fishman_t11",
+      "title": "Internal transfers vs specialists (SEO/paid growth)",
+      "summary": "Adam generally prefers internal transfers for speed and fit, but recommends external \u201csurgeon\u201d specialists once a company has traction and needs deep channel expertise (e.g., SEO or paid).",
+      "timestamp_start": "00:33:25",
+      "timestamp_end": "00:34:41",
+      "speakers": [
+        "Lenny",
+        "Adam Fishman"
+      ],
+      "themes": [
+        "Hiring",
+        "Growth",
+        "Org Design"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "adam-fishman_t12",
+      "title": "Sponsor Break: Eppo experimentation platform",
+      "summary": "Lenny reads an ad for Eppo, an A/B testing platform for modern growth teams with fast slicing, north-star metric support, and broad experimentation coverage.",
+      "timestamp_start": "00:34:49",
+      "timestamp_end": "00:35:59",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "adam-fishman_t13",
+      "title": "Onboarding as an underappreciated growth lever",
+      "summary": "Adam explains why onboarding matters: everyone touches it, it must match brand promise, and users are maximally motivated early on. He describes retention impacts (shifting curves 10\u201320 points) and a Patreon example where human-guided onboarding increased early creator revenue by ~25% and informed productized improvements.",
+      "timestamp_start": "00:35:59",
+      "timestamp_end": "00:44:18",
+      "speakers": [
+        "Lenny",
+        "Adam Fishman"
+      ],
+      "themes": [
+        "Onboarding",
+        "Activation",
+        "Retention"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "adam-fishman_t14",
+      "title": "Opinionated defaults and conversion vs retention tradeoffs",
+      "summary": "They discuss productizing onboarding learnings via guardrails and \u201copinionated defaults\u201d (e.g., tier/pricing recommendations), with Lenny sharing Airbnb\u2019s analogous \u201csmart defaults.\u201d Adam notes that doing onboarding right can sometimes lower raw conversion while improving qualification and long-term retention, requiring careful tradeoff measurement.",
+      "timestamp_start": "00:44:18",
+      "timestamp_end": "00:46:17",
+      "speakers": [
+        "Lenny",
+        "Adam Fishman"
+      ],
+      "themes": [
+        "Onboarding",
+        "Retention",
+        "Experimentation"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

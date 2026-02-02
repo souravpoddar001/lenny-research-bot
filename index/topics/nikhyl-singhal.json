@@ -1,0 +1,219 @@
+{
+  "episode_id": "nikhyl-singhal",
+  "topics": [
+    {
+      "topic_id": "nikhyl-singhal_t1",
+      "title": "Career motivation and the \u201cfake rabbit\u201d trap",
+      "summary": "Nikhyl opens with an analogy about racing dogs and fake rabbits to warn against defining success as a single milestone. He argues you need a \u201cwhat\u2019s next\u201d plan to avoid emptiness after achieving a goal.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:05",
+      "speakers": [
+        "Nikhyl Singhal"
+      ],
+      "themes": [
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nikhyl-singhal_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Nikhyl\u2019s background across Meta, Google, and Credit Karma, and previews the episode\u2019s focus on PM career stages, promotions, leadership blind spots, and mental health. He sets expectations for a wide-ranging career-focused conversation.",
+      "timestamp_start": "00:01:05",
+      "timestamp_end": "00:02:28",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "nikhyl-singhal_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Superhuman (email productivity) and Microsoft Clarity (session replay/heatmaps and user behavior analytics).",
+      "timestamp_start": "00:02:28",
+      "timestamp_end": "00:04:40",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nikhyl-singhal_t4",
+      "title": "Mentorship scale and coaching \u201c911 calls\u201d",
+      "summary": "Nikhyl estimates he\u2019s mentored hundreds of PMs, focusing on high-leverage moments like job transitions and urgent workplace dilemmas. He notes several mentees have appeared on the podcast, while keeping names private.",
+      "timestamp_start": "00:04:40",
+      "timestamp_end": "00:07:07",
+      "speakers": [
+        "Lenny",
+        "Nikhyl Singhal"
+      ],
+      "themes": [
+        "Mentorship & Coaching",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nikhyl-singhal_t5",
+      "title": "Early career: avoid short-term career decisions",
+      "summary": "Nikhyl explains why optimizing for immediate frustrations (boss, pace, politics) leads to lateral moves and stalled growth. He recommends treating your career like a product roadmap and planning for the \u201cjob after next.\u201d",
+      "timestamp_start": "00:07:08",
+      "timestamp_end": "00:10:36",
+      "speakers": [
+        "Lenny",
+        "Nikhyl Singhal"
+      ],
+      "themes": [
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nikhyl-singhal_t6",
+      "title": "Logos vs meaningful building and diverse experiences",
+      "summary": "They discuss the temptation to chase prestigious company brands versus focusing on building and learning. Nikhyl argues diverse experiences across stages and problem types make you a better builder, while noting big-tech scale experience can matter\u2014especially for executives.",
+      "timestamp_start": "00:10:36",
+      "timestamp_end": "00:14:50",
+      "speakers": [
+        "Lenny",
+        "Nikhyl Singhal"
+      ],
+      "themes": [
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nikhyl-singhal_t7",
+      "title": "Ex-growth companies: definition, risks, and signals",
+      "summary": "Nikhyl defines \u201cex-growth\u201d companies as heavily valued, well-funded orgs that still haven\u2019t found real product pull and may face painful resets. He shares how to diagnose PMF via customer pull vs forced acquisition, and when it might still make sense to stay (learning, loyalty).",
+      "timestamp_start": "00:14:50",
+      "timestamp_end": "00:22:34",
+      "speakers": [
+        "Lenny",
+        "Nikhyl Singhal"
+      ],
+      "themes": [
+        "Startups",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nikhyl-singhal_t8",
+      "title": "Early PMs: pick a lane and craft your story",
+      "summary": "Nikhyl advises early-career PMs to become world-class in at least one dimension (craft, market ambiguity, org ambiguity, domain, team leadership, growth). He also stresses building a coherent narrative of impact and learning for future interviews.",
+      "timestamp_start": "00:22:34",
+      "timestamp_end": "00:25:24",
+      "speakers": [
+        "Lenny",
+        "Nikhyl Singhal"
+      ],
+      "themes": [
+        "Career Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "nikhyl-singhal_t9",
+      "title": "Mid-career promotions: four common blockers",
+      "summary": "Nikhyl outlines why promotions stall: lack of advocacy, the next role not existing, impatience with longer leadership timelines, or real development gaps and low self-awareness. He emphasizes diagnosing the true cause before choosing a fix (change scope, change manager, or change yourself).",
+      "timestamp_start": "00:25:25",
+      "timestamp_end": "00:29:46",
+      "speakers": [
+        "Lenny",
+        "Nikhyl Singhal"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nikhyl-singhal_t10",
+      "title": "Getting real feedback and building feedback safety",
+      "summary": "They discuss how to distinguish \u201cnot seen\u201d from \u201cnot ready\u201d by seeking informal, candid feedback beyond formal systems. Nikhyl shares tactics: triangulate perspectives, listen without defensiveness, repeat feedback back clearly, and publicly credit people who help you improve.",
+      "timestamp_start": "00:29:46",
+      "timestamp_end": "00:34:45",
+      "speakers": [
+        "Lenny",
+        "Nikhyl Singhal"
+      ],
+      "themes": [
+        "Leadership",
+        "Mentorship & Coaching"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nikhyl-singhal_t11",
+      "title": "Why managers struggle and how new managers succeed",
+      "summary": "Nikhyl argues tech under-trains managers, creating widespread leadership skill gaps. For new managers, he recommends learning to share the steering wheel (sidecar model) and earning the right to manage by being invited into specific areas where you can help.",
+      "timestamp_start": "00:34:45",
+      "timestamp_end": "00:39:51",
+      "speakers": [
+        "Lenny",
+        "Nikhyl Singhal"
+      ],
+      "themes": [
+        "Leadership",
+        "Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nikhyl-singhal_t12",
+      "title": "Senior IC path: why it\u2019s growing and valuable",
+      "summary": "They explore the rise of senior IC tracks in product, driven by post-hypergrowth realities and the need for deep builders rather than accidental managers. Nikhyl predicts IC paths will solidify and become a durable correction to a long-standing industry \u201cbug.\u201d",
+      "timestamp_start": "00:39:51",
+      "timestamp_end": "00:44:19",
+      "speakers": [
+        "Lenny",
+        "Nikhyl Singhal"
+      ],
+      "themes": [
+        "Career Growth",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "nikhyl-singhal_t13",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Eppo, an A/B testing and experimentation platform for modern growth teams.",
+      "timestamp_start": "00:44:19",
+      "timestamp_end": "00:45:27",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "nikhyl-singhal_t14",
+      "title": "Community as the missing manager training layer",
+      "summary": "Nikhyl argues communities (inside or outside companies) are a powerful way to learn management through safe, authentic peer exchange. He describes starting a CPO community during the pandemic that scaled from a small group to dozens of members sharing real-time advice.",
+      "timestamp_start": "00:45:27",
+      "timestamp_end": "00:49:33",
+      "speakers": [
+        "Lenny",
+        "Nikhyl Singhal"
+      ],
+      "themes": [
+        "Community",
+        "Leadership",
+        "Mentorship & Coaching"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

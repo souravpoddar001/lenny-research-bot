@@ -1,0 +1,286 @@
+{
+  "episode_id": "sri-batchu",
+  "topics": [
+    {
+      "topic_id": "sri-batchu_t1",
+      "title": "B2B growth channel progression overview",
+      "summary": "Sri outlines a typical B2B go-to-market sequence: founder-led sales \u2192 early sales hires \u2192 low-cost targeted marketing (content/community/events) \u2192 PR \u2192 paid/brand and SEO, emphasizing increasing cost and effectiveness as customer understanding improves.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:43",
+      "speakers": [
+        "Sri Batchu"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Marketing",
+        "Sales"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sri-batchu_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Sri and Ramp\u2019s extraordinary growth, and previews topics: early growth, current growth approach, team structure, prioritization, north star metrics, and Ramp\u2019s velocity culture.",
+      "timestamp_start": "00:00:43",
+      "timestamp_end": "00:01:37",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Company Building",
+        "Go-to-Market",
+        "Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sri-batchu_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Attio (CRM) and Coda (docs/work operating system) with startup offers.",
+      "timestamp_start": "00:01:37",
+      "timestamp_end": "00:04:10",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sri-batchu_t4",
+      "title": "Ramp growth stats and scale context",
+      "summary": "Sri confirms Ramp\u2019s rapid path to $100M run-rate (~2 years), shares additional indicators (4x growth last year, lean headcount under ~500), and notes consistent outperformance versus ambitious internal goals.",
+      "timestamp_start": "00:04:10",
+      "timestamp_end": "00:06:16",
+      "speakers": [
+        "Lenny",
+        "Sri Batchu"
+      ],
+      "themes": [
+        "Growth",
+        "Company Building",
+        "Metrics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sri-batchu_t5",
+      "title": "Early Ramp growth: cap table as strategy",
+      "summary": "Sri explains how founders leveraged reputation and a broad, influential cap table (founders/operators/advisors) to seed early customers and word-of-mouth, especially in the tech founder community.",
+      "timestamp_start": "00:06:16",
+      "timestamp_end": "00:09:17",
+      "speakers": [
+        "Lenny",
+        "Sri Batchu"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Growth",
+        "Company Building"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sri-batchu_t6",
+      "title": "New acquisition vs expansion at Ramp",
+      "summary": "They discuss how Ramp\u2019s growth has been driven primarily by new customer acquisition rather than expansion, despite natural spend-based expansion and new products (e.g., Bill Pay, Flex).",
+      "timestamp_start": "00:09:17",
+      "timestamp_end": "00:10:21",
+      "speakers": [
+        "Lenny",
+        "Sri Batchu"
+      ],
+      "themes": [
+        "Growth",
+        "Go-to-Market",
+        "Metrics"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sri-batchu_t7",
+      "title": "Channel mix and tech-driven growth advantage",
+      "summary": "Sri says Ramp\u2019s channel mix resembles peers, but differentiates via heavy use of data/technology and automation across channels\u2014highlighting a growth engineering team that boosts sales efficiency with data and AI-driven workflows.",
+      "timestamp_start": "00:10:21",
+      "timestamp_end": "00:13:41",
+      "speakers": [
+        "Lenny",
+        "Sri Batchu"
+      ],
+      "themes": [
+        "Growth",
+        "Sales",
+        "Data"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sri-batchu_t8",
+      "title": "Ramp growth org structure and skunkworks",
+      "summary": "Sri outlines Ramp\u2019s growth org: channel teams (paid, lifecycle/CRM, field, SEO/web/inbound), growth product/engineering support, self-serve activation engineering, plus a cross-channel skunkworks team testing new platforms and referral/event experiments.",
+      "timestamp_start": "00:13:41",
+      "timestamp_end": "00:15:47",
+      "speakers": [
+        "Lenny",
+        "Sri Batchu"
+      ],
+      "themes": [
+        "Org Design",
+        "Growth",
+        "Marketing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sri-batchu_t9",
+      "title": "Velocity culture: days mindset and execution",
+      "summary": "They unpack Ramp\u2019s velocity ethos (days.ramp.com, bias to action, reduced cycle time), how it shows up in growth (two-week sprints, cross-team prioritization), and the operational habits that keep work moving fast.",
+      "timestamp_start": "00:15:47",
+      "timestamp_end": "00:21:45",
+      "speakers": [
+        "Lenny",
+        "Sri Batchu"
+      ],
+      "themes": [
+        "Company Culture",
+        "Execution",
+        "Org Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sri-batchu_t10",
+      "title": "Work-life balance, motivation, and engagement",
+      "summary": "Sri and Lenny discuss sustainable intensity: self-selection of high performers, autonomy and mission alignment, celebrating wins, and even measuring all-hands engagement via chat participation as a proxy for excitement.",
+      "timestamp_start": "00:21:45",
+      "timestamp_end": "00:25:10",
+      "speakers": [
+        "Lenny",
+        "Sri Batchu"
+      ],
+      "themes": [
+        "Company Culture",
+        "Leadership",
+        "People"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sri-batchu_t11",
+      "title": "Where to invest next: efficiency and portfolio bets",
+      "summary": "Sri frames growth as a diversified portfolio of ROI-tested bets, with ongoing focus on improving efficiency and reallocating to scalable channels\u2014especially owned/earned awareness\u2014while keeping details proprietary.",
+      "timestamp_start": "00:25:10",
+      "timestamp_end": "00:27:29",
+      "speakers": [
+        "Lenny",
+        "Sri Batchu"
+      ],
+      "themes": [
+        "Growth",
+        "Strategy",
+        "Marketing"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sri-batchu_t12",
+      "title": "PR and fundraising as growth moments",
+      "summary": "Sri describes how Ramp uses PR effectively by creating genuinely newsworthy moments, and how fundraising announcements\u2014paired with meaningful business insights\u2014can drive non-trivial top-of-funnel; they also compare traditional PR vs newsletters/podcasts for different audiences.",
+      "timestamp_start": "00:27:29",
+      "timestamp_end": "00:30:38",
+      "speakers": [
+        "Lenny",
+        "Sri Batchu"
+      ],
+      "themes": [
+        "Marketing",
+        "PR",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sri-batchu_t13",
+      "title": "Building growth engines: culture over structure",
+      "summary": "Sri argues team structure matters less than culture, rituals, cadence, clear north stars, hypothesis-driven execution, MVP mentality, and fast learning loops to build a repeatable growth engine.",
+      "timestamp_start": "00:30:38",
+      "timestamp_end": "00:32:29",
+      "speakers": [
+        "Lenny",
+        "Sri Batchu"
+      ],
+      "themes": [
+        "Growth",
+        "Execution",
+        "Company Culture"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sri-batchu_t14",
+      "title": "North star metrics and translation layers (Instacart)",
+      "summary": "Sri explains using a single north star (e.g., Instacart monthly active orderers) while letting teams optimize local metrics, then translating impacts back to the north star for planning, prioritization, and resource allocation\u2014updated periodically and validated with holdouts.",
+      "timestamp_start": "00:32:29",
+      "timestamp_end": "00:40:31",
+      "speakers": [
+        "Lenny",
+        "Sri Batchu"
+      ],
+      "themes": [
+        "Metrics",
+        "Growth",
+        "Data"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sri-batchu_t15",
+      "title": "Ramp north star example and activation insights",
+      "summary": "Sri shares Ramp\u2019s recent growth north star (dollars of SQL pipeline) and discusses activation/escape-velocity style metrics (key actions in first 30 days) plus a brief aside on personal-email signups and re-engagement.",
+      "timestamp_start": "00:40:31",
+      "timestamp_end": "00:46:49",
+      "speakers": [
+        "Lenny",
+        "Sri Batchu"
+      ],
+      "themes": [
+        "Metrics",
+        "Growth",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "sri-batchu_t16",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Eppo, an A/B testing and experimentation platform for modern growth teams.",
+      "timestamp_start": "00:39:24",
+      "timestamp_end": "00:40:31",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "sri-batchu_t17",
+      "title": "Efficiency metrics: payback period vs CAC (start)",
+      "summary": "Sri begins explaining why payback period can be a better ROI lens than CAC, noting CAC overemphasizes cost without accounting for value; the discussion cuts off mid-thought in the provided transcript.",
+      "timestamp_start": "00:46:49",
+      "timestamp_end": "00:47:02",
+      "speakers": [
+        "Lenny",
+        "Sri Batchu"
+      ],
+      "themes": [
+        "Metrics",
+        "Growth",
+        "Finance"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

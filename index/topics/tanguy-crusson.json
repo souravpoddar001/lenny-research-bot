@@ -1,0 +1,155 @@
+{
+  "episode_id": "tanguy-crusson",
+  "topics": [
+    {
+      "topic_id": "tanguy-crusson_t1",
+      "title": "Introduction and Background",
+      "summary": "Tanguy and Lenny set up the episode\u2019s focus: the real challenges of building 0\u21921 products inside a large company. Tanguy previews his 10+ years at Atlassian across multiple bets, including failures and the eventual success of Jira Product Discovery.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:04:46",
+      "speakers": [
+        "Tanguy Crusson",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "0-to-1 Product Development",
+        "Product Strategy",
+        "Career & Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tanguy-crusson_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Vanta (trust/compliance automation) and WorkOS (enterprise features like SSO/SCIM and authorization via Zanzibar/Warrant).",
+      "timestamp_start": "00:04:52",
+      "timestamp_end": "00:07:04",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tanguy-crusson_t3",
+      "title": "Why 0-to-1 is hard in big companies",
+      "summary": "Tanguy contrasts big-company advantages (distribution, resources, customer access) with the core challenge: early-stage bets are judged by mature-product metrics and expectations (e.g., MAUs, huge revenue targets). He explains why incubators like Atlassian\u2019s Point A help create breathing room for experimentation.",
+      "timestamp_start": "00:07:04",
+      "timestamp_end": "00:12:58",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tanguy Crusson"
+      ],
+      "themes": [
+        "0-to-1 Product Development",
+        "Metrics & Measurement",
+        "Org Design & Process"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tanguy-crusson_t4",
+      "title": "HipChat story: scaling up and rewriting",
+      "summary": "They unpack HipChat\u2019s rise, Slack\u2019s rapid emergence, and Atlassian\u2019s attempt to \u201cgo big,\u201d including the decision to rewrite into Stride. Tanguy shares the emotional impact of shutting down and selling to Slack, and how internal scaling and platform constraints contributed.",
+      "timestamp_start": "00:12:58",
+      "timestamp_end": "00:20:49",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tanguy Crusson"
+      ],
+      "themes": [
+        "Product Strategy",
+        "0-to-1 Product Development",
+        "Competition"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tanguy-crusson_t5",
+      "title": "HipChat lessons: validate assumptions early",
+      "summary": "Key lesson: don\u2019t assume your existing go-to-market playbook will transfer to a new segment; test distribution and demand early. Tanguy gives a concrete tactic from Jira Product Discovery\u2014running a waitlist/CTA before writing code\u2014to validate reach and interest quickly.",
+      "timestamp_start": "00:20:49",
+      "timestamp_end": "00:28:06",
+      "speakers": [
+        "Tanguy Crusson",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Customer Research",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tanguy-crusson_t6",
+      "title": "HipChat lessons: competition myopia and scarcity",
+      "summary": "Tanguy warns against feature-chasing competitors and recommends re-anchoring teams on customer interviews and problems. He also explains how big-company over-investment (rewrite + platformization simultaneously) can slow learning, and why startups\u2019 \u201cscarcity\u201d can be an advantage.",
+      "timestamp_start": "00:28:22",
+      "timestamp_end": "00:33:37",
+      "speakers": [
+        "Tanguy Crusson",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Competition",
+        "Product Strategy",
+        "Org Design & Process"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tanguy-crusson_t7",
+      "title": "Statuspage: incident communication and market context",
+      "summary": "Tanguy describes the DevOps/cloud shift and his exploration of IT operations opportunities for Atlassian. He explains why Statuspage\u2019s simple idea\u2014transparent incident/status communication\u2014reduces chaos during outages and builds customer trust.",
+      "timestamp_start": "00:33:37",
+      "timestamp_end": "00:39:49",
+      "speakers": [
+        "Tanguy Crusson",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Customer Experience",
+        "Market & Trends"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tanguy-crusson_t8",
+      "title": "Statuspage integration: acquisitions are about people",
+      "summary": "Tanguy shares hard-won lessons integrating a startup into a large org: culture shock, loss of autonomy, new planning horizons, and navigating functional silos and processes. The core insight is that integration challenges are primarily people/process issues, not technology.",
+      "timestamp_start": "00:39:49",
+      "timestamp_end": "00:45:17",
+      "speakers": [
+        "Tanguy Crusson",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "M&A / Acquisitions",
+        "Org Design & Process",
+        "Career & Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "tanguy-crusson_t9",
+      "title": "Acquisition strategy: frankenstack vs acqui-hire",
+      "summary": "They discuss how acquired products should fit the broader portfolio and platform, including risks of a \u201cfrankenstack\u201d (disjoint identity/tech). Tanguy argues for treating acquisitions like hiring\u2014sometimes shutting down the product and rebuilding on the platform to accelerate roadmap\u2014then contrasts this with the different risks of rewriting an already-scaled product.",
+      "timestamp_start": "00:45:17",
+      "timestamp_end": "00:47:36",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Tanguy Crusson"
+      ],
+      "themes": [
+        "M&A / Acquisitions",
+        "Platform Strategy",
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

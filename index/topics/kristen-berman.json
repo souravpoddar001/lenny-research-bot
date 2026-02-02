@@ -1,0 +1,221 @@
+{
+  "episode_id": "kristen-berman",
+  "topics": [
+    {
+      "topic_id": "kristen-berman_t1",
+      "title": "Behavioral economics and behavioral design overview",
+      "summary": "Kristen contrasts classical economics with behavioral economics, explaining how predictable human biases and emotions shape decisions and how behavioral design applies these insights to real-world product problems.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:06:51",
+      "speakers": [
+        "Kristen Berman",
+        "Lenny"
+      ],
+      "themes": [
+        "Behavioral economics",
+        "Product design",
+        "User psychology"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "kristen-berman_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Flatfile (CSV importing/onboarding) and Whimsical (collaborative product/design tool).",
+      "timestamp_start": "00:01:55",
+      "timestamp_end": "00:03:54",
+      "speakers": [
+        "Lenny",
+        "Ashley"
+      ],
+      "themes": [
+        "Sponsorship"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "kristen-berman_t3",
+      "title": "Irrational Labs background and client examples",
+      "summary": "Kristen explains what Irrational Labs does and shares examples of impact across companies (Google, TikTok, One Medical, Credit Karma), framing their work as behavior change through design and testing.",
+      "timestamp_start": "00:03:54",
+      "timestamp_end": "00:06:51",
+      "speakers": [
+        "Kristen Berman",
+        "Lenny"
+      ],
+      "themes": [
+        "Behavior change",
+        "Experimentation",
+        "Case studies"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "kristen-berman_t4",
+      "title": "Why \u201cbudgeting\u201d features often don\u2019t work",
+      "summary": "A FinTech case study shows that highly requested budgeting features produced no measurable behavior change; Kristen introduces behavioral diagnosis\u2014mapping every step required\u2014to reveal why the behavior is too hard.",
+      "timestamp_start": "00:06:51",
+      "timestamp_end": "00:10:46",
+      "speakers": [
+        "Kristen Berman",
+        "Lenny"
+      ],
+      "themes": [
+        "Behavior change",
+        "User research",
+        "Product strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "kristen-berman_t5",
+      "title": "Alternatives to budgeting: defaults and rules of thumb",
+      "summary": "Kristen describes more effective approaches like defaults (e.g., auto-enrollment) and simple heuristics/rules-of-thumb that reduce cognitive load and make spending decisions easier to follow consistently.",
+      "timestamp_start": "00:10:46",
+      "timestamp_end": "00:11:35",
+      "speakers": [
+        "Kristen Berman",
+        "Lenny"
+      ],
+      "themes": [
+        "Behavior change",
+        "Decision making",
+        "Product design"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "kristen-berman_t6",
+      "title": "Increasing signup conversion by adding questions",
+      "summary": "Counterintuitively, adding lightweight multiple-choice questions can increase conversion by getting users to actively imagine benefits; Kristen shares examples (Apartment List, Trunk Club, TytoCare) and cautions against hard/open-text questions.",
+      "timestamp_start": "00:11:35",
+      "timestamp_end": "00:16:09",
+      "speakers": [
+        "Kristen Berman",
+        "Lenny"
+      ],
+      "themes": [
+        "Conversion optimization",
+        "Onboarding",
+        "Behavioral economics"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "kristen-berman_t7",
+      "title": "Kristen\u2019s path into behavioral economics and Google",
+      "summary": "Kristen recounts discovering behavioral economics via Dan Ariely, then building an embedded behavioral economics capability at Google that later scaled into a larger internal team.",
+      "timestamp_start": "00:16:09",
+      "timestamp_end": "00:17:50",
+      "speakers": [
+        "Kristen Berman",
+        "Lenny"
+      ],
+      "themes": [
+        "Career",
+        "Behavioral economics",
+        "Organizational design"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "kristen-berman_t8",
+      "title": "The \u201cThree Bs\u201d framework for behavior change",
+      "summary": "Kristen outlines the Three Bs\u2014Behavior (define a specific action), Barriers (logistical and cognitive), and Benefits (especially immediate benefits)\u2014and discusses related biases like uncertainty aversion and status quo effects.",
+      "timestamp_start": "00:17:50",
+      "timestamp_end": "00:24:47",
+      "speakers": [
+        "Kristen Berman",
+        "Lenny"
+      ],
+      "themes": [
+        "Behavior change",
+        "Frameworks",
+        "User psychology"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "kristen-berman_t9",
+      "title": "Ethics and incentives: the dark side of nudges",
+      "summary": "They discuss how behavioral tactics can be misused, with a LendingClub story illustrating how incentive structures shape outcomes; Kristen recommends aligning KPIs to customer-benefiting behaviors and longer time horizons.",
+      "timestamp_start": "00:24:47",
+      "timestamp_end": "00:28:23",
+      "speakers": [
+        "Kristen Berman",
+        "Lenny"
+      ],
+      "themes": [
+        "Ethics",
+        "Incentives",
+        "Behavior change"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "kristen-berman_t10",
+      "title": "Sponsor Break",
+      "summary": "Lenny promotes lennysjobs.com/talent for hiring and job-seeking in product and growth roles.",
+      "timestamp_start": "00:28:25",
+      "timestamp_end": "00:29:15",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsorship"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "kristen-berman_t11",
+      "title": "TikTok case study: reducing misinformation sharing",
+      "summary": "Kristen explains how TikTok targeted the specific behavior of sharing misinformation and reduced it by 24% using friction and accuracy prompts (labels plus an \u201cAre you sure?\u201d interstitial) to slow users in a hot state.",
+      "timestamp_start": "00:29:15",
+      "timestamp_end": "00:35:32",
+      "speakers": [
+        "Kristen Berman",
+        "Lenny"
+      ],
+      "themes": [
+        "Case studies",
+        "Experimentation",
+        "Behavior change"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "kristen-berman_t12",
+      "title": "One Medical case study: onboarding to book appointments",
+      "summary": "To increase engagement, the team focused on booking an appointment during onboarding, reducing choice and uncertainty by asking health questions, recommending a provider, and suggesting near-term virtual times\u2014driving a 20% lift in bookings.",
+      "timestamp_start": "00:35:32",
+      "timestamp_end": "00:38:31",
+      "speakers": [
+        "Kristen Berman",
+        "Lenny"
+      ],
+      "themes": [
+        "Onboarding",
+        "Activation",
+        "Case studies"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "kristen-berman_t13",
+      "title": "Common activation levers and \u201cRight for Wrong\u201d benefits",
+      "summary": "They discuss general patterns like making benefits concrete, reducing cognitive/logistical friction, resuming users where they left off, and using immediate motivators; Kristen expands on \u201cRight for Wrong\u201d incentives (e.g., donuts/lotteries) and the need to keep the end goal customer-positive.",
+      "timestamp_start": "00:38:31",
+      "timestamp_end": "00:44:38",
+      "speakers": [
+        "Kristen Berman",
+        "Lenny"
+      ],
+      "themes": [
+        "Behavior change",
+        "Conversion optimization",
+        "Ethics"
+      ],
+      "quote_count": 0
+    }
+  ]
+}

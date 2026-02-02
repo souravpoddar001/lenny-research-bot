@@ -1,0 +1,244 @@
+{
+  "episode_id": "gokul-rajaram",
+  "topics": [
+    {
+      "topic_id": "gokul-rajaram_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Gokul\u2019s roles across DoorDash, public-company boards, and investing, then asks about his origin story in tech and product.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:46",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gokul-rajaram_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Amplitude and Flat File.",
+      "timestamp_start": "00:00:47",
+      "timestamp_end": "00:02:46",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "gokul-rajaram_t3",
+      "title": "Career serendipity: Cisco to Google AdSense",
+      "summary": "Gokul shares how Cisco rescinding his offer led him to Google, where curiosity and after-hours exploration helped him join and scale what became AdSense; he emphasizes relationships, inbounds, and paying it forward.",
+      "timestamp_start": "00:02:46",
+      "timestamp_end": "00:07:12",
+      "speakers": [
+        "Lenny",
+        "Gokul Rajaram"
+      ],
+      "themes": [
+        "Career",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gokul-rajaram_t4",
+      "title": "Choosing work: passion, customers, and founders",
+      "summary": "They discuss how passion often emerges after doing the work, why the customer segment matters (SMB/consumer vs enterprise), and how to evaluate founders\u2019 authenticity and mission-orientation versus money-focus.",
+      "timestamp_start": "00:07:12",
+      "timestamp_end": "00:10:18",
+      "speakers": [
+        "Lenny",
+        "Gokul Rajaram"
+      ],
+      "themes": [
+        "Career",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gokul-rajaram_t5",
+      "title": "Picking companies: join category leaders and winners",
+      "summary": "Gokul argues that working at the likely #1 player compounds learning, talent density, and brand halo, often outweighing a bigger title at a weaker company.",
+      "timestamp_start": "00:10:18",
+      "timestamp_end": "00:12:07",
+      "speakers": [
+        "Lenny",
+        "Gokul Rajaram"
+      ],
+      "themes": [
+        "Career",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gokul-rajaram_t6",
+      "title": "Best stage to join and market risk",
+      "summary": "Gokul recommends newer folks often join mid-stage companies (hundreds of employees) with product and channel fit, and cautions that early-stage startups can be especially risky in tougher fundraising markets\u2014so scrutinize financials.",
+      "timestamp_start": "00:12:07",
+      "timestamp_end": "00:14:29",
+      "speakers": [
+        "Lenny",
+        "Gokul Rajaram"
+      ],
+      "themes": [
+        "Career",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gokul-rajaram_t7",
+      "title": "Lessons from great companies and founders",
+      "summary": "He describes different \u201cpaths to greatness\u201d (Google technical, Facebook growth, Square design, DoorDash operational), stresses founder authenticity shaping culture, and highlights the need for product remarkability and organic growth.",
+      "timestamp_start": "00:14:29",
+      "timestamp_end": "00:18:06",
+      "speakers": [
+        "Lenny",
+        "Gokul Rajaram"
+      ],
+      "themes": [
+        "Leadership",
+        "Product Management",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gokul-rajaram_t8",
+      "title": "Early product development process and planning cadence",
+      "summary": "Gokul outlines how planning evolves from weekly (very early) to quarterly and annual as companies scale, recommends simple tooling (often spreadsheets), and explains how product strategy docs emerge once PMs join.",
+      "timestamp_start": "00:18:06",
+      "timestamp_end": "00:21:49",
+      "speakers": [
+        "Lenny",
+        "Gokul Rajaram"
+      ],
+      "themes": [
+        "Product Management",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gokul-rajaram_t9",
+      "title": "Common startup product pitfalls: founder over-control",
+      "summary": "He warns against founders becoming too tactical and creating a feature factory, advocating instead for empowering teams with problem statements, transparent decision-making, and measuring behavior change.",
+      "timestamp_start": "00:21:49",
+      "timestamp_end": "00:23:41",
+      "speakers": [
+        "Lenny",
+        "Gokul Rajaram"
+      ],
+      "themes": [
+        "Product Management",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gokul-rajaram_t10",
+      "title": "When and how to hire the first PM",
+      "summary": "Gokul suggests hiring a PM around 8\u201310 engineers if the founder can\u2019t \u201cfeed\u201d the team; he prefers converting a trusted internal engineer/designer/analyst into the first PM, and discusses coaching, evaluation signals, and when to wait.",
+      "timestamp_start": "00:23:41",
+      "timestamp_end": "00:31:27",
+      "speakers": [
+        "Lenny",
+        "Gokul Rajaram"
+      ],
+      "themes": [
+        "Hiring",
+        "Product Management",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gokul-rajaram_t11",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Productboard.",
+      "timestamp_start": "00:31:27",
+      "timestamp_end": "00:32:15",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "gokul-rajaram_t12",
+      "title": "Product org structure: functional vs GM reporting",
+      "summary": "They discuss when PMs should report to a functional product leader versus a GM, with Gokul recommending a dedicated product manager/leader once there are ~3\u20135 PMs to ensure coaching and consistent product culture.",
+      "timestamp_start": "00:32:15",
+      "timestamp_end": "00:35:30",
+      "speakers": [
+        "Lenny",
+        "Gokul Rajaram"
+      ],
+      "themes": [
+        "Org Design",
+        "Product Management",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gokul-rajaram_t13",
+      "title": "Hiring leaders: recruit from best-in-class companies",
+      "summary": "Gokul shares a playbook: identify best-in-class companies for the needed function and customer type, then recruit the strong \u201clieutenants\u201d (and lieutenants\u2019 lieutenants) rather than the top exec, using org-chart research.",
+      "timestamp_start": "00:35:30",
+      "timestamp_end": "00:39:07",
+      "speakers": [
+        "Lenny",
+        "Gokul Rajaram"
+      ],
+      "themes": [
+        "Hiring",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gokul-rajaram_t14",
+      "title": "Founder time allocation for recruiting and process",
+      "summary": "He recommends founders spend ~2 hours/day on hiring (outreach plus conversations), and emphasizes that setting the right recruiting process and direction upfront matters more than moving fast in the wrong direction.",
+      "timestamp_start": "00:39:07",
+      "timestamp_end": "00:41:38",
+      "speakers": [
+        "Lenny",
+        "Gokul Rajaram"
+      ],
+      "themes": [
+        "Hiring",
+        "Leadership",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "gokul-rajaram_t15",
+      "title": "Titles at startups: avoid premature VP/director inflation",
+      "summary": "Gokul argues startups should optimize for scope and impact over status, warning that early VP/director titles create contention and retention issues; he distinguishes functional titles from hierarchy-heavy ones.",
+      "timestamp_start": "00:41:38",
+      "timestamp_end": "00:42:39",
+      "speakers": [
+        "Lenny",
+        "Gokul Rajaram"
+      ],
+      "themes": [
+        "Leadership",
+        "Hiring"
+      ],
+      "quote_count": 4
+    }
+  ]
+}

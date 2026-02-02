@@ -1,0 +1,224 @@
+{
+  "episode_id": "bob-moesta-20",
+  "topics": [
+    {
+      "topic_id": "bob-moesta-20_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Bob Moesta\u2019s new book Job Moves and tees up key ideas: career progress, \u201cjobcation,\u201d and the difference between job features and job experiences. Bob frames the book\u2019s goal as helping people find better-fitting work by understanding themselves.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:20",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bob Moesta"
+      ],
+      "themes": [
+        "Careers",
+        "Hiring",
+        "Jobs-to-be-Done"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bob-moesta-20_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Eppo (experimentation/A-B testing platform) and Vanta (security compliance automation), including product overviews and listener discount.",
+      "timestamp_start": "00:02:20",
+      "timestamp_end": "00:05:06",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Christina Cacioppo"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "bob-moesta-20_t3",
+      "title": "Why Job Moves: solving the talent problem",
+      "summary": "Bob explains why he wrote Job Moves: talent is a persistent founder pain, and most job switchers end up worse off because they don\u2019t understand what they need. He argues the book may be more impactful than JTBD due to the sheer scale of job changes.",
+      "timestamp_start": "00:05:10",
+      "timestamp_end": "00:08:26",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bob Moesta"
+      ],
+      "themes": [
+        "Careers",
+        "Hiring",
+        "Jobs-to-be-Done"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "bob-moesta-20_t4",
+      "title": "Big idea: employees hire companies",
+      "summary": "Bob describes the core thesis: people attribute good job moves to luck, but \u201cluck = opportunity + preparedness.\u201d The goal is to help individuals prepare, clarify progress, and \u201chire\u201d their job daily to avoid stagnation.",
+      "timestamp_start": "00:08:26",
+      "timestamp_end": "00:09:31",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bob Moesta"
+      ],
+      "themes": [
+        "Careers",
+        "Jobs-to-be-Done",
+        "Personal Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "bob-moesta-20_t5",
+      "title": "Job features vs job experiences",
+      "summary": "They unpack why experiences (not features like salary/title) drive retention and satisfaction. Bob explains money as a proxy for deeper needs (respect, security, status) and emphasizes understanding the \u201cwhy\u201d behind feature desires.",
+      "timestamp_start": "00:09:31",
+      "timestamp_end": "00:11:16",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bob Moesta"
+      ],
+      "themes": [
+        "Careers",
+        "Jobs-to-be-Done",
+        "Motivation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bob-moesta-20_t6",
+      "title": "The four quests behind leaving a job",
+      "summary": "Bob shares findings from \u201cultimate exit interviews\u201d: pushes and pulls cluster into four quests\u2014Get Out, Take the Next Step, Regain Control, and Realign. Understanding your quest helps aim the job search toward the right kind of progress.",
+      "timestamp_start": "00:11:16",
+      "timestamp_end": "00:14:39",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bob Moesta"
+      ],
+      "themes": [
+        "Careers",
+        "Jobs-to-be-Done",
+        "Decision Making"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bob-moesta-20_t7",
+      "title": "Why diagnosing pushes and pulls matters",
+      "summary": "Bob explains job changes aren\u2019t random: context and accumulated pushes create enough energy to move, but pulls provide direction. Without clear pulls, people either stay stuck or switch into similar/worse roles.",
+      "timestamp_start": "00:14:39",
+      "timestamp_end": "00:17:20",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bob Moesta"
+      ],
+      "themes": [
+        "Careers",
+        "Decision Making",
+        "Jobs-to-be-Done"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bob-moesta-20_t8",
+      "title": "Energy drivers and drains: finding your requirements",
+      "summary": "Bob outlines how to identify energizing and draining moments across past roles to extract personal \u201cdesign requirements\u201d for work. He argues many people spend most time on draining tasks, and improving that ratio can transform satisfaction.",
+      "timestamp_start": "00:17:20",
+      "timestamp_end": "00:20:22",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bob Moesta"
+      ],
+      "themes": [
+        "Careers",
+        "Personal Growth",
+        "Motivation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bob-moesta-20_t9",
+      "title": "Quick exercises and common examples",
+      "summary": "They discuss lightweight ways to start: recall recent energizing/draining moments, reflect daily after meetings, and dig beneath surface preferences (e.g., \u201cthe beach\u201d) to causal drivers. Bob gives examples like learning, helping others, and routine as person-dependent.",
+      "timestamp_start": "00:20:22",
+      "timestamp_end": "00:26:19",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bob Moesta"
+      ],
+      "themes": [
+        "Careers",
+        "Personal Growth",
+        "Self-Assessment"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bob-moesta-20_t10",
+      "title": "Job design, AI help, and team complementarity",
+      "summary": "Bob argues job descriptions are often made up and mismatched; better outcomes come from shaping roles around strengths and offloading drains (potentially with AI/process). He also highlights building teams with complementary opposites rather than clones.",
+      "timestamp_start": "00:26:19",
+      "timestamp_end": "00:29:41",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bob Moesta"
+      ],
+      "themes": [
+        "Hiring",
+        "Team Building",
+        "Careers"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bob-moesta-20_t11",
+      "title": "Prototyping your next job with informational interviews",
+      "summary": "For job seekers, Bob recommends treating career moves like product discovery: distill strengths/energy patterns, prototype widely across industries, and run informational interviews to test fit before applying. This builds clarity and practice talking about yourself.",
+      "timestamp_start": "00:31:17",
+      "timestamp_end": "00:34:32",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bob Moesta"
+      ],
+      "themes": [
+        "Careers",
+        "Jobs-to-be-Done",
+        "Job Search"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bob-moesta-20_t12",
+      "title": "Aiming your search: quests plus requirements",
+      "summary": "They restate the combined framework: pushes create momentum, quests provide direction, and energy/strength requirements refine targeting. Bob emphasizes aligning the job to the person rather than forcing the person to fit a generic description.",
+      "timestamp_start": "00:34:32",
+      "timestamp_end": "00:35:26",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bob Moesta"
+      ],
+      "themes": [
+        "Careers",
+        "Jobs-to-be-Done",
+        "Job Search"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bob-moesta-20_t13",
+      "title": "Trade-offs, compensation, and progress over perfection",
+      "summary": "Bob explains no job checks every box; success comes from explicit trade-offs (e.g., money vs learning) and timeboxing choices. They discuss when optimizing for salary/title can make sense, how better experiences can offset pay, and why overpaying can create risk-averse behavior.",
+      "timestamp_start": "00:35:26",
+      "timestamp_end": "00:41:45",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bob Moesta"
+      ],
+      "themes": [
+        "Careers",
+        "Compensation",
+        "Decision Making"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

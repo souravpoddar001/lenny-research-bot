@@ -1,0 +1,256 @@
+{
+  "episode_id": "casey-winters",
+  "topics": [
+    {
+      "topic_id": "casey-winters_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Casey Winters, highlights companies he\u2019s worked with, and previews key topics like trade-offs, growth strategy, and leveling up PM skills.",
+      "timestamp_start": "00:00:12",
+      "timestamp_end": "00:01:18",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Introduction"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "casey-winters_t2",
+      "title": "Coda content loops and sharing best practices",
+      "summary": "Casey explains why he loves Coda: strong content loops where templates are shared publicly, copied, and adapted\u2014embedding scaling best practices into product-led growth.",
+      "timestamp_start": "00:01:19",
+      "timestamp_end": "00:02:21",
+      "speakers": [
+        "Casey Winters",
+        "Lenny"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Growth"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "casey-winters_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Coda, Mixpanel, and later Whimsical, including offers and brief positioning on product analytics and collaborative product work.",
+      "timestamp_start": "00:01:56",
+      "timestamp_end": "00:27:46",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "casey-winters_t4",
+      "title": "Casey\u2019s career arc through product and growth",
+      "summary": "Casey walks through his path from marketing analytics to growth roles at GrubHub, leading growth at Pinterest, advising via Greylock, and becoming CPO at Eventbrite.",
+      "timestamp_start": "00:03:26",
+      "timestamp_end": "00:06:17",
+      "speakers": [
+        "Lenny",
+        "Casey Winters"
+      ],
+      "themes": [
+        "Career",
+        "Growth"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "casey-winters_t5",
+      "title": "Communicating trade-offs and escalating issues upward",
+      "summary": "Casey explains why leaders often under-communicate problems upward, how that creates unfair evaluation and misalignment, and how to frame updates as a coherent story (not \u201cchapter six\u201d).",
+      "timestamp_start": "00:06:18",
+      "timestamp_end": "00:11:18",
+      "speakers": [
+        "Lenny",
+        "Casey Winters"
+      ],
+      "themes": [
+        "Leadership",
+        "Communication"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "casey-winters_t6",
+      "title": "Coaching PMs for exec meetings and pre-alignment",
+      "summary": "He describes role-playing exec Q&A, tailoring to each executive\u2019s concerns, and using pre-meetings to de-risk big reviews so there are fewer surprises in the room.",
+      "timestamp_start": "00:11:19",
+      "timestamp_end": "00:13:53",
+      "speakers": [
+        "Lenny",
+        "Casey Winters"
+      ],
+      "themes": [
+        "Leadership",
+        "Communication"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "casey-winters_t7",
+      "title": "How much preparation matters for high-leverage meetings",
+      "summary": "Casey shares that prep time varies by person, but the standard is being ready for the full universe of likely questions\u2014because key decisions hinge on these forums.",
+      "timestamp_start": "00:13:54",
+      "timestamp_end": "00:19:08",
+      "speakers": [
+        "Lenny",
+        "Casey Winters"
+      ],
+      "themes": [
+        "Leadership",
+        "Execution"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "casey-winters_t8",
+      "title": "Keeping products simple while adding power",
+      "summary": "Casey discusses the \u201csimple \u2192 complex \u2192 users leave\u201d cycle and why Eventbrite aims for perceived simplicity: advanced features discoverable when needed but effectively hidden otherwise.",
+      "timestamp_start": "00:19:09",
+      "timestamp_end": "00:22:58",
+      "speakers": [
+        "Lenny",
+        "Casey Winters"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Design"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "casey-winters_t9",
+      "title": "Eventbrite example: simple defaults, advanced marketing controls",
+      "summary": "He gives a concrete win: automated Facebook ads with a simple default experience for non-marketers plus an on-ramp for sophisticated creators who want more control.",
+      "timestamp_start": "00:22:59",
+      "timestamp_end": "00:24:21",
+      "speakers": [
+        "Lenny",
+        "Casey Winters"
+      ],
+      "themes": [
+        "Growth",
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "casey-winters_t10",
+      "title": "Justifying non-sexy investments like performance and velocity",
+      "summary": "Casey explains why hard-to-measure work is chronically underfunded and offers tactics: custom metrics, small tests, principles/OKRs, and building cross-functional buy-in first.",
+      "timestamp_start": "00:24:22",
+      "timestamp_end": "00:27:00",
+      "speakers": [
+        "Lenny",
+        "Casey Winters"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Execution"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "casey-winters_t11",
+      "title": "Protecting gains: product-market fit decays over time",
+      "summary": "He argues that at scale you must prevent erosion of what you\u2019ve built; expectations and competition rise, so neglecting quality/UX/latency can push you out of PMF later.",
+      "timestamp_start": "00:27:47",
+      "timestamp_end": "00:30:53",
+      "speakers": [
+        "Lenny",
+        "Casey Winters"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Growth"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "casey-winters_t12",
+      "title": "Ops teams as a temporary hack, not a permanent function",
+      "summary": "Casey\u2019s take: ops roles can signal inefficiency if they become long-term manual process owners; the best ops teams automate and eliminate the need for themselves.",
+      "timestamp_start": "00:30:54",
+      "timestamp_end": "00:35:20",
+      "speakers": [
+        "Lenny",
+        "Casey Winters"
+      ],
+      "themes": [
+        "Operations",
+        "Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "casey-winters_t13",
+      "title": "What a CPO does and how to become one",
+      "summary": "Casey defines the CPO job as delivering customer value that translates to business value, improving strategy and execution processes, removing bottlenecks, and developing/hiring talent; he advises optimizing for company-first and avoiding overspecialization.",
+      "timestamp_start": "00:35:21",
+      "timestamp_end": "00:40:44",
+      "speakers": [
+        "Lenny",
+        "Casey Winters"
+      ],
+      "themes": [
+        "Leadership",
+        "Career"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "casey-winters_t14",
+      "title": "Spectrum of PMs: innovators vs executors",
+      "summary": "He outlines two extremes\u2014idea generators and execution-focused PMs\u2014why leaders often hire executors, and how teams must develop strategy skills to move people toward the middle.",
+      "timestamp_start": "00:40:45",
+      "timestamp_end": "00:45:10",
+      "speakers": [
+        "Lenny",
+        "Casey Winters"
+      ],
+      "themes": [
+        "Product Management",
+        "Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "casey-winters_t15",
+      "title": "Strategy as the key filter for senior PM growth",
+      "summary": "Casey argues early PM success is shipping value, but advancement requires independently writing and driving strategy; lacking this caps careers at senior/GPM levels.",
+      "timestamp_start": "00:45:11",
+      "timestamp_end": "00:46:58",
+      "speakers": [
+        "Lenny",
+        "Casey Winters"
+      ],
+      "themes": [
+        "Career",
+        "Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "casey-winters_t16",
+      "title": "Transition to growth: channels getting harder",
+      "summary": "Lenny tees up the next discussion: paid growth is pricier post-Apple changes, SEO is crowded, sales is expensive\u2014asking Casey what new tactics or channels he\u2019s seeing.",
+      "timestamp_start": "00:46:59",
+      "timestamp_end": "00:47:43",
+      "speakers": [
+        "Lenny",
+        "Casey Winters"
+      ],
+      "themes": [
+        "Growth"
+      ],
+      "quote_count": 0
+    }
+  ]
+}

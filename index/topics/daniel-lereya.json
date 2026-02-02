@@ -1,0 +1,237 @@
+{
+  "episode_id": "daniel-lereya",
+  "topics": [
+    {
+      "topic_id": "daniel-lereya_t1",
+      "title": "Impact-driven product management definition",
+      "summary": "Daniel defines a great PM as relentlessly driving measurable customer impact, not just shipping features. He emphasizes validating outcomes and sometimes improving accessibility/go-to-market over building new functionality.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:15",
+      "speakers": [
+        "Daniel Lereya",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Management",
+        "Metrics & Measurement",
+        "Strategy"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "daniel-lereya_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Daniel and frames the episode around Monday.com\u2019s scaling journey, recognizing when execution is off, and orienting teams around impact. He previews lessons on transformation, leadership, and product operating models.",
+      "timestamp_start": "00:01:14",
+      "timestamp_end": "00:02:04",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Company Building",
+        "Leadership",
+        "Product Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "daniel-lereya_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Enterpret (customer feedback analysis) and Airtable Product Central (unified product org system).",
+      "timestamp_start": "00:02:04",
+      "timestamp_end": "00:04:28",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "daniel-lereya_t4",
+      "title": "Competitor shock: realizing Monday shipped too slowly",
+      "summary": "Daniel recounts discovering a competitor launched ~30 new column types while Monday had built only a handful over months. The team steps back, admits lack of transformative progress, and uses competition as a forcing function to change how they operate.",
+      "timestamp_start": "00:04:28",
+      "timestamp_end": "00:11:23",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Daniel Lereya"
+      ],
+      "themes": [
+        "Execution & Operations",
+        "Competition",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "daniel-lereya_t5",
+      "title": "Ambitious goals and the columns hackathon playbook",
+      "summary": "They set an aggressive target (dozens of columns in a month) that made \u201cwork harder\u201d impossible and \u201cwork differently\u201d mandatory. Daniel explains standardizing column capabilities, building shared infrastructure, and running a hackathon where each dev shipped a column in a day.",
+      "timestamp_start": "00:11:23",
+      "timestamp_end": "00:17:45",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Daniel Lereya"
+      ],
+      "themes": [
+        "Execution & Operations",
+        "Engineering",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "daniel-lereya_t6",
+      "title": "Orienting teams around measurable impact",
+      "summary": "Daniel explains Monday\u2019s shift to defining success by customer outcomes and metrics, with PMs accountable for problem clarity and measurement plans. He highlights that the highest impact work may be distribution, discoverability, or go-to-market alignment\u2014not new features.",
+      "timestamp_start": "00:17:45",
+      "timestamp_end": "00:21:37",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Daniel Lereya"
+      ],
+      "themes": [
+        "Product Management",
+        "Metrics & Measurement",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "daniel-lereya_t7",
+      "title": "Smells of non-impact work and AI Blocks example",
+      "summary": "They discuss warning signs like vague goals (\u201cenhance/extend\u201d) without measurable change, and the importance of living in the numbers. Daniel shares how daily metric updates revealed low AI adoption due to TOS gating, prompting a rapid cross-functional push to open access to ~98% of customers.",
+      "timestamp_start": "00:21:37",
+      "timestamp_end": "00:27:43",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Daniel Lereya"
+      ],
+      "themes": [
+        "Metrics & Measurement",
+        "Product Management",
+        "Execution & Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "daniel-lereya_t8",
+      "title": "Working-backwards planning rituals at company and team level",
+      "summary": "Daniel describes recurring exercises to force focus: envision what\u2019s meaningfully different for customers in a quarter/year and work backward. He shares how Monday operationalizes this via annual kickoff \u201cnext year\u201d slides and frequent written updates that create reflection points on impact.",
+      "timestamp_start": "00:27:43",
+      "timestamp_end": "00:31:46",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Daniel Lereya"
+      ],
+      "themes": [
+        "Planning",
+        "Leadership",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "daniel-lereya_t9",
+      "title": "Monday\u2019s scale today and why work tools matter",
+      "summary": "Daniel shares Monday\u2019s growth stats (1B+ ARR, 250k customers, 2,500 employees) and the journey from ~$4M ARR. Lenny contextualizes \u201cwork management\u201d software as foundational infrastructure for how every industry executes day-to-day work.",
+      "timestamp_start": "00:31:46",
+      "timestamp_end": "00:34:39",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Daniel Lereya"
+      ],
+      "themes": [
+        "Company Building",
+        "Business Metrics",
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "daniel-lereya_t10",
+      "title": "Counterintuitive lesson: radical transparency at scale",
+      "summary": "Daniel argues that sharing metrics and business realities broadly creates partnership and unlocks collective problem-solving rather than demoralization. He explains how Monday maintained transparency even as a public company via role-based internal dashboards and 10b5 plans for PMs.",
+      "timestamp_start": "00:34:39",
+      "timestamp_end": "00:40:45",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Daniel Lereya"
+      ],
+      "themes": [
+        "Leadership",
+        "Culture",
+        "Metrics & Measurement"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "daniel-lereya_t11",
+      "title": "How to start transparency: dashboards and daily numbers",
+      "summary": "Daniel offers practical first steps: publish daily company numbers, put KPI dashboards on office TVs, and make metrics part of the company\u2019s cadence (even with audible cues). The goal is aligning everyone around what matters and enabling anyone to spot issues early.",
+      "timestamp_start": "00:40:45",
+      "timestamp_end": "00:44:10",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Daniel Lereya"
+      ],
+      "themes": [
+        "Culture",
+        "Metrics & Measurement",
+        "Execution & Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "daniel-lereya_t12",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Vanta (automating compliance and security programs) including a listener discount.",
+      "timestamp_start": "00:44:11",
+      "timestamp_end": "00:45:41",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Christina Cacioppo"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "daniel-lereya_t13",
+      "title": "Bold bets: launching five products at once",
+      "summary": "Daniel describes a risky, counterintuitive shift from a single project-management GTM to a multi-product suite built on Monday\u2019s platform\u2014announcing five products simultaneously. They accepted short-term confusion risk to create a step-change, later doubling down on winners (e.g., CRM) and folding others back in.",
+      "timestamp_start": "00:45:41",
+      "timestamp_end": "00:50:07",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Daniel Lereya"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Go-to-Market",
+        "Risk & Decision-Making"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "daniel-lereya_t14",
+      "title": "Taking risks and avoiding over-polish (partial)",
+      "summary": "They reinforce the theme that not taking bold risks is itself risky, and that incrementalism can hide lack of real progress. Daniel begins a point about how over-investing time to perfect products can delay real user feedback (the transcript cuts off mid-thought).",
+      "timestamp_start": "00:50:07",
+      "timestamp_end": "00:51:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Daniel Lereya"
+      ],
+      "themes": [
+        "Risk & Decision-Making",
+        "Product Management",
+        "Execution & Operations"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

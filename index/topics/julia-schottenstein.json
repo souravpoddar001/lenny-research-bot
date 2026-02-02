@@ -1,0 +1,271 @@
+{
+  "episode_id": "julia-schottenstein",
+  "topics": [
+    {
+      "topic_id": "julia-schottenstein_t1",
+      "title": "Introduction and Background",
+      "summary": "Julia opens with her philosophy on M&A optionality and not burning bridges, then Lenny introduces her background, dbt Labs, and the episode\u2019s focus areas (M&A, competition, pricing, open source).",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:11",
+      "speakers": [
+        "Julia Schottenstein",
+        "Lenny"
+      ],
+      "themes": [
+        "M&A",
+        "Competition",
+        "Pricing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "julia-schottenstein_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Vanta and Superhuman.",
+      "timestamp_start": "00:02:11",
+      "timestamp_end": "00:04:15",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Other"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "julia-schottenstein_t3",
+      "title": "From VC to product at dbt",
+      "summary": "Julia explains her unusual move from investing at NEA into product management, driven by her conviction in dbt\u2019s potential and desire to help build it firsthand.",
+      "timestamp_start": "00:04:15",
+      "timestamp_end": "00:08:23",
+      "speakers": [
+        "Lenny",
+        "Julia Schottenstein"
+      ],
+      "themes": [
+        "Career",
+        "Investing",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "julia-schottenstein_t4",
+      "title": "How to evaluate early-stage companies",
+      "summary": "Julia shares a four-part framework\u2014people, market, product, distribution\u2014for deciding what to join or invest in, plus how to assess product \u201cspark\u201d and distribution advantage.",
+      "timestamp_start": "00:08:23",
+      "timestamp_end": "00:13:11",
+      "speakers": [
+        "Lenny",
+        "Julia Schottenstein"
+      ],
+      "themes": [
+        "Investing",
+        "Product Strategy",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "julia-schottenstein_t5",
+      "title": "M&A strategy: create optionality and leverage",
+      "summary": "Advice for founders: start M&A thinking early, build a strong independent path as leverage, identify the 2\u20133 truly strategic buyers, and \u201cinflict pain\u201d while staying friendly to preserve options.",
+      "timestamp_start": "00:13:11",
+      "timestamp_end": "00:15:54",
+      "speakers": [
+        "Lenny",
+        "Julia Schottenstein"
+      ],
+      "themes": [
+        "M&A",
+        "Go-to-Market",
+        "Founder Advice"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "julia-schottenstein_t6",
+      "title": "Transform acquisition: pain, partnership, and fit",
+      "summary": "Julia explains how Transform pressured dbt in the semantic layer/metrics space while positioning as a partner, making them both visible and easy to integrate\u2014ultimately leading to acquisition.",
+      "timestamp_start": "00:15:54",
+      "timestamp_end": "00:18:01",
+      "speakers": [
+        "Lenny",
+        "Julia Schottenstein"
+      ],
+      "themes": [
+        "M&A",
+        "Competition",
+        "Product Strategy"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "julia-schottenstein_t7",
+      "title": "dbt\u2019s competition philosophy and platform strategy",
+      "summary": "dbt\u2019s three pillars on competition: stay true to vision, grow the pie with ecosystem partners, and lean into strengths\u2014while defending key standards like transformation and semantic layers.",
+      "timestamp_start": "00:18:01",
+      "timestamp_end": "00:20:27",
+      "speakers": [
+        "Lenny",
+        "Julia Schottenstein"
+      ],
+      "themes": [
+        "Competition",
+        "Ecosystem",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "julia-schottenstein_t8",
+      "title": "Why dbt won: simplicity, openness, and timing",
+      "summary": "Julia attributes dbt\u2019s success to a simple but powerful workflow that broadened who could build production data assets, plus open source flywheels and perfect timing with cloud warehouse adoption.",
+      "timestamp_start": "00:20:27",
+      "timestamp_end": "00:25:29",
+      "speakers": [
+        "Lenny",
+        "Julia Schottenstein"
+      ],
+      "themes": [
+        "Open Source",
+        "Product Strategy",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "julia-schottenstein_t9",
+      "title": "Consulting roots and customer-driven product building",
+      "summary": "dbt\u2019s origins as Fishtown Analytics (consulting) helped the founders learn pains firsthand and continuously fold \u201cpaper cuts\u201d into the product while serving real clients.",
+      "timestamp_start": "00:25:29",
+      "timestamp_end": "00:26:36",
+      "speakers": [
+        "Lenny",
+        "Julia Schottenstein"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Go-to-Market",
+        "Founder Advice"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "julia-schottenstein_t10",
+      "title": "Hands-on team learning: rope-and-graph algorithm exercise",
+      "summary": "Julia describes a memorable offsite exercise using rope and sticky notes to physically model DAGs so the whole team internalized a major algorithm change and could anticipate edge cases.",
+      "timestamp_start": "00:26:36",
+      "timestamp_end": "00:29:20",
+      "speakers": [
+        "Lenny",
+        "Julia Schottenstein"
+      ],
+      "themes": [
+        "Product Management",
+        "Engineering",
+        "Team Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "julia-schottenstein_t11",
+      "title": "Open source vs proprietary: what dbt charges for",
+      "summary": "Julia explains dbt\u2019s open-core split: keep the transformation \u201cguts\u201d and standards open source, while monetizing stateful workflows, collaboration, and scale/production features in dbt Cloud.",
+      "timestamp_start": "00:29:20",
+      "timestamp_end": "00:30:48",
+      "speakers": [
+        "Lenny",
+        "Julia Schottenstein"
+      ],
+      "themes": [
+        "Open Source",
+        "Pricing",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "julia-schottenstein_t12",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for AssemblyAI.",
+      "timestamp_start": "00:30:48",
+      "timestamp_end": "00:32:03",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Other"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "julia-schottenstein_t13",
+      "title": "Pricing: willingness-to-pay, elasticity, and process",
+      "summary": "Julia discusses why startups must confront pricing early, dbt\u2019s value-creation-first stance, how they ran their first pricing change, and tactics for eliciting willingness-to-pay signals from customers.",
+      "timestamp_start": "00:32:03",
+      "timestamp_end": "00:36:34",
+      "speakers": [
+        "Lenny",
+        "Julia Schottenstein"
+      ],
+      "themes": [
+        "Pricing",
+        "Go-to-Market",
+        "Product Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "julia-schottenstein_t14",
+      "title": "Selling in tough times: be transparent and widen net",
+      "summary": "They discuss public vs private sale processes, how to present acqui-hire style opportunities, planting buyer relationships early, and using corp dev and investor networks when runway is short.",
+      "timestamp_start": "00:36:34",
+      "timestamp_end": "00:42:11",
+      "speakers": [
+        "Lenny",
+        "Julia Schottenstein"
+      ],
+      "themes": [
+        "M&A",
+        "Founder Advice",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "julia-schottenstein_t15",
+      "title": "M&A market conditions, buyer selection, and messaging",
+      "summary": "Julia covers why many acquirers are sidelined, how to build a realistic buyer set, when to avoid saying \u201cM&A,\u201d and why deal activity may return as valuations reset post-2021 peak.",
+      "timestamp_start": "00:42:11",
+      "timestamp_end": "00:47:28",
+      "speakers": [
+        "Lenny",
+        "Julia Schottenstein"
+      ],
+      "themes": [
+        "M&A",
+        "Markets",
+        "Founder Advice"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "julia-schottenstein_t16",
+      "title": "dbt company values and operating principles",
+      "summary": "Julia shares dbt\u2019s values\u2014value creation over capture, radical transparency, humility, and craftsmanship\u2014and how these principles shape how the company serves its community.",
+      "timestamp_start": "00:47:28",
+      "timestamp_end": "00:48:56",
+      "speakers": [
+        "Lenny",
+        "Julia Schottenstein"
+      ],
+      "themes": [
+        "Company Building",
+        "Leadership",
+        "Culture"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

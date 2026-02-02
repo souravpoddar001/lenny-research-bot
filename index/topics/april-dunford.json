@@ -1,0 +1,254 @@
+{
+  "episode_id": "april-dunford",
+  "topics": [
+    {
+      "topic_id": "april-dunford_t1",
+      "title": "Opening insight: why B2B deals end no-decision",
+      "summary": "April explains that 40\u201360% of B2B buying processes end in no decision largely because buyers can\u2019t choose confidently, so they delay as the safest option.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:38",
+      "speakers": [
+        "April Dunford"
+      ],
+      "themes": [
+        "Sales",
+        "B2B",
+        "Decision Making"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "april-dunford_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces April Dunford, her positioning expertise, and her new book Sales Pitch, setting the goal of improving listeners\u2019 pitching and selling skills.",
+      "timestamp_start": "00:00:39",
+      "timestamp_end": "00:01:16",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sales",
+        "Marketing",
+        "Product Strategy"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "april-dunford_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Composer (algorithmic trading) and Eppo (A/B testing and experimentation platform).",
+      "timestamp_start": "00:01:32",
+      "timestamp_end": "00:03:47",
+      "speakers": [
+        "Speaker 1"
+      ],
+      "themes": [
+        "Other"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "april-dunford_t4",
+      "title": "Return guest welcome and episode goals",
+      "summary": "Lenny and April reconnect, discuss the podcast\u2019s growth, and outline the plan to dig into the Sales Pitch frameworks with practical takeaways.",
+      "timestamp_start": "00:03:47",
+      "timestamp_end": "00:05:30",
+      "speakers": [
+        "Lenny",
+        "April Dunford"
+      ],
+      "themes": [
+        "Sales",
+        "Product Strategy",
+        "Marketing"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "april-dunford_t5",
+      "title": "Why most SaaS pitches fail: feature tours",
+      "summary": "April describes how common sales pitches are product expositions (feature-by-feature demos) that omit positioning and fail to answer \u201cwhy pick us?\u201d.",
+      "timestamp_start": "00:05:30",
+      "timestamp_end": "00:07:01",
+      "speakers": [
+        "April Dunford"
+      ],
+      "themes": [
+        "Sales",
+        "Marketing",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "april-dunford_t6",
+      "title": "Help Scout example: positioning-led pitch vs demo",
+      "summary": "Using Help Scout, April contrasts a typical feature demo with a positioning-led narrative that frames the market, alternatives, and differentiated value before showing features.",
+      "timestamp_start": "00:07:01",
+      "timestamp_end": "00:12:22",
+      "speakers": [
+        "April Dunford",
+        "Lenny"
+      ],
+      "themes": [
+        "Sales",
+        "Marketing",
+        "B2B"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "april-dunford_t7",
+      "title": "Sales pitch framework: setup and follow-through",
+      "summary": "April lays out the pitch structure: a short market-focused setup (insight, alternatives, \u201cperfect world\u201d) followed by differentiated value, proof, objections, and the ask.",
+      "timestamp_start": "00:12:22",
+      "timestamp_end": "00:15:44",
+      "speakers": [
+        "April Dunford",
+        "Lenny"
+      ],
+      "themes": [
+        "Sales",
+        "Marketing",
+        "Decision Making"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "april-dunford_t8",
+      "title": "Handling objections and using discovery correctly",
+      "summary": "They discuss what to do when prospects don\u2019t share the core insight, why misaligned prospects should be disqualified, and how discovery fits naturally into the setup.",
+      "timestamp_start": "00:15:44",
+      "timestamp_end": "00:19:13",
+      "speakers": [
+        "Lenny",
+        "April Dunford"
+      ],
+      "themes": [
+        "Sales",
+        "B2B",
+        "Decision Making"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "april-dunford_t9",
+      "title": "Teaching buyers the market to reduce overwhelm",
+      "summary": "April explains that buyers often lack a clear market map and purchase criteria; effective sales helps them understand approaches, tradeoffs, and how to decide confidently.",
+      "timestamp_start": "00:19:13",
+      "timestamp_end": "00:24:57",
+      "speakers": [
+        "Lenny",
+        "April Dunford"
+      ],
+      "themes": [
+        "Sales",
+        "B2B",
+        "Decision Making"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "april-dunford_t10",
+      "title": "No-decision drivers and why FOMO backfires",
+      "summary": "They dig into indecision as a major loss reason; April cites JOLT Effect findings that adding pressure/FOMO worsens paralysis, while risk-reduction and decision tools help.",
+      "timestamp_start": "00:24:57",
+      "timestamp_end": "00:28:36",
+      "speakers": [
+        "Lenny",
+        "April Dunford"
+      ],
+      "themes": [
+        "Sales",
+        "Decision Making",
+        "B2B"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "april-dunford_t11",
+      "title": "Champion\u2019s job: decide safely without getting fired",
+      "summary": "April reframes the buyer\u2019s \u201cjob\u201d as making a defensible decision; Lenny shares a stressful enterprise buying story, highlighting why leaders win on perceived safety.",
+      "timestamp_start": "00:28:36",
+      "timestamp_end": "00:30:59",
+      "speakers": [
+        "April Dunford",
+        "Lenny"
+      ],
+      "themes": [
+        "Decision Making",
+        "B2B",
+        "Sales"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "april-dunford_t12",
+      "title": "Multi-stakeholder B2B buying and arming champions",
+      "summary": "April explains the 5\u20137 person buying committee: win the champion first, then equip them to address IT, procurement, security, ROI, and rollout objections that can kill deals.",
+      "timestamp_start": "00:30:59",
+      "timestamp_end": "00:34:40",
+      "speakers": [
+        "April Dunford",
+        "Lenny"
+      ],
+      "themes": [
+        "B2B",
+        "Sales",
+        "Decision Making"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "april-dunford_t13",
+      "title": "Applying the framework in early-stage companies",
+      "summary": "April argues the approach works even when the founder is the only salesperson, as long as you\u2019ve done enough deals to anticipate the buying process and common objections.",
+      "timestamp_start": "00:34:40",
+      "timestamp_end": "00:36:39",
+      "speakers": [
+        "Lenny",
+        "April Dunford"
+      ],
+      "themes": [
+        "Startups",
+        "Sales",
+        "B2B"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "april-dunford_t14",
+      "title": "Product, marketing, and sales alignment on value",
+      "summary": "April recommends cross-functional positioning work so product\u2019s understanding of value and sales\u2019 knowledge of objections combine into a pitch that sales will actually use.",
+      "timestamp_start": "00:36:39",
+      "timestamp_end": "00:38:57",
+      "speakers": [
+        "April Dunford",
+        "Lenny"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Sales",
+        "Marketing"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "april-dunford_t15",
+      "title": "Defining differentiated value with examples",
+      "summary": "April defines differentiated value as \u201cwhy pick us,\u201d explains how to derive it from competitive alternatives and the \u201cso what\u201d chain, and illustrates with LevelJump\u2019s Salesforce-native measurement advantage.",
+      "timestamp_start": "00:38:57",
+      "timestamp_end": "00:44:16",
+      "speakers": [
+        "April Dunford",
+        "Lenny"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Sales",
+        "Marketing"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

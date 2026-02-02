@@ -1,0 +1,252 @@
+{
+  "episode_id": "megan-cook",
+  "topics": [
+    {
+      "topic_id": "megan-cook_t1",
+      "title": "Fight Club: scheduling conflict to resolve issues early",
+      "summary": "Megan describes a weekly 30-minute standing meeting with product, engineering, and design leadership dedicated to surfacing and resolving conflicts early, preventing avoidance and building stronger relationships.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:18",
+      "speakers": [
+        "Megan Cook"
+      ],
+      "themes": [
+        "Leadership",
+        "Team Collaboration",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "megan-cook_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Megan Cook, her role leading Jira product, her background, and what the episode will cover (multi-product strategy, competition, play, buy-in, remote PM, failure stories).",
+      "timestamp_start": "00:00:51",
+      "timestamp_end": "00:01:15",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career",
+        "Product Strategy",
+        "Leadership"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "megan-cook_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Teal (job search platform) and Sprig (product insights platform).",
+      "timestamp_start": "00:01:49",
+      "timestamp_end": "00:03:53",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Other"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "megan-cook_t4",
+      "title": "Why play and psychological safety matter",
+      "summary": "Megan explains how ambiguity and remote-era changes reduced openness and increased fear, and how a mindset talk reframed play as the opposite of fear\u2014motivating a deliberate push for psychological safety to unlock bolder ideas.",
+      "timestamp_start": "00:03:53",
+      "timestamp_end": "00:07:40",
+      "speakers": [
+        "Lenny",
+        "Megan Cook"
+      ],
+      "themes": [
+        "Leadership",
+        "Team Culture",
+        "Psychological Safety"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "megan-cook_t5",
+      "title": "Peer feedback groups to normalize early drafts",
+      "summary": "She shares a tactic: small biweekly peer feedback groups where PMs bring rough work (strategies, experiments, experiences) to build trust, model good feedback, and make critique routine rather than scary.",
+      "timestamp_start": "00:07:40",
+      "timestamp_end": "00:10:04",
+      "speakers": [
+        "Megan Cook",
+        "Lenny"
+      ],
+      "themes": [
+        "Team Collaboration",
+        "Product Management",
+        "Psychological Safety"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "megan-cook_t6",
+      "title": "Twice-yearly onsite: craft, strategy, and failure stories",
+      "summary": "Megan describes bringing PMs together every six months for relationship-building, strategy alignment, craft workshops, and senior leaders sharing failures to normalize learning and risk-taking.",
+      "timestamp_start": "00:10:26",
+      "timestamp_end": "00:13:16",
+      "speakers": [
+        "Megan Cook",
+        "Lenny"
+      ],
+      "themes": [
+        "Team Culture",
+        "Product Management",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "megan-cook_t7",
+      "title": "Signals of safety decline and the $10 priorities game",
+      "summary": "They discuss when formality and reluctance to speak up can emerge (around ~15 PMs), plus a practical alignment tool: allocating \u201c$10\u201d across priorities to reveal time spend, overload, and mismatches with goals.",
+      "timestamp_start": "00:13:16",
+      "timestamp_end": "00:15:24",
+      "speakers": [
+        "Lenny",
+        "Megan Cook"
+      ],
+      "themes": [
+        "Product Management",
+        "Leadership",
+        "Team Collaboration"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "megan-cook_t8",
+      "title": "Remote work at Atlassian: connection and intentionality",
+      "summary": "Megan explains Atlassian\u2019s shift to remote during COVID, the \u201cTeam Anywhere\u201d philosophy, and research-backed practices like intentional in-person gatherings a few times per year to boost connection and productivity.",
+      "timestamp_start": "00:15:24",
+      "timestamp_end": "00:18:58",
+      "speakers": [
+        "Lenny",
+        "Megan Cook"
+      ],
+      "themes": [
+        "Remote Work",
+        "Team Culture",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "megan-cook_t9",
+      "title": "Remote execution: deep work blocks and async status",
+      "summary": "She shares tactics to avoid meeting overload: synchronized deep-work blocks for leaders, problem-solving meetings over status updates, and strong documentation via tools like Atlas and Confluence.",
+      "timestamp_start": "00:18:58",
+      "timestamp_end": "00:23:11",
+      "speakers": [
+        "Megan Cook",
+        "Lenny"
+      ],
+      "themes": [
+        "Remote Work",
+        "Productivity",
+        "Communication"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "megan-cook_t10",
+      "title": "Async video as a new collaboration primitive",
+      "summary": "To handle time zones, Megan describes using quick audio/video recordings (including for 1:1s and document context), noting how this approach influenced Atlassian\u2019s acquisition of Loom.",
+      "timestamp_start": "00:23:11",
+      "timestamp_end": "00:24:16",
+      "speakers": [
+        "Megan Cook",
+        "Lenny"
+      ],
+      "themes": [
+        "Remote Work",
+        "Communication",
+        "Team Collaboration"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "megan-cook_t11",
+      "title": "Getting buy-in: treat it as a journey",
+      "summary": "Megan outlines how buy-in comes from early stakeholder partnership, iterative check-ins, and focusing on the underlying problem rather than a single \u201cperfect proposal,\u201d using a Jira templates/platform example.",
+      "timestamp_start": "00:24:16",
+      "timestamp_end": "00:28:00",
+      "speakers": [
+        "Lenny",
+        "Megan Cook"
+      ],
+      "themes": [
+        "Stakeholder Management",
+        "Product Management",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "megan-cook_t12",
+      "title": "Show hypotheses, not certainty; meeting setup matters",
+      "summary": "She advises explicitly separating facts from hypotheses, inviting critique to build credibility, and structuring exec meetings with clear asks, narrative framing, and command of data; includes an acquisition-vs-build example.",
+      "timestamp_start": "00:28:00",
+      "timestamp_end": "00:35:44",
+      "speakers": [
+        "Megan Cook",
+        "Lenny"
+      ],
+      "themes": [
+        "Stakeholder Management",
+        "Communication",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "megan-cook_t13",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Vanta (security and compliance automation).",
+      "timestamp_start": "00:35:48",
+      "timestamp_end": "00:36:45",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Other"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "megan-cook_t14",
+      "title": "Fighting the good fight: investing in CSAT improvements",
+      "summary": "Megan explains how Jira drove a major usability/CSAT push by grounding the case in customer feedback and business impact, coordinating across dependent platform teams with low-cost \u201cshepherd\u201d support, showing (not telling) via designs and user pain, and starting small to build momentum (e.g., dark mode and other quality-of-life wins).",
+      "timestamp_start": "00:36:45",
+      "timestamp_end": "00:46:15",
+      "speakers": [
+        "Lenny",
+        "Megan Cook"
+      ],
+      "themes": [
+        "Customer Experience",
+        "Product Strategy",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "megan-cook_t15",
+      "title": "Atlassian\u2019s multi-product success: setup and early history",
+      "summary": "Lenny tees up Atlassian\u2019s rare ability to build ~15 product lines; Megan begins answering by referencing Jira\u2019s origins as a humble bug tracker and how it has adapted through major industry shifts (discussion continues beyond the provided excerpt).",
+      "timestamp_start": "00:46:17",
+      "timestamp_end": "00:47:47",
+      "speakers": [
+        "Lenny",
+        "Megan Cook"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Company Building",
+        "Product Management"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

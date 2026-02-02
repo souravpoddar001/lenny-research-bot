@@ -1,0 +1,232 @@
+{
+  "episode_id": "ray-cao",
+  "topics": [
+    {
+      "topic_id": "ray-cao_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Ray Cao, his role at TikTok, and why TikTok is an important business to learn from. He previews topics including culture, hiring, speed, OKRs, and TikTok ads/creative.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:14",
+      "speakers": [
+        "Lenny",
+        "Ray Cao"
+      ],
+      "themes": [
+        "Company Culture",
+        "Product Strategy",
+        "Advertising & Monetization"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ray-cao_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for WorkOS (enterprise auth) and Eppo (experimentation/A-B testing platform).",
+      "timestamp_start": "00:02:29",
+      "timestamp_end": "00:04:55",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Operations & Process"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ray-cao_t3",
+      "title": "Google vs TikTok: innovation and global mindset",
+      "summary": "Ray contrasts Google\u2019s engineering-lab orientation with TikTok\u2019s customer-centric approach across users, creators, and advertisers. He also explains TikTok\u2019s distinct approach to global prioritization and launching products outside North America first.",
+      "timestamp_start": "00:05:02",
+      "timestamp_end": "00:08:24",
+      "speakers": [
+        "Lenny",
+        "Ray Cao"
+      ],
+      "themes": [
+        "Company Culture",
+        "Product Strategy",
+        "Globalization"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ray-cao_t4",
+      "title": "Going global: algorithm plus local market learning",
+      "summary": "They discuss why TikTok succeeds internationally: the algorithm helps, but real success requires local teams, cultural understanding, and on-the-ground execution. Ray shares a market-research story illustrating how culture drives consumer behavior.",
+      "timestamp_start": "00:08:24",
+      "timestamp_end": "00:12:16",
+      "speakers": [
+        "Lenny",
+        "Ray Cao"
+      ],
+      "themes": [
+        "Globalization",
+        "Company Culture",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ray-cao_t5",
+      "title": "Localizing content and creative recommendations",
+      "summary": "Ray gives examples of how TikTok fine-tunes experiences by market (e.g., Japan content trends) and how humans complement machine learning in creative guidance for advertisers. They emphasize seeding and interpreting data with business judgment.",
+      "timestamp_start": "00:12:16",
+      "timestamp_end": "00:15:11",
+      "speakers": [
+        "Lenny",
+        "Ray Cao"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Advertising & Monetization",
+        "Globalization"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ray-cao_t6",
+      "title": "Culture principle: context, no control",
+      "summary": "Ray explains TikTok\u2019s core operating principle: give people broad context and empower ownership rather than micromanaging. He describes proactive thinking, reactive doing, and cross-team collaboration to connect the \u201cLego pieces.\u201d",
+      "timestamp_start": "00:15:11",
+      "timestamp_end": "00:19:35",
+      "speakers": [
+        "Lenny",
+        "Ray Cao"
+      ],
+      "themes": [
+        "Company Culture",
+        "Operations & Process"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ray-cao_t7",
+      "title": "Hiring for autonomy: curiosity, discipline, prioritization",
+      "summary": "They discuss how high-autonomy cultures require strong hiring standards. Ray highlights traits TikTok looks for: curiosity, discipline in collaboration, and the ability to prioritize amid many opportunities.",
+      "timestamp_start": "00:19:35",
+      "timestamp_end": "00:21:38",
+      "speakers": [
+        "Lenny",
+        "Ray Cao"
+      ],
+      "themes": [
+        "Hiring & Career",
+        "Company Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ray-cao_t8",
+      "title": "Always day one and tight cross-functional closeness",
+      "summary": "Ray describes TikTok\u2019s \u201calways day one\u201d startup mentality and unusually close collaboration between sales, product, engineering, and data science. He argues this proximity is a key advantage for building the right products and narratives.",
+      "timestamp_start": "00:21:38",
+      "timestamp_end": "00:25:09",
+      "speakers": [
+        "Lenny",
+        "Ray Cao"
+      ],
+      "themes": [
+        "Company Culture",
+        "Operations & Process",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ray-cao_t9",
+      "title": "Mechanisms: big doc-read meetings and client immersion",
+      "summary": "Ray details concrete practices that keep teams aligned: large cross-functional doc-reading meetings and bringing PMs/engineers to meet clients to \u201cfeel the heat.\u201d They also note influences from Amazon-style memos and learning from peers.",
+      "timestamp_start": "00:25:09",
+      "timestamp_end": "00:30:40",
+      "speakers": [
+        "Lenny",
+        "Ray Cao"
+      ],
+      "themes": [
+        "Operations & Process",
+        "Company Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ray-cao_t10",
+      "title": "Moving fast: global org design and frequent team iteration",
+      "summary": "Ray explains how TikTok structures product teams globally near key markets and continually reshapes teams to match growth needs. He emphasizes being willing to break and re-form structures to stay aligned with market demand.",
+      "timestamp_start": "00:30:40",
+      "timestamp_end": "00:34:33",
+      "speakers": [
+        "Lenny",
+        "Ray Cao"
+      ],
+      "themes": [
+        "Operations & Process",
+        "Globalization",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ray-cao_t11",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for OneSchema (embeddable CSV import and messy data handling).",
+      "timestamp_start": "00:34:33",
+      "timestamp_end": "00:35:38",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Operations & Process"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ray-cao_t12",
+      "title": "Early go-to-market mistakes: hiring and control mindset",
+      "summary": "Ray shares lessons from scaling go-to-market rapidly: compromising on hiring quality slows teams down, and overly rigid role boundaries conflict with TikTok\u2019s context-driven culture. He also stresses leaders must stay close to market reality.",
+      "timestamp_start": "00:35:38",
+      "timestamp_end": "00:40:18",
+      "speakers": [
+        "Lenny",
+        "Ray Cao"
+      ],
+      "themes": [
+        "Hiring & Career",
+        "Operations & Process",
+        "Company Culture"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "ray-cao_t13",
+      "title": "Who struggles at TikTok: lifestyle fit and intensity",
+      "summary": "Ray explains that leaving isn\u2019t always about capability\u2014often it\u2019s mismatch with the rocket-ship lifestyle and pace. They discuss personal choice around intensity, career growth, and why hard sprints can be meaningful career chapters.",
+      "timestamp_start": "00:40:18",
+      "timestamp_end": "00:44:19",
+      "speakers": [
+        "Lenny",
+        "Ray Cao"
+      ],
+      "themes": [
+        "Hiring & Career",
+        "Company Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "ray-cao_t14",
+      "title": "OKRs and planning: alignment with iteration",
+      "summary": "Ray describes TikTok\u2019s OKR usage as an alignment system, noting common pitfalls around inputs vs outputs and cross-functional dependencies. They cover annual planning as a baseline with frequent quarterly pivots, especially in ads products.",
+      "timestamp_start": "00:44:19",
+      "timestamp_end": "00:49:12",
+      "speakers": [
+        "Lenny",
+        "Ray Cao"
+      ],
+      "themes": [
+        "Operations & Process",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

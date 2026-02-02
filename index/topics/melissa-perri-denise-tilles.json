@@ -1,0 +1,214 @@
+{
+  "episode_id": "melissa-perri-denise-tilles",
+  "topics": [
+    {
+      "topic_id": "melissa-perri-denise-tilles_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Melissa Perri and Denise Tilles and frames the episode around defining product operations, how it differs from adjacent roles, and how to build the function as companies scale.",
+      "timestamp_start": "00:00:25",
+      "timestamp_end": "00:01:24",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Product Operations"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "melissa-perri-denise-tilles_t2",
+      "title": "Sponsor Break: Jira Product Discovery",
+      "summary": "Ad read for Jira Product Discovery, positioning it as a tool to centralize ideas, prioritize, and share roadmaps while reducing spreadsheet-driven alignment work.",
+      "timestamp_start": "00:01:50",
+      "timestamp_end": "00:03:13",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Tools & Systems"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melissa-perri-denise-tilles_t3",
+      "title": "How common product ops is now",
+      "summary": "They discuss the rapid rise of product ops across scaling tech companies, including early origins in large firms and how adoption has accelerated over the last ~5 years.",
+      "timestamp_start": "00:03:13",
+      "timestamp_end": "00:07:41",
+      "speakers": [
+        "Lenny",
+        "Melissa Perri",
+        "Denise Tilles"
+      ],
+      "themes": [
+        "Product Operations",
+        "Org Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melissa-perri-denise-tilles_t4",
+      "title": "Why product ops exists and when you need it",
+      "summary": "They explain the core benefit: freeing PMs to focus on strategic, outcome-driven work by removing operational burdens like data wrangling and coordination, and share signals that a company is ready.",
+      "timestamp_start": "00:08:08",
+      "timestamp_end": "00:11:26",
+      "speakers": [
+        "Lenny",
+        "Denise Tilles",
+        "Melissa Perri"
+      ],
+      "themes": [
+        "Product Operations",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melissa-perri-denise-tilles_t5",
+      "title": "Defining product ops: the three pillars",
+      "summary": "Denise outlines product ops as three pillars\u2014business/data insights, customer/market insights, and process/practices\u2014while Melissa explains which pillars tend to matter most by company stage.",
+      "timestamp_start": "00:12:03",
+      "timestamp_end": "00:15:11",
+      "speakers": [
+        "Lenny",
+        "Denise Tilles",
+        "Melissa Perri"
+      ],
+      "themes": [
+        "Product Operations",
+        "Org Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melissa-perri-denise-tilles_t6",
+      "title": "Customer and market insights vs user research",
+      "summary": "They describe how product ops supports qualitative insight flow by building research repositories, participant panels, and feedback loops from sales/support\u2014without replacing user researchers or PM discovery work.",
+      "timestamp_start": "00:15:26",
+      "timestamp_end": "00:18:36",
+      "speakers": [
+        "Lenny",
+        "Melissa Perri"
+      ],
+      "themes": [
+        "Customer Insights",
+        "Product Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melissa-perri-denise-tilles_t7",
+      "title": "How product ops changes the PM role",
+      "summary": "They argue product ops is a major evolution in product management, reducing context switching and operational overhead for both PMs and product leaders so they can focus on strategy and outcomes.",
+      "timestamp_start": "00:18:36",
+      "timestamp_end": "00:24:23",
+      "speakers": [
+        "Lenny",
+        "Melissa Perri",
+        "Denise Tilles"
+      ],
+      "themes": [
+        "Product Management",
+        "Product Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melissa-perri-denise-tilles_t8",
+      "title": "What PMs should not delegate to product ops",
+      "summary": "Melissa clarifies boundaries: product ops should not take decision rights, prioritize features, manage engineers, or handle stakeholder trade-offs; PMs remain accountable for outcomes and product decisions.",
+      "timestamp_start": "00:24:33",
+      "timestamp_end": "00:26:31",
+      "speakers": [
+        "Lenny",
+        "Melissa Perri"
+      ],
+      "themes": [
+        "Product Management",
+        "Product Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melissa-perri-denise-tilles_t9",
+      "title": "Go-to-market coordination and breaking silos",
+      "summary": "They discuss how product ops can improve go-to-market execution by standardizing templates, creating cadences, and coordinating across sales/marketing/product\u2014while PMs still own the substance of GTM inputs.",
+      "timestamp_start": "00:26:31",
+      "timestamp_end": "00:28:57",
+      "speakers": [
+        "Lenny",
+        "Denise Tilles",
+        "Melissa Perri"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Product Operations"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "melissa-perri-denise-tilles_t10",
+      "title": "Product ops vs project and program management",
+      "summary": "They distinguish product ops as enabling better decision-making through the three pillars, while program/project management focuses more on initiative coordination and time-boxed delivery (with some role overlap in practice).",
+      "timestamp_start": "00:29:15",
+      "timestamp_end": "00:29:43",
+      "speakers": [
+        "Lenny",
+        "Denise Tilles"
+      ],
+      "themes": [
+        "Product Operations",
+        "Org Design"
+      ],
+      "quote_count": 2
+    },
+    {
+      "topic_id": "melissa-perri-denise-tilles_t11",
+      "title": "Business and data insights: what product ops does",
+      "summary": "They explain how product ops connects BI/data science/finance to product needs, builds product-health dashboards (e.g., by segment/product line), and equips leaders with repeatable, decision-ready insights.",
+      "timestamp_start": "00:29:43",
+      "timestamp_end": "00:36:17",
+      "speakers": [
+        "Lenny",
+        "Denise Tilles",
+        "Melissa Perri"
+      ],
+      "themes": [
+        "Data & Analytics",
+        "Product Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melissa-perri-denise-tilles_t12",
+      "title": "Sponsor Break: Jira Product Discovery",
+      "summary": "Second ad read for Jira Product Discovery, emphasizing prioritization, roadmapping, and cross-functional collaboration built on Jira.",
+      "timestamp_start": "00:36:17",
+      "timestamp_end": "00:37:38",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Tools & Systems"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "melissa-perri-denise-tilles_t13",
+      "title": "Ops as leverage: automation, sizing, and hiring",
+      "summary": "They discuss product ops as a lean, leverage-focused function that should automate and standardize repeatable work; they cover rough sizing heuristics, starting with one hire, and matching hires to pillar-specific expertise.",
+      "timestamp_start": "00:37:38",
+      "timestamp_end": "00:44:41",
+      "speakers": [
+        "Lenny",
+        "Melissa Perri",
+        "Denise Tilles"
+      ],
+      "themes": [
+        "Product Operations",
+        "Org Design"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

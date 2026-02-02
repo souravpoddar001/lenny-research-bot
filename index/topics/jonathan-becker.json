@@ -1,0 +1,243 @@
+{
+  "episode_id": "jonathan-becker",
+  "topics": [
+    {
+      "topic_id": "jonathan-becker_t1",
+      "title": "AI changing performance marketing work",
+      "summary": "Jonathan describes how AI is letting teams do more with less by automating manual implementation work, shifting humans toward strategy, modeling, validation, and creative iteration. He gives an example of AI-generated creative mockups drastically reducing production time.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:35",
+      "speakers": [
+        "Jonathan Becker"
+      ],
+      "themes": [
+        "AI in Marketing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jonathan-becker_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Jonathan Becker and frames the episode as a deep dive into paid growth/performance marketing. Jonathan shares his path from web development and SEO into paid search, and how Thrive scaled to a large agency managing major ad spend for top brands.",
+      "timestamp_start": "00:01:01",
+      "timestamp_end": "00:07:26",
+      "speakers": [
+        "Lenny",
+        "Jonathan Becker"
+      ],
+      "themes": [
+        "Paid Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jonathan-becker_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for BrainTrust (hiring network) and AssemblyAI (speech-to-text and audio understanding API).",
+      "timestamp_start": "00:02:16",
+      "timestamp_end": "00:04:46",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsors"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jonathan-becker_t4",
+      "title": "Crazy story: landing Uber as a client",
+      "summary": "Jonathan recounts meeting Uber founder Garrett Camp in a taxi at TED, admitting he exploited Uber\u2019s referral program via paid search arbitrage, and turning that into a decade-long client relationship. They discuss \u201cmaking your own luck\u201d by taking calculated risks.",
+      "timestamp_start": "00:07:26",
+      "timestamp_end": "00:11:46",
+      "speakers": [
+        "Lenny",
+        "Jonathan Becker"
+      ],
+      "themes": [
+        "Career Stories"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jonathan-becker_t5",
+      "title": "What to call paid growth and why",
+      "summary": "They clarify terminology\u2014performance marketing, paid acquisition, growth marketing\u2014and set the stage for a deep dive into the discipline and its subchannels (search, social, programmatic).",
+      "timestamp_start": "00:11:58",
+      "timestamp_end": "00:12:31",
+      "speakers": [
+        "Lenny",
+        "Jonathan Becker"
+      ],
+      "themes": [
+        "Paid Growth"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jonathan-becker_t6",
+      "title": "Paid growth as a 'drug' and diversification",
+      "summary": "Jonathan explains the risk of over-reliance on a single paid channel, comparing it to putting all savings into one stock. He advocates for diversified channel mix (paid + offline + owned/earned) and warns against fragile \u201cloophole\u201d hacks that can disappear.",
+      "timestamp_start": "00:12:31",
+      "timestamp_end": "00:16:48",
+      "speakers": [
+        "Lenny",
+        "Jonathan Becker"
+      ],
+      "themes": [
+        "Paid Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jonathan-becker_t7",
+      "title": "When paid growth fits: stage, scale, resourcing",
+      "summary": "They discuss how fit depends on company stage: early-stage needs product-market fit; later-stage success depends on creative capacity, experienced marketers, stakeholder buy-in, and technical ability to implement tracking/attribution fixes. The question shifts from \u201cdoes it work?\u201d to \u201chow far can it scale?\u201d",
+      "timestamp_start": "00:16:48",
+      "timestamp_end": "00:19:06",
+      "speakers": [
+        "Lenny",
+        "Jonathan Becker"
+      ],
+      "themes": [
+        "Paid Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jonathan-becker_t8",
+      "title": "Payback periods, LTV modeling, and lead scoring",
+      "summary": "Jonathan addresses the need for fast payback in some models (ecommerce) versus longer-cycle businesses (B2B/B2C lead gen). He outlines using LTV:CAC modeling and predictive lead scoring to bid effectively despite delayed revenue realization.",
+      "timestamp_start": "00:19:06",
+      "timestamp_end": "00:20:58",
+      "speakers": [
+        "Lenny",
+        "Jonathan Becker"
+      ],
+      "themes": [
+        "Attribution & Measurement"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jonathan-becker_t9",
+      "title": "Rules of thumb: PMF, attribution limits, patience",
+      "summary": "Jonathan emphasizes that paid works best once PMF is established and other channels show demand, but warns against assuming perfect attribution. He notes metrics vary by business and that performance marketing requires time and iteration rather than overnight results.",
+      "timestamp_start": "00:20:58",
+      "timestamp_end": "00:23:07",
+      "speakers": [
+        "Lenny",
+        "Jonathan Becker"
+      ],
+      "themes": [
+        "Paid Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jonathan-becker_t10",
+      "title": "Can startups still scale mostly via paid?",
+      "summary": "They debate whether paid-first scaling is still viable, noting survivorship bias from the 2010s. Jonathan cites modern examples (e.g., Grammarly, Athletic Greens) and explains how privacy changes and macroeconomic shifts created turbulence, but the channel remains powerful when unit economics are understood.",
+      "timestamp_start": "00:23:07",
+      "timestamp_end": "00:27:08",
+      "speakers": [
+        "Lenny",
+        "Jonathan Becker"
+      ],
+      "themes": [
+        "Paid Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jonathan-becker_t11",
+      "title": "What changed recently: privacy, efficiency, measurement rigor",
+      "summary": "Jonathan describes the modern playbook: rigorous creative testing, accepting attribution subjectivity, validating measurement, and deeply understanding acquisition economics. Success comes from operational excellence rather than any single platform trick.",
+      "timestamp_start": "00:27:08",
+      "timestamp_end": "00:29:39",
+      "speakers": [
+        "Lenny",
+        "Jonathan Becker"
+      ],
+      "themes": [
+        "Attribution & Measurement"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jonathan-becker_t12",
+      "title": "SEO vs paid search: why both matter",
+      "summary": "They compare SEO and paid search, arguing they\u2019re complementary rather than mutually exclusive. Jonathan explains SEO\u2019s black-box attribution challenges versus paid\u2019s more tangible feedback loop, while still emphasizing SEO\u2019s long-term payoff.",
+      "timestamp_start": "00:29:39",
+      "timestamp_end": "00:32:18",
+      "speakers": [
+        "Lenny",
+        "Jonathan Becker"
+      ],
+      "themes": [
+        "SEO"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jonathan-becker_t13",
+      "title": "Creative is the biggest lever now",
+      "summary": "Jonathan defines \u201ccreative\u201d (ad assets) and explains why it\u2019s become the primary optimization lever as platforms automate bidding/targeting. He outlines funnel-based messaging, avoiding repetitive ads, and building a structured experimentation loop between performance data and creative production.",
+      "timestamp_start": "00:32:18",
+      "timestamp_end": "00:37:11",
+      "speakers": [
+        "Lenny",
+        "Jonathan Becker"
+      ],
+      "themes": [
+        "Creative Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jonathan-becker_t14",
+      "title": "How to test creatives and examples of unlocks",
+      "summary": "Jonathan shares a practical Meta testing setup (same audience, near-identical creatives, isolate one variable) and how to evaluate uneven delivery using rate metrics like CTR. He gives examples where UGC outperformed polished brand ads, and a playful \u201cdog on the couch\u201d concept dramatically improved ROAS.",
+      "timestamp_start": "00:37:11",
+      "timestamp_end": "00:43:28",
+      "speakers": [
+        "Lenny",
+        "Jonathan Becker"
+      ],
+      "themes": [
+        "Creative Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jonathan-becker_t15",
+      "title": "Tools for creative testing: mostly in-platform",
+      "summary": "They discuss whether special tooling is needed; Jonathan says most sophisticated creative testing can be done directly within ad platforms (especially Meta and Google) using disciplined structure and measurement.",
+      "timestamp_start": "00:43:28",
+      "timestamp_end": "00:44:43",
+      "speakers": [
+        "Lenny",
+        "Jonathan Becker"
+      ],
+      "themes": [
+        "Creative Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jonathan-becker_t16",
+      "title": "Channel strategy: Google/Meta vs TikTok, Amazon, Snap",
+      "summary": "Jonathan explains how Google includes YouTube and Meta includes Instagram, and highlights TikTok and Amazon as major opportunities depending on business type. He notes TikTok\u2019s cheaper CPCs but weaker attribution and heavy creative demands, and shares what tends to work there (founder-led content, influencer partnerships).",
+      "timestamp_start": "00:44:43",
+      "timestamp_end": "00:49:56",
+      "speakers": [
+        "Lenny",
+        "Jonathan Becker"
+      ],
+      "themes": [
+        "Paid Growth"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

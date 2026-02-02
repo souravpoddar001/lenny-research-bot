@@ -1,0 +1,208 @@
+{
+  "episode_id": "jen-abel-20",
+  "topics": [
+    {
+      "topic_id": "jen-abel-20_t1",
+      "title": "Cold open: vision selling, pricing, differentiation",
+      "summary": "Jen and Lenny open with rapid-fire principles: sell the opportunity (gap) not the problem, avoid discounting/nickel-and-diming, differentiate so you\u2019re not compared, and treat enterprise sales as relationship-driven and creative.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:33",
+      "speakers": [
+        "Jen Abel",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Enterprise Sales",
+        "Pricing & Packaging",
+        "Positioning & Differentiation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jen-abel-20_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Jen Abel, frames this as part two (from ~$1M to ~$10M ARR), and sets expectations for a tactical enterprise-sales deep dive.",
+      "timestamp_start": "00:01:33",
+      "timestamp_end": "00:02:22",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Go-to-Market Strategy"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "jen-abel-20_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for WorkOS and Lovable, followed by Lenny welcoming Jen back to the show.",
+      "timestamp_start": "00:02:22",
+      "timestamp_end": "00:04:45",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jen-abel-20_t4",
+      "title": "Why the mid-market \u201cdoesn\u2019t exist\u201d",
+      "summary": "Jen argues \u201cmid-market\u201d is an ambiguous label; selling motions differ drastically between SMB and enterprise, so teams should explicitly choose which game they\u2019re playing (upper SMB vs lower enterprise).",
+      "timestamp_start": "00:04:48",
+      "timestamp_end": "00:07:36",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jen Abel"
+      ],
+      "themes": [
+        "Go-to-Market Strategy",
+        "Enterprise Sales"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jen-abel-20_t5",
+      "title": "Go after tier-one logos earlier",
+      "summary": "Contrary to common advice, Jen recommends targeting top-tier market leaders early because they must stay #1, will take swings for \u201calpha,\u201d can shape roadmap, and provide powerful proof and pull-through.",
+      "timestamp_start": "00:07:36",
+      "timestamp_end": "00:10:50",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jen Abel"
+      ],
+      "themes": [
+        "Enterprise Sales",
+        "Go-to-Market Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jen-abel-20_t6",
+      "title": "How to approach enterprise: sell the gap",
+      "summary": "Jen explains tactical outreach and messaging: involve the founder, vision-cast, and sell an opportunity/\u201calpha\u201d rather than interrogating for problems; examples include positioning tools like Cursor as talent/advantage multipliers.",
+      "timestamp_start": "00:10:50",
+      "timestamp_end": "00:15:35",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jen Abel"
+      ],
+      "themes": [
+        "Enterprise Sales",
+        "Messaging & Positioning"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jen-abel-20_t7",
+      "title": "Pricing confidence: avoid small deals and discounting",
+      "summary": "Jen argues founders overvalue many small deals and over-discount; enterprise buyers who nickel-and-dime aren\u2019t bought in, and $100K+ deals force executive sponsorship, better fit, and healthier expansion math.",
+      "timestamp_start": "00:15:35",
+      "timestamp_end": "00:21:19",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jen Abel"
+      ],
+      "themes": [
+        "Pricing & Packaging",
+        "Enterprise Sales"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jen-abel-20_t8",
+      "title": "Don\u2019t anchor enterprise with SMB pricing",
+      "summary": "Jen warns that letting an enterprise buy via SMB/PLG pricing (e.g., a few seats on a credit card) creates a damaging reference point that makes later expansion to $75K\u2013$150K+ hard to defend\u2014especially with contract analysis tools.",
+      "timestamp_start": "00:21:19",
+      "timestamp_end": "00:25:11",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jen Abel"
+      ],
+      "themes": [
+        "Pricing & Packaging",
+        "Enterprise Sales"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jen-abel-20_t9",
+      "title": "Design partners: choose wisely and set framing",
+      "summary": "Jen describes how to use design partners for learning (often tech-forward enterprises), why they\u2019re hardest to convert, and how to set expectations on product maturity, pricing trajectory, and perpetual concessions without losing the enterprise path.",
+      "timestamp_start": "00:25:11",
+      "timestamp_end": "00:31:49",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jen Abel"
+      ],
+      "themes": [
+        "Enterprise Sales",
+        "Customer Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jen-abel-20_t10",
+      "title": "Choosing SMB vs enterprise and AI-era constraints",
+      "summary": "They discuss how founders should pick the GTM motion they understand best, how AI may shift \u201centerprise\u201d definitions (headcount), and why low-risk entry points matter when enterprise data/integrations raise risk.",
+      "timestamp_start": "00:31:49",
+      "timestamp_end": "00:36:54",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jen Abel"
+      ],
+      "themes": [
+        "Go-to-Market Strategy",
+        "Enterprise Sales"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jen-abel-20_t11",
+      "title": "Enterprise sales as art: deal crafting and services",
+      "summary": "Jen frames 1\u201310M enterprise selling as creative deal crafting: add high-value/low-cost concessions, avoid becoming a comparison, and use services/forward-deployed work to get in the door and later transition customers to product.",
+      "timestamp_start": "00:36:54",
+      "timestamp_end": "00:42:05",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jen Abel"
+      ],
+      "themes": [
+        "Enterprise Sales",
+        "Go-to-Market Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jen-abel-20_t12",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Coda, describing its all-in-one workspace and a startup team-plan offer.",
+      "timestamp_start": "00:42:05",
+      "timestamp_end": "00:43:22",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jen-abel-20_t13",
+      "title": "Forward-deployed, channels skepticism, and recap",
+      "summary": "Jen reinforces the \u201cbutt-in-seat\u201d model (Palantir/McKinsey style), critiques channel-partner fantasies (e.g., Accenture), and Lenny summarizes key takeaways: target tier-one logos, move ACV toward ~$75K\u2013$150K+, and use services strategically.",
+      "timestamp_start": "00:43:22",
+      "timestamp_end": "00:47:22",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Jen Abel"
+      ],
+      "themes": [
+        "Enterprise Sales",
+        "Go-to-Market Strategy"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

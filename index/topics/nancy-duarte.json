@@ -1,0 +1,278 @@
+{
+  "episode_id": "nancy-duarte",
+  "topics": [
+    {
+      "topic_id": "nancy-duarte_t1",
+      "title": "Everyday persuasion using contrast frameworks",
+      "summary": "Nancy opens by arguing that presentation/story frameworks aren\u2019t just for big stages\u2014they work in meetings, calls, and everyday influence by contrasting \u201cwhat is\u201d vs \u201cwhat could be.\u201d",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:29",
+      "speakers": [
+        "Nancy Duarte"
+      ],
+      "themes": [
+        "Communication",
+        "Storytelling",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "nancy-duarte_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Nancy Duarte, her work crafting hundreds of thousands of presentations for major organizations, and what listeners can expect from the episode.",
+      "timestamp_start": "00:00:29",
+      "timestamp_end": "00:01:29",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Communication",
+        "Storytelling"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nancy-duarte_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Microsoft Clarity and lennysjobs.com/talent.",
+      "timestamp_start": "00:01:29",
+      "timestamp_end": "00:03:31",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career",
+        "Analytics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nancy-duarte_t4",
+      "title": "Scale of Duarte\u2019s presentation work",
+      "summary": "Nancy estimates the number of presentations Duarte has helped create (tracked at ~225k\u2013250k in 2014) and explains why the true number is likely much higher.",
+      "timestamp_start": "00:03:31",
+      "timestamp_end": "00:04:52",
+      "speakers": [
+        "Lenny",
+        "Nancy Duarte"
+      ],
+      "themes": [
+        "Communication",
+        "Storytelling"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nancy-duarte_t5",
+      "title": "Most memorable project: An Inconvenient Truth",
+      "summary": "Nancy describes working with Al Gore over five years, why the presentation was groundbreaking for data storytelling, and what made Gore an unusually thoughtful client.",
+      "timestamp_start": "00:04:52",
+      "timestamp_end": "00:08:24",
+      "speakers": [
+        "Lenny",
+        "Nancy Duarte"
+      ],
+      "themes": [
+        "Storytelling",
+        "Communication",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nancy-duarte_t6",
+      "title": "Seeding impact and scaling a movement",
+      "summary": "They discuss how the talk\u2019s influence came from years of repeated delivery, plus a later \u201ctrain-the-trainer\u201d approach that helped scale climate advocacy.",
+      "timestamp_start": "00:08:24",
+      "timestamp_end": "00:09:03",
+      "speakers": [
+        "Lenny",
+        "Nancy Duarte"
+      ],
+      "themes": [
+        "Leadership",
+        "Storytelling"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "nancy-duarte_t7",
+      "title": "Landing Apple and early desktop publishing era",
+      "summary": "Nancy recounts how Duarte got early contracts via cold calling (NASA, Tandem/HP, Apple) and how timing mattered during the Mac\u2019s early adoption window among designers.",
+      "timestamp_start": "00:09:03",
+      "timestamp_end": "00:11:45",
+      "speakers": [
+        "Lenny",
+        "Nancy Duarte"
+      ],
+      "themes": [
+        "Entrepreneurship",
+        "Design",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nancy-duarte_t8",
+      "title": "What Apple taught about visual presentation craft",
+      "summary": "Nancy explains how Apple pushed early computer-to-projector presentations, how Duarte learned to make slides cinematic and clear, and shares formative moments like the \u201cBIG\u201d hot-pink slide and Think Different-era restraint.",
+      "timestamp_start": "00:11:45",
+      "timestamp_end": "00:16:22",
+      "speakers": [
+        "Lenny",
+        "Nancy Duarte"
+      ],
+      "themes": [
+        "Design",
+        "Communication",
+        "Storytelling"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nancy-duarte_t9",
+      "title": "Three rules to start any deck",
+      "summary": "Nancy offers three practical anchors: make the audience the hero, infuse with story structure, and ensure people can \u2018see what you\u2019re saying.\u2019",
+      "timestamp_start": "00:16:22",
+      "timestamp_end": "00:17:33",
+      "speakers": [
+        "Lenny",
+        "Nancy Duarte"
+      ],
+      "themes": [
+        "Communication",
+        "Storytelling"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "nancy-duarte_t10",
+      "title": "Empathy and the audience-as-hero mindset",
+      "summary": "Nancy ties empathy to her personal background and reframes presenters as mentors (like Obi-Wan) who help the audience overcome internal and external obstacles to act.",
+      "timestamp_start": "00:17:33",
+      "timestamp_end": "00:20:29",
+      "speakers": [
+        "Lenny",
+        "Nancy Duarte"
+      ],
+      "themes": [
+        "Leadership",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nancy-duarte_t11",
+      "title": "How Duarte pressure-tests internal presentations",
+      "summary": "Nancy shares her internal process: listening tours, rough cuts, leader feedback loops, and why presenting to presentation experts is uniquely nerve-wracking.",
+      "timestamp_start": "00:20:29",
+      "timestamp_end": "00:23:10",
+      "speakers": [
+        "Lenny",
+        "Nancy Duarte"
+      ],
+      "themes": [
+        "Leadership",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nancy-duarte_t12",
+      "title": "Story structure: what is vs what could be",
+      "summary": "Nancy explains how great talks create tension and release using contrast, why story aligns brains, and how her quarter-inch graph mapping led to the \u201cwhat is/what could be/new bliss\u201d arc.",
+      "timestamp_start": "00:23:10",
+      "timestamp_end": "00:29:22",
+      "speakers": [
+        "Lenny",
+        "Nancy Duarte"
+      ],
+      "themes": [
+        "Storytelling",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nancy-duarte_t13",
+      "title": "Using contrast in any moment of influence",
+      "summary": "They discuss when to invest in full storycraft versus using the mental model in everyday conversations; Nancy gives a marriage example and links it to empathy and love languages.",
+      "timestamp_start": "00:29:22",
+      "timestamp_end": "00:35:41",
+      "speakers": [
+        "Lenny",
+        "Nancy Duarte"
+      ],
+      "themes": [
+        "Communication",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nancy-duarte_t14",
+      "title": "Make audiences see what you\u2019re saying",
+      "summary": "Nancy emphasizes visual alignment via diagrams, whiteboards, napkin sketches, and \u2018star moments,\u2019 plus when to remove slides entirely so words paint the picture.",
+      "timestamp_start": "00:35:41",
+      "timestamp_end": "00:41:03",
+      "speakers": [
+        "Lenny",
+        "Nancy Duarte"
+      ],
+      "themes": [
+        "Design",
+        "Communication",
+        "Storytelling"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nancy-duarte_t15",
+      "title": "Tactical slide advice: one point per slide",
+      "summary": "They cover practical slide construction: one big idea for the talk, one point per slide, adapting to audience culture, and the difference between stage decks and dense \u2018slide docs.\u2019",
+      "timestamp_start": "00:41:03",
+      "timestamp_end": "00:44:39",
+      "speakers": [
+        "Lenny",
+        "Nancy Duarte"
+      ],
+      "themes": [
+        "Design",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nancy-duarte_t16",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Eppo, an A/B testing and experimentation platform.",
+      "timestamp_start": "00:44:39",
+      "timestamp_end": "00:45:59",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Experimentation",
+        "Analytics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "nancy-duarte_t17",
+      "title": "Minto Pyramid and leading with conclusions",
+      "summary": "Nancy discusses when the Minto Pyramid (conclusion-first) works\u2014especially with execs and fundraising\u2014while noting other audiences need more build-up and longing toward the \u2018new bliss.\u2019",
+      "timestamp_start": "00:45:59",
+      "timestamp_end": "00:47:02",
+      "speakers": [
+        "Lenny",
+        "Nancy Duarte"
+      ],
+      "themes": [
+        "Communication",
+        "Storytelling"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

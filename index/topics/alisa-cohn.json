@@ -1,0 +1,241 @@
+{
+  "episode_id": "alisa-cohn",
+  "topics": [
+    {
+      "topic_id": "alisa-cohn_t1",
+      "title": "Cold open: promotion denial, leadership, meetings tease",
+      "summary": "Quick preview of the episode\u2019s key advice: a script for telling someone they\u2019re not getting promoted, why leaders shouldn\u2019t optimize for employee happiness, and a teaser about ending meetings effectively.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:54",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Alisa Cohn"
+      ],
+      "themes": [
+        "Difficult Conversations",
+        "Leadership",
+        "Meetings"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "alisa-cohn_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Alisa Cohn\u2019s coaching background and previews what listeners will learn: actionable scripts for hard conversations, meeting wrap-up questions, leadership mindset, and founder alignment topics.",
+      "timestamp_start": "00:01:00",
+      "timestamp_end": "00:01:59",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Leadership",
+        "Difficult Conversations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "alisa-cohn_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Eppo (experimentation/A-B testing) and Rippling (HR/IT/payroll platform), including product benefits and listener offers.",
+      "timestamp_start": "00:01:59",
+      "timestamp_end": "00:04:54",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "alisa-cohn_t4",
+      "title": "Why difficult conversations feel so hard",
+      "summary": "Lenny shares his dread of hard conversations; Alisa coaches on identifying what\u2019s truly scary (e.g., upsetting others) and reframing discomfort as a path to growth and better outcomes.",
+      "timestamp_start": "00:04:54",
+      "timestamp_end": "00:08:23",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Alisa Cohn"
+      ],
+      "themes": [
+        "Difficult Conversations",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "alisa-cohn_t5",
+      "title": "Common hard conversation types and mindset",
+      "summary": "They enumerate typical scenarios (performance feedback, promotions, terminations) and emphasize getting your intent and mindset right: feedback is to help someone succeed, not to vent or punish.",
+      "timestamp_start": "00:08:23",
+      "timestamp_end": "00:12:23",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Alisa Cohn"
+      ],
+      "themes": [
+        "Difficult Conversations",
+        "Performance Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "alisa-cohn_t6",
+      "title": "Script for performance feedback with peers",
+      "summary": "Alisa provides a practical script for addressing missed deadlines and poor coordination, focusing on neutral framing, shared expectations, and leaving the meeting with a clear plan.",
+      "timestamp_start": "00:12:23",
+      "timestamp_end": "00:16:23",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Alisa Cohn"
+      ],
+      "themes": [
+        "Difficult Conversations",
+        "Performance Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "alisa-cohn_t7",
+      "title": "When feedback is your observation, not hearsay",
+      "summary": "They adapt the script for cases where the manager is the primary observer (e.g., writing quality), stressing observable facts, specific expectations, and concrete improvement supports.",
+      "timestamp_start": "00:16:23",
+      "timestamp_end": "00:20:20",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Alisa Cohn"
+      ],
+      "themes": [
+        "Performance Management",
+        "Difficult Conversations"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "alisa-cohn_t8",
+      "title": "Handling defensiveness and emotional reactions",
+      "summary": "Alisa shares language to pause a heated exchange, restate caring intent, and decide whether to continue now or revisit later\u2014so the manager doesn\u2019t get pulled into an argument.",
+      "timestamp_start": "00:20:20",
+      "timestamp_end": "00:25:02",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Alisa Cohn"
+      ],
+      "themes": [
+        "Difficult Conversations",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "alisa-cohn_t9",
+      "title": "Script for not granting a promotion",
+      "summary": "Alisa outlines how to deliver a promotion \u2018no\u2019 early and clearly, explain decision criteria, and provide hope and a development path; they also cover how to respond to disagreement.",
+      "timestamp_start": "00:25:02",
+      "timestamp_end": "00:31:05",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Alisa Cohn"
+      ],
+      "themes": [
+        "Difficult Conversations",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "alisa-cohn_t10",
+      "title": "Pre-termination clarity: the final warning script",
+      "summary": "Before firing, Alisa recommends a crystal-clear \u2018deal breaker\u2019 conversation with a timeline and consequences, ensuring expectations are explicit and termination is not a surprise.",
+      "timestamp_start": "00:31:05",
+      "timestamp_end": "00:35:05",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Alisa Cohn"
+      ],
+      "themes": [
+        "Performance Management",
+        "Difficult Conversations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "alisa-cohn_t11",
+      "title": "The termination conversation and logistics handoff",
+      "summary": "Alisa gives a concise firing script (with HR/legal caveats): reference prior warnings, state the decision plainly, and transition to HR for next steps while staying respectful.",
+      "timestamp_start": "00:35:05",
+      "timestamp_end": "00:35:46",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Alisa Cohn"
+      ],
+      "themes": [
+        "Difficult Conversations",
+        "Performance Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "alisa-cohn_t12",
+      "title": "Positive feedback as a leadership skill",
+      "summary": "They argue that praise should be as specific and behavior-linked as constructive feedback, building morale, clarity, and a reservoir of trust that makes hard conversations easier later.",
+      "timestamp_start": "00:35:46",
+      "timestamp_end": "00:37:59",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Alisa Cohn"
+      ],
+      "themes": [
+        "Leadership",
+        "Performance Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "alisa-cohn_t13",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Liveblocks, highlighting ready-made collaborative product features (comments, multiplayer, copilot-like experiences) and a signup link.",
+      "timestamp_start": "00:37:59",
+      "timestamp_end": "00:38:31",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "alisa-cohn_t14",
+      "title": "Leaders shouldn\u2019t optimize for employee happiness",
+      "summary": "Alisa explains why founders/managers often over-index on keeping people happy, and why the real job is driving results through clarity, accountability, and a winning culture that celebrates progress.",
+      "timestamp_start": "00:38:31",
+      "timestamp_end": "00:41:48",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Alisa Cohn"
+      ],
+      "themes": [
+        "Leadership",
+        "Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "alisa-cohn_t15",
+      "title": "Perks vs performance: the avocado toast story",
+      "summary": "Alisa begins an example about a leader using perks and social rituals (e.g., avocado toast) to boost morale, setting up a contrast between feel-good culture and execution/results.",
+      "timestamp_start": "00:41:48",
+      "timestamp_end": "00:41:57",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Alisa Cohn"
+      ],
+      "themes": [
+        "Culture",
+        "Leadership"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

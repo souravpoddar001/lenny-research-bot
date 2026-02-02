@@ -1,0 +1,238 @@
+{
+  "episode_id": "bob-baxley",
+  "topics": [
+    {
+      "topic_id": "bob-baxley_t1",
+      "title": "Introduction and Background",
+      "summary": "Bob opens with a moral framing for product quality and defines design as imagining a better future and making it real; Lenny introduces Bob\u2019s background and what the episode will cover.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:23",
+      "speakers": [
+        "Bob Baxley",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Design",
+        "Product Strategy",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bob-baxley_t2",
+      "title": "Sponsor Break: Stripe",
+      "summary": "Lenny shares a sponsor message about Stripe\u2019s payments platform, Billing, and optimized checkout products, plus adoption stats across major companies.",
+      "timestamp_start": "00:02:23",
+      "timestamp_end": "00:04:00",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bob-baxley_t3",
+      "title": "Bob\u2019s framing: software like early film",
+      "summary": "Bob compares today\u2019s software industry to the film industry in the 1920s and credits the podcast ecosystem as a key way practitioners learn to build better products together.",
+      "timestamp_start": "00:04:00",
+      "timestamp_end": "00:04:31",
+      "speakers": [
+        "Bob Baxley",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Leadership",
+        "Product Culture"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "bob-baxley_t4",
+      "title": "Steve Jobs\u2019 favorite product: Apple itself",
+      "summary": "Bob recounts the story that Jobs\u2019 proudest creation was Apple\u2019s culture, emphasizing enduring decision-making habits and relentless improvement as the company\u2019s real legacy.",
+      "timestamp_start": "00:04:31",
+      "timestamp_end": "00:06:16",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bob Baxley"
+      ],
+      "themes": [
+        "Product Culture",
+        "Leadership",
+        "Design"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "bob-baxley_t5",
+      "title": "Why Apple alumni can struggle elsewhere",
+      "summary": "They discuss why leaving Apple doesn\u2019t always translate into success elsewhere: strong cultural \u201cindoctrination,\u201d needing a post-Apple recalibration period, and keeping values while adapting behaviors.",
+      "timestamp_start": "00:06:16",
+      "timestamp_end": "00:08:59",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bob Baxley"
+      ],
+      "themes": [
+        "Product Culture",
+        "Leadership",
+        "Careers"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bob-baxley_t6",
+      "title": "Pinterest culture mismatch and executive fragility",
+      "summary": "Bob shares lessons from his difficult Pinterest stint, describing how senior roles are precarious, life context matters, and startups must \u201cgrow\u201d leaders as fast as the company scales.",
+      "timestamp_start": "00:08:59",
+      "timestamp_end": "00:12:49",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bob Baxley"
+      ],
+      "themes": [
+        "Careers",
+        "Leadership",
+        "Product Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bob-baxley_t7",
+      "title": "Choosing roles: ensure the company values design",
+      "summary": "Bob explains how he evaluates new opportunities by testing whether founders genuinely value design from the beginning, arguing design-led cultures can\u2019t be grafted on later.",
+      "timestamp_start": "00:12:49",
+      "timestamp_end": "00:15:47",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bob Baxley"
+      ],
+      "themes": [
+        "Careers",
+        "Design",
+        "Product Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bob-baxley_t8",
+      "title": "What design is: clear thinking made visible",
+      "summary": "Bob defines design as a holistic mindset\u2014intentional future-making\u2014distinct from engineering or science, and notes some companies compete on design while others don\u2019t.",
+      "timestamp_start": "00:15:47",
+      "timestamp_end": "00:17:19",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bob Baxley"
+      ],
+      "themes": [
+        "Design",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bob-baxley_t9",
+      "title": "The strategic value of design alignment",
+      "summary": "Bob argues design\u2019s real leverage is aligning vision-to-execution so products feel cohesive; clarity enables smaller teams, faster decisions, and \u201cscenius\u201d in tight groups (e.g., Apple, Pixar).",
+      "timestamp_start": "00:17:19",
+      "timestamp_end": "00:22:42",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bob Baxley"
+      ],
+      "themes": [
+        "Design",
+        "Product Strategy",
+        "Team Collaboration"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bob-baxley_t10",
+      "title": "Design-led vs designer-led; PM and design boundaries",
+      "summary": "Bob clarifies that design-led doesn\u2019t mean designers run everything; he advocates respecting PM ownership of roadmap and embracing cross-functional creative tension as the source of better outcomes.",
+      "timestamp_start": "00:22:42",
+      "timestamp_end": "00:26:28",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bob Baxley"
+      ],
+      "themes": [
+        "Team Collaboration",
+        "Leadership",
+        "Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bob-baxley_t11",
+      "title": "Should design report to engineering?",
+      "summary": "Bob makes the case that design can be most effective as \u201cphase zero\u201d of engineering, citing Apple\u2019s structure; they discuss tradeoffs of org models and aligning incentives across functions.",
+      "timestamp_start": "00:26:28",
+      "timestamp_end": "00:30:53",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bob Baxley"
+      ],
+      "themes": [
+        "Org Design",
+        "Team Collaboration",
+        "Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bob-baxley_t12",
+      "title": "Integrating engineers early: creative technologists",
+      "summary": "Bob recommends involving a small cross-functional group early\u2014especially engineers comfortable with ambiguity\u2014to build shared ownership and get the \u201cvillage\u201d to fall in love with the product.",
+      "timestamp_start": "00:30:53",
+      "timestamp_end": "00:35:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bob Baxley"
+      ],
+      "themes": [
+        "Team Collaboration",
+        "Design",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bob-baxley_t13",
+      "title": "Design doesn\u2019t have to slow you down",
+      "summary": "Bob challenges the premise that design costs time, arguing clarity of identity and constraints speeds decisions; strong tenets reduce permutations and enable smaller, faster design teams.",
+      "timestamp_start": "00:35:12",
+      "timestamp_end": "00:38:06",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bob Baxley"
+      ],
+      "themes": [
+        "Design",
+        "Product Culture",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "bob-baxley_t14",
+      "title": "Design tenets vs principles (with ThoughtSpot examples)",
+      "summary": "Bob explains tenets as practical decision tools (not vague ideals) and shares ThoughtSpot\u2019s: documentation is a failure state, start simple/opt into complexity, and make the product feel single-minded.",
+      "timestamp_start": "00:38:06",
+      "timestamp_end": "00:42:21",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Bob Baxley"
+      ],
+      "themes": [
+        "Design",
+        "Product Strategy",
+        "Product Culture"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

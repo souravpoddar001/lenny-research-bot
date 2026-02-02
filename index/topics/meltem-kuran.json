@@ -1,0 +1,257 @@
+{
+  "episode_id": "meltem-kuran",
+  "topics": [
+    {
+      "topic_id": "meltem-kuran_t1",
+      "title": "Introduction and Background",
+      "summary": "Meltem previews an early-growth philosophy of nailing fundamentals before scaling. Lenny introduces the show, Meltem\u2019s role at Deel, and what listeners will learn.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:01",
+      "speakers": [
+        "Meltem Kuran Berkowitz",
+        "Lenny"
+      ],
+      "themes": [
+        "Growth Strategy",
+        "Startups"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "meltem-kuran_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Miro and LMNT.",
+      "timestamp_start": "00:02:01",
+      "timestamp_end": "00:04:22",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsorships"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "meltem-kuran_t3",
+      "title": "Deel overview and growth trajectory stats",
+      "summary": "Meltem explains Deel\u2019s product (global payroll/HR/compliance) and shares ARR milestones from under $1M to ~$295M while staying EBITDA positive. She also describes how early she joined and Deel\u2019s headcount at the time.",
+      "timestamp_start": "00:04:22",
+      "timestamp_end": "00:06:34",
+      "speakers": [
+        "Lenny",
+        "Meltem Kuran Berkowitz"
+      ],
+      "themes": [
+        "Company Building",
+        "Metrics & Analytics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "meltem-kuran_t4",
+      "title": "Cheap growth channels: communities and answering questions",
+      "summary": "Meltem explains why \u201ccheap channels\u201d often mean places people ask for help (Google/SEO, Reddit, Quora, communities) and how adding value beats selling. She details Deel\u2019s Reddit keyword-monitoring approach and why audience size/intent matter.",
+      "timestamp_start": "00:06:34",
+      "timestamp_end": "00:12:43",
+      "speakers": [
+        "Lenny",
+        "Meltem Kuran Berkowitz"
+      ],
+      "themes": [
+        "Community",
+        "Growth Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "meltem-kuran_t5",
+      "title": "How to respond: value-first, never automated",
+      "summary": "They discuss what good community engagement looks like (answer fully, then mention your product) versus spammy replies. Meltem emphasizes human responses, internal participation (including founders), and expanding to Twitter and closed communities.",
+      "timestamp_start": "00:12:43",
+      "timestamp_end": "00:16:29",
+      "speakers": [
+        "Lenny",
+        "Meltem Kuran Berkowitz"
+      ],
+      "themes": [
+        "Community",
+        "Growth Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "meltem-kuran_t6",
+      "title": "SEO principles: end the search, not keyword stuffing",
+      "summary": "Meltem shares Deel\u2019s SEO philosophy: write content that fully resolves the user\u2019s query so they don\u2019t bounce back to Google. Example: explaining Employer of Record (EOR) clearly, including limitations and downsides.",
+      "timestamp_start": "00:16:29",
+      "timestamp_end": "00:18:42",
+      "speakers": [
+        "Lenny",
+        "Meltem Kuran Berkowitz"
+      ],
+      "themes": [
+        "SEO & Content",
+        "Growth Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "meltem-kuran_t7",
+      "title": "SEO operations: traffic-light keyword framework and tooling",
+      "summary": "Meltem details Deel\u2019s \u201ctraffic light\u201d system for classifying up to ~700 keywords by intent (green/yellow/red) and prioritizing by volume. She covers search-intent checks, SERP research, related-questions mining, and tools like Clearscope for readability and on-page optimization.",
+      "timestamp_start": "00:18:42",
+      "timestamp_end": "00:21:55",
+      "speakers": [
+        "Lenny",
+        "Meltem Kuran Berkowitz"
+      ],
+      "themes": [
+        "SEO & Content",
+        "Operations"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "meltem-kuran_t8",
+      "title": "Content team structure and publishing cadence",
+      "summary": "Meltem describes an ~8-person content org with strong ops, freelancers, and domain-focused owners across product lines, plus newer formats like video/education. They publish ~10 pieces/week split between new articles and updates, and expand across languages.",
+      "timestamp_start": "00:21:55",
+      "timestamp_end": "00:25:15",
+      "speakers": [
+        "Lenny",
+        "Meltem Kuran Berkowitz"
+      ],
+      "themes": [
+        "SEO & Content",
+        "Team & Org Design"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "meltem-kuran_t9",
+      "title": "When SEO makes sense (and when it doesn\u2019t)",
+      "summary": "Meltem argues SEO is best when people actively search for solutions (common in B2B), but less effective for many consumer goods where discovery happens via social/influencers. They discuss how intent and search behavior should drive channel choice.",
+      "timestamp_start": "00:25:15",
+      "timestamp_end": "00:26:39",
+      "speakers": [
+        "Lenny",
+        "Meltem Kuran Berkowitz"
+      ],
+      "themes": [
+        "SEO & Content",
+        "Growth Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "meltem-kuran_t10",
+      "title": "Early growth prioritization: fundamentals before paid",
+      "summary": "Meltem lays out a step-by-step early growth checklist: fast, understandable website; ensure discoverability via content; only then scale paid. She also warns against generic B2B copy and shares how Deel moved off a hard-coded site to enable rapid A/B testing.",
+      "timestamp_start": "00:26:39",
+      "timestamp_end": "00:29:24",
+      "speakers": [
+        "Lenny",
+        "Meltem Kuran Berkowitz"
+      ],
+      "themes": [
+        "Growth Strategy",
+        "Conversion & Landing Pages"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "meltem-kuran_t11",
+      "title": "Paid growth expansion: long-tail channels and diversification",
+      "summary": "After covering major ad platforms, Deel invested in long-tail paid placements (review sites, newsletters, podcasts, niche sites) that individually are small but collectively meaningful. Meltem emphasizes diversification and the operational reality that small channels still require real setup effort.",
+      "timestamp_start": "00:29:24",
+      "timestamp_end": "00:31:01",
+      "speakers": [
+        "Lenny",
+        "Meltem Kuran Berkowitz"
+      ],
+      "themes": [
+        "Paid Acquisition",
+        "Growth Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "meltem-kuran_t12",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for AssemblyAI.",
+      "timestamp_start": "00:31:01",
+      "timestamp_end": "00:32:12",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsorships"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "meltem-kuran_t13",
+      "title": "Why early B2B awareness campaigns often waste time",
+      "summary": "Meltem explains why she avoids early awareness campaigns in B2B: they\u2019re slow, resource-intensive, and messaging is usually not yet proven. She contrasts this with later-stage brand reinforcement, citing Notion\u2019s out-of-home ads as effective due to timing and recognizable product UI.",
+      "timestamp_start": "00:32:12",
+      "timestamp_end": "00:35:07",
+      "speakers": [
+        "Lenny",
+        "Meltem Kuran Berkowitz"
+      ],
+      "themes": [
+        "Brand & Awareness",
+        "Growth Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "meltem-kuran_t14",
+      "title": "Partnership strategy: trusted advisors vs audience overlap",
+      "summary": "Meltem distinguishes between partners with shared audiences and partners who are trusted sources for the specific decision. She highlights VCs as high-leverage partners because founders ask them for vendor recommendations when scaling hiring.",
+      "timestamp_start": "00:35:07",
+      "timestamp_end": "00:36:16",
+      "speakers": [
+        "Lenny",
+        "Meltem Kuran Berkowitz"
+      ],
+      "themes": [
+        "Partnerships",
+        "Growth Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "meltem-kuran_t15",
+      "title": "Customer questions Deel answers: compliance, taxes, hiring specifics",
+      "summary": "They discuss the concrete, high-intent questions Deel fields (cross-border compliance and tax nuances by country and worker type). Meltem shares a prior example where a PPP resource became so authoritative it was linked by the IRS, illustrating the power of truly helpful content.",
+      "timestamp_start": "00:36:16",
+      "timestamp_end": "00:40:05",
+      "speakers": [
+        "Lenny",
+        "Meltem Kuran Berkowitz"
+      ],
+      "themes": [
+        "SEO & Content",
+        "Customer Education"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "meltem-kuran_t16",
+      "title": "Paid acquisition best practices: creative fatigue and true ROI",
+      "summary": "Meltem covers paid growth fundamentals: continuous creative refresh, aligning messaging with evolving product, and optimizing beyond lead volume to conversion and payback. Deel uses real-time dashboards to track funnel conversion and 1-year value by channel (e.g., Facebook) to guide spend.",
+      "timestamp_start": "00:40:05",
+      "timestamp_end": "00:42:11",
+      "speakers": [
+        "Lenny",
+        "Meltem Kuran Berkowitz"
+      ],
+      "themes": [
+        "Paid Acquisition",
+        "Metrics & Analytics"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

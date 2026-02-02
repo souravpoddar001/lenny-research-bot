@@ -1,0 +1,228 @@
+{
+  "episode_id": "varun-parmar",
+  "topics": [
+    {
+      "topic_id": "varun-parmar_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Varun Parmar (CPO of Miro), frames curiosity about Miro\u2019s product culture and competitive success, and previews topics they\u2019ll cover.",
+      "timestamp_start": "00:00:33",
+      "timestamp_end": "00:01:07",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Company & Product Overview"
+      ],
+      "quote_count": 2
+    },
+    {
+      "topic_id": "varun-parmar_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Miro, Braintrust, and later Linear, including product pitches and promo URLs.",
+      "timestamp_start": "00:01:39",
+      "timestamp_end": "00:41:15",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "varun-parmar_t3",
+      "title": "Global footprint and cross-cultural product collaboration",
+      "summary": "Varun explains Miro\u2019s globally distributed setup (product org largely in Europe, GTM worldwide) and how it forces strong internal empathy and cross-functional teamwork.",
+      "timestamp_start": "00:04:13",
+      "timestamp_end": "00:07:20",
+      "speakers": [
+        "Lenny",
+        "Varun Parmar"
+      ],
+      "themes": [
+        "Org Design & Cross-functional Collaboration"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "varun-parmar_t4",
+      "title": "Practicing empathy through better product questions",
+      "summary": "They discuss how asking \u201cwhat insight led you here?\u201d in reviews and 1:1s builds empathy and ensures decisions are grounded in customer and internal stakeholder context.",
+      "timestamp_start": "00:07:20",
+      "timestamp_end": "00:09:16",
+      "speakers": [
+        "Lenny",
+        "Varun Parmar"
+      ],
+      "themes": [
+        "Product Discovery & Customer Insights"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "varun-parmar_t5",
+      "title": "Design Sprints and the Talktrack product decision",
+      "summary": "Varun shares how Miro uses 5-day Design Sprints to validate hypotheses quickly, illustrated by Talktrack\u2019s approach (syncing board movement + video) driven by user insight about collaboration, not just communication.",
+      "timestamp_start": "00:09:16",
+      "timestamp_end": "00:11:36",
+      "speakers": [
+        "Lenny",
+        "Varun Parmar"
+      ],
+      "themes": [
+        "Product Discovery & Customer Insights"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "varun-parmar_t6",
+      "title": "Competing in a crowded whiteboard collaboration market",
+      "summary": "Varun outlines Miro\u2019s differentiation: a team-centric lens (not single-persona tools), broad industry applicability beyond digital design, unique workshop/ritual capabilities, and community as a growth engine.",
+      "timestamp_start": "00:11:45",
+      "timestamp_end": "00:17:09",
+      "speakers": [
+        "Lenny",
+        "Varun Parmar"
+      ],
+      "themes": [
+        "Competitive Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "varun-parmar_t7",
+      "title": "Team size and persona-based product org structure",
+      "summary": "Varun gives org context (1,800 employees; large PM org) and explains Miro\u2019s \u201cstreams\u201d organized primarily by persona (e.g., Enterprise, Platform) plus horizontal areas like Growth, Infra, and Data/AI.",
+      "timestamp_start": "00:17:09",
+      "timestamp_end": "00:19:24",
+      "speakers": [
+        "Lenny",
+        "Varun Parmar"
+      ],
+      "themes": [
+        "Org Design & Cross-functional Collaboration"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "varun-parmar_t8",
+      "title": "Avoiding persona silos with AMPED and reviews",
+      "summary": "They cover how Miro keeps a holistic product experience despite persona streams: AMPED cross-functional teams (Analytics, Marketing, Product, Engineering, Design), transparent product work via Slack, formal product reviews for big bets, and enterprise checklists baked into feature development.",
+      "timestamp_start": "00:19:24",
+      "timestamp_end": "00:22:57",
+      "speakers": [
+        "Lenny",
+        "Varun Parmar"
+      ],
+      "themes": [
+        "Org Design & Cross-functional Collaboration"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "varun-parmar_t9",
+      "title": "Why product marketing is embedded in product teams",
+      "summary": "Varun explains the rationale for including product marketing in AMPED: sharper positioning, packaging, and competitive differentiation so shipped features translate into market impact and sales clarity.",
+      "timestamp_start": "00:22:57",
+      "timestamp_end": "00:25:24",
+      "speakers": [
+        "Lenny",
+        "Varun Parmar"
+      ],
+      "themes": [
+        "Go-to-Market & Sales"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "varun-parmar_t10",
+      "title": "Competition as the key variable in growth",
+      "summary": "Varun argues company growth often tracks what competitors enable or constrain (distribution, pricing, \u201cgood enough\u201d product) and advises being explicit about differentiation and ecosystem positioning rather than ignoring competitors.",
+      "timestamp_start": "00:25:24",
+      "timestamp_end": "00:28:43",
+      "speakers": [
+        "Lenny",
+        "Varun Parmar"
+      ],
+      "themes": [
+        "Competitive Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "varun-parmar_t11",
+      "title": "Products always get better or worse",
+      "summary": "Varun shares a core philosophy: every release moves you forward or backward versus competitors in customers\u2019 minds, like chess moves, which forces clarity on what to build and why.",
+      "timestamp_start": "00:28:43",
+      "timestamp_end": "00:30:59",
+      "speakers": [
+        "Lenny",
+        "Varun Parmar"
+      ],
+      "themes": [
+        "Competitive Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "varun-parmar_t12",
+      "title": "Speed philosophy: be first to hit the brick wall",
+      "summary": "Varun advocates moving fast in competitive, uncertain spaces to learn sooner than others\u2014prioritizing rapid iteration to discover wrong paths early and adjust direction.",
+      "timestamp_start": "00:30:59",
+      "timestamp_end": "00:34:21",
+      "speakers": [
+        "Lenny",
+        "Varun Parmar"
+      ],
+      "themes": [
+        "Execution & Shipping"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "varun-parmar_t13",
+      "title": "Creating urgency by removing blockers",
+      "summary": "They discuss why teams slow down (technical/org/prioritization blockers) and Varun\u2019s approach: encourage PMs to raise blockers quickly and make leadership responsible for fast resolution to create a virtuous cycle of faster delivery.",
+      "timestamp_start": "00:34:21",
+      "timestamp_end": "00:37:19",
+      "speakers": [
+        "Lenny",
+        "Varun Parmar"
+      ],
+      "themes": [
+        "Execution & Shipping"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "varun-parmar_t14",
+      "title": "Operating system: deliver customer value faster, high quality",
+      "summary": "Varun describes Miro\u2019s product motto and how it\u2019s operationalized: value measured by usage/metric movement, speed tracked via cycle times, and quality reinforced through monthly design leadership reviews that classify shipped work as high-quality or not.",
+      "timestamp_start": "00:37:19",
+      "timestamp_end": "00:43:57",
+      "speakers": [
+        "Lenny",
+        "Varun Parmar"
+      ],
+      "themes": [
+        "Execution & Shipping"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "varun-parmar_t15",
+      "title": "Measuring velocity with stage gates and cycle times",
+      "summary": "Varun explains Miro\u2019s staged product process (strategy, problem, solution, post-ship metric impact), sizing (small/medium/large), and using shared cycle-time data to benchmark teams, learn from outliers, and improve throughput via product ops/product excellence.",
+      "timestamp_start": "00:43:57",
+      "timestamp_end": "00:45:48",
+      "speakers": [
+        "Lenny",
+        "Varun Parmar"
+      ],
+      "themes": [
+        "Execution & Shipping"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

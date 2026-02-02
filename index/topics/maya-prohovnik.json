@@ -1,0 +1,170 @@
+{
+  "episode_id": "maya-prohovnik",
+  "topics": [
+    {
+      "topic_id": "maya-prohovnik_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Maya Prohovnik, her role leading podcast product at Spotify, and Anchor\u2019s impact on podcast hosting and creation. Maya and Lenny set up the conversation\u2019s focus on product leadership lessons and early Anchor stories.",
+      "timestamp_start": "00:00:48",
+      "timestamp_end": "00:06:22",
+      "speakers": [
+        "Lenny",
+        "Maya Prohovnik"
+      ],
+      "themes": [
+        "Introduction and Background"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "maya-prohovnik_t2",
+      "title": "Dogfooding through making multiple podcasts",
+      "summary": "Maya explains why she personally makes podcasts to understand creators, detailing four shows (Stephen King, Big Brother, a niche book podcast, and parenting). Key insight: firsthand creator experience reveals emotional and practical barriers that data alone can\u2019t show.",
+      "timestamp_start": "00:06:24",
+      "timestamp_end": "00:11:35",
+      "speakers": [
+        "Maya Prohovnik",
+        "Lenny"
+      ],
+      "themes": [
+        "Dogfooding",
+        "Creator Tools",
+        "Product Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "maya-prohovnik_t3",
+      "title": "Operationalizing dogfooding across the product team",
+      "summary": "Maya shares tactics to make dogfooding real: celebrating teammates who create, incorporating creation into offsites, listening to team podcasts, and offering a practical \u201chow to start\u201d playbook. She also describes her habit of persuading people to start podcasts as a growth lever.",
+      "timestamp_start": "00:11:40",
+      "timestamp_end": "00:16:31",
+      "speakers": [
+        "Maya Prohovnik",
+        "Lenny"
+      ],
+      "themes": [
+        "Dogfooding",
+        "Team Culture",
+        "Creator Tools"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "maya-prohovnik_t4",
+      "title": "Balancing gut instinct with data",
+      "summary": "Maya discusses how product has become overly \u201cscientific\u201d and why intuition should be treated as a valid data point, especially when building for delight. She outlines when to use different kinds of data and how leaders must justify gut calls with experience, user stories, and clear reasoning.",
+      "timestamp_start": "00:16:31",
+      "timestamp_end": "00:20:56",
+      "speakers": [
+        "Maya Prohovnik",
+        "Lenny"
+      ],
+      "themes": [
+        "Decision-Making",
+        "Product Strategy",
+        "Product Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "maya-prohovnik_t5",
+      "title": "Anchor 1.0 to 2.0: pivot despite good metrics",
+      "summary": "Maya recounts the difficult decision to move away from a beloved, retained social-audio product because it wouldn\u2019t reach Anchor\u2019s mission-scale ambitions. Lesson: don\u2019t overbuild for the loud 20%; be willing to \u201ckill your darlings\u201d to serve the broader 80% and long-term vision.",
+      "timestamp_start": "00:20:56",
+      "timestamp_end": "00:26:21",
+      "speakers": [
+        "Maya Prohovnik",
+        "Lenny"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Startups",
+        "Decision-Making"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "maya-prohovnik_t6",
+      "title": "Anchor 2.0 to podcasting: embracing user demand",
+      "summary": "After resisting \u201cpodcast\u201d framing, Anchor tested exporting/distribution and discovered it triggered hockey-stick growth, prompting a rebuild around RSS and publishing. Lesson: stay flexible\u2014mission can be fixed while tactics and positioning remain mutable; small tests can reveal existential growth levers.",
+      "timestamp_start": "00:26:28",
+      "timestamp_end": "00:29:42",
+      "speakers": [
+        "Maya Prohovnik",
+        "Lenny"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Startups",
+        "Creator Tools"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "maya-prohovnik_t7",
+      "title": "Unscalable distribution hack: interns submit to Apple",
+      "summary": "Maya explains Anchor\u2019s \u201cone-button distribution\u201d illusion: interns manually created Apple IDs and submitted podcasts to reduce friction before automation existed. Key insight: remarkable, friction-killing experiences drive rapid adoption; \u201cbuild things that don\u2019t scale\u201d can unlock early market share.",
+      "timestamp_start": "00:29:42",
+      "timestamp_end": "00:34:15",
+      "speakers": [
+        "Maya Prohovnik",
+        "Lenny"
+      ],
+      "themes": [
+        "Growth",
+        "Startups",
+        "Creator Tools"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "maya-prohovnik_t8",
+      "title": "Sponsor Break",
+      "summary": "Lenny reads an ad for LinkedIn Ads, highlighting B2B targeting, measurement, and a $100 campaign credit offer.",
+      "timestamp_start": "00:34:15",
+      "timestamp_end": "00:36:03",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "maya-prohovnik_t9",
+      "title": "Making the Spotify acquisition work",
+      "summary": "Maya attributes Anchor\u2019s successful integration to cultural fit, shared vision, and proactive internal marketing to stay visible and valuable as strategies evolved. She emphasizes adaptability\u2014embracing shifts while keeping the overarching mission constant.",
+      "timestamp_start": "00:36:03",
+      "timestamp_end": "00:39:20",
+      "speakers": [
+        "Maya Prohovnik",
+        "Lenny"
+      ],
+      "themes": [
+        "Mergers & Acquisitions",
+        "Product Leadership",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "maya-prohovnik_t10",
+      "title": "Keeping a startup pace inside Spotify",
+      "summary": "Maya describes how Anchor preserved its startup identity via explicit core values (including \u201cmove fast\u201d) and leadership reinforcement from Spotify\u2019s CEO encouraging them to teach speed to the broader org. She notes inevitable slowing with scale but stresses maintaining the DNA intentionally.",
+      "timestamp_start": "00:39:20",
+      "timestamp_end": "00:41:04",
+      "speakers": [
+        "Maya Prohovnik",
+        "Lenny"
+      ],
+      "themes": [
+        "Team Culture",
+        "Product Leadership",
+        "Mergers & Acquisitions"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

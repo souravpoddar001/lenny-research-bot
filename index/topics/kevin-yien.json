@@ -1,0 +1,231 @@
+{
+  "episode_id": "kevin-yien",
+  "topics": [
+    {
+      "topic_id": "kevin-yien_t1",
+      "title": "Introduction and Background",
+      "summary": "Cold open highlights Kevin\u2019s contrarian PM takes (selling your product, decision logs, unsell email, AI). Lenny introduces Kevin\u2019s background (Stripe, Square, Mutiny) and what the episode will cover.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:04",
+      "speakers": [
+        "Kevin Yien",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Career",
+        "Product Management",
+        "AI"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "kevin-yien_t2",
+      "title": "Twitter avatar story and writing online",
+      "summary": "They discuss Kevin\u2019s long-running profile photo, how it was designed, and a brief tangent on profile pictures as a product idea.",
+      "timestamp_start": "00:02:05",
+      "timestamp_end": "00:03:29",
+      "speakers": [
+        "Kevin Yien",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Career"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kevin-yien_t3",
+      "title": "Don\u2019t start as a PM: build first",
+      "summary": "Kevin argues PM is about converting a team\u2019s potential energy into realized customer value, and early-stage product work should be done by builders closest to the loop. He recommends gaining foundational experience before taking on the PM role.",
+      "timestamp_start": "00:03:29",
+      "timestamp_end": "00:05:06",
+      "speakers": [
+        "Kevin Yien",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Career",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kevin-yien_t4",
+      "title": "Sponsor Break",
+      "summary": "Ads for BuildBetter.AI and OneSchema (including OneSchema FileFeeds) and how they help product teams operationalize insights and integrations.",
+      "timestamp_start": "00:05:10",
+      "timestamp_end": "00:07:40",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Christina"
+      ],
+      "themes": [
+        "Tools"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kevin-yien_t5",
+      "title": "When teams do and don\u2019t need PMs",
+      "summary": "They discuss why some companies can delay hiring PMs (builders are the customer; PM activities still happen). Kevin frames PM as delegating decision-making work when builders aren\u2019t the customer or the space is complex.",
+      "timestamp_start": "00:07:54",
+      "timestamp_end": "00:10:46",
+      "speakers": [
+        "Kevin Yien",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Management",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kevin-yien_t6",
+      "title": "Best starting roles: engineering, design, sales",
+      "summary": "Kevin recommends aspiring PMs start in roles they\u2019d later take PM responsibilities from\u2014engineering, design, or sales\u2014highlighting sales as underrated for customer understanding. They also reframe the move to PM as doubling down on strengths, not \u201csettling.\u201d",
+      "timestamp_start": "00:10:48",
+      "timestamp_end": "00:12:47",
+      "speakers": [
+        "Kevin Yien",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Career",
+        "Product Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "kevin-yien_t7",
+      "title": "Why great PMs must be great writers",
+      "summary": "Kevin argues writing creates clarity at scale and is essential both internally (PRDs, alignment) and externally (compelling customer-facing messaging). If a PM can\u2019t sell/support the product in writing, Kevin questions their ability to build it.",
+      "timestamp_start": "00:12:47",
+      "timestamp_end": "00:15:06",
+      "speakers": [
+        "Kevin Yien",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Management",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kevin-yien_t8",
+      "title": "How to become a better writer",
+      "summary": "Kevin advises consuming compelling writing (not PM artifacts), developing taste, and iterating; Lenny adds references like Paul Graham and a short-sentences writing book. They also discuss cadence and varying sentence structure to keep readers engaged.",
+      "timestamp_start": "00:15:06",
+      "timestamp_end": "00:19:10",
+      "speakers": [
+        "Kevin Yien",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Communication",
+        "Career"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kevin-yien_t9",
+      "title": "PM-Eng-Design collaboration: constraints and overlap",
+      "summary": "Kevin explains PMs should \u2018draw the perimeter\u2019 (set constraints) while staying obsessed with the final deliverable, embracing murky overlaps rather than rigid swim lanes. He also argues many teams underinvest in design and shares Square\u2019s unusually high design ratio.",
+      "timestamp_start": "00:19:10",
+      "timestamp_end": "00:22:21",
+      "speakers": [
+        "Kevin Yien",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Management",
+        "Leadership",
+        "Collaboration"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kevin-yien_t10",
+      "title": "Square POS story: sweating animation details",
+      "summary": "Kevin recounts spending a week tuning menu navigation animation timing for restaurant POS to serve both expert bartenders and new staff. The lesson: PMs shouldn\u2019t abdicate \u2018small\u2019 UX details that materially affect adoption and usability.",
+      "timestamp_start": "00:22:21",
+      "timestamp_end": "00:24:24",
+      "speakers": [
+        "Kevin Yien",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Management",
+        "Design"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "kevin-yien_t11",
+      "title": "Creating time for craft amid deadlines",
+      "summary": "They discuss pushing deadlines to protect quality and the need to \u2018keep the main thing the main thing\u2019 amid internal busywork. Kevin notes team DNA matters (quality vs. speed) and PMs must balance focus with handling multiple responsibilities.",
+      "timestamp_start": "00:24:34",
+      "timestamp_end": "00:28:41",
+      "speakers": [
+        "Kevin Yien",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Leadership",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kevin-yien_t12",
+      "title": "Making constraints concrete in PRDs",
+      "summary": "Kevin gives examples of useful constraints: clear customer segment, jobs-to-be-done, platform scope (web/mobile), and product principles/tradeoffs (e.g., speed vs. consistency). Constraints remove decisions and enable more creative solutions within bounds.",
+      "timestamp_start": "00:28:41",
+      "timestamp_end": "00:31:35",
+      "speakers": [
+        "Kevin Yien",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Management",
+        "Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "kevin-yien_t13",
+      "title": "Tuning fork feedback and silent doc reads",
+      "summary": "Kevin advocates putting concrete drafts in front of teams to elicit better reactions, and running meetings as silent doc reads for focused, real-time commenting. He argues synchronous review reduces feedback latency and speeds iteration despite adding a meeting.",
+      "timestamp_start": "00:31:35",
+      "timestamp_end": "00:35:13",
+      "speakers": [
+        "Kevin Yien",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Communication",
+        "Collaboration",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "kevin-yien_t14",
+      "title": "Decision logs to build product sense",
+      "summary": "Kevin describes decision logs as a way to practice making decisions with insufficient data by documenting rationale and later checking outcomes, including simulating decisions other teams/companies make. He shares a Shopify Shop app prediction example and offers habit-building tips and a simple daily-log format.",
+      "timestamp_start": "00:35:13",
+      "timestamp_end": "00:45:02",
+      "speakers": [
+        "Kevin Yien",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Management",
+        "Career",
+        "Decision-Making"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

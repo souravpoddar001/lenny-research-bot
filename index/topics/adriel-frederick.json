@@ -1,0 +1,178 @@
+{
+  "episode_id": "adriel-frederick",
+  "topics": [
+    {
+      "topic_id": "adriel-frederick_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Adriel Frederick (Reddit, Lyft, Facebook) and previews themes like growth, diversity, and AI. Adriel gives a fast career overview from Trinidad to consulting to tech roles across Intuit, Facebook, biotech, and Lyft.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:08:05",
+      "speakers": [
+        "Adriel Frederick",
+        "Lenny"
+      ],
+      "themes": [
+        "Career",
+        "Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "adriel-frederick_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Linear and Flatfile, focused on issue tracking workflows and CSV/data onboarding during B2B onboarding.",
+      "timestamp_start": "00:02:05",
+      "timestamp_end": "00:06:45",
+      "speakers": [
+        "Lenny",
+        "Ashley"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "adriel-frederick_t3",
+      "title": "Reddit X and new interaction modes",
+      "summary": "Adriel explains Reddit X as an incubation team exploring new modes of interaction on Reddit (audience, temporality, media like video/audio) rather than metaverse bets. He shares an example: the Reddit avatar marketplace using NFT tech for creator rights and IP acknowledgement.",
+      "timestamp_start": "00:08:05",
+      "timestamp_end": "00:11:55",
+      "speakers": [
+        "Adriel Frederick",
+        "Lenny"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Innovation"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "adriel-frederick_t4",
+      "title": "How to run R&D teams without rejection",
+      "summary": "Adriel describes \u201corgan rejection\u201d risks for R&D/incubation groups and how to avoid them: tie work to core mission, make wins shared across the company, and avoid signaling that only the R&D team gets to innovate.",
+      "timestamp_start": "00:11:55",
+      "timestamp_end": "00:14:45",
+      "speakers": [
+        "Adriel Frederick",
+        "Lenny"
+      ],
+      "themes": [
+        "Org Design",
+        "Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "adriel-frederick_t5",
+      "title": "Trinidad background shaping product assumptions",
+      "summary": "Adriel explains how growing up in Trinidad\u2019s diverse environment shaped his worldview and product instincts. He gives a concrete example: challenging the common tech assumption that one phone number/device maps to one person, influencing Facebook registration and growth design.",
+      "timestamp_start": "00:14:45",
+      "timestamp_end": "00:18:10",
+      "speakers": [
+        "Adriel Frederick",
+        "Lenny"
+      ],
+      "themes": [
+        "Diversity & Inclusion",
+        "Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "adriel-frederick_t6",
+      "title": "Building diversity for speed and retention",
+      "summary": "Adriel shares what it was like being Facebook\u2019s first Black PM and how diverse teams improved product decision speed by bringing global user perspectives into the room. He argues diversity efforts work best when leaders see clear business value, build a culture that retains diverse talent, and then recruiting becomes easier.",
+      "timestamp_start": "00:18:10",
+      "timestamp_end": "00:23:10",
+      "speakers": [
+        "Adriel Frederick",
+        "Lenny"
+      ],
+      "themes": [
+        "Diversity & Inclusion",
+        "Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "adriel-frederick_t7",
+      "title": "Leading amid controversy and bad press",
+      "summary": "Adriel discusses working at high-scrutiny companies (Facebook, Lyft, Reddit) and the PM\u2019s role as a stabilizing force\u2014damping extremes of hype or criticism. He emphasizes separating valid critiques from power-shift backlash by staying close to users, including personally driving for Lyft to understand driver economics and rider needs.",
+      "timestamp_start": "00:23:10",
+      "timestamp_end": "00:31:55",
+      "speakers": [
+        "Adriel Frederick",
+        "Lenny"
+      ],
+      "themes": [
+        "Leadership",
+        "Ethics"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "adriel-frederick_t8",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Eppo, an A/B testing and experimentation platform for modern growth teams, highlighting slicing results and using north-star metrics.",
+      "timestamp_start": "00:31:55",
+      "timestamp_end": "00:33:10",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "adriel-frederick_t9",
+      "title": "Lyft pricing failure and operational control",
+      "summary": "Adriel recounts a stressful Lyft moment: launching a complex pricing model that became hard to operate and change, forcing a rebuild. The key lesson: operational requirements and human-in-the-loop control must be first-order design constraints in marketplace products.",
+      "timestamp_start": "00:33:10",
+      "timestamp_end": "00:37:05",
+      "speakers": [
+        "Adriel Frederick",
+        "Lenny"
+      ],
+      "themes": [
+        "Marketplace",
+        "Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "adriel-frederick_t10",
+      "title": "Humans and algorithms: tools, judgment, interfaces",
+      "summary": "Adriel generalizes the lesson: algorithms optimize objectives but don\u2019t understand intent, long-term effects, or strategic constraints, so PMs must define what humans decide vs machines execute. He frames ML as a tool that should amplify human intent via good interfaces, not operate as an unchecked black box; they discuss AI risk/exponential progress briefly.",
+      "timestamp_start": "00:37:05",
+      "timestamp_end": "00:44:55",
+      "speakers": [
+        "Adriel Frederick",
+        "Lenny"
+      ],
+      "themes": [
+        "AI/ML",
+        "Product Management"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "adriel-frederick_t11",
+      "title": "Growth hacking myths and real growth work",
+      "summary": "Adriel critiques \u201cgrowth hacks\u201d as insufficient without real user value and warns against treating users as easily fooled. He describes Facebook growth as grinding fundamentals\u2014discoverability, onboarding, and especially helping users find friends\u2014plus a concrete insight about friend recommendations spiraling into one friend group and needing broader seeding.",
+      "timestamp_start": "00:44:55",
+      "timestamp_end": "00:48:55",
+      "speakers": [
+        "Adriel Frederick",
+        "Lenny"
+      ],
+      "themes": [
+        "Growth",
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    }
+  ]
+}

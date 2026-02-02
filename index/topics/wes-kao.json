@@ -1,0 +1,186 @@
+{
+  "episode_id": "wes-kao",
+  "topics": [
+    {
+      "topic_id": "wes-kao_t1",
+      "title": "Communication as agency and self-reflection",
+      "summary": "Wes argues that confusion, skepticism, or apathy often stems from how operators explain things, and encourages taking responsibility for improving clarity, compellingness, and anticipating questions. Communication is framed as a learnable skill that increases the odds of getting desired outcomes.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:18",
+      "speakers": [
+        "Wes Kao",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Communication",
+        "Leadership",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "wes-kao_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for WorkOS (enterprise auth/authorization) and Vanta (security/compliance automation).",
+      "timestamp_start": "00:02:18",
+      "timestamp_end": "00:04:36",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "wes-kao_t3",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Wes, shares testimonials about her communication impact, and sets the episode goal: practical tactics for executive communication and influence. Wes adds the idea of \u201cpractice like it\u2019s game day\u201d by treating every stakeholder interaction as reps, not just exec presentations.",
+      "timestamp_start": "00:04:36",
+      "timestamp_end": "00:10:43",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Wes Kao"
+      ],
+      "themes": [
+        "Communication",
+        "Leadership",
+        "Career Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "wes-kao_t4",
+      "title": "Sales then logistics: earn buy-in first",
+      "summary": "Wes explains the common mistake of jumping into implementation details before the audience agrees the idea is worth doing. She shares a concrete example (weekly wins collection) and how a brief upfront \u201cwhy/benefit\u201d framing plus a clear ask prevents crickets and back-and-forth.",
+      "timestamp_start": "00:11:00",
+      "timestamp_end": "00:18:20",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Wes Kao"
+      ],
+      "themes": [
+        "Communication",
+        "Influence",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "wes-kao_t5",
+      "title": "Being concise: clarity requires preparation",
+      "summary": "Concision is defined as density of insight, not shortness. Wes argues the real bottleneck is not knowing the core point, and recommends lightweight prep before meetings (purpose, desired outcome, key points) to avoid rambling and improve executive-level communication.",
+      "timestamp_start": "00:18:20",
+      "timestamp_end": "00:22:25",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Wes Kao"
+      ],
+      "themes": [
+        "Communication",
+        "Productivity",
+        "Leadership"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "wes-kao_t6",
+      "title": "Concise writing: reread, reduce cognitive load",
+      "summary": "Wes recommends rereading before sending, explicitly asking \u201chow can I reduce cognitive load,\u201d and trimming secondary material. She introduces the \u201cblast radius\u201d idea: a confusing Slack/memo creates costly back-and-forth across many readers, so small upfront edits create outsized leverage.",
+      "timestamp_start": "00:22:25",
+      "timestamp_end": "00:27:28",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Wes Kao"
+      ],
+      "themes": [
+        "Communication",
+        "Productivity",
+        "Writing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "wes-kao_t7",
+      "title": "Signposting and avoiding excessive formatting",
+      "summary": "Wes describes signposting words/phrases (e.g., \u201cbecause,\u201d \u201cfor example,\u201d \u201cnext step,\u201d \u201cfirst/second/third\u201d) to guide readers and listeners through structure. She cautions against over-bolding and over-bulleting, arguing fragments can hide unclear thinking and increase reader interpretation burden.",
+      "timestamp_start": "00:27:28",
+      "timestamp_end": "00:32:34",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Wes Kao"
+      ],
+      "themes": [
+        "Communication",
+        "Writing",
+        "Clarity"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "wes-kao_t8",
+      "title": "How to practice: measure speed to desired reaction",
+      "summary": "Wes suggests a first-principles feedback loop: track how quickly and smoothly you get the reaction/outcome you want, and iterate. She recommends experimenting like a game, but adopting one tactic at a time to avoid overwhelm and build habits.",
+      "timestamp_start": "00:32:34",
+      "timestamp_end": "00:39:25",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Wes Kao"
+      ],
+      "themes": [
+        "Communication",
+        "Career Growth",
+        "Productivity"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "wes-kao_t9",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Coda (all-in-one collaborative workspace for docs, spreadsheets, workflows, and AI).",
+      "timestamp_start": "00:39:25",
+      "timestamp_end": "00:40:42",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "wes-kao_t10",
+      "title": "Slack writing standards and compounding leverage",
+      "summary": "Lenny shares an anecdote about Wes\u2019s high-quality Slack messages (complete sentences, punctuation, clear takeaways) and Wes connects better communication to faster responses and better reception of ideas. They emphasize small upfront investments that compound across teams and time.",
+      "timestamp_start": "00:40:42",
+      "timestamp_end": "00:42:17",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Wes Kao"
+      ],
+      "themes": [
+        "Communication",
+        "Leadership",
+        "Productivity"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "wes-kao_t11",
+      "title": "Calibrating confidence: speak accurately about certainty",
+      "summary": "Wes explains pitfalls of overconfidence (presenting hypotheses as facts) and underconfidence (over-disclaiming strong recommendations). The solution is precise language about conviction level, plus sharing reasoning/evidence so others can align or challenge specific assumptions.",
+      "timestamp_start": "00:42:17",
+      "timestamp_end": "00:46:49",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Wes Kao"
+      ],
+      "themes": [
+        "Communication",
+        "Influence",
+        "Decision-Making"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

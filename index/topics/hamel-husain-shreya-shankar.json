@@ -1,0 +1,227 @@
+{
+  "episode_id": "hamel-husain-shreya-shankar",
+  "topics": [
+    {
+      "topic_id": "hamel-husain-shreya-shankar_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny frames evals as a high-ROI, increasingly essential skill for AI product builders, previewing common misconceptions and the practical, iterative nature of eval work.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:41",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamel Husain",
+        "Shreya Shankar"
+      ],
+      "themes": [
+        "AI Product Development",
+        "Evaluation & Metrics",
+        "Product Management"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "hamel-husain-shreya-shankar_t2",
+      "title": "Sponsor Break",
+      "summary": "Ads for Fin (AI customer service agent) and Dscout (research platform) before the interview begins.",
+      "timestamp_start": "00:02:58",
+      "timestamp_end": "00:05:04",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor Message"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamel-husain-shreya-shankar_t3",
+      "title": "What evals are and why they matter",
+      "summary": "Hamel defines evals as systematic measurement and improvement for LLM apps\u2014more like analytics and experimentation than vibes\u2014while Lenny pushes for concrete intuition.",
+      "timestamp_start": "00:05:07",
+      "timestamp_end": "00:07:44",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamel Husain"
+      ],
+      "themes": [
+        "Evaluation & Metrics",
+        "AI Product Development",
+        "Experimentation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamel-husain-shreya-shankar_t4",
+      "title": "Evals spectrum vs unit tests metaphor",
+      "summary": "Shreya explains evals as a broad toolkit (unit tests are only one piece), including tracking cohorts, distribution shifts, and ongoing quality metrics beyond strict correctness.",
+      "timestamp_start": "00:07:44",
+      "timestamp_end": "00:10:06",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Shreya Shankar"
+      ],
+      "themes": [
+        "Evaluation & Metrics",
+        "AI Product Development",
+        "User Research"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamel-husain-shreya-shankar_t5",
+      "title": "Real-world example setup: Nurture Boss traces",
+      "summary": "Hamel introduces a property-management AI assistant and shows how to start eval work by inspecting real production traces in an observability tool rather than jumping straight to tests.",
+      "timestamp_start": "00:10:06",
+      "timestamp_end": "00:14:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamel Husain"
+      ],
+      "themes": [
+        "Observability",
+        "AI Product Development",
+        "Evaluation & Metrics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamel-husain-shreya-shankar_t6",
+      "title": "Reading a trace: prompts, tools, and responses",
+      "summary": "They walk through an actual system prompt, tool calls, and user interaction to illustrate what trace data looks like and how product context is needed to judge quality.",
+      "timestamp_start": "00:14:12",
+      "timestamp_end": "00:17:07",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamel Husain"
+      ],
+      "themes": [
+        "Observability",
+        "Prompting",
+        "AI Product Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamel-husain-shreya-shankar_t7",
+      "title": "Open coding: manual error analysis with notes",
+      "summary": "Hamel demonstrates writing quick, informal notes on the first upstream issue per trace (e.g., missing human handoff, garbled SMS turns, hallucinated features) to build a grounded error picture.",
+      "timestamp_start": "00:17:07",
+      "timestamp_end": "00:23:55",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamel Husain"
+      ],
+      "themes": [
+        "Error Analysis",
+        "Evaluation & Metrics",
+        "AI Product Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamel-husain-shreya-shankar_t8",
+      "title": "Why LLMs can\u2019t replace early error analysis",
+      "summary": "Shreya argues LLMs lack crucial product/business context during free-form note-taking, so automating this step leads to false confidence (e.g., hallucinations that look \u2018fine\u2019).",
+      "timestamp_start": "00:23:55",
+      "timestamp_end": "00:25:17",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Shreya Shankar"
+      ],
+      "themes": [
+        "Error Analysis",
+        "Human-in-the-Loop",
+        "Evaluation & Metrics"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "hamel-husain-shreya-shankar_t9",
+      "title": "Benevolent dictator: avoid committee bottlenecks",
+      "summary": "Hamel recommends appointing a trusted domain expert (often the PM) to drive open coding decisions quickly, keeping the process lightweight and actionable rather than consensus-driven.",
+      "timestamp_start": "00:25:17",
+      "timestamp_end": "00:28:07",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamel Husain"
+      ],
+      "themes": [
+        "Product Management",
+        "Team Process",
+        "Evaluation & Metrics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamel-husain-shreya-shankar_t10",
+      "title": "How many traces to review: theoretical saturation",
+      "summary": "They discuss reviewing ~100 traces as a practical starting point, stopping when new issues stop emerging (\u2018theoretical saturation\u2019) and emphasizing speed and learning over perfection.",
+      "timestamp_start": "00:28:07",
+      "timestamp_end": "00:31:42",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamel Husain",
+        "Shreya Shankar"
+      ],
+      "themes": [
+        "Error Analysis",
+        "Team Process",
+        "Evaluation & Metrics"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamel-husain-shreya-shankar_t11",
+      "title": "Axial coding: using LLMs to cluster notes",
+      "summary": "After manual notes, they use LLMs to synthesize open codes into axial codes (failure-mode categories), then refine categories to be more specific and actionable.",
+      "timestamp_start": "00:31:42",
+      "timestamp_end": "00:41:18",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamel Husain",
+        "Shreya Shankar"
+      ],
+      "themes": [
+        "Error Analysis",
+        "Evaluation & Metrics",
+        "Human-in-the-Loop"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamel-husain-shreya-shankar_t12",
+      "title": "Auto-labeling and counting failures with spreadsheets",
+      "summary": "They show labeling notes into categories via Google Sheets AI, adding \u2018none of the above\u2019 for taxonomy gaps, and using pivot tables to quantify top failure modes and prioritize fixes.",
+      "timestamp_start": "00:41:18",
+      "timestamp_end": "00:47:24",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamel Husain",
+        "Shreya Shankar"
+      ],
+      "themes": [
+        "Evaluation & Metrics",
+        "Prioritization",
+        "AI Product Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "hamel-husain-shreya-shankar_t13",
+      "title": "From error counts to eval types and LLM judges",
+      "summary": "Hamel explains deciding when an issue warrants an eval, contrasting cheaper code-based checks with LLM-as-judge approaches that require validating the judge itself, and tees up building an LLM judge.",
+      "timestamp_start": "00:47:24",
+      "timestamp_end": "00:48:31",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Hamel Husain"
+      ],
+      "themes": [
+        "Evaluation & Metrics",
+        "Experimentation",
+        "AI Product Development"
+      ],
+      "quote_count": 3
+    }
+  ]
+}

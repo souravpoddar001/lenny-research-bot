@@ -1,0 +1,255 @@
+{
+  "episode_id": "jason-fried",
+  "topics": [
+    {
+      "topic_id": "jason-fried_t1",
+      "title": "Bootstrapping as an alternative to unicorn chasing",
+      "summary": "Jason argues bootstrapping builds the core skill of making money and offers many viable outcomes versus the narrow, outlier path of venture-backed unicorns.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:49",
+      "speakers": [
+        "Jason Fried"
+      ],
+      "themes": [
+        "Bootstrapping",
+        "Venture Capital",
+        "Business Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-fried_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Jason Fried and 37signals, framing the conversation around constraints, instinct, long-term planning skepticism, and bootstrapping vs. venture funding.",
+      "timestamp_start": "00:00:49",
+      "timestamp_end": "00:02:20",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Entrepreneurship",
+        "Bootstrapping",
+        "Business Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-fried_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Coda and Sidebar, focusing on team collaboration tooling and peer-group career support.",
+      "timestamp_start": "00:02:20",
+      "timestamp_end": "00:04:59",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-fried_t4",
+      "title": "37signals scale: profits, customers, and focus",
+      "summary": "Jason shares 37signals\u2019 long-running profitability, customer count, and small team size, emphasizing profits and sustainability over vanity metrics and acronyms.",
+      "timestamp_start": "00:04:59",
+      "timestamp_end": "00:06:47",
+      "speakers": [
+        "Lenny",
+        "Jason Fried"
+      ],
+      "themes": [
+        "Bootstrapping",
+        "Metrics",
+        "Business Strategy"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "jason-fried_t5",
+      "title": "When raising money makes sense",
+      "summary": "Jason distinguishes capital-intensive businesses from software, arguing most software can start cheaply and that venture funding forces a single outcome: massive growth.",
+      "timestamp_start": "00:06:47",
+      "timestamp_end": "00:09:58",
+      "speakers": [
+        "Lenny",
+        "Jason Fried"
+      ],
+      "themes": [
+        "Venture Capital",
+        "Bootstrapping",
+        "Business Models"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-fried_t6",
+      "title": "Why small teams can beat big competitors",
+      "summary": "Jason explains how 37signals stays lean\u2014no sales team, minimal pricing tiers, one product for everyone, and two-person feature teams\u2014avoiding enterprise complexity and organizational bloat.",
+      "timestamp_start": "00:09:58",
+      "timestamp_end": "00:13:39",
+      "speakers": [
+        "Lenny",
+        "Jason Fried"
+      ],
+      "themes": [
+        "Team Structure",
+        "Product Development",
+        "Business Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-fried_t7",
+      "title": "Defining success: enjoyment, profit, and simplicity",
+      "summary": "Jason frames success as building a company you\u2019d want to do again, prioritizing collective profitability, principled decisions, and avoiding OKRs/KPIs and growth targets.",
+      "timestamp_start": "00:13:39",
+      "timestamp_end": "00:17:08",
+      "speakers": [
+        "Lenny",
+        "Jason Fried"
+      ],
+      "themes": [
+        "Company Culture",
+        "Metrics",
+        "Business Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-fried_t8",
+      "title": "Playing the infinite game: staying independent",
+      "summary": "They discuss building a company meant to last\u2014no investors, no exit pressure\u2014so Jason can keep doing the work he enjoys and evolve the business freely.",
+      "timestamp_start": "00:17:08",
+      "timestamp_end": "00:20:12",
+      "speakers": [
+        "Lenny",
+        "Jason Fried"
+      ],
+      "themes": [
+        "Entrepreneurship",
+        "Bootstrapping",
+        "Company Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-fried_t9",
+      "title": "Startups vs. stay-ups and enduring plateaus",
+      "summary": "Jason argues staying in business is harder than starting; they compare this to sustaining newsletters/podcasts and discuss riding plateaus while remaining profitable.",
+      "timestamp_start": "00:20:12",
+      "timestamp_end": "00:22:13",
+      "speakers": [
+        "Lenny",
+        "Jason Fried"
+      ],
+      "themes": [
+        "Entrepreneurship",
+        "Resilience",
+        "Business Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-fried_t10",
+      "title": "Longevity, motivation cycles, and leadership curiosity",
+      "summary": "Jason reflects on 25 years running 37signals, fluctuating energy over time, renewed excitement from new products/books, and curiosity about how a growth-focused leader might run the company.",
+      "timestamp_start": "00:22:13",
+      "timestamp_end": "00:27:29",
+      "speakers": [
+        "Lenny",
+        "Jason Fried"
+      ],
+      "themes": [
+        "Leadership",
+        "Company Culture",
+        "Business Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-fried_t11",
+      "title": "Who should bootstrap vs. pursue venture scale",
+      "summary": "Jason emphasizes optionality: venture outcomes are rare outliers, while many sustainable business \u201clanding spots\u201d exist; he supports both paths but wants founders to see alternatives.",
+      "timestamp_start": "00:27:29",
+      "timestamp_end": "00:30:31",
+      "speakers": [
+        "Lenny",
+        "Jason Fried"
+      ],
+      "themes": [
+        "Venture Capital",
+        "Bootstrapping",
+        "Entrepreneurship"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-fried_t12",
+      "title": "What makes a business truly venture-scale",
+      "summary": "Jason suggests some models (e.g., Uber/Airbnb) require rapid physical-world scale to be trusted, while most software doesn\u2019t need funding beyond marketing\u2014often at the cost of profitability.",
+      "timestamp_start": "00:30:31",
+      "timestamp_end": "00:33:20",
+      "speakers": [
+        "Lenny",
+        "Jason Fried"
+      ],
+      "themes": [
+        "Venture Capital",
+        "Business Models",
+        "Business Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-fried_t13",
+      "title": "Shape Up: appetites, six-week cycles, two-person teams",
+      "summary": "Jason outlines Shape Up\u2019s core mechanics: fixed time \u201cappetites\u201d (not estimates), small autonomous teams, shaping work upfront, trading scope, and killing work that can\u2019t be finished on time.",
+      "timestamp_start": "00:33:20",
+      "timestamp_end": "00:38:00",
+      "speakers": [
+        "Lenny",
+        "Jason Fried"
+      ],
+      "themes": [
+        "Product Development",
+        "Team Structure",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-fried_t14",
+      "title": "No promises, and how to adopt new methods safely",
+      "summary": "Jason argues promises (especially \u2018by end of year\u2019) create failure modes; he advises piloting Shape Up on low-criticality projects first to avoid organizational backlash from early missteps.",
+      "timestamp_start": "00:38:00",
+      "timestamp_end": "00:41:36",
+      "speakers": [
+        "Lenny",
+        "Jason Fried"
+      ],
+      "themes": [
+        "Execution",
+        "Product Development",
+        "Company Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "jason-fried_t15",
+      "title": "Why they avoid 'sprints' and use cooldowns",
+      "summary": "Jason explains why sprint language encourages unsustainable intensity; 37signals runs six-week cycles followed by two-week cooldowns for cleanup, bug fixes, and internal freelancing while shaping the next cycle.",
+      "timestamp_start": "00:41:36",
+      "timestamp_end": "00:43:12",
+      "speakers": [
+        "Lenny",
+        "Jason Fried"
+      ],
+      "themes": [
+        "Execution",
+        "Company Culture",
+        "Team Structure"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

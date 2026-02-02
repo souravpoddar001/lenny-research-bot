@@ -1,0 +1,170 @@
+{
+  "episode_id": "melissa-perri",
+  "topics": [
+    {
+      "topic_id": "melissa-perri_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the episode\u2019s focus on product owners, Scrum, SAFe, and large non-tech companies, and frames why this topic matters given job-market growth. Melissa sets expectations that she\u2019s spent years bridging agile and product management worlds.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:03:28",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Melissa Perri"
+      ],
+      "themes": [
+        "Agile & Scrum",
+        "Product Management",
+        "Org Design & Transformation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melissa-perri_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Pendo and OneSchema, covering product analytics/in-app guidance and CSV/SFTP-based integrations with validation and reliability.",
+      "timestamp_start": "00:03:43",
+      "timestamp_end": "00:06:24",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Christina Gilbert"
+      ],
+      "themes": [
+        "Tools & Technology"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melissa-perri_t3",
+      "title": "Melissa\u2019s experience with agile transformations",
+      "summary": "Melissa describes how she encountered dogmatic Scrum in larger companies and began training newly minted product owners during agile transformations. She highlights the recurring gap between Scrum product ownership and end-to-end product management, and notes examples of improvement like Capital One.",
+      "timestamp_start": "00:06:39",
+      "timestamp_end": "00:10:42",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Melissa Perri"
+      ],
+      "themes": [
+        "Org Design & Transformation",
+        "Product Management",
+        "Agile & Scrum"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "melissa-perri_t4",
+      "title": "Origins of product owner role in Scrum",
+      "summary": "Melissa traces agile\u2019s developer-led origins (Agile Manifesto, Scrum Guide) and explains how the product owner role was designed to prioritize developer work, not to perform modern product management. She explains how PO training often focuses on backlogs and ceremonies, omitting discovery, experimentation, and market/customer research.",
+      "timestamp_start": "00:10:56",
+      "timestamp_end": "00:21:10",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Melissa Perri"
+      ],
+      "themes": [
+        "Agile & Scrum",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melissa-perri_t5",
+      "title": "When frameworks help vs hinder startups",
+      "summary": "They discuss why smaller, experienced teams often don\u2019t need rigid frameworks, and how Scrum can become meeting-heavy when followed dogmatically. Melissa emphasizes using principles (talking about work, shipping frequently, inspect-and-adapt) rather than strict ceremony compliance.",
+      "timestamp_start": "00:21:59",
+      "timestamp_end": "00:26:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Melissa Perri"
+      ],
+      "themes": [
+        "Agile & Scrum",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melissa-perri_t6",
+      "title": "What SAFe is and why it spread",
+      "summary": "Melissa explains SAFe as a scaling approach marketed as a comprehensive operating model for large enterprises, with a prescriptive \u201cmap\u201d that executives find appealing. She notes SAFe wasn\u2019t the only scaling framework, but it became dominant due to packaging and clarity.",
+      "timestamp_start": "00:26:33",
+      "timestamp_end": "00:28:10",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Melissa Perri"
+      ],
+      "themes": [
+        "Agile & Scrum",
+        "Org Design & Transformation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melissa-perri_t7",
+      "title": "SAFe in practice: PO/PM split and planning",
+      "summary": "Melissa shares early SAFe experiences where product owners spend most time writing user stories to keep teams busy, while product managers handle customer input. She describes release trains, big-room planning, quarter commitments, and the common complaint that teams sprint back-to-back with little time for discovery.",
+      "timestamp_start": "00:28:10",
+      "timestamp_end": "00:33:58",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Melissa Perri"
+      ],
+      "themes": [
+        "Agile & Scrum",
+        "Product Management",
+        "Org Design & Transformation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melissa-perri_t8",
+      "title": "Why SAFe can create order-takers and dependency",
+      "summary": "They discuss how SAFe can push product owners into tactical order-taking, limit strategic growth, and make developers overly dependent on PO prioritization. Melissa argues teams should also self-direct on tech debt and that SAFe under-specifies discovery and feedback loops.",
+      "timestamp_start": "00:33:58",
+      "timestamp_end": "00:35:21",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Melissa Perri"
+      ],
+      "themes": [
+        "Product Management",
+        "Agile & Scrum",
+        "Org Design & Transformation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melissa-perri_t9",
+      "title": "Why executives buy SAFe and what happens next",
+      "summary": "Melissa explains SAFe\u2019s appeal as a plug-and-play handbook for leaders new to software, while noting many companies later rip it out or heavily modify it (e.g., Capital One removing agile roles). She highlights that SAFe doesn\u2019t define senior product leadership roles well, leaving strategy and portfolio direction unclear.",
+      "timestamp_start": "00:35:21",
+      "timestamp_end": "00:40:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Melissa Perri"
+      ],
+      "themes": [
+        "Org Design & Transformation",
+        "Agile & Scrum",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "melissa-perri_t10",
+      "title": "How to approach digital transformation more effectively",
+      "summary": "Melissa outlines a broader product operating model beyond development process: product strategy, org design, product ops infrastructure (data/customer access), and incentives/culture tied to outcomes. She argues large orgs need enough process and transparency to coordinate thousands of teams, but must connect work to business goals and feedback loops.",
+      "timestamp_start": "00:40:59",
+      "timestamp_end": "00:44:29",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Melissa Perri"
+      ],
+      "themes": [
+        "Org Design & Transformation",
+        "Product Operations",
+        "Product Management"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

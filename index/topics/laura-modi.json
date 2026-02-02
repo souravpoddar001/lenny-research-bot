@@ -1,0 +1,220 @@
+{
+  "episode_id": "laura-modi",
+  "topics": [
+    {
+      "topic_id": "laura-modi_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Laura Modi, her Airbnb background, and her founding of Bobbie. He previews themes like momentum, slowing growth strategically, and leadership through tough times.",
+      "timestamp_start": "00:00:56",
+      "timestamp_end": "00:02:11",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Leadership",
+        "Company Building",
+        "Growth"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "laura-modi_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Vanta (security compliance) and Element (electrolyte drink mix).",
+      "timestamp_start": "00:02:11",
+      "timestamp_end": "00:04:20",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "laura-modi_t3",
+      "title": "Airbnb roles and learning supply-as-product",
+      "summary": "Laura recaps her Airbnb journey across customer service scaling, European office consolidation, and leading host community/operations. They discuss the marketplace insight that hosts (supply) are the real product and growth follows when you build for them.",
+      "timestamp_start": "00:04:20",
+      "timestamp_end": "00:08:29",
+      "speakers": [
+        "Lenny",
+        "Laura Modi"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Marketplace Dynamics",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "laura-modi_t4",
+      "title": "Culture, energy, and storytelling as leverage",
+      "summary": "Laura shares key Airbnb lessons: culture as the foundation, energy as organizational currency, and storytelling to align teams and make even small features feel mission-driven. Lenny probes how these ideas translate into concrete practices.",
+      "timestamp_start": "00:08:29",
+      "timestamp_end": "00:11:45",
+      "speakers": [
+        "Lenny",
+        "Laura Modi"
+      ],
+      "themes": [
+        "Culture",
+        "Leadership",
+        "Communication"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "laura-modi_t5",
+      "title": "From Airbnb to Bobbie: risk and conviction",
+      "summary": "Laura explains the leap from Airbnb to starting an infant formula company, tying it to a pattern of taking calculated risks (Google\u2192Airbnb, Airbnb\u2192Bobbie). She emphasizes research, financial planning, and conviction over \u201clucky\u201d career moves.",
+      "timestamp_start": "00:11:45",
+      "timestamp_end": "00:15:10",
+      "speakers": [
+        "Lenny",
+        "Laura Modi"
+      ],
+      "themes": [
+        "Entrepreneurship",
+        "Career",
+        "Decision-Making"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "laura-modi_t6",
+      "title": "What Bobbie is and why it exists",
+      "summary": "Laura describes Bobbie as a modern, better-for-you infant formula brand built to remove guilt and stigma. She frames the market as long dominated by a duopoly and out of date with current science and consumer expectations.",
+      "timestamp_start": "00:15:20",
+      "timestamp_end": "00:17:54",
+      "speakers": [
+        "Lenny",
+        "Laura Modi"
+      ],
+      "themes": [
+        "Company Building",
+        "Brand",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "laura-modi_t7",
+      "title": "Formula shortage crisis and choosing to stop growth",
+      "summary": "During the 2022 formula shortage, Bobbie\u2019s demand surged, but inventory risk threatened existing subscribers. Laura recounts the decision to turn off the site for six months to protect current customers, creating the internal \u201cslowth\u201d mindset and prioritizing trust.",
+      "timestamp_start": "00:17:54",
+      "timestamp_end": "00:23:24",
+      "speakers": [
+        "Lenny",
+        "Laura Modi"
+      ],
+      "themes": [
+        "Crisis Management",
+        "Customer Focus",
+        "Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "laura-modi_t8",
+      "title": "Brand building: meet customers where they are",
+      "summary": "They explore what makes Bobbie\u2019s brand resonate: aligning messaging to the top anxieties parents already have, rather than being loud for its own sake. Laura also explains not trying to \u201cconvert\u201d staunch breast-is-best audiences and avoiding competitor finger-pointing.",
+      "timestamp_start": "00:25:16",
+      "timestamp_end": "00:30:04",
+      "speakers": [
+        "Lenny",
+        "Laura Modi"
+      ],
+      "themes": [
+        "Brand",
+        "Marketing",
+        "Customer Research"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "laura-modi_t9",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for AssemblyAI (speech-to-text and audio understanding API).",
+      "timestamp_start": "00:30:04",
+      "timestamp_end": "00:31:13",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "laura-modi_t10",
+      "title": "Branding internal programs and the FDA setback",
+      "summary": "Laura explains how naming internal initiatives (like Airbnb\u2019s \u201cAir Dives\u201d) boosts motivation and recall, sharing Bobbie examples like \u201cSecret Shopping.\u201d She then recounts an early FDA labeling issue that forced a product pull and a long compliance \u201cpause,\u201d reinforcing the need for resilience.",
+      "timestamp_start": "00:31:13",
+      "timestamp_end": "00:36:44",
+      "speakers": [
+        "Lenny",
+        "Laura Modi"
+      ],
+      "themes": [
+        "Operations",
+        "Culture",
+        "Regulation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "laura-modi_t11",
+      "title": "Managing founder life with three kids",
+      "summary": "Laura discusses the infrastructure required to balance a fast-growing company with parenting in a dual-founder household. She highlights the importance of support systems (EA, nanny), explicit weekly planning, and treating operations at home like a system.",
+      "timestamp_start": "00:36:44",
+      "timestamp_end": "00:40:11",
+      "speakers": [
+        "Lenny",
+        "Laura Modi",
+        "Kendra"
+      ],
+      "themes": [
+        "Leadership",
+        "Productivity",
+        "Work-Life Balance"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "laura-modi_t12",
+      "title": "Naivety, hiring generalists, and momentum",
+      "summary": "Laura argues that \u201cnaivety\u201d can unlock innovation in regulated or stagnant industries and shares how she hires for curiosity and speed over narrow credentials. She describes valuing \u201coptimistic doers\u201d who maintain momentum and avoid perfectionism.",
+      "timestamp_start": "00:40:11",
+      "timestamp_end": "00:45:57",
+      "speakers": [
+        "Lenny",
+        "Laura Modi"
+      ],
+      "themes": [
+        "Hiring",
+        "Leadership",
+        "Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "laura-modi_t13",
+      "title": "D2C growth: content and community before commerce",
+      "summary": "Laura challenges the idea that D2C is dead, arguing the old playbook (over-reliance on paid acquisition) is what\u2019s broken. She outlines Bobbie\u2019s approach\u2014content, community, then commerce\u2014highlighting SEO and the Milk Drunk content platform as long-term growth engines.",
+      "timestamp_start": "00:45:57",
+      "timestamp_end": "00:48:15",
+      "speakers": [
+        "Lenny",
+        "Laura Modi"
+      ],
+      "themes": [
+        "Growth",
+        "Marketing",
+        "Content Strategy"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

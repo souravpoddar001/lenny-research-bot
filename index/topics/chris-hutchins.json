@@ -1,0 +1,237 @@
+{
+  "episode_id": "chris-hutchins",
+  "topics": [
+    {
+      "topic_id": "chris-hutchins_t1",
+      "title": "Why consistency puts podcasts in top percentiles",
+      "summary": "Chris explains that while millions of podcasts exist, far fewer are active and consistent; simply publishing weekly for 10 weeks puts you in a small top slice. The key takeaway is that persistence is a major differentiator.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:30",
+      "speakers": [
+        "Chris Hutchins"
+      ],
+      "themes": [
+        "Podcasting"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "chris-hutchins_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the show\u2019s purpose and guest Chris Hutchins, highlighting Chris\u2019s creator shift to podcasting and his product background (Google, Wealthfront). He frames the episode as a deep dive on launching and growing a podcast.",
+      "timestamp_start": "00:00:30",
+      "timestamp_end": "00:01:15",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Podcasting",
+        "Career"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "chris-hutchins_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Notion (team collaboration/workspace) and Vanta (SOC 2 security compliance automation), including listener discount details.",
+      "timestamp_start": "00:01:15",
+      "timestamp_end": "00:03:48",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chris-hutchins_t4",
+      "title": "Episode framing: PM lessons and podcast growth",
+      "summary": "Lenny and Chris align on the episode\u2019s focus: practical guidance for launching a podcast, with some product-management learnings mixed in. They briefly touch on adjacent creator channels like YouTube.",
+      "timestamp_start": "00:03:48",
+      "timestamp_end": "00:05:09",
+      "speakers": [
+        "Lenny",
+        "Chris Hutchins"
+      ],
+      "themes": [
+        "Podcasting",
+        "Career"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chris-hutchins_t5",
+      "title": "Chris\u2019s career journey to full-time creator",
+      "summary": "Chris recounts his path from early startups to Google PM, Google Ventures, founding a fintech startup, and joining Wealthfront. He explains the mission of his podcast All the Hacks and why he\u2019s going full-time on it.",
+      "timestamp_start": "00:05:09",
+      "timestamp_end": "00:07:02",
+      "speakers": [
+        "Chris Hutchins",
+        "Lenny"
+      ],
+      "themes": [
+        "Career",
+        "Podcasting"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chris-hutchins_t6",
+      "title": "Wealthfront Self-Driving Money and Autopilot concept",
+      "summary": "Chris describes being recruited to Wealthfront to help define and build \u201cSelf-Driving Money,\u201d leading to Autopilot\u2014automated cash sweeps and account funding rules. He explains the customer problem (financial stress) and the product\u2019s core mechanics.",
+      "timestamp_start": "00:07:02",
+      "timestamp_end": "00:09:22",
+      "speakers": [
+        "Lenny",
+        "Chris Hutchins"
+      ],
+      "themes": [
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chris-hutchins_t7",
+      "title": "Testing, launch learnings, and product-market-fit reality",
+      "summary": "Chris shares how Wealthfront validated excitement via prototypes and \u201cpretend it exists\u201d interviews, but found adoption and top-of-funnel growth were harder than stated desire. Autopilot improved saving/contribution behaviors yet didn\u2019t become a major acquisition driver.",
+      "timestamp_start": "00:09:22",
+      "timestamp_end": "00:12:18",
+      "speakers": [
+        "Chris Hutchins",
+        "Lenny"
+      ],
+      "themes": [
+        "Product Strategy",
+        "User Research"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chris-hutchins_t8",
+      "title": "How to innovate inside a larger company",
+      "summary": "Chris emphasizes internal buy-in as critical: repeatedly communicate vision, craft compelling narratives, and build influence\u2014not just customer insights. He also stresses staying close to the broader market beyond formal research.",
+      "timestamp_start": "00:12:18",
+      "timestamp_end": "00:16:06",
+      "speakers": [
+        "Chris Hutchins",
+        "Lenny"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chris-hutchins_t9",
+      "title": "Vision vs features, and stating intent to build trust",
+      "summary": "They discuss connecting team work to mission and focusing on user benefits/feelings rather than feature lists. Chris adds a leadership tactic: explicitly state intent (company success over ego) when pushing bold ideas to reduce perceived self-interest.",
+      "timestamp_start": "00:16:06",
+      "timestamp_end": "00:20:19",
+      "speakers": [
+        "Lenny",
+        "Chris Hutchins"
+      ],
+      "themes": [
+        "Leadership",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chris-hutchins_t10",
+      "title": "Big bets, slugging average, and \u2018bet the company\u2019 swings",
+      "summary": "Chris explains the appeal and difficulty of projects that could make current work feel small if successful, and how leadership should balance iterative work with high-upside exploration. He references Andy Rachleff\u2019s focus on slugging average over batting average.",
+      "timestamp_start": "00:20:19",
+      "timestamp_end": "00:21:52",
+      "speakers": [
+        "Lenny",
+        "Chris Hutchins"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chris-hutchins_t11",
+      "title": "Podcast benefits and access to high-quality guests",
+      "summary": "Chris describes podcasting as a platform to explore curiosities and legitimately \u201cpick smart people\u2019s brains,\u201d enabling outreach that would otherwise feel awkward. He notes the importance of a clear niche to stand out.",
+      "timestamp_start": "00:21:52",
+      "timestamp_end": "00:24:12",
+      "speakers": [
+        "Lenny",
+        "Chris Hutchins"
+      ],
+      "themes": [
+        "Podcasting"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chris-hutchins_t12",
+      "title": "Should you start a podcast? Commitment and workload",
+      "summary": "Chris advises only starting if you\u2019d do it even without success, noting most podcasts won\u2019t take off; a limited \u2018season\u2019 commitment can reduce risk. He breaks down the hidden workload: prep, outreach, editing, and coordination.",
+      "timestamp_start": "00:24:12",
+      "timestamp_end": "00:29:31",
+      "speakers": [
+        "Lenny",
+        "Chris Hutchins"
+      ],
+      "themes": [
+        "Podcasting"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chris-hutchins_t13",
+      "title": "Launch strategy, rankings momentum, and guest leverage",
+      "summary": "They compare launch approaches; Chris recommends banking a few episodes and explains Apple chart dynamics driven by new-subscriber momentum. He suggests using early ranking spikes as social proof to book dream guests, while emphasizing content quality as the real driver.",
+      "timestamp_start": "00:29:31",
+      "timestamp_end": "00:34:50",
+      "speakers": [
+        "Lenny",
+        "Chris Hutchins"
+      ],
+      "themes": [
+        "Podcasting",
+        "Marketing"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "chris-hutchins_t14",
+      "title": "Be someone\u2019s favorite: true fans and consistency rituals",
+      "summary": "Chris explains the value of 1,000 true fans and how podcast intimacy builds advocacy, sharing, and loyalty. He highlights consistent release timing and notes that nearly every episode can be someone\u2019s favorite even if not universally popular.",
+      "timestamp_start": "00:34:50",
+      "timestamp_end": "00:36:57",
+      "speakers": [
+        "Lenny",
+        "Chris Hutchins"
+      ],
+      "themes": [
+        "Podcasting",
+        "Community"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "chris-hutchins_t15",
+      "title": "Choosing a podcast topic and forcing a decision",
+      "summary": "Chris shares his pivot from a dad/parenting concept to All the Hacks, guided by what people lean in about at dinner and what he loves researching. He recommends creating deadlines to avoid analysis paralysis and even testing via private podcast feeds before going public.",
+      "timestamp_start": "00:38:07",
+      "timestamp_end": "00:42:43",
+      "speakers": [
+        "Lenny",
+        "Chris Hutchins"
+      ],
+      "themes": [
+        "Podcasting",
+        "Creator Strategy"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "episode_id": "mayur-kamat",
+  "topics": [
+    {
+      "topic_id": "mayur-kamat_t1",
+      "title": "Introduction and Background",
+      "summary": "Mayur opens with a major failure as the first PM on Google Hangouts and the lesson to avoid long, macro-dependent projects. He frames product management as a discipline made scientific through experimentation and rapid hypothesis-to-data cycles.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:01:47",
+      "speakers": [
+        "Mayur Kamat",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Product Execution",
+        "Experimentation & Metrics"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "mayur-kamat_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for WorkOS (enterprise auth, SSO/SCIM, Warrant/Zanzibar) and Paragon (building and maintaining integrations for AI products).",
+      "timestamp_start": "00:02:14",
+      "timestamp_end": "00:04:41",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Brandon Foo"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mayur-kamat_t3",
+      "title": "Why Binance is uniquely fast and flat",
+      "summary": "Mayur describes Binance\u2019s unprecedented scale and growth, and how an extremely flat org (e.g., CEO with ~55 direct reports) enabled rapid decisions. He introduces the \u201cdaily leadership meeting\u201d operating model to prevent decisions from being blocked.",
+      "timestamp_start": "00:04:49",
+      "timestamp_end": "00:08:45",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mayur Kamat"
+      ],
+      "themes": [
+        "Company Culture",
+        "Leadership",
+        "Product Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mayur-kamat_t4",
+      "title": "Being in the details: KYC onboarding at scale",
+      "summary": "A concrete example of Binance\u2019s detail orientation: fixing KYC conversion across hundreds of country/document combinations with cell-by-cell analysis. The segment highlights extreme customer focus (\u201cno user left behind\u201d) and prioritizing the most leveraged problem.",
+      "timestamp_start": "00:10:55",
+      "timestamp_end": "00:13:43",
+      "speakers": [
+        "Mayur Kamat",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Execution",
+        "Customer Focus",
+        "Experimentation & Metrics"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "mayur-kamat_t5",
+      "title": "Resource scaling and \u201cwow\u201d moments at Google",
+      "summary": "Mayur contrasts Binance\u2019s ability to rapidly staff critical problems (e.g., 20 to 500 people) with a formative Google experience scaling infrastructure during an iOS Gmail sync incident. The takeaway is how organizational agility and resourcing can unlock speed.",
+      "timestamp_start": "00:14:01",
+      "timestamp_end": "00:16:06",
+      "speakers": [
+        "Mayur Kamat",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Product Execution",
+        "Leadership",
+        "Company Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mayur-kamat_t6",
+      "title": "When extreme operating models work (and why)",
+      "summary": "Mayur explains the conditions that make Binance-style intensity viable: hypergrowth, strong compensation incentives, and a mission-driven culture around financial inclusion. He notes both the power and potential downsides of this approach.",
+      "timestamp_start": "00:16:06",
+      "timestamp_end": "00:18:19",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mayur Kamat"
+      ],
+      "themes": [
+        "Company Culture",
+        "Leadership",
+        "Career Development"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mayur-kamat_t7",
+      "title": "Career acceleration advice for product managers",
+      "summary": "Mayur\u2019s core guidance: choose fast-growing companies for faster learning compounding, optimize roles around your strengths, don\u2019t over-optimize early compensation, and decide early whether you truly want an executive path. He emphasizes fun/energy as a key signal for long-term success.",
+      "timestamp_start": "00:18:19",
+      "timestamp_end": "00:24:59",
+      "speakers": [
+        "Mayur Kamat",
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Career Development",
+        "Leadership",
+        "Product Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mayur-kamat_t8",
+      "title": "Rethinking the C-level path and \u201cwork-life\u201d framing",
+      "summary": "Mayur argues that if the work energizes you, it won\u2019t feel like sacrifice; if you\u2019re focused on balancing work vs life, you may not want the executive track. The discussion reframes ambition around intrinsic motivation and identity.",
+      "timestamp_start": "00:25:00",
+      "timestamp_end": "00:27:01",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mayur Kamat"
+      ],
+      "themes": [
+        "Career Development",
+        "Leadership",
+        "Company Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mayur-kamat_t9",
+      "title": "Alternative career paths beyond climbing to CPO",
+      "summary": "Mayur outlines common paths: founding a company (with caveats about non-product work), deep domain specialization (e.g., fraud, KYC, card schemes), and intentionally prioritizing a holistic life where work isn\u2019t central to identity.",
+      "timestamp_start": "00:27:01",
+      "timestamp_end": "00:30:51",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mayur Kamat"
+      ],
+      "themes": [
+        "Career Development",
+        "Leadership",
+        "Company Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mayur-kamat_t10",
+      "title": "Why N26 produces strong PMs (and fintech effect)",
+      "summary": "They discuss why N26 alumni do well: category-defining problems, shared success creating dense networks, and inspiration from exceptional founders. Mayur adds that fintech PMs juggle two \u201ccustomers\u201d (users and regulators), making trade-offs existential and sharpening skills.",
+      "timestamp_start": "00:30:51",
+      "timestamp_end": "00:35:00",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mayur Kamat"
+      ],
+      "themes": [
+        "Career Development",
+        "Fintech",
+        "Company Culture"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mayur-kamat_t11",
+      "title": "How to identify your strengths (tools and signals)",
+      "summary": "Mayur shares methods to discover strengths: rigorous psychometric assessments (Agoda\u2019s process) and Ray Dalio-style 360 assessments, plus practical self-observation of which PM activities energize or drain you. The goal is aligning future roles with true strengths.",
+      "timestamp_start": "00:35:37",
+      "timestamp_end": "00:41:41",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mayur Kamat"
+      ],
+      "themes": [
+        "Career Development",
+        "Hiring & Team Building",
+        "Leadership"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mayur-kamat_t12",
+      "title": "Strategy is overrated: prioritize hypothesis-to-data speed",
+      "summary": "Mayur argues \u201cproduct strategy\u201d is often packaged intuition and politics unless grounded in fast experimentation. He advocates making product decisions scientific through rapid tests, echoing the maxim: bring data or the loudest voice wins.",
+      "timestamp_start": "00:41:41",
+      "timestamp_end": "00:44:48",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mayur Kamat"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Experimentation & Metrics",
+        "Product Execution"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "mayur-kamat_t13",
+      "title": "Operationalizing experimentation and making product scientific",
+      "summary": "Mayur explains how he uses experimentation tooling (e.g., Statsig) to guide priorities, while noting areas where testing is harder (compliance, pricing constraints in Europe). He highlights experimentation as a way to professionalize PM work and defend decisions with evidence.",
+      "timestamp_start": "00:44:48",
+      "timestamp_end": "00:49:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Mayur Kamat"
+      ],
+      "themes": [
+        "Experimentation & Metrics",
+        "Product Execution",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

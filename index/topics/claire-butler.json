@@ -1,0 +1,254 @@
+{
+  "episode_id": "claire-butler",
+  "topics": [
+    {
+      "topic_id": "claire-butler_t1",
+      "title": "Early customer save: fixing Coda\u2019s first adoption",
+      "summary": "Claire recounts Figma\u2019s first real user (Coda) saying yes, then nearly churning immediately due to a file-opening issue\u2014prompting the team to drop everything and even drive to Palo Alto to fix a MacBook. Illustrates extreme early-stage scrappiness and customer obsession.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:55",
+      "speakers": [
+        "Claire Butler",
+        "Lenny"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Customer Research",
+        "Startups"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "claire-butler_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces the show and Claire Butler as Figma\u2019s 10th employee and first marketing/GTM hire, framing the episode around Figma\u2019s growth and bottom-up motion. Sets expectations for deep tactical lessons and examples.",
+      "timestamp_start": "00:00:55",
+      "timestamp_end": "00:01:26",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Startups",
+        "Marketing"
+      ],
+      "quote_count": 2
+    },
+    {
+      "topic_id": "claire-butler_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Vanta (security compliance automation) and Mixpanel (product analytics) with listener offers and links.",
+      "timestamp_start": "00:01:26",
+      "timestamp_end": "00:03:50",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Marketing"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "claire-butler_t4",
+      "title": "Early Figma life: naming, meetups, carrying ice",
+      "summary": "Claire shares early-day stories showing the oscillation between high-level strategy and gritty execution: killing the planned product name \u201cSummit\u201d on day one and running tiny meetups (including hauling bags of ice). Highlights speed of decision-making and all-hands scrappiness.",
+      "timestamp_start": "00:03:50",
+      "timestamp_end": "00:07:45",
+      "speakers": [
+        "Lenny",
+        "Claire Butler"
+      ],
+      "themes": [
+        "Startups",
+        "Branding",
+        "Go-to-Market"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "claire-butler_t5",
+      "title": "Launch stress: solo marketing, PR, and confidence",
+      "summary": "Claire describes the most stressful period as launching out of stealth while being the only marketer\u2014owning positioning, messaging, and PR without peers to sanity-check decisions. She explains how she leaned on Dylan/VCs where possible but ultimately built confidence by shipping and learning.",
+      "timestamp_start": "00:07:45",
+      "timestamp_end": "00:09:55",
+      "speakers": [
+        "Lenny",
+        "Claire Butler"
+      ],
+      "themes": [
+        "Marketing",
+        "Startups",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "claire-butler_t6",
+      "title": "Why Claire joined: idea clarity, proof, founder grit",
+      "summary": "Claire explains her decision framework for joining Figma: the concept immediately made sense (design should be online), trusted investors/people believed, and Dylan\u2019s persistence signaled founder resilience. Notes luck but emphasizes these repeatable signals for early-stage bets.",
+      "timestamp_start": "00:09:55",
+      "timestamp_end": "00:12:42",
+      "speakers": [
+        "Lenny",
+        "Claire Butler"
+      ],
+      "themes": [
+        "Startups",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "claire-butler_t7",
+      "title": "Figma\u2019s bottom-up GTM: IC love to org expansion",
+      "summary": "Claire defines Figma\u2019s bottom-up motion: win individual contributors (designers) deeply, then enable them to spread internally as champions\u2014eventually converting to enterprise revenue. She contrasts this with top-down sales and explains why Figma could delay sales for years and rely on free/pro self-serve to generate enterprise leads.",
+      "timestamp_start": "00:12:42",
+      "timestamp_end": "00:17:14",
+      "speakers": [
+        "Lenny",
+        "Claire Butler"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Product-Led Growth",
+        "Sales"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "claire-butler_t8",
+      "title": "What\u2019s unique: craft obsession and time-in-tool",
+      "summary": "Claire argues Figma\u2019s differentiation in bottom-up GTM is the obsession with editor quality and craft\u2014small workflow improvements matter when users spend eight hours a day in the tool. Collaboration is a key differentiator, but users stay because the core tool is excellent.",
+      "timestamp_start": "00:17:14",
+      "timestamp_end": "00:19:10",
+      "speakers": [
+        "Lenny",
+        "Claire Butler"
+      ],
+      "themes": [
+        "Product",
+        "Go-to-Market",
+        "Product-Led Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "claire-butler_t9",
+      "title": "Leaving stealth without multiplayer: launch readiness signals",
+      "summary": "Claire explains why Figma launched before multiplayer: the team needed momentum after years in stealth, and demos showed strong pull (designers grabbing the laptop to try it). Early full-time teams plus visceral excitement provided confidence despite missing the headline differentiator.",
+      "timestamp_start": "00:19:10",
+      "timestamp_end": "00:23:02",
+      "speakers": [
+        "Lenny",
+        "Claire Butler"
+      ],
+      "themes": [
+        "Product",
+        "Startups",
+        "Go-to-Market"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "claire-butler_t10",
+      "title": "Early-stage measurement: prioritize signal over metrics",
+      "summary": "Claire shares a contrarian view that early metrics are often too small to be meaningful; you can\u2019t optimize your way to product-market fit. She emphasizes qualitative signals\u2014love, pull, and a few committed users\u2014over marginal conversion gains.",
+      "timestamp_start": "00:23:02",
+      "timestamp_end": "00:25:11",
+      "speakers": [
+        "Lenny",
+        "Claire Butler"
+      ],
+      "themes": [
+        "Product",
+        "Startups",
+        "Customer Research"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "claire-butler_t11",
+      "title": "Microsoft expansion: champions, node graphs, and enterprise pull",
+      "summary": "Claire recounts how Microsoft adoption began with a small team (Xamarin) and spread via collaboration into clusters across the org, visualized through internal node graphs. Microsoft eventually pushed to formalize procurement/security\u2014illustrating bottom-up growth converting into enterprise needs and sales motion.",
+      "timestamp_start": "00:25:11",
+      "timestamp_end": "00:29:12",
+      "speakers": [
+        "Lenny",
+        "Claire Butler"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Sales",
+        "Product-Led Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "claire-butler_t12",
+      "title": "Scrappy acquisition: DMs, Lyft chats, and hustle",
+      "summary": "Claire shares early scrappiness anecdotes, including using personal networks/DMs to get meetings and Dylan\u2019s habit of pitching Figma to anyone (even in rideshares). Reinforces that early GTM often relies on unconventional outreach to find initial users.",
+      "timestamp_start": "00:29:12",
+      "timestamp_end": "00:30:06",
+      "speakers": [
+        "Lenny",
+        "Claire Butler"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Startups"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "claire-butler_t13",
+      "title": "Step one: making ICs love Figma (framework)",
+      "summary": "Claire introduces a four-part approach to winning IC love: establish credibility, build with users, create channels for ongoing relationship-building, and be transparent/honest. Sets up the tactical breakdown of how Figma executed this in practice.",
+      "timestamp_start": "00:30:06",
+      "timestamp_end": "00:32:13",
+      "speakers": [
+        "Lenny",
+        "Claire Butler"
+      ],
+      "themes": [
+        "Go-to-Market",
+        "Marketing",
+        "Product-Led Growth"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "claire-butler_t14",
+      "title": "Credibility tactics: technical content and designer advocacy",
+      "summary": "Claire explains why traditional marketing fails with designers (high BS meter) and how Figma built credibility through deep technical/design content (often by engineers/designers) and by hiring a designer advocate from the user base. Emphasizes quality over quantity and distribution via communities like Hacker News/Designer News.",
+      "timestamp_start": "00:32:13",
+      "timestamp_end": "00:37:19",
+      "speakers": [
+        "Lenny",
+        "Claire Butler"
+      ],
+      "themes": [
+        "Marketing",
+        "Go-to-Market",
+        "Community"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "claire-butler_t15",
+      "title": "Build with users: hands-on support and rapid feedback loops",
+      "summary": "Claire details early customer obsession: everyone did support via Intercom, engineers debugged live with users, and the team did whatever it took to keep early adopters successful. The advocate role helped scale user feedback collection and closing the loop by telling users when fixes shipped.",
+      "timestamp_start": "00:37:19",
+      "timestamp_end": "00:40:57",
+      "speakers": [
+        "Lenny",
+        "Claire Butler"
+      ],
+      "themes": [
+        "Customer Research",
+        "Product",
+        "Startups"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "episode_id": "alex-hardimen",
+  "topics": [
+    {
+      "topic_id": "alex-hardimen_t1",
+      "title": "Mission-driven impact at the New York Times",
+      "summary": "Alex explains how NYT\u2019s business goals (subscriptions, engagement) serve the broader mission of strengthening informed democracy, and how impact can also mean real-world policy change driven by reporting.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:40",
+      "speakers": [
+        "Alex Hardiman"
+      ],
+      "themes": [
+        "Mission & Purpose",
+        "Metrics & Measurement",
+        "Media & Journalism"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "alex-hardimen_t2",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Alex and frames the conversation around how NYT builds product, including working with journalists and integrating acquisitions like Wordle.",
+      "timestamp_start": "00:01:00",
+      "timestamp_end": "00:01:33",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "Product Strategy",
+        "Media & Journalism"
+      ],
+      "quote_count": 3
+    },
+    {
+      "topic_id": "alex-hardimen_t3",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Miro and Athletic Greens (AG1).",
+      "timestamp_start": "00:02:19",
+      "timestamp_end": "00:04:25",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "alex-hardimen_t4",
+      "title": "Career path: NYT, Facebook, Atlantic, return",
+      "summary": "Alex walks through her career at the intersection of journalism and tech: a decade at NYT through mobile-first and paywall shifts, then Facebook, then The Atlantic, and back to NYT in 2019.",
+      "timestamp_start": "00:04:52",
+      "timestamp_end": "00:08:58",
+      "speakers": [
+        "Lenny",
+        "Alex Hardiman"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "Media & Journalism",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "alex-hardimen_t5",
+      "title": "Wartime product management after 2016 election",
+      "summary": "Alex describes joining Facebook\u2019s news efforts post-2016 election, focusing on misinformation/disinformation, content classification, and shifting platform incentives toward trusted information.",
+      "timestamp_start": "00:09:00",
+      "timestamp_end": "00:10:58",
+      "speakers": [
+        "Lenny",
+        "Alex Hardiman"
+      ],
+      "themes": [
+        "Crisis & Change Management",
+        "Media & Journalism",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "alex-hardimen_t6",
+      "title": "Thriving in chaos and high-stakes work",
+      "summary": "They discuss why some PMs are drawn to high-urgency environments, and the leadership skills required: prioritization, resilience, focus, and letting non-essentials slide.",
+      "timestamp_start": "00:10:58",
+      "timestamp_end": "00:13:37",
+      "speakers": [
+        "Lenny",
+        "Alex Hardiman"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "Crisis & Change Management",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "alex-hardimen_t7",
+      "title": "Returning to NYT and rejoining as leader",
+      "summary": "Alex shares what it was like to return to NYT on good terms, describing an interview process rooted in prior working relationships and growth as a leader.",
+      "timestamp_start": "00:13:42",
+      "timestamp_end": "00:16:14",
+      "speakers": [
+        "Lenny",
+        "Alex Hardiman"
+      ],
+      "themes": [
+        "Career & Leadership",
+        "Organizational Design",
+        "Culture & Values"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "alex-hardimen_t8",
+      "title": "Defining NYT\u2019s product and the subscription bundle",
+      "summary": "Alex explains how NYT\u2019s product is journalism plus user experience, the shift from print to digital rebundling, and the expansion into multiple destinations (news, games, cooking, audio, etc.).",
+      "timestamp_start": "00:16:18",
+      "timestamp_end": "00:19:36",
+      "speakers": [
+        "Lenny",
+        "Alex Hardiman"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Media & Journalism",
+        "Subscriptions & Monetization"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "alex-hardimen_t9",
+      "title": "Strategy: 15M subscribers and portfolio growth",
+      "summary": "Alex outlines the addressable market, the \u201cnews as the sun\u201d portfolio metaphor, and the three strategic pillars: best news destination, strong category products, and a connected bundle.",
+      "timestamp_start": "00:19:36",
+      "timestamp_end": "00:22:06",
+      "speakers": [
+        "Lenny",
+        "Alex Hardiman"
+      ],
+      "themes": [
+        "Product Strategy",
+        "Subscriptions & Monetization",
+        "Metrics & Measurement"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "alex-hardimen_t10",
+      "title": "Org structure: functions, missions, and embedded editors",
+      "summary": "Alex describes how NYT organizes product/design via functional excellence plus cross-functional missions (consumer, monetization, platform), and how editors embed with consumer missions while preserving editorial independence.",
+      "timestamp_start": "00:22:06",
+      "timestamp_end": "00:26:14",
+      "speakers": [
+        "Lenny",
+        "Alex Hardiman"
+      ],
+      "themes": [
+        "Organizational Design",
+        "Media & Journalism",
+        "Product Management"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "alex-hardimen_t11",
+      "title": "Building immersive storytelling and scalable formats",
+      "summary": "They explore how one-off newsroom experiments (interactive/visual/data journalism) inspire scalable storytelling platforms, balancing speed-of-news decisions with longer-term tooling and systems.",
+      "timestamp_start": "00:26:14",
+      "timestamp_end": "00:33:14",
+      "speakers": [
+        "Lenny",
+        "Alex Hardiman"
+      ],
+      "themes": [
+        "Media & Journalism",
+        "Product Development",
+        "Platform & Infrastructure"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "alex-hardimen_t12",
+      "title": "Wordle acquisition and integration challenges",
+      "summary": "Alex recounts how Wordle was discovered and acquired quickly, why it fit NYT Games, and the technical/product work to migrate it (accounts, stats/streaks) while preserving the core experience\u2014including the \u2018fetus\u2019 incident during Roe leak.",
+      "timestamp_start": "00:33:14",
+      "timestamp_end": "00:40:38",
+      "speakers": [
+        "Lenny",
+        "Alex Hardiman"
+      ],
+      "themes": [
+        "M&A & Integration",
+        "Product Development",
+        "Product Strategy"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "alex-hardimen_t13",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for Vanta (SOC 2 compliance automation).",
+      "timestamp_start": "00:40:43",
+      "timestamp_end": "00:41:49",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor Break"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "alex-hardimen_t14",
+      "title": "COVID response: rebuilding priorities and public service",
+      "summary": "Alex describes returning to NYT right before the pandemic and shifting into crisis mode: building COVID datasets and tools, making key coverage free, and rallying teams around mission-driven product work.",
+      "timestamp_start": "00:42:12",
+      "timestamp_end": "00:45:29",
+      "speakers": [
+        "Lenny",
+        "Alex Hardiman"
+      ],
+      "themes": [
+        "Crisis & Change Management",
+        "Media & Journalism",
+        "Mission & Purpose"
+      ],
+      "quote_count": 5
+    }
+  ]
+}

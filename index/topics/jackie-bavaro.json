@@ -1,0 +1,227 @@
+{
+  "episode_id": "jackie-bavaro",
+  "topics": [
+    {
+      "topic_id": "jackie-bavaro_t1",
+      "title": "Introduction and Background",
+      "summary": "Lenny introduces Jackie Bavaro, her books, and the episode\u2019s focus on product strategy and career growth.",
+      "timestamp_start": "00:00:05",
+      "timestamp_end": "00:00:51",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Introduction"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "jackie-bavaro_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor reads for Flatfile and Amplitude.",
+      "timestamp_start": "00:00:51",
+      "timestamp_end": "00:02:31",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "jackie-bavaro_t3",
+      "title": "Jackie\u2019s path into product and Asana",
+      "summary": "Jackie shares how she discovered PM via a Microsoft internship, got rejected then accepted into Google\u2019s APM program, and was recruited to become Asana\u2019s first PM\u2014leading to writing her interview books.",
+      "timestamp_start": "00:02:49",
+      "timestamp_end": "00:06:32",
+      "speakers": [
+        "Lenny",
+        "Jackie Bavaro"
+      ],
+      "themes": [
+        "Career Growth"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "jackie-bavaro_t4",
+      "title": "Writing to learn and demystify interviews",
+      "summary": "They discuss how Jackie\u2019s own interview struggles and observing candidates\u2019 patterns motivated her to write publicly to level the playing field and clarify what interview questions really test.",
+      "timestamp_start": "00:06:32",
+      "timestamp_end": "00:07:34",
+      "speakers": [
+        "Lenny",
+        "Jackie Bavaro"
+      ],
+      "themes": [
+        "Interviewing"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "jackie-bavaro_t5",
+      "title": "Early Asana mistake: saying no too fast",
+      "summary": "Jackie recounts an early-career misstep of reflexively shutting down ideas, how feedback from her boss and coaching helped her reframe suggestions as problem signals, and how \u201csaying yes\u201d improved collaboration.",
+      "timestamp_start": "00:07:34",
+      "timestamp_end": "00:09:51",
+      "speakers": [
+        "Lenny",
+        "Jackie Bavaro"
+      ],
+      "themes": [
+        "Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "jackie-bavaro_t6",
+      "title": "Using coaching effectively",
+      "summary": "Jackie contrasts ongoing coaching vs. targeted coaching, explaining she prefers coaching for specific growth goals and noting how coaching can sometimes inflate small issues.",
+      "timestamp_start": "00:09:51",
+      "timestamp_end": "00:11:27",
+      "speakers": [
+        "Lenny",
+        "Jackie Bavaro"
+      ],
+      "themes": [
+        "Career Growth"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "jackie-bavaro_t7",
+      "title": "Why Jackie stayed at Asana and grew",
+      "summary": "Jackie explains staying through uncertain periods because of growth opportunities, and describes how she earned a seat in high-level planning meetings to learn company-building and strategy beyond features.",
+      "timestamp_start": "00:11:27",
+      "timestamp_end": "00:14:06",
+      "speakers": [
+        "Lenny",
+        "Jackie Bavaro"
+      ],
+      "themes": [
+        "Career Growth"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "jackie-bavaro_t8",
+      "title": "Manager burnout and the hidden downsides",
+      "summary": "They discuss the loneliness and constraints of management (confidentiality, misaligned incentives), why many still want to try it, and treating management as a reversible \u201ctwo-way door.\u201d",
+      "timestamp_start": "00:14:06",
+      "timestamp_end": "00:16:44",
+      "speakers": [
+        "Lenny",
+        "Jackie Bavaro"
+      ],
+      "themes": [
+        "Leadership"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "jackie-bavaro_t9",
+      "title": "IC vs management tracks and impact",
+      "summary": "Jackie argues you don\u2019t need endless promotions to earn well, highlights salary realities (e.g., senior PM), and explains why true top-level IC roles are rarer and often platform/partnership-focused.",
+      "timestamp_start": "00:16:44",
+      "timestamp_end": "00:19:55",
+      "speakers": [
+        "Lenny",
+        "Jackie Bavaro"
+      ],
+      "themes": [
+        "Career Growth"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "jackie-bavaro_t10",
+      "title": "Sponsor Break",
+      "summary": "Sponsor read for PostHog.",
+      "timestamp_start": "00:19:55",
+      "timestamp_end": "00:20:36",
+      "speakers": [
+        "Lenny"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "jackie-bavaro_t11",
+      "title": "Defining product strategy: vision, framework, roadmap",
+      "summary": "Jackie shares her evolving understanding of \u201cstrategy\u201d and presents a three-part model: an inspiring vision, a strategic framework (market, success, big bets), and a roadmap as a feasibility check\u2014not a commitment.",
+      "timestamp_start": "00:20:36",
+      "timestamp_end": "00:26:00",
+      "speakers": [
+        "Lenny",
+        "Jackie Bavaro"
+      ],
+      "themes": [
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "jackie-bavaro_t12",
+      "title": "What makes a good strategy: connecting dots",
+      "summary": "Jackie explains that numeric targets aren\u2019t strategies; good strategy links business goals to product choices through explicit assumptions and intermediate decisions, and improves via repeated communication and spotting confusion.",
+      "timestamp_start": "00:26:00",
+      "timestamp_end": "00:28:51",
+      "speakers": [
+        "Lenny",
+        "Jackie Bavaro"
+      ],
+      "themes": [
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "jackie-bavaro_t13",
+      "title": "How to get better at strategy",
+      "summary": "She recommends collaborative strategy work, learning through repeated decision-making and outcomes, and cross-applying frameworks from other domains (e.g., consistency vs. comprehensiveness) to unlock new perspectives.",
+      "timestamp_start": "00:28:51",
+      "timestamp_end": "00:33:01",
+      "speakers": [
+        "Lenny",
+        "Jackie Bavaro"
+      ],
+      "themes": [
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "jackie-bavaro_t14",
+      "title": "When to focus on strategy as a new PM",
+      "summary": "Jackie advises new PMs to spend the first ~6 months learning the product and executing existing strategy, then draft strategy in focused blocks; repeated feature-level disagreements often signal missing strategic principles.",
+      "timestamp_start": "00:33:01",
+      "timestamp_end": "00:36:06",
+      "speakers": [
+        "Lenny",
+        "Jackie Bavaro"
+      ],
+      "themes": [
+        "Product Strategy"
+      ],
+      "quote_count": 0
+    },
+    {
+      "topic_id": "jackie-bavaro_t15",
+      "title": "Career growth advice and early-career pitfalls",
+      "summary": "Jackie\u2019s key career tactic is asking managers what to build toward a future promotion to focus feedback; she also recommends early-career time at larger companies for fundamentals and warns against over-engineering narrow starter projects.",
+      "timestamp_start": "00:36:06",
+      "timestamp_end": "00:40:20",
+      "speakers": [
+        "Lenny",
+        "Jackie Bavaro"
+      ],
+      "themes": [
+        "Career Growth"
+      ],
+      "quote_count": 0
+    }
+  ]
+}

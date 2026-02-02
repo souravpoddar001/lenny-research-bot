@@ -1,0 +1,234 @@
+{
+  "episode_id": "edwin-chen",
+  "topics": [
+    {
+      "topic_id": "edwin-chen_t1",
+      "title": "Introduction and Surge\u2019s contrarian scaling story",
+      "summary": "Lenny introduces Edwin Chen and Surge AI\u2019s unprecedented growth: $1B+ revenue in under four years, <100 employees, bootstrapped and profitable. Edwin frames the company\u2019s philosophy: avoid Silicon Valley bloat and build with a small, elite team.",
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:02:05",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Edwin Chen"
+      ],
+      "themes": [
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "edwin-chen_t2",
+      "title": "Sponsor Break",
+      "summary": "Sponsor messages for Vanta (SOC 2 compliance) and WorkOS (enterprise SaaS features like SSO, RBAC, audit logs).",
+      "timestamp_start": "00:02:53",
+      "timestamp_end": "00:04:30",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "edwin-chen_t3",
+      "title": "AI leverage and tiny teams building huge companies",
+      "summary": "Lenny asks how Surge achieved extreme revenue-per-employee and whether AI will enable more companies like this. Edwin predicts even more extreme ratios, argues small teams move faster, and says less capital needs will shift power from hype-driven founders to product/tech-obsessed builders.",
+      "timestamp_start": "00:04:51",
+      "timestamp_end": "00:07:06",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Edwin Chen"
+      ],
+      "themes": [
+        "Company Building",
+        "AI Industry"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "edwin-chen_t4",
+      "title": "Avoiding the Silicon Valley PR/fundraising machine",
+      "summary": "They discuss Surge\u2019s deliberate choice to stay off social media and not fundraise, relying on word-of-mouth and a 10x product. Edwin argues this attracted customers who truly understood and valued data quality, creating tight feedback loops early.",
+      "timestamp_start": "00:07:08",
+      "timestamp_end": "00:09:16",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Edwin Chen"
+      ],
+      "themes": [
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "edwin-chen_t5",
+      "title": "What Surge does: teaching models via human data",
+      "summary": "Edwin explains Surge\u2019s role in post-training: generating human data to teach models what\u2019s good/bad, plus measuring progress. He name-checks common post-training components (SFT, RLHF, rubrics, verifiers, RL environments).",
+      "timestamp_start": "00:09:16",
+      "timestamp_end": "00:09:36",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Edwin Chen"
+      ],
+      "themes": [
+        "Data & Post-training"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "edwin-chen_t6",
+      "title": "Defining and measuring \u201chigh-quality\u201d training data",
+      "summary": "Edwin argues quality is misunderstood: it\u2019s not box-checking but capturing rich, subjective excellence (e.g., Nobel-level poetry). Surge builds systems to measure quality with thousands of signals per worker/task and matches experts to the right work.",
+      "timestamp_start": "00:09:36",
+      "timestamp_end": "00:13:29",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Edwin Chen"
+      ],
+      "themes": [
+        "Data & Post-training"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "edwin-chen_t7",
+      "title": "Why Claude excelled: data choices and taste",
+      "summary": "They explore why Anthropic\u2019s Claude led in coding/writing for so long. Edwin attributes it to many hidden choices in post-training (human vs synthetic data, what to optimize, and tradeoffs), emphasizing that \u201ctaste\u201d and objective functions shape model behavior.",
+      "timestamp_start": "00:13:31",
+      "timestamp_end": "00:17:38",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Edwin Chen"
+      ],
+      "themes": [
+        "Model Quality & Evaluation",
+        "Data & Post-training"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "edwin-chen_t8",
+      "title": "Benchmarks vs real-world progress and human evals",
+      "summary": "Edwin says he distrusts benchmarks: they can be flawed, gameable, and overly objective compared to messy real tasks (e.g., IMO vs parsing PDFs). He argues real progress should be measured with deep expert human evaluations across realistic workflows.",
+      "timestamp_start": "00:17:38",
+      "timestamp_end": "00:22:12",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Edwin Chen"
+      ],
+      "themes": [
+        "Model Quality & Evaluation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "edwin-chen_t9",
+      "title": "AGI timelines and why the last mile is hard",
+      "summary": "Edwin places AGI on a longer horizon, arguing that going from 80% to 99.9% reliability is exponentially harder. He predicts near-term automation of large portions of software engineering but slower progress toward near-perfect performance.",
+      "timestamp_start": "00:22:18",
+      "timestamp_end": "00:23:03",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Edwin Chen"
+      ],
+      "themes": [
+        "AGI & Safety"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "edwin-chen_t10",
+      "title": "Wrong incentives: leaderboards, engagement, and AI slop",
+      "summary": "Edwin warns labs are optimizing for dopamine and PR (e.g., LLM Arena) rather than truth and usefulness, encouraging flashy formatting, verbosity, and sycophancy. He argues these incentives can degrade accuracy/instruction-following and misdirect AGI development; he praises Anthropic as more principled.",
+      "timestamp_start": "00:23:03",
+      "timestamp_end": "00:26:38",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Edwin Chen"
+      ],
+      "themes": [
+        "AGI & Safety",
+        "AI Industry"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "edwin-chen_t11",
+      "title": "Product choices like Sora and the path matters",
+      "summary": "They discuss whether building entertainment-focused products (like Sora) is a distraction or necessary funding path. Edwin argues the route to progress matters and that chasing \u201ctabloid\u201d value can create negative externalities and misalign long-term goals.",
+      "timestamp_start": "00:26:55",
+      "timestamp_end": "00:28:33",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Edwin Chen"
+      ],
+      "themes": [
+        "AI Industry",
+        "AGI & Safety"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "edwin-chen_t12",
+      "title": "Anti-playbook startup advice: mission over pivots",
+      "summary": "Edwin critiques Silicon Valley mantras (constant pivoting, blitzscaling, resume-driven hiring) and advocates building the one thing only you can build with sustained conviction. Lenny connects this to patterns in generational companies: ambition and clarity of mission.",
+      "timestamp_start": "00:28:33",
+      "timestamp_end": "00:31:44",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Edwin Chen"
+      ],
+      "themes": [
+        "Company Building"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "edwin-chen_t13",
+      "title": "Sponsor Break",
+      "summary": "Sponsor message for Coda, describing its all-in-one workspace for docs/spreadsheets/apps/AI and how Lenny uses it to run the podcast and community.",
+      "timestamp_start": "00:31:51",
+      "timestamp_end": "00:33:07",
+      "speakers": [
+        "Lenny Rachitsky"
+      ],
+      "themes": [
+        "Sponsor"
+      ],
+      "quote_count": 4
+    },
+    {
+      "topic_id": "edwin-chen_t14",
+      "title": "Beyond LLMs: reinforcement learning environments",
+      "summary": "Edwin agrees new approaches beyond LLMs may be needed for AGI and explains reinforcement learning and RL environments as simulated worlds for end-to-end tasks. They cover tool-rich scenarios (startup ops, outages, finance spreadsheets), rewards, and why trajectories (not just final answers) matter.",
+      "timestamp_start": "00:33:07",
+      "timestamp_end": "00:41:03",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Edwin Chen"
+      ],
+      "themes": [
+        "Data & Post-training",
+        "Model Quality & Evaluation"
+      ],
+      "quote_count": 5
+    },
+    {
+      "topic_id": "edwin-chen_t15",
+      "title": "Evolution of post-training: SFT, RLHF, rubrics, evals",
+      "summary": "Edwin outlines the progression of post-training methods: supervised fine-tuning (copying a master), RLHF (preference learning), and newer rubric/verifier approaches (detailed grading). He begins clarifying how \u201cevals\u201d can be used both for training signals and for measurement.",
+      "timestamp_start": "00:41:33",
+      "timestamp_end": "00:42:35",
+      "speakers": [
+        "Lenny Rachitsky",
+        "Edwin Chen"
+      ],
+      "themes": [
+        "Data & Post-training",
+        "Model Quality & Evaluation"
+      ],
+      "quote_count": 5
+    }
+  ]
+}
