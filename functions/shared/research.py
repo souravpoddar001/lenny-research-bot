@@ -21,6 +21,7 @@ from openai import AzureOpenAI
 
 from .search import SearchClient
 from .citations import CitationVerifier, Citation
+from .cache import get_cached_result, store_result
 
 logger = logging.getLogger(__name__)
 
@@ -56,6 +57,31 @@ class ResearchOutput:
         if self.executive_summary:
             result["executive_summary"] = self.executive_summary
         return result
+
+    @classmethod
+    def from_dict(cls, data: dict) -> "ResearchOutput":
+        """Reconstruct ResearchOutput from a cached dict."""
+        citations = []
+        for c in data.get("citations", []):
+            citations.append(Citation(
+                quote=c.get("quote", ""),
+                speaker=c.get("speaker", "Unknown"),
+                title=c.get("title", "Unknown"),
+                guest=c.get("guest", "Unknown"),
+                timestamp=c.get("timestamp", "00:00:00"),
+                youtube_url=c.get("youtube_url", ""),
+                video_id=c.get("video_id", ""),
+                context=c.get("context", ""),
+                similarity_score=c.get("similarity_score", 1.0),
+            ))
+        return cls(
+            content=data.get("content", ""),
+            citations=citations,
+            sources=data.get("sources", []),
+            unverified_quotes=data.get("unverified_quotes", []),
+            query_plan=None,  # Not cached
+            executive_summary=data.get("executive_summary"),
+        )
 
 
 class DeepResearchPipeline:
@@ -353,6 +379,12 @@ Answer the question now based on the context provided."""
         Returns:
             ResearchOutput with content, citations, and sources
         """
+        # Check cache first
+        cached = get_cached_result(query)
+        if cached is not None:
+            logger.info(f"Returning cached result for query: {query[:50]}...")
+            return ResearchOutput.from_dict(cached)
+
         # Stage 1: Query Analysis
         plan = self._analyze_query(query)
 
@@ -373,6 +405,9 @@ Answer the question now based on the context provided."""
 
         # Stage 4: Synthesis
         output = self._synthesize(query, plan, chunks)
+
+        # Store result in cache
+        store_result(query, output.to_dict())
 
         return output
 
