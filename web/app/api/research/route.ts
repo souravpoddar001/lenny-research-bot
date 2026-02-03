@@ -6,10 +6,13 @@ export async function POST(request: NextRequest) {
   try {
     const body = await request.json()
 
+    const sessionId = request.headers.get('X-Session-ID') || ''
+
     const response = await fetch(`${BACKEND_URL}/api/research`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
+        'X-Session-ID': sessionId,
       },
       body: JSON.stringify(body),
     })
