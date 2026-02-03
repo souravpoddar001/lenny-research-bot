@@ -9,9 +9,9 @@ Endpoints:
 - GET /api/popular - Get popular queries by access count
 - GET /api/cached - Get cached result by cache key
 
-Retrieval Modes:
-- "vector" (default): Traditional Azure AI Search with embeddings
-- "pageindex": Reasoning-based retrieval through hierarchical index
+Retrieval Mode:
+- "pageindex" (default): LLM reasoning-based retrieval through hierarchical index
+- "vector" (optional): Traditional Azure AI Search with embeddings (requires additional config)
 """
 
 import os
@@ -33,8 +33,8 @@ app = DFApp(http_auth_level=func.AuthLevel.ANONYMOUS)
 _pipelines = {}
 _search_client = None
 
-# Default retrieval mode (can be set via environment variable)
-DEFAULT_RETRIEVAL_MODE = os.environ.get("RETRIEVAL_MODE", "vector")
+# Default retrieval mode: pageindex (LLM reasoning) or vector (Azure AI Search)
+DEFAULT_RETRIEVAL_MODE = os.environ.get("RETRIEVAL_MODE", "pageindex")
 logging.info(f"DEFAULT_RETRIEVAL_MODE: {DEFAULT_RETRIEVAL_MODE}")
 
 

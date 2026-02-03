@@ -1,15 +1,24 @@
 """
-PageIndex reasoning-based retrieval pipeline.
+PageIndex: LLM Reasoning-Based Retrieval (Primary Retrieval System)
 
-Replaces vector search with LLM navigation through hierarchical index:
-1. Select relevant themes
-2. Select relevant episodes within themes
-3. Select relevant topics within episodes
-4. Retrieve quotes from topics
-5. Assess sufficiency, loop if needed
+This is the default retrieval system for Lenny's Research Bot. Instead of
+using vector embeddings and similarity search, PageIndex uses an LLM to
+reason through a hierarchical index structure to find relevant content.
 
-The retrieval process produces a reasoning trace that explains
-how the system navigated to find the relevant content.
+Navigation Flow:
+1. Extract named speaker from query (if asking about specific guest)
+2. Select relevant themes from index
+3. Select relevant episodes within themes
+4. Select relevant topics within episodes
+5. Retrieve quotes from topics
+6. Assess sufficiency, loop if needed
+
+Benefits over vector search:
+- No vector database infrastructure needed (~$73/month saved)
+- No embedding API calls required
+- Explainable retrieval (reasoning trace shows navigation decisions)
+- Better handling of conceptual queries
+- Speaker-aware navigation
 """
 
 import os

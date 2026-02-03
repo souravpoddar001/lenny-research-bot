@@ -1,11 +1,23 @@
 {
   "IsEncrypted": false,
+  "Host": {
+    "CORS": "*",
+    "CORSCredentials": false
+  },
   "Values": {
     "AzureWebJobsStorage": "UseDevelopmentStorage=true",
     "FUNCTIONS_WORKER_RUNTIME": "python",
     "AZURE_OPENAI_API_KEY": "<your-azure-openai-api-key>",
     "AZURE_OPENAI_ENDPOINT": "https://<your-resource>.openai.azure.com/",
-    "AZURE_SEARCH_ENDPOINT": "https://<your-search-service>.search.windows.net",
-    "AZURE_SEARCH_API_KEY": "<your-search-api-key>"
+    "AZURE_OPENAI_DEPLOYMENT": "gpt-4o",
+    "AZURE_OPENAI_API_VERSION": "2024-12-01-preview",
+    "AZURE_STORAGE_CONNECTION_STRING": "<your-storage-connection-string>",
+    "CACHE_CONTAINER_NAME": "research-cache",
+    "PAGEINDEX_LOCAL_PATH": "../index",
+    "RETRIEVAL_MODE": "pageindex"
+  },
+  "_comment": {
+    "RETRIEVAL_MODE": "Use 'pageindex' (default) for LLM reasoning-based retrieval, or 'vector' for Azure AI Search",
+    "vector_mode_only": "If using RETRIEVAL_MODE=vector, also set AZURE_SEARCH_ENDPOINT and AZURE_SEARCH_API_KEY"
   }
 }

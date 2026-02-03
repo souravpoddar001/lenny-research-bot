@@ -1,14 +1,14 @@
 """
 Deep Research Pipeline - 4-stage retrieval and synthesis.
 
-Supports two retrieval modes:
-- "vector": Traditional vector search using Azure AI Search (default)
-- "pageindex": Reasoning-based retrieval using PageIndex hierarchy
+Retrieval Modes:
+- "pageindex" (default): LLM reasoning-based retrieval using hierarchical index
+- "vector" (optional): Traditional vector search using Azure AI Search
 
 Stages:
 1. Query Analysis - Decompose query, identify facets
-2. Broad Retrieval - Topic segments for context (vector) OR Theme/Episode navigation (pageindex)
-3. Deep Retrieval - Speaker turns for quotes (vector) OR Topic/Quote extraction (pageindex)
+2. Broad Retrieval - Theme/Episode navigation (pageindex) OR topic segments (vector)
+3. Deep Retrieval - Topic/Quote extraction (pageindex) OR speaker turns (vector)
 4. Synthesis - Generate with citations
 """
 
@@ -332,7 +332,7 @@ Answer the question now based on the context provided."""
         openai_endpoint: Optional[str] = None,
         analysis_model: Optional[str] = None,  # Cost-optimized
         synthesis_model: Optional[str] = None,  # Quality for final output
-        retrieval_mode: Literal["vector", "pageindex"] = "vector",
+        retrieval_mode: Literal["pageindex", "vector"] = "pageindex",
     ):
         """
         Initialize the research pipeline.
@@ -343,7 +343,7 @@ Answer the question now based on the context provided."""
             openai_endpoint: Azure OpenAI endpoint
             analysis_model: Model for query analysis (uses env var if not provided)
             synthesis_model: Model for final synthesis (uses env var if not provided)
-            retrieval_mode: "vector" for Azure AI Search, "pageindex" for reasoning-based
+            retrieval_mode: "pageindex" for LLM reasoning (default), "vector" for Azure AI Search
         """
         self.retrieval_mode = retrieval_mode
         self.citation_verifier = CitationVerifier()
