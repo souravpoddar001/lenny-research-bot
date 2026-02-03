@@ -27,6 +27,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent / "functions"))
 
 from shared.chunking import TranscriptChunker
 from shared.search import SearchClient
+from shared.cache import clear_cache
 
 
 def load_transcript(file_path: Path) -> tuple[str, str]:
@@ -219,6 +220,12 @@ def main():
         print(f"Chunks uploaded: {total_uploaded}")
         print(f"Chunks failed: {total_failed}")
     print()
+
+    # Clear cache after successful ingestion (only if not dry run)
+    if not args.dry_run and total_uploaded > 0:
+        cleared_count = clear_cache()
+        print(f"Cache cleared: {cleared_count} entries removed")
+        print()
 
     # Save report if requested
     if args.output:
