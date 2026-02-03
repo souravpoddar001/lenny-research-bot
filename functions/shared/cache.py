@@ -124,6 +124,32 @@ def get_cached_result(query: str) -> Optional[dict]:
         return None
 
 
+def get_by_cache_key(cache_key: str) -> Optional[dict]:
+    """
+    Get cached result directly by cache key.
+
+    Args:
+        cache_key: The SHA256 hash cache key.
+
+    Returns:
+        Cached result dict if found, None otherwise.
+    """
+    container = _get_container_client()
+    if container is None:
+        return None
+
+    blob_name = f"{cache_key}.json"
+
+    try:
+        blob_client = container.get_blob_client(blob_name)
+        data = blob_client.download_blob().readall()
+        cached_entry = json.loads(data.decode("utf-8"))
+        return cached_entry.get("result")
+
+    except (ResourceNotFoundError, AzureError, json.JSONDecodeError):
+        return None
+
+
 def store_result(query: str, result: dict) -> None:
     """
     Store a research result in the cache.

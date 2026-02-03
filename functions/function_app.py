@@ -7,6 +7,7 @@ Endpoints:
 - GET /api/health - Health check
 - GET /api/history - Get query history for current session
 - GET /api/popular - Get popular queries by access count
+- GET /api/cached - Get cached result by cache key
 
 Retrieval Modes:
 - "vector" (default): Traditional Azure AI Search with embeddings
@@ -23,7 +24,7 @@ from azure.durable_functions import DFApp
 from shared.research import DeepResearchPipeline
 from shared.search import SearchClient
 from shared.history import get_session_history, add_to_history
-from shared.cache import get_popular_queries
+from shared.cache import get_popular_queries, get_by_cache_key
 
 # Initialize the function app with durable functions
 app = DFApp(http_auth_level=func.AuthLevel.ANONYMOUS)
@@ -107,6 +108,33 @@ def get_popular(req: func.HttpRequest) -> func.HttpResponse:
 
     return func.HttpResponse(
         json.dumps({"queries": queries}),
+        mimetype="application/json",
+    )
+
+
+@app.route(route="cached", methods=["GET"])
+def get_cached(req: func.HttpRequest) -> func.HttpResponse:
+    """Get a cached result by cache key (for sidebar click)."""
+    cache_key = req.params.get("key", "")
+
+    if not cache_key:
+        return func.HttpResponse(
+            json.dumps({"error": "Missing 'key' parameter"}),
+            status_code=400,
+            mimetype="application/json",
+        )
+
+    result = get_by_cache_key(cache_key)
+
+    if result is None:
+        return func.HttpResponse(
+            json.dumps({"error": "Cache entry not found"}),
+            status_code=404,
+            mimetype="application/json",
+        )
+
+    return func.HttpResponse(
+        json.dumps(result),
         mimetype="application/json",
     )
 
