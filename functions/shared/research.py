@@ -382,8 +382,12 @@ Answer the question now based on the context provided."""
         # Check cache first
         cached = get_cached_result(query)
         if cached is not None:
-            logger.info(f"Returning cached result for query: {query[:50]}...")
-            return ResearchOutput.from_dict(cached)
+            try:
+                logger.info(f"Returning cached result for query: {query[:50]}...")
+                return ResearchOutput.from_dict(cached)
+            except (KeyError, ValueError, TypeError) as e:
+                logger.warning(f"Cache deserialization failed, computing fresh: {e}")
+                # Fall through to fresh computation
 
         # Stage 1: Query Analysis
         plan = self._analyze_query(query)
@@ -406,8 +410,11 @@ Answer the question now based on the context provided."""
         # Stage 4: Synthesis
         output = self._synthesize(query, plan, chunks)
 
-        # Store result in cache
-        store_result(query, output.to_dict())
+        # Store result in cache (only if content is non-empty)
+        if output.content.strip():
+            store_result(query, output.to_dict())
+        else:
+            logger.warning("Skipping cache for empty result")
 
         return output
 

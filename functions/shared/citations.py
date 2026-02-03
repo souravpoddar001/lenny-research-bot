@@ -59,6 +59,8 @@ class Citation:
             "guest": self.guest,
             "timestamp": self.timestamp,
             "youtube_url": self.youtube_url,
+            "video_id": self.video_id,
+            "context": self.context,
             "youtube_link": self.to_youtube_link(),
             "similarity_score": self.similarity_score,
         }
