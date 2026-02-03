@@ -6,6 +6,7 @@ repeated queries. Uses SHA256 hashing for cache keys.
 """
 
 import os
+import re
 import json
 import hashlib
 import logging
@@ -65,9 +66,15 @@ def normalize_query(query: str) -> str:
         query: The raw query string.
 
     Returns:
-        Normalized query (lowercase, stripped of whitespace).
+        Normalized query (lowercase, stripped of whitespace and trailing punctuation,
+        with multiple spaces collapsed to single space).
     """
-    return query.lower().strip()
+    normalized = query.lower().strip()
+    # Remove trailing punctuation (?, !, .)
+    normalized = normalized.rstrip("?!.")
+    # Collapse multiple spaces to single space
+    normalized = re.sub(r"\s+", " ", normalized)
+    return normalized
 
 
 def get_cache_key(query: str) -> str:
@@ -239,11 +246,17 @@ def get_popular_queries(limit: int = 10) -> list[dict]:
 
     Returns:
         List of dicts with 'query', 'cache_key', and 'access_count' fields,
-        sorted by access_count descending. Returns empty list on failure.
+        sorted by access_count descending. Filters out test queries and
+        deduplicates queries that differ only in case/punctuation.
+        Returns empty list on failure.
     """
     container = _get_container_client()
     if container is None:
         return []
+
+    # Blacklist patterns for test queries
+    TEST_PATTERNS = ["test cache", "test query", "hello", "asdf"]
+    MIN_QUERY_LENGTH = 10  # Filter very short queries
 
     results = []
 
@@ -258,20 +271,44 @@ def get_popular_queries(limit: int = 10) -> list[dict]:
                 data = blob_client.download_blob().readall()
                 cached_entry = json.loads(data.decode("utf-8"))
 
+                query = cached_entry.get("query", "")
                 cache_key = blob.name[:-5]  # Remove .json extension
+                access_count = cached_entry.get("access_count", 0)
+
+                # Filter out test queries and very short queries
+                query_lower = query.lower().strip()
+                if len(query_lower) < MIN_QUERY_LENGTH:
+                    continue
+                if any(pattern in query_lower for pattern in TEST_PATTERNS):
+                    continue
+
                 results.append({
-                    "query": cached_entry.get("query", ""),
+                    "query": query,
                     "cache_key": cache_key,
-                    "access_count": cached_entry.get("access_count", 0),
+                    "access_count": access_count,
+                    "_normalized": normalize_query(query),  # For deduplication
                 })
 
             except (AzureError, json.JSONDecodeError) as e:
                 logger.debug(f"Skipping blob {blob.name} due to error: {e}")
                 continue
 
-        # Sort by access_count descending
-        results.sort(key=lambda x: x["access_count"], reverse=True)
-        return results[:limit]
+        # Deduplicate by normalized query, keeping highest access_count
+        seen_normalized = {}
+        for entry in results:
+            normalized = entry["_normalized"]
+            if normalized not in seen_normalized:
+                seen_normalized[normalized] = entry
+            elif entry["access_count"] > seen_normalized[normalized]["access_count"]:
+                seen_normalized[normalized] = entry
+
+        # Remove internal field and sort
+        deduped = list(seen_normalized.values())
+        for entry in deduped:
+            del entry["_normalized"]
+
+        deduped.sort(key=lambda x: x["access_count"], reverse=True)
+        return deduped[:limit]
 
     except AzureError as e:
         logger.warning(f"Failed to get popular queries: {type(e).__name__}: {e}")
