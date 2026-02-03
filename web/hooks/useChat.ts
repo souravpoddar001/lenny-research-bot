@@ -2,7 +2,7 @@
 
 import { useState, useCallback, useRef } from 'react'
 import { Message, Citation, LoadingStep } from '@/lib/types'
-import { sendResearchQuery, generateFollowups, isFollowUpQuery } from '@/lib/api'
+import { sendResearchQuery, generateFollowups, isFollowUpQuery, getCachedResult } from '@/lib/api'
 
 type ChatState = {
   messages: Message[]
@@ -121,6 +121,69 @@ export function useChat() {
     [state.isLoading, state.messages, startLoadingSteps, stopLoadingSteps]
   )
 
+  const loadCachedQuery = useCallback(
+    async (cacheKey: string, query: string) => {
+      if (state.isLoading) return
+
+      const userMessage: Message = {
+        id: `user-${Date.now()}`,
+        role: 'user',
+        content: query,
+        timestamp: new Date(),
+      }
+
+      setState((prev) => ({
+        ...prev,
+        messages: [...prev.messages, userMessage],
+        isLoading: true,
+        error: null,
+      }))
+
+      startLoadingSteps()
+
+      try {
+        const response = await getCachedResult(cacheKey)
+
+        if (!response) {
+          throw new Error('Cached result not found')
+        }
+
+        const citationsWithIds: Citation[] = response.citations.map((c, i) => ({
+          ...c,
+          id: `citation-${Date.now()}-${i}`,
+        }))
+
+        const suggestedFollowups = generateFollowups(query, response)
+
+        const assistantMessage: Message = {
+          id: `assistant-${Date.now()}`,
+          role: 'assistant',
+          content: response.content,
+          citations: citationsWithIds,
+          sources: response.sources,
+          suggestedFollowups,
+          executiveSummary: response.executive_summary,
+          timestamp: new Date(),
+        }
+
+        setState((prev) => ({
+          ...prev,
+          messages: [...prev.messages, assistantMessage],
+          isLoading: false,
+        }))
+      } catch (err) {
+        setState((prev) => ({
+          ...prev,
+          isLoading: false,
+          error: err instanceof Error ? err.message : 'An error occurred',
+        }))
+      } finally {
+        stopLoadingSteps()
+      }
+    },
+    [state.isLoading, startLoadingSteps, stopLoadingSteps]
+  )
+
   const openCitation = useCallback((citationId: string) => {
     setState((prev) => ({
       ...prev,
@@ -169,6 +232,7 @@ export function useChat() {
     activeCitation,
     allCitations,
     sendMessage,
+    loadCachedQuery,
     openCitation,
     closeSidebar,
     clearError,
