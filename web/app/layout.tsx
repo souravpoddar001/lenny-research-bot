@@ -18,7 +18,8 @@ export const metadata: Metadata = {
   title: "Lenny's Research Bot",
   description: 'AI-powered research assistant for product leadership insights from Lenny\'s Podcast',
   icons: {
-    icon: '/favicon.ico',
+    icon: '/favicon.svg',
+    apple: '/favicon.svg',
   },
 }
 
