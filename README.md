@@ -79,6 +79,7 @@ flowchart TB
     A --> B & C & D & E
     B & C --> F
     D --> G
+    E --> F
     B & C --> H
     H --> J --> K --> L
     H --> I
