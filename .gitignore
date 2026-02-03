@@ -32,6 +32,7 @@ Thumbs.db
 bin/
 obj/
 .python_packages/
+functions/index/  # Copied from /index during deployment, not committed
 
 # Logs
 *.log
