@@ -5,6 +5,8 @@ Endpoints:
 - POST /api/query - Quick Q&A (sync, <10s)
 - POST /api/research - Deep research (async, 30-60s)
 - GET /api/health - Health check
+- GET /api/history - Get query history for current session
+- GET /api/popular - Get popular queries by access count
 
 Retrieval Modes:
 - "vector" (default): Traditional Azure AI Search with embeddings
@@ -20,6 +22,8 @@ from azure.durable_functions import DFApp
 
 from shared.research import DeepResearchPipeline
 from shared.search import SearchClient
+from shared.history import get_session_history, add_to_history
+from shared.cache import get_popular_queries
 
 # Initialize the function app with durable functions
 app = DFApp(http_auth_level=func.AuthLevel.ANONYMOUS)
@@ -68,6 +72,41 @@ def health_check(req: func.HttpRequest) -> func.HttpResponse:
     """Health check endpoint."""
     return func.HttpResponse(
         json.dumps({"status": "healthy", "service": "lenny-research-bot"}),
+        mimetype="application/json",
+    )
+
+
+@app.route(route="history", methods=["GET"])
+def get_history(req: func.HttpRequest) -> func.HttpResponse:
+    """Get query history for the current session."""
+    session_id = req.headers.get("X-Session-ID", "")
+
+    if not session_id:
+        return func.HttpResponse(
+            json.dumps({"queries": []}),
+            mimetype="application/json",
+        )
+
+    queries = get_session_history(session_id)
+
+    return func.HttpResponse(
+        json.dumps({"queries": queries}),
+        mimetype="application/json",
+    )
+
+
+@app.route(route="popular", methods=["GET"])
+def get_popular(req: func.HttpRequest) -> func.HttpResponse:
+    """Get popular queries by access count."""
+    try:
+        limit = min(int(req.params.get("limit", "10")), 50)
+    except ValueError:
+        limit = 10
+
+    queries = get_popular_queries(limit)
+
+    return func.HttpResponse(
+        json.dumps({"queries": queries}),
         mimetype="application/json",
     )
 
@@ -143,6 +182,7 @@ def deep_research(req: func.HttpRequest) -> func.HttpResponse:
         body = req.get_json()
         query = body.get("query")
         mode = body.get("mode")  # Optional: "vector" or "pageindex"
+        session_id = req.headers.get("X-Session-ID", "")
 
         if not query:
             return func.HttpResponse(
@@ -153,6 +193,10 @@ def deep_research(req: func.HttpRequest) -> func.HttpResponse:
 
         pipeline = get_pipeline(mode=mode)
         result = pipeline.research(query)
+
+        # Add to session history if session ID provided
+        if session_id:
+            add_to_history(session_id, query)
 
         return func.HttpResponse(
             json.dumps(result.to_dict()),
