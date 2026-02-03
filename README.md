@@ -162,24 +162,11 @@ Only quotes that pass verification appear as trusted citations.
 
 ---
 
-## Why PageIndex over Vector Search
+## Why PageIndex
 
-Traditional RAG systems use vector databases: embed your documents, embed the query, find nearest neighbors. This works well for keyword-like queries but struggles with conceptual questions.
+PageIndex is a reasoning-based retrieval architecture that navigates a hierarchical index using LLM reasoning instead of embedding similarity.
 
-### The Problem with Vector Search
-
-Consider the query: *"What do guests say about knowing when to pivot?"*
-
-A vector search might miss relevant content because:
-- Transcripts say "change direction" instead of "pivot"
-- The concept is discussed as "killing your darlings" or "strategic flexibility"
-- Relevant advice appears in episodes about "founder psychology" — not tagged with "pivot"
-
-Vector similarity operates on **surface-level semantics**. It finds what *sounds* similar, not what's *conceptually* relevant.
-
-### How PageIndex Works
-
-PageIndex replaces embedding similarity with **LLM reasoning** through a hierarchical index:
+### How It Works
 
 ```mermaid
 flowchart LR
@@ -189,35 +176,34 @@ flowchart LR
     D --> E[Retrieve<br/>Quotes]
 ```
 
-At each stage, the LLM *reads descriptions* and *reasons* about relevance:
+At each stage, the LLM reads descriptions and reasons about relevance — selecting themes, narrowing to episodes, then drilling into specific conversation topics.
 
-| Stage | Input | LLM Reasoning |
-|-------|-------|---------------|
-| **Theme Selection** | Theme names + descriptions | "This query about pivoting relates to 'Founder Journey' and 'Strategy' themes" |
-| **Episode Selection** | Episode summaries within themes | "Dalton Caldwell's episode discusses failed startups; relevant to pivoting" |
-| **Topic Selection** | Conversation topics within episodes | "The section on 'recognizing failure' directly addresses when to pivot" |
-| **Quote Retrieval** | Actual transcript chunks | Extract verbatim quotes with speaker attribution |
+| Stage | What Happens |
+|-------|--------------|
+| **Theme Selection** | LLM reads theme descriptions, selects relevant ones: *"This query relates to 'Founder Journey' and 'Strategy' themes"* |
+| **Episode Selection** | LLM reads episode summaries within selected themes, narrows to specific episodes |
+| **Topic Selection** | LLM identifies relevant conversation topics within episodes |
+| **Quote Retrieval** | Extracts verbatim quotes with speaker attribution |
 
-### The Benefits
+### Benefits for This Use Case
 
-| Aspect | Vector Search | PageIndex |
-|--------|---------------|-----------|
-| **Infrastructure** | Vector DB required ($73+/month on Azure) | JSON files only |
-| **Embedding costs** | API calls for every document + query | None |
-| **Conceptual queries** | Struggles with synonym/concept gaps | LLM reasons about meaning |
-| **Explainability** | "These chunks had high cosine similarity" | "Selected because theme X relates to concept Y" |
-| **Speaker awareness** | Requires metadata filtering | Native — LLM reads speaker context |
-| **Maintenance** | Re-embed on schema changes | Update JSON, no reprocessing |
+**Explainable Retrieval**
+The reasoning trace shows *why* content was selected: "This query about pivoting relates to the 'Founder Journey' theme, specifically Dalton Caldwell's episode on failed startups." This transparency helps verify and debug results.
+
+**Hierarchical Navigation**
+The themes → episodes → topics → quotes structure mirrors how a human researcher would explore the corpus. It's intuitive and produces well-organized results.
+
+**No Embedding Infrastructure**
+The index is plain JSON files — no vector database to provision, configure, or pay for. Simpler deployment and fewer moving parts.
+
+**Natural Speaker Context**
+When the LLM reads topic descriptions, it naturally understands speaker context ("Rahul Vohra discusses...") without needing explicit metadata filtering.
 
 ### Trade-offs
 
-PageIndex isn't universally better. Considerations:
-
-- **Latency**: Multiple LLM calls vs single vector lookup (mitigated by caching)
-- **Cost per query**: More tokens consumed (but no infrastructure cost)
-- **Scale**: Works well for ~300 hours of content; untested at massive scale
-
-For this use case — deep research over a focused corpus with conceptual queries — PageIndex is the better fit.
+- **Latency**: Multiple LLM calls per query (mitigated by aggressive caching)
+- **Cost per query**: LLM tokens consumed at query time
+- **Scale**: Works well for ~300 hours of content; larger corpora may need different approaches
 
 ### Further Reading
 
