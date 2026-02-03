@@ -1,223 +1,239 @@
-# Lenny's Podcast Deep Research Bot
+# Lenny's Research Bot
 
-AI-powered research bot that searches Lenny's Podcast transcripts to generate long-form articles, research reports, and Q&A responses with accurate citations.
+An AI-powered research assistant that searches 300+ hours of [Lenny Rachitsky's](https://www.lennyspodcast.com/) podcast transcripts to generate long-form articles, research reports, and Q&A responses with verified citations.
 
-## Features
+**What it does:**
+- Ask any question about product management, growth, startups, or career advice
+- Get a comprehensive research report in ~60 seconds
+- Every claim backed by timestamped YouTube citations you can verify
 
-- **Deep Research Mode**: 4-stage retrieval pipeline for comprehensive analysis
-- **Quick Q&A Mode**: Fast answers for simple questions
-- **Citation Verification**: All quotes are verified against source material
-- **YouTube Deep Links**: Clickable timestamps to exact moments in episodes
-- **Multiple Output Types**: Articles, research reports, and Q&A responses
+**Example query:** *"What do top PMs say about finding product-market fit?"*
+
+→ Returns a structured report synthesizing insights from multiple guests (Rahul Vohra, Shishir Mehrotra, etc.) with direct quotes and video timestamps.
+
+---
+
+## Key Features
+
+🔍 **Reasoning-Based Search** — Uses LLM navigation instead of keyword/embedding matching. Understands that "difficult stakeholders" relates to topics like "managing up" even without word overlap.
+
+📝 **Research Reports** — Generates structured, long-form articles synthesizing insights across multiple episodes and guests.
+
+✅ **Citation Verification** — Every quote is validated against source transcripts using fuzzy matching. Only verified quotes are presented as citations.
+
+🎬 **Timestamped Deep Links** — Citations link directly to the exact moment in YouTube videos.
+
+⚡ **Smart Caching** — Previously-asked queries return in ~2 seconds vs ~60 seconds for fresh research.
+
+🔥 **Popular Queries** — Discover what others are asking. High-traffic queries are surfaced for exploration.
+
+🔒 **Privacy-First** — Anonymous session IDs for history. No auth required, no personal data stored.
+
+---
+
+## Tech Stack
+
+| Layer | Technology |
+|-------|------------|
+| **Frontend** | Next.js, React, TypeScript, Tailwind CSS |
+| **Backend** | Python 3.11, Azure Functions (serverless) |
+| **AI/LLM** | Azure OpenAI (GPT-4o) |
+| **Storage** | Azure Blob Storage (cache + history) |
+| **Retrieval** | PageIndex (reasoning-based, no vector DB) |
+| **Verification** | rapidfuzz (fuzzy string matching for citations) |
+| **Deployment** | Azure Static Web Apps, GitHub Actions CI/CD |
+
+---
 
 ## Architecture
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                         WEB APPLICATION                          │
-│                    Next.js on Azure Static Web Apps              │
-└───────────────────────────────────┬─────────────────────────────┘
-                                    │
-                                    ▼
-┌─────────────────────────────────────────────────────────────────┐
-│                      AZURE FUNCTIONS (Python)                    │
-│            /query (quick) | /research (deep) | /search          │
-└─────────────┬─────────────────┬─────────────────┬───────────────┘
-              │                 │                 │
-              ▼                 ▼                 ▼
-     ┌────────────────┐ ┌────────────────┐ ┌────────────────┐
-     │ Azure OpenAI   │ │ Azure AI Search│ │ Azure Blob     │
-     │ (GPT-4o, Emb)  │ │ (Vector Index) │ │ (Transcripts)  │
-     └────────────────┘ └────────────────┘ └────────────────┘
-```
+```mermaid
+flowchart TB
+    subgraph Frontend
+        A[Next.js App]
+    end
 
-## Project Structure
+    subgraph Azure Functions
+        B[/api/research]
+        C[/api/query]
+        D[/api/history]
+        E[/api/popular]
+    end
 
-```
-lenny-research-bot/
-├── infra/                      # Azure infrastructure (Bicep)
-│   ├── main.bicep              # Main deployment template
-│   └── search-index.json       # AI Search index schema
-├── functions/                  # Azure Functions (Python)
-│   ├── shared/
-│   │   ├── chunking.py         # Transcript parsing & chunking
-│   │   ├── embeddings.py       # Azure OpenAI embeddings
-│   │   ├── search.py           # Azure AI Search client
-│   │   ├── citations.py        # Citation verification
-│   │   └── research.py         # Deep research pipeline
-│   ├── function_app.py         # HTTP endpoints
-│   ├── requirements.txt
-│   └── host.json
-├── web/                        # Next.js frontend
-│   ├── app/
-│   │   ├── layout.tsx
-│   │   ├── page.tsx
-│   │   └── globals.css
-│   ├── components/
-│   │   ├── SearchBar.tsx
-│   │   ├── ResearchOutput.tsx
-│   │   └── CitationCard.tsx
-│   └── package.json
-└── scripts/
-    └── ingest_transcripts.py   # Batch transcript ingestion
+    subgraph Storage
+        F[(Azure Blob<br/>Cache)]
+        G[(Azure Blob<br/>History)]
+    end
+
+    subgraph AI Layer
+        H[PageIndex<br/>Retrieval]
+        I[Azure OpenAI<br/>GPT-4o]
+    end
+
+    subgraph Index
+        J[themes.json]
+        K[episodes/]
+        L[quotes/]
+    end
+
+    A --> B & C & D & E
+    B & C --> F
+    D --> G
+    B & C --> H
+    H --> J --> K --> L
+    H --> I
+    B & C --> I
 ```
 
-## Prerequisites
+### Request Flow
 
-1. **Azure Subscription** with the following resources:
-   - Azure OpenAI with deployments:
-     - `gpt-4o` (for synthesis)
-     - `gpt-4o-mini` (for analysis)
-     - `text-embedding-3-small` (for embeddings)
-   - Azure AI Search (Basic tier recommended)
+```mermaid
+sequenceDiagram
+    participant User
+    participant Frontend
+    participant Functions
+    participant Cache
+    participant PageIndex
+    participant OpenAI
 
-2. **Transcript Repository**: Clone or download Lenny's Podcast transcripts
+    User->>Frontend: Submit query
+    Frontend->>Functions: POST /api/research
+    Functions->>Cache: Check cache (SHA256 key)
 
-## Setup
+    alt Cache Hit
+        Cache-->>Functions: Return cached result
+    else Cache Miss
+        Functions->>PageIndex: Navigate index
+        PageIndex->>OpenAI: Select themes/episodes/topics
+        OpenAI-->>PageIndex: Reasoning response
+        PageIndex-->>Functions: Retrieved quotes
+        Functions->>OpenAI: Synthesize report
+        OpenAI-->>Functions: Generated report
+        Functions->>Cache: Store result
+    end
 
-### 1. Deploy Azure Infrastructure
-
-```bash
-# Create resource group
-az group create -n lenny-research-rg -l eastus
-
-# Deploy infrastructure
-az deployment group create \
-  -g lenny-research-rg \
-  -f infra/main.bicep \
-  --parameters openAiResourceName=<your-openai-resource>
+    Functions-->>Frontend: Research report
+    Frontend-->>User: Display with citations
 ```
 
-### 2. Configure Environment
+---
 
-Create `functions/local.settings.json`:
+## Design Choices
 
-```json
-{
-  "IsEncrypted": false,
-  "Values": {
-    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
-    "FUNCTIONS_WORKER_RUNTIME": "python",
-    "AZURE_OPENAI_API_KEY": "<your-api-key>",
-    "AZURE_OPENAI_ENDPOINT": "https://<your-resource>.openai.azure.com/",
-    "AZURE_SEARCH_ENDPOINT": "https://<your-search>.search.windows.net",
-    "AZURE_SEARCH_API_KEY": "<your-search-key>"
-  }
-}
+### 1. PageIndex over Vector Search
+
+The most significant architectural decision. Instead of embedding-based retrieval (Azure AI Search, Pinecone, etc.), we use LLM reasoning to navigate a hierarchical index.
+
+**→ See [detailed comparison below](#why-pageindex-over-vector-search)**
+
+### 2. Four-Stage Deep Research Pipeline
+
+Complex queries require more than single-pass retrieval. The pipeline:
+
+```mermaid
+flowchart LR
+    A[Query Analysis] --> B[Broad Retrieval]
+    B --> C[Deep Retrieval]
+    C --> D[Synthesis]
 ```
 
-### 3. Create Search Index
+| Stage | Purpose |
+|-------|---------|
+| **Query Analysis** | Decompose query into sub-questions, identify topics and guests |
+| **Broad Retrieval** | PageIndex navigates themes → episodes for context |
+| **Deep Retrieval** | Drill into topics → quotes for specific citations |
+| **Synthesis** | Generate report with verified citations |
 
-```bash
-# Using Azure CLI
-az search index create \
-  --service-name <your-search-service> \
-  --resource-group lenny-research-rg \
-  --name lenny-transcripts-index \
-  --fields @infra/search-index.json
+This staged approach ensures comprehensive coverage while maintaining citation accuracy.
+
+### 3. Defensive Citation Verification
+
+LLMs can hallucinate quotes. Every generated citation is validated:
+
+```python
+# Fuzzy match quote against source chunks
+match_ratio = rapidfuzz.fuzz.ratio(generated_quote, source_chunk)
+if match_ratio < VERIFICATION_THRESHOLD:
+    quote.flag_as_unverified()
 ```
 
-### 4. Install Dependencies
+Only quotes that pass verification appear as trusted citations.
 
-```bash
-# Python backend
-cd functions
-pip install -r requirements.txt
+---
 
-# Node.js frontend
-cd ../web
-npm install
+## Why PageIndex over Vector Search
+
+Traditional RAG systems use vector databases: embed your documents, embed the query, find nearest neighbors. This works well for keyword-like queries but struggles with conceptual questions.
+
+### The Problem with Vector Search
+
+Consider the query: *"What do guests say about knowing when to pivot?"*
+
+A vector search might miss relevant content because:
+- Transcripts say "change direction" instead of "pivot"
+- The concept is discussed as "killing your darlings" or "strategic flexibility"
+- Relevant advice appears in episodes about "founder psychology" — not tagged with "pivot"
+
+Vector similarity operates on **surface-level semantics**. It finds what *sounds* similar, not what's *conceptually* relevant.
+
+### How PageIndex Works
+
+PageIndex replaces embedding similarity with **LLM reasoning** through a hierarchical index:
+
+```mermaid
+flowchart LR
+    A[Query] --> B[LLM selects<br/>Themes]
+    B --> C[LLM selects<br/>Episodes]
+    C --> D[LLM selects<br/>Topics]
+    D --> E[Retrieve<br/>Quotes]
 ```
 
-### 5. Ingest Transcripts
+At each stage, the LLM *reads descriptions* and *reasons* about relevance:
 
-```bash
-# Dry run first
-python scripts/ingest_transcripts.py \
-  --transcripts-dir /path/to/episodes \
-  --dry-run
+| Stage | Input | LLM Reasoning |
+|-------|-------|---------------|
+| **Theme Selection** | Theme names + descriptions | "This query about pivoting relates to 'Founder Journey' and 'Strategy' themes" |
+| **Episode Selection** | Episode summaries within themes | "Dalton Caldwell's episode discusses failed startups; relevant to pivoting" |
+| **Topic Selection** | Conversation topics within episodes | "The section on 'recognizing failure' directly addresses when to pivot" |
+| **Quote Retrieval** | Actual transcript chunks | Extract verbatim quotes with speaker attribution |
 
-# Full ingestion
-python scripts/ingest_transcripts.py \
-  --transcripts-dir /path/to/episodes \
-  --output ingestion-report.json
-```
+### The Benefits
 
-### 6. Run Locally
+| Aspect | Vector Search | PageIndex |
+|--------|---------------|-----------|
+| **Infrastructure** | Vector DB required ($73+/month on Azure) | JSON files only |
+| **Embedding costs** | API calls for every document + query | None |
+| **Conceptual queries** | Struggles with synonym/concept gaps | LLM reasons about meaning |
+| **Explainability** | "These chunks had high cosine similarity" | "Selected because theme X relates to concept Y" |
+| **Speaker awareness** | Requires metadata filtering | Native — LLM reads speaker context |
+| **Maintenance** | Re-embed on schema changes | Update JSON, no reprocessing |
 
-```bash
-# Terminal 1: Start Functions
-cd functions
-func start
+### Trade-offs
 
-# Terminal 2: Start Frontend
-cd web
-npm run dev
-```
+PageIndex isn't universally better. Considerations:
 
-Visit `http://localhost:3000` to use the research bot.
+- **Latency**: Multiple LLM calls vs single vector lookup (mitigated by caching)
+- **Cost per query**: More tokens consumed (but no infrastructure cost)
+- **Scale**: Works well for ~300 hours of content; untested at massive scale
 
-## API Endpoints
+For this use case — deep research over a focused corpus with conceptual queries — PageIndex is the better fit.
 
-| Endpoint | Method | Description | Response Time |
-|----------|--------|-------------|---------------|
-| `/api/health` | GET | Health check | <1s |
-| `/api/query` | POST | Quick Q&A | <10s |
-| `/api/research` | POST | Deep research | 30-60s |
-| `/api/search` | POST | Direct search | <5s |
+### Further Reading
 
-### Example Requests
+PageIndex was developed by VectifyAI. To learn more about the approach:
 
-**Quick Query:**
-```bash
-curl -X POST http://localhost:7071/api/query \
-  -H "Content-Type: application/json" \
-  -d '{"query": "What is product-market fit?"}'
-```
+- 📄 [PageIndex Introduction](https://pageindex.ai/blog/pageindex-intro) — Original concept and motivation
+- 📄 [Mafin 2.5: PageIndex in Practice](https://pageindex.ai/blog/Mafin2.5) — Real-world implementation details
+- 💻 [PageIndex GitHub Repository](https://github.com/VectifyAI/PageIndex/tree/main) — Reference implementation
 
-**Deep Research:**
-```bash
-curl -X POST http://localhost:7071/api/research \
-  -H "Content-Type: application/json" \
-  -d '{"query": "How do top PMs think about product-market fit?"}'
-```
+---
 
-## Cost Estimate
+## Links
 
-| Service | Configuration | Monthly Cost |
-|---------|---------------|--------------|
-| Azure AI Search | Basic tier | ~$73 |
-| Azure OpenAI | GPT-4o-mini + GPT-4o | ~$8-12 |
-| Azure Functions | Consumption | ~$0 |
-| Azure Static Web Apps | Free tier | $0 |
-| **Total** | | **~$80-85** |
-
-## Deep Research Pipeline
-
-The 4-stage pipeline ensures comprehensive, well-cited research:
-
-1. **Query Analysis** (GPT-4o-mini)
-   - Decompose query into sub-questions
-   - Identify relevant topics and guests
-
-2. **Broad Retrieval** (Azure AI Search)
-   - Hybrid search (vector + keyword)
-   - Retrieve topic segments for context
-
-3. **Deep Retrieval** (Azure AI Search)
-   - Search within identified transcripts
-   - Extract speaker turns for quotes
-
-4. **Synthesis** (GPT-4o)
-   - Generate comprehensive output
-   - Verify all citations against sources
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Submit a pull request
-
-## License
-
-MIT
+| Resource | Description |
+|----------|-------------|
+| 🚀 **[Live Demo](https://gentle-bay-045ee9110.6.azurestaticapps.net/)** | Try the research bot |
+| 📚 **[Lenny's Podcast Transcripts](https://github.com/ChatPRD/lennys-podcast-transcripts)** | Source transcripts indexed by this project |
+| 📄 **[PageIndex Introduction](https://pageindex.ai/blog/pageindex-intro)** | Original concept and motivation |
+| 📄 **[Mafin 2.5: PageIndex in Practice](https://pageindex.ai/blog/Mafin2.5)** | Real-world implementation details |
+| 💻 **[PageIndex GitHub](https://github.com/VectifyAI/PageIndex/tree/main)** | Reference implementation |
