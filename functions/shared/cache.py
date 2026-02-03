@@ -53,7 +53,7 @@ def _get_container_client() -> Optional[ContainerClient]:
 
         return client
     except AzureError as e:
-        logger.warning(f"Failed to connect to Azure Blob Storage: {e}")
+        logger.warning(f"Failed to connect to Azure Blob Storage: {type(e).__name__}: {str(e)}")
         return None
 
 
@@ -155,8 +155,8 @@ def store_result(query: str, result: dict) -> None:
         )
         logger.info(f"Cached result for query: {query[:50]}...")
 
-    except AzureError as e:
-        logger.warning(f"Cache write error: {e}")
+    except (AzureError, TypeError, ValueError) as e:
+        logger.warning(f"Cache write error: {type(e).__name__}: {e}")
 
 
 def clear_cache() -> int:
