@@ -54,10 +54,10 @@ flowchart TB
     end
 
     subgraph Azure Functions
-        B[/api/research]
-        C[/api/query]
-        D[/api/history]
-        E[/api/popular]
+        B["/api/research"]
+        C["/api/query"]
+        D["/api/history"]
+        E["/api/popular"]
     end
 
     subgraph Storage
@@ -71,9 +71,9 @@ flowchart TB
     end
 
     subgraph Index
-        J[themes.json]
-        K[episodes/]
-        L[quotes/]
+        J["themes.json"]
+        K["episodes/"]
+        L["quotes/"]
     end
 
     A --> B & C & D & E
