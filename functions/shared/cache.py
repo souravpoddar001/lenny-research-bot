@@ -108,6 +108,7 @@ def get_cached_result(query: str) -> Optional[dict]:
         cached_entry = json.loads(data.decode("utf-8"))
 
         logger.info(f"Cache HIT for query: {query[:50]}...")
+        increment_access_count(query)
         return cached_entry.get("result")
 
     except ResourceNotFoundError:
@@ -145,6 +146,7 @@ def store_result(query: str, result: dict) -> None:
         "query": query,
         "cached_at": datetime.now(timezone.utc).isoformat(),
         "result": result,
+        "access_count": 1,
     }
 
     try:
@@ -157,6 +159,97 @@ def store_result(query: str, result: dict) -> None:
 
     except (AzureError, TypeError, ValueError) as e:
         logger.warning(f"Cache write error: {type(e).__name__}: {e}")
+
+
+def increment_access_count(query: str) -> None:
+    """
+    Increment the access count for a cached query.
+
+    Args:
+        query: The query string whose access count should be incremented.
+
+    Note:
+        Handles legacy cache entries that don't have access_count by defaulting to 0.
+        Silently handles errors to avoid disrupting cache reads.
+    """
+    container = _get_container_client()
+    if container is None:
+        return
+
+    cache_key = get_cache_key(query)
+    blob_name = f"{cache_key}.json"
+
+    try:
+        blob_client = container.get_blob_client(blob_name)
+        data = blob_client.download_blob().readall()
+        cached_entry = json.loads(data.decode("utf-8"))
+
+        # Handle legacy entries that don't have access_count
+        current_count = cached_entry.get("access_count", 0)
+        cached_entry["access_count"] = current_count + 1
+
+        blob_client.upload_blob(
+            json.dumps(cached_entry, ensure_ascii=False, indent=2),
+            overwrite=True,
+        )
+        logger.debug(f"Incremented access count to {cached_entry['access_count']} for query: {query[:50]}...")
+
+    except ResourceNotFoundError:
+        logger.debug(f"Cannot increment access count - blob not found: {blob_name}")
+
+    except AzureError as e:
+        logger.warning(f"Failed to increment access count: {type(e).__name__}: {e}")
+
+    except json.JSONDecodeError as e:
+        logger.warning(f"Failed to parse cache entry for access count update: {e}")
+
+
+def get_popular_queries(limit: int = 10) -> list[dict]:
+    """
+    Get the most popular queries based on access count.
+
+    Args:
+        limit: Maximum number of queries to return (default 10).
+
+    Returns:
+        List of dicts with 'query', 'cache_key', and 'access_count' fields,
+        sorted by access_count descending. Returns empty list on failure.
+    """
+    container = _get_container_client()
+    if container is None:
+        return []
+
+    results = []
+
+    try:
+        blobs = container.list_blobs()
+        for blob in blobs:
+            if not blob.name.endswith(".json"):
+                continue
+
+            try:
+                blob_client = container.get_blob_client(blob.name)
+                data = blob_client.download_blob().readall()
+                cached_entry = json.loads(data.decode("utf-8"))
+
+                cache_key = blob.name[:-5]  # Remove .json extension
+                results.append({
+                    "query": cached_entry.get("query", ""),
+                    "cache_key": cache_key,
+                    "access_count": cached_entry.get("access_count", 0),
+                })
+
+            except (AzureError, json.JSONDecodeError) as e:
+                logger.debug(f"Skipping blob {blob.name} due to error: {e}")
+                continue
+
+        # Sort by access_count descending
+        results.sort(key=lambda x: x["access_count"], reverse=True)
+        return results[:limit]
+
+    except AzureError as e:
+        logger.warning(f"Failed to get popular queries: {type(e).__name__}: {e}")
+        return []
 
 
 def clear_cache() -> int:
