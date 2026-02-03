@@ -187,17 +187,13 @@ At each stage, the LLM reads descriptions and reasons about relevance — select
 
 ### Benefits for This Use Case
 
-**Explainable Retrieval**
-The reasoning trace shows *why* content was selected: "This query about pivoting relates to the 'Founder Journey' theme, specifically Dalton Caldwell's episode on failed startups." This transparency helps verify and debug results.
+- **Explainable Retrieval** — The reasoning trace shows *why* content was selected: "This query about pivoting relates to the 'Founder Journey' theme, specifically Dalton Caldwell's episode on failed startups." This transparency helps verify and debug results.
 
-**Hierarchical Navigation**
-The themes → episodes → topics → quotes structure mirrors how a human researcher would explore the corpus. It's intuitive and produces well-organized results.
+- **Hierarchical Navigation** — The themes → episodes → topics → quotes structure mirrors how a human researcher would explore the corpus. It's intuitive and produces well-organized results.
 
-**No Embedding Infrastructure**
-The index is plain JSON files — no vector database to provision, configure, or pay for. Simpler deployment and fewer moving parts.
+- **No Embedding Infrastructure** — The index is plain JSON files — no vector database to provision, configure, or pay for. Simpler deployment and fewer moving parts.
 
-**Natural Speaker Context**
-When the LLM reads topic descriptions, it naturally understands speaker context ("Rahul Vohra discusses...") without needing explicit metadata filtering.
+- **Natural Speaker Context** — When the LLM reads topic descriptions, it naturally understands speaker context ("Rahul Vohra discusses...") without needing explicit metadata filtering.
 
 ### Trade-offs
 
