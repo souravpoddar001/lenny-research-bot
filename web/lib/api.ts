@@ -1,7 +1,20 @@
-import { ResearchResponse } from './types'
+import { ResearchResponse, HistoryEntry, PopularEntry } from './types'
+import { ensureSessionId } from './session'
 
-// API base URL - uses environment variable in production, local proxy in development
 const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || ''
+
+function getHeaders(): HeadersInit {
+  const headers: HeadersInit = {
+    'Content-Type': 'application/json',
+  }
+
+  const sessionId = ensureSessionId()
+  if (sessionId) {
+    headers['X-Session-ID'] = sessionId
+  }
+
+  return headers
+}
 
 export async function sendResearchQuery(
   query: string,
@@ -9,13 +22,8 @@ export async function sendResearchQuery(
 ): Promise<ResearchResponse> {
   const response = await fetch(`${API_BASE_URL}/api/research`, {
     method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-    },
-    body: JSON.stringify({
-      query,
-      context,
-    }),
+    headers: getHeaders(),
+    body: JSON.stringify({ query, context }),
   })
 
   if (!response.ok) {
@@ -32,13 +40,8 @@ export async function sendQuickQuery(
 ): Promise<ResearchResponse> {
   const response = await fetch(`${API_BASE_URL}/api/query`, {
     method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-    },
-    body: JSON.stringify({
-      query,
-      context,
-    }),
+    headers: getHeaders(),
+    body: JSON.stringify({ query, context }),
   })
 
   if (!response.ok) {
@@ -49,52 +52,87 @@ export async function sendQuickQuery(
   return response.json()
 }
 
-// Generate suggested follow-up questions based on the response
+export async function getHistory(): Promise<HistoryEntry[]> {
+  const response = await fetch(`${API_BASE_URL}/api/history`, {
+    method: 'GET',
+    headers: getHeaders(),
+  })
+
+  if (!response.ok) {
+    console.error('Failed to fetch history')
+    return []
+  }
+
+  const data = await response.json()
+  return data.queries || []
+}
+
+export async function getPopular(limit: number = 10): Promise<PopularEntry[]> {
+  const response = await fetch(`${API_BASE_URL}/api/popular?limit=${limit}`, {
+    method: 'GET',
+    headers: { 'Content-Type': 'application/json' },
+  })
+
+  if (!response.ok) {
+    console.error('Failed to fetch popular queries')
+    return []
+  }
+
+  const data = await response.json()
+  return data.queries || []
+}
+
+export async function getCachedResult(cacheKey: string): Promise<ResearchResponse | null> {
+  const response = await fetch(`${API_BASE_URL}/api/cached?key=${cacheKey}`, {
+    method: 'GET',
+    headers: { 'Content-Type': 'application/json' },
+  })
+
+  if (!response.ok) {
+    return null
+  }
+
+  return response.json()
+}
+
 export function generateFollowups(
   query: string,
   response: ResearchResponse
 ): string[] {
   const followups: string[] = []
 
-  // If there are multiple guests mentioned, suggest asking about others
   const guests = new Set(response.citations.map((c) => c.guest))
   if (guests.size > 1) {
     const guestArray = Array.from(guests)
     followups.push(`What else did ${guestArray[0]} say about this?`)
   }
 
-  // Suggest diving deeper based on common patterns
   const topics = extractTopics(response.content)
   if (topics.length > 0) {
     followups.push(`Tell me more about ${topics[0]}`)
   }
 
-  // Generic follow-ups based on query type
   if (query.toLowerCase().includes('how')) {
     followups.push('What are the common mistakes to avoid?')
   } else if (query.toLowerCase().includes('what')) {
     followups.push('Can you give specific examples?')
   }
 
-  // Always offer to hear from other perspectives
   if (guests.size >= 1) {
     followups.push('What do other guests say about this?')
   }
 
-  return followups.slice(0, 4) // Max 4 suggestions
+  return followups.slice(0, 4)
 }
 
-// Simple topic extraction from response content
 function extractTopics(content: string): string[] {
   const topics: string[] = []
 
-  // Look for quoted terms or emphasized phrases
   const quotedMatch = content.match(/"([^"]+)"/g)
   if (quotedMatch) {
     topics.push(...quotedMatch.slice(0, 2).map((q) => q.replace(/"/g, '')))
   }
 
-  // Look for phrases after "such as" or "like"
   const exampleMatch = content.match(/(?:such as|like|including)\s+([^,.]+)/gi)
   if (exampleMatch) {
     topics.push(...exampleMatch.slice(0, 2).map((m) => m.replace(/^(such as|like|including)\s+/i, '')))
@@ -103,22 +141,18 @@ function extractTopics(content: string): string[] {
   return topics
 }
 
-// Check if a query looks like a follow-up (short, references previous context)
 export function isFollowUpQuery(query: string): boolean {
   const normalized = query.toLowerCase().trim()
 
-  // Short queries are likely follow-ups
   if (normalized.split(' ').length <= 5) {
     return true
   }
 
-  // Contains referential words
   const referentialWords = ['that', 'this', 'these', 'those', 'it', 'they', 'more', 'else', 'other']
   if (referentialWords.some((word) => normalized.includes(word))) {
     return true
   }
 
-  // Starts with follow-up patterns
   const followUpPatterns = [
     /^(what|how|why|can you|tell me|explain|elaborate)/i,
     /^(and|but|also|what about)/i,

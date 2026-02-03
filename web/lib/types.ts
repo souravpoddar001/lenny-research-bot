@@ -60,3 +60,15 @@ export type ResearchResponse = {
   suggested_followups?: string[]
   executive_summary?: ExecutiveSummary
 }
+
+export type HistoryEntry = {
+  query: string
+  cache_key: string
+  timestamp: string
+}
+
+export type PopularEntry = {
+  query: string
+  cache_key: string
+  access_count: number
+}
