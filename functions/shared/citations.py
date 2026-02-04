@@ -29,8 +29,7 @@ class Citation:
     def to_youtube_link(self) -> str:
         """Generate clickable YouTube timestamp link."""
         seconds = self._timestamp_to_seconds(self.timestamp)
-        base_url = self.youtube_url.split("?")[0] if "?" in self.youtube_url else self.youtube_url
-        return f"{base_url}?t={seconds}s"
+        return f"https://www.youtube.com/watch?v={self.video_id}&t={seconds}s"
 
     def _timestamp_to_seconds(self, timestamp: str) -> int:
         """Convert HH:MM:SS to seconds."""
