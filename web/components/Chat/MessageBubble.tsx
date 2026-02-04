@@ -70,11 +70,21 @@ function AssistantMessage({
 
     let processed = content
 
+    // Deduplicate citations by timestamp to avoid multiple replacements
+    // (e.g., if same timestamp appears 5 times, we only want one replacement)
+    const uniqueByTimestamp = new Map<string, Citation>()
+    citations.forEach((citation) => {
+      if (citation.timestamp && citation.youtube_link) {
+        // Keep the first citation for each timestamp
+        if (!uniqueByTimestamp.has(citation.timestamp)) {
+          uniqueByTimestamp.set(citation.timestamp, citation)
+        }
+      }
+    })
+
     // Replace inline citation timestamps [HH:MM:SS] with clickable links
     // Pattern: — Speaker, "Title" [HH:MM:SS]
-    citations.forEach((citation) => {
-      if (!citation.timestamp || !citation.youtube_link) return
-
+    uniqueByTimestamp.forEach((citation) => {
       // Match the timestamp in brackets for this citation
       const timestampPattern = new RegExp(
         `\\[${escapeRegex(citation.timestamp)}\\]`,
